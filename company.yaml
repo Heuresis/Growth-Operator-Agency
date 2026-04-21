@@ -1,0 +1,334 @@
+# company.yaml — Creator Configuration Template
+# ============================================================
+# This file stores the actual values for THIS creator's 11 Compartment
+# Creator Context Profile. The schema is defined in ENCODING.md.
+# Completeness of each compartment determines which skills unlock.
+#
+# USAGE: Clone this template, fill in every field with real creator data,
+# interview-style if needed. Skills will refuse to execute if their
+# required compartments are below threshold. See spec/CONTEXT-THRESHOLDS.md.
+#
+# PRIVATE: This file contains creator IP. Never push to public repos.
+# ============================================================
+
+# ---- Basic workspace metadata ----
+name: "[CREATOR_BRAND_NAME]"
+slug: "[creator-brand-slug]"
+description: "[One-sentence description of the business]"
+mission: "[North star mission statement]"
+issue_prefix: "[PREFIX-]"                # e.g. "ACME-"
+
+# ---- Budget & governance (Canopy spec) ----
+budget:
+  monthly_usd: 0
+  per_agent_usd: 500
+  enforcement: warning                    # visibility | warning | stop
+
+governance:
+  board_approval_required:
+    - new_agent_hire
+    - budget_increase_pct: 20
+    - new_workflow_production
+    - pricing_change
+    - guarantee_change
+  immutable_log: true
+  escalation_chain:
+    - growth-director
+    - creator
+  signal_threshold: 0.8                   # S/N gate for external-facing output
+  signal_threshold_internal: 0.5
+
+# ============================================================
+# COMPARTMENT 1 — CREATOR IDENTITY MATRIX (weight 15%)
+# ============================================================
+creator_identity_matrix:
+  basic_info:
+    creator_name: ""
+    brand_name: ""
+    industry_vertical: ""                 # Coaching / Consulting / Agency / Info / SaaS / E-com
+    business_model: ""                    # High-ticket coaching | Agency retainer | Course | Membership | Hybrid
+    revenue_tier: ""                      # pre-revenue | 10K-50K | 50K-250K | 250K-1M | 1M+
+    years_active: 0
+
+  brand_voice_architecture:
+    communication_style: ""               # direct / consultative / storytelling / analytical / contrarian
+    tone_framework:
+      primary: ""
+      secondary: ""
+    personality_traits: []                # 3-5 traits
+    language_patterns: []
+    phrases_to_use: []                    # creator's verbatim phrases
+    phrases_to_avoid: []
+    persuasion_style: ""                  # authority-by-proof / story-first / mechanism-first / contrarian-provocation
+    authority_positioning: ""             # Category-king / challenger / insider / outsider-with-edge
+
+  unique_positioning:
+    unique_mechanism: ""                  # Named mechanism
+    category_positioning: ""
+    competitive_differentiation: ""
+    core_philosophy: ""
+    contrarian_beliefs: []
+
+# ============================================================
+# COMPARTMENT 2 — AUDIENCE INTELLIGENCE SYSTEM (weight 20% HEAVIEST)
+# ============================================================
+audience_intelligence_system:
+  ideal_customer_profile:
+    demographics:
+      age_range: ""
+      gender_split: ""
+      geography: []
+      income_range: ""
+      education: ""
+    firmographics:
+      role: ""
+      company_stage: ""
+      revenue_stage: ""
+      industry: []
+    psychographics:
+      pain_points: []                     # 5-10 specific pains
+      desires: []                         # 5-10 outcomes
+      fears: []
+      aspirations: []
+      beliefs: []
+      objections: []                      # min 10
+    behavioral_patterns:
+      buying_triggers: []
+      decision_making_process: ""
+      research_behavior: []
+      trust_signals_required: []
+
+  market_sophistication:
+    awareness_level: ""                   # unaware | problem-aware | solution-aware | product-aware | most-aware
+    solution_awareness: ""                # naive | aware | skeptical | exhausted
+    market_maturity: ""                   # emerging | growing | mature | saturated
+    competitive_density: ""               # low | medium | high | saturated
+
+  voice_of_customer:
+    actual_customer_language: []          # verbatim from calls/DMs/reviews
+    pain_language_patterns: []
+    desire_language_patterns: []
+    objection_patterns: []
+
+  limiting_belief_diagnosis:
+    dominant_belief: ""                   # worthless | helpless | hopeless
+    transformation_type: ""               # status | capability | safety
+
+# ============================================================
+# COMPARTMENT 3 — OFFER ARCHITECTURE (weight 15%)
+# ============================================================
+offer_architecture:
+  core_offers: []                         # see ENCODING.md for full sub-schema
+
+  offer_ladder:
+    lead_magnet: ""
+    tripwire: ""
+    core_offer: ""
+    upsells: []
+    high_ticket: ""
+    continuity: ""
+
+  pricing_psychology:
+    pricing_strategy: ""                  # identity-aligned | value-based | competitive | anchor-and-discount
+    payment_options: []
+    comparison_anchoring: ""
+    value_justification: ""
+
+  economics_validation:
+    ltv: 0
+    cac: 0
+    ltv_cac_ratio: 0                      # MUST be >= 3.0 to pass INV-4
+    gross_margin_pct: 0                   # target >= 70%
+    breakeven_per_cohort: ""
+
+# ============================================================
+# COMPARTMENT 4 — FUNNEL SYSTEMS (weight 10%)
+# ============================================================
+funnel_systems:
+  active_funnels: []                      # array of funnel objects per ENCODING.md
+
+# ============================================================
+# COMPARTMENT 5 — COPY & MESSAGING (weight 5%)
+# ============================================================
+copy_messaging:
+  proven_headlines: []
+  proven_hooks: []
+  proven_angles: []
+  story_frameworks: []
+  psychological_triggers:
+    primary_emotions: []
+    cognitive_biases_leveraged: []
+    persuasion_principles: []
+    urgency_mechanisms: []
+    scarcity_frameworks: []
+  objection_handling_library: []
+  social_proof_assets:
+    case_studies: []
+    testimonials: []
+    results_database: []
+    authority_indicators: []
+
+# ============================================================
+# COMPARTMENT 6 — CONTENT STRATEGY (weight 5%)
+# ============================================================
+content_strategy:
+  content_pillars: []
+  platform_strategies:
+    # Growth OS scope: minimal platform strategy. Full platform ops = vertical workspaces.
+    youtube:
+      active: false
+      content_types: []
+      posting_frequency: ""
+    linkedin:
+      active: false                       # for posting about offers only
+      post_types: []
+      posting_frequency: ""
+    instagram:
+      active: false
+    twitter_x:
+      active: false
+    tiktok:
+      active: false
+    email:
+      sequence_frameworks: []
+      email_types: []
+      subject_line_patterns: []
+      cadence_strategy: ""
+  content_to_conversion_bridge:
+    awareness_content: []
+    consideration_content: []
+    decision_content: []
+
+# ============================================================
+# COMPARTMENT 7 — TRAFFIC & ACQUISITION (weight 10%)
+# ============================================================
+traffic_acquisition:
+  organic_strategies:
+    seo_strategy: ""
+    content_distribution: []
+    platform_growth_tactics: []
+  paid_strategies:
+    active_channels: []                   # Meta | Google | YouTube | TikTok | LinkedIn | X
+    ad_frameworks: []
+    spend_total_monthly: 0
+  partnership_strategies:
+    affiliate_program: ""
+    influencer_partnerships: []
+    jv_webinars: []
+    strategic_alliances: []
+
+# ============================================================
+# COMPARTMENT 8 — CONVERSION & SALES (weight 10%)
+# ============================================================
+conversion_sales:
+  sales_process_architecture:
+    sales_model: ""                       # self-serve | application-funnel | setter-closer | AE | hybrid
+    qualification_criteria: []
+    discovery_framework: ""
+    pitch_structure: ""
+    closing_methodology: ""
+  sales_scripts:
+    opening_scripts: []
+    discovery_questions: []
+    pitch_frameworks: []
+    objection_handling_scripts: []
+    closing_scripts: []
+  application_qualification:
+    qualification_questions: []
+    disqualification_criteria: []
+    filtering_mechanism: ""
+  team_roles:
+    has_setter: false
+    has_closer: false
+    has_sdr: false
+    commission_structure: ""
+
+# ============================================================
+# COMPARTMENT 9 — EDUCATION & NURTURE (weight 5%)
+# ============================================================
+education_nurture:
+  onboarding_architecture:
+    welcome_sequence: ""
+    activation_strategy: ""
+    first_win_engineering: ""
+    milestone_progression: []
+  email_sequence_frameworks:
+    indoctrination_sequence: []
+    value_sequence: []
+    conversion_sequence: []
+    retention_sequence: []
+  community_systems:
+    platform: ""
+    engagement_strategy: ""
+    content_calendar: []
+    ritual_frameworks: []
+
+# ============================================================
+# COMPARTMENT 10 — LIFECYCLE & OPTIMIZATION (weight 3%)
+# ============================================================
+lifecycle_optimization:
+  retention_strategy:
+    churn_prevention: []
+    engagement_triggers: []
+    value_delivery_cadence: ""
+  upsell_architecture:
+    upsell_paths: []
+    cross_sell_opportunities: []
+    expansion_triggers: []
+  metrics_dashboard:
+    north_star_metric: ""                 # MRR | cash-collected | clients-closed | LTV
+    key_performance_indicators: []
+    current_performance: {}
+    optimization_priorities: []
+
+# ============================================================
+# COMPARTMENT 11 — OPERATIONAL INTELLIGENCE (weight 2%)
+# ============================================================
+operational_intelligence:
+  tech_stack:
+    crm: ""
+    email_platform: ""
+    funnel_builder: ""
+    payment_processor: ""
+    analytics_tools: []
+    automation_tools: []
+  team_structure:
+    roles: []
+    responsibilities: {}
+    communication_protocols: []
+  workflows:
+    content_creation_workflow: ""
+    launch_workflow: ""
+    client_onboarding_workflow: ""
+
+# ============================================================
+# GOALS (Canopy spec — initiatives/projects/milestones)
+# ============================================================
+goals:
+  initiatives: []
+    # - id: INI-001
+    #   title: Launch core offer
+    #   description: ""
+    #   projects:
+    #     - id: PRJ-001
+    #       title: Foundations complete
+    #       milestones:
+    #         - id: MIL-001
+    #           title: ICP Document completed
+    #           evidence_gate: signal_score
+    #         - id: MIL-002
+    #           title: Offer Document with 3:1 LTV:CAC validated
+    #           evidence_gate: human_approval
+
+# ============================================================
+# FOUNDATIONS STATUS (tracked per compartment)
+# ============================================================
+foundations_status:
+  market_research_brief: not_started       # not_started | in_progress | completed | validated
+  icp_document: not_started
+  positioning_document: not_started
+  offer_document: not_started
+  offer_repositioning_document: not_started
+  brand_voice_doc: not_started
+  unique_mechanism_named: not_started
+  financial_model_validated: not_started
