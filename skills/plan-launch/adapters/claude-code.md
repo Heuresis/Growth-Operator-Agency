@@ -1,5 +1,5 @@
 ---
-description: Plan a launch in one of 5 variants (Live / Evergreen / Rolling / Flash / Beta) using Growth OS 5-phase SOP. Produces dated runbook with KPIs, team assignments, tech checklist. Sacred format.
+description: Plan a launch in one of 5 variants (Live / Evergreen / Rolling / Flash / Beta) using Growth Optimal System 5-phase SOP. Produces dated runbook with KPIs, team assignments, tech checklist. Sacred format.
 argument-hint: [optional: --variant=1-5 | launch window date range]
 allowed-tools: Read, Write, Edit, Grep, Glob
 ---
@@ -56,7 +56,7 @@ Before writing to `output/`:
 
 ## Failure handling
 
-Per `workflows/handoffs/quality-revision.md`: auto-revise → surface gap → escalate to launch-lead, log to `skills/plan-launch/evidence/failure-modes.md`. If pixel/CAPI unverified, block launch day. If any upstream asset missing, block plan from production use.
+Per `workflows/handoffs/quality-revision.md`: auto-revise → surface gap → escalate to launch-head, log to `skills/plan-launch/evidence/failure-modes.md`. If pixel/CAPI unverified, block launch day. If any upstream asset missing, block plan from production use.
 
 ## Cross-skill routing
 

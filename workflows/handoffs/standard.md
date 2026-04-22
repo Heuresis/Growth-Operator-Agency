@@ -1,6 +1,6 @@
 # Standard Handoff Protocol
 
-> Every phase transition in a Growth OS workflow uses this template. Referenced from `SYSTEM.md` and `spec/WORKFLOW.md`.
+> Every phase transition in a Growth Optimal System workflow uses this template. Referenced from `SYSTEM.md` and `spec/WORKFLOW.md`.
 
 ## When to use
 
@@ -88,4 +88,4 @@ Carry forward:
 - `../reference/_archive/spec/SIGNAL.md` — Signal Theory 5-tuple encoding
 
 ---
-*Workspace: Growth OS v1.0 — handoff contract per `protocol/skill-and-agent-system.md`*
+*Workspace: Growth Optimal System v1.0 — handoff contract per `protocol/skill-and-agent-system.md`*

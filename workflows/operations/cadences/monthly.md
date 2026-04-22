@@ -23,7 +23,7 @@ The monthly rhythm is where the Operator and leadership step above the weekly gr
 **Pre-read (sent 48h in advance):**
 - Dashboard snapshot (revenue, cash, leads, CAC, LTV, churn, NPS)
 - CFO-produced P&L + commentary
-- Division-level OKR/KPI progress
+- Department-level OKR/KPI progress
 
 **Agenda:**
 - 0:00-0:15 — CFO: financials (P&L, cash, runway, 13-week projection, variance to plan)
@@ -136,7 +136,7 @@ Run only when a launch ran in the prior 30 days (cohort launch, product launch, 
 **Agenda:**
 - 0:00-0:10 — Review quarterly OKRs — how are we tracking (from quarterly plan)
 - 0:10-0:25 — Market / competitive signals seen this month (from `competitive-intel-ops.md`)
-- 0:25-0:40 — Next month's top 3 priorities (one per major division, ideally)
+- 0:25-0:40 — Next month's top 3 priorities (one per major department, ideally)
 - 0:40-0:55 — What we are stopping / deprioritizing to make room
 - 0:55-1:00 — Operator locks the list, communicates in Friday all-hands
 

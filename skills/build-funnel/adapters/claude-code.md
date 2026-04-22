@@ -60,7 +60,7 @@ Before writing the artifact to `output/`:
 If the skill fails verification, follow `workflows/handoffs/quality-revision.md`:
 - Attempt 1: auto-revise addressing the specific failure mode (usually economics reconciliation or dependency gap)
 - Attempt 2: surface the gap to creator with a targeted question ("VSL not ready — are we selecting Archetype 3 or waiting for VSL?")
-- If both fail: escalate to sales-lead, log to `skills/build-funnel/evidence/failure-modes.md`
+- If both fail: escalate to sales-head, log to `skills/build-funnel/evidence/failure-modes.md`
 
 ## Cross-skill routing
 
@@ -73,7 +73,7 @@ After the Funnel Blueprint ships:
   - Archetype 6 (Challenge) → `/email-sequence` for daily challenge + community infrastructure
   - Archetype 7 (Community LM) → `/content-calendar` + `/story-sequence` + DM setter SOP
 - Wrap with `/plan-launch` when all dependencies queued
-- Weekly the operations director 8-stage audit post-launch (owned by sales-lead)
+- Weekly the operations director 8-stage audit post-launch (owned by sales-head)
 
 ---
 *the slash-command adapter v1.0 — binds to skills/build-funnel/SKILL.md*

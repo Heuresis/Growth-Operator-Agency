@@ -1,4 +1,4 @@
-# Frameworks Index — Growth OS
+# Frameworks Index — Growth Optimal System
 
 > **Layer 2 Structured Knowledge.** These are the methodology docs that skills pull from. Each framework has a clear **when-to-use** trigger and **skill bindings**.
 
@@ -8,12 +8,12 @@
 The quality substrate. Applies to every skill's output verification.
 - `5-tuple-encoding.md` — Mode/Genre/Type/Format/Structure
 - `4-principles.md` — information theory/cybernetics theory/viable systems theory/feedback-loop theory
-- `vsm-mapping.md` — VSM Systems 1-5 mapped to Growth OS divisions
+- `vsm-mapping.md` — VSM Systems 1-5 mapped to Growth Optimal System departments
 - `triple-layer-verification.md` — 40/35/25 quality gate
 - `channel-capacity.md` — information theory applied to context windows
 
 ### 2. Primitives (`primitives/`) — the real moat
-Six atomic primitives used across every division — cross-cutting operator IP.
+Six atomic primitives used across every department — cross-cutting operator IP.
 - `unique-mechanism.md` — the campaign director + the copy director + the offer architect
 - `value-equation.md` — the acquisition economist
 - `core-four.md` — the acquisition economist (Warm Outreach / Content / Cold Outreach / Paid)
@@ -31,7 +31,7 @@ Used by: foundations (ICP psych), marketing (emotional triggers), sales (offer s
 
 ### 5. Growth Operating Process (`growth-operating-process/`)
 the operations director's straight process for ops — customer-journey audit, 7-step launch, KPI diagnostics, "papercut" detection.
-Used by: scale (ops), all divisions (process discipline)
+Used by: scale (ops), all departments (process discipline)
 
 ### 6. Instagram Profile Funnel (`instagram-profile-funnel/`)
 the paid media director's stack — IG ecosystem, profile-as-landing-page, ads, profile-funnel mechanics.

@@ -1,8 +1,8 @@
 # Quickstart
 
-Get Growth OS running against a real creator in under 30 minutes. This guide assumes slash-command runtime. For other runtimes, see [RUNTIMES](../spec/RUNTIMES.md).
+Get Growth Optimal System running against a real creator in under 30 minutes. This guide assumes slash-command runtime. For other runtimes, see [RUNTIMES](../spec/RUNTIMES.md).
 
-<img alt="Growth OS architecture" src="assets/architecture-light.svg" width="100%">
+<img alt="Growth Optimal System architecture" src="assets/architecture-light.svg" width="100%">
 
 ---
 
@@ -12,7 +12,7 @@ Get Growth OS running against a real creator in under 30 minutes. This guide ass
 - Git.
 - A creator whose business you are about to encode (yourself, a client, or a research subject).
 
-That is the full list. Growth OS is markdown and YAML. There is no build step, no package to install, no database to provision.
+That is the full list. Growth Optimal System is markdown and YAML. There is no build step, no package to install, no database to provision.
 
 ---
 
@@ -67,7 +67,7 @@ This is the **portability guarantee** — any capable LLM that reads markdown an
 
 ## Step 3 — Run the Foundations chain
 
-The Foundations chain is the sequential dependency chain you run first, always. It fills the 11-compartment Creator Context Profile enough to unlock every downstream division.
+The Foundations chain is the sequential dependency chain you run first, always. It fills the 11-compartment Creator Context Profile enough to unlock every downstream department.
 
 ```
 /research → /build-icp → /build-positioning → /design-offer → /extract-voice
@@ -139,4 +139,4 @@ Before shipping any asset externally, run the Blind Output Test spec — see [re
 
 ---
 
-*Growth OS — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*
+*Growth Optimal System — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*

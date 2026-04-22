@@ -1,10 +1,10 @@
 # Agent Architecture — Canonical Reference
 
-> Imported from Growth OS predecessor project 2026-04-19. Growth OS agents reference this for 82KB of agent-design bible.
+> Imported from Growth Optimal System predecessor project 2026-04-19. Growth Optimal System agents reference this for 82KB of agent-design bible.
 
 ---
 
-# Growth OS GrowthOS — Complete Agent Architecture
+# Growth Optimal System GrowthOS — Complete Agent Architecture
 
 > The most optimal way to build an AI growth operating system using the the workspace manifest
 > workspace protocol, Signal Theory quality encoding, and proven growth operator
@@ -90,7 +90,7 @@ All three are required for optimal encoding.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│                      Growth OS GrowthOS Workspace                       │
+│                      Growth Optimal System GrowthOS Workspace                       │
 │                                                                     │
 │  ┌───────────────────────────────────────────────────────────────┐  │
 │  │ L0: SYSTEM.md + company.yaml          (~3K tokens, ALWAYS)   │  │
@@ -150,9 +150,9 @@ Section 4 for which agents map to which library files.
 ### Layer 0: SYSTEM.md (Always Loaded)
 
 ```markdown
-# Growth OS GrowthOS
+# Growth Optimal System GrowthOS
 
-> You are Growth OS — an AI growth operating system that builds, launches, and
+> You are Growth Optimal System — an AI growth operating system that builds, launches, and
 > scales creator businesses. You don't advise. You execute.
 
 ## Identity
@@ -954,7 +954,7 @@ PERSUADE (Steps 9-11): Remove barriers and close
 | Story-Driven | 20-30 min | Personal journey | $1K-$5K |
 | Case Study VSL | 15-25 min | Proof-first | $1K-$10K |
 
-**This is Growth OS's #1 differentiator.** No other platform has this depth of VSL
+**This is Growth Optimal System's #1 differentiator.** No other platform has this depth of VSL
 methodology encoded as machine-readable templates with structural blueprints.
 
 ---
@@ -1490,7 +1490,7 @@ reference/
 ├── frameworks/                    ← HOW to think (methodology)
 │   ├── pull-push-persuade.md      ← 11-step VSL framework
 │   ├── vest-email.md              ← Value→Empathy→Story→Transition
-│   ├── super-intelligence.md      ← Growth OS strategic thinking frameworks
+│   ├── super-intelligence.md      ← Growth Optimal System strategic thinking frameworks
 │   ├── offer-creation.md          ← Unique mechanism, value stack, guarantee
 │   ├── icp-scoring.md             ← ICP completeness criteria + scoring
 │   ├── meddpicc-sales.md          ← High-ticket qualification
@@ -1524,7 +1524,7 @@ reference/
 │   ├── ad-copy-winners.md
 │   └── vsl-scripts-proven.md
 │
-├── operator-playbooks/            ← Growth OS synthesized methodologies
+├── operator-playbooks/            ← Growth Optimal System synthesized methodologies
 │   ├── growth-os-nhb-methodology.md
 │   ├── growth-os-cloutprofit-methodology.md
 │   ├── growth-os-systems-methodology.md
@@ -2041,7 +2041,7 @@ Milestone: Agents push output to live platforms
 
 ## 12. Competitive Moat
 
-| Dimension | Cook.ai | Mochi | GHL | Growth OS |
+| Dimension | Cook.ai | Mochi | GHL | Growth Optimal System |
 |-----------|---------|-------|-----|-------|
 | **Theory** | None | None | None | Signal Theory |
 | **Templates** | Shallow | DM only | Funnel only | 148 structural blueprints |
@@ -2083,12 +2083,12 @@ These questions must be answered to complete the architecture:
 9. **Ad platform API:** Direct Meta/Google Ads integration? Or creative-only?
 
 ### Knowledge Questions
-10. **Growth OS Super Intelligence Framework:** Encode as core thinking layer for all agents?
+10. **Growth Optimal System Super Intelligence Framework:** Encode as core thinking layer for all agents?
 11. **Operator playbooks:** Synthesize into one methodology? Or keep separate per operator?
 12. **Swipe file sources:** Which proven assets do you have with performance data?
 
 ### Business Questions
-13. **White-label:** Agency mode where clients resell Growth OS? (Like Cook.ai)
+13. **White-label:** Agency mode where clients resell Growth Optimal System? (Like Cook.ai)
 14. **Pricing model:** Per-workspace? Per-agent? Per-output? Flat monthly?
 15. **Which OS verticals after GrowthOS?** Agency OS? Creator OS? SaaS OS? E-commerce OS?
 
@@ -2335,7 +2335,7 @@ growth-os-growth-os/
 *This document is itself a Signal:*
 ```
 S = (linguistic + code, spec, direct + inform, markdown, architecture-document)
-Source: Growth OS system architect
+Source: Growth Optimal System system architect
 Destination: Roberto H Signal Theory (founder) + engineering team
 Channel: This markdown file
 Noise: Any ambiguity in the above — close the feedback loop by answering

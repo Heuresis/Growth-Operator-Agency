@@ -3,11 +3,11 @@
 > **Case:** the HNWI client Capital - HNWI Tax-Deferral Advisory
 > **Framework applied:** the offer architect Mechanism Identification + Anti-Positioning + Category Design
 > **Audience:** High-net-worth individuals with $2M-$25M liquid assets facing capital-gains events
-> **Outcome:** [SYNTHESIZED] canonical positioning-document example for the Growth OS library
+> **Outcome:** [SYNTHESIZED] canonical positioning-document example for the Growth Optimal System library
 
 ## Context
 
-This is the canonical positioning example for a high-ticket advisory offer serving HNWI clients - a market where generic financial-planning language is background noise and where specificity, category naming, and anti-positioning do all the work. The audience is Solution Aware but actively hostile to most incoming pitches (they receive dozens per week). The positioning had to produce a category that no competitor currently owned and a mechanism that was defensible in a 30-second sentence. Source lineage: this example was built by running the offer architect's Phase 2 Mechanism Identification plus the 7-Phase architecture's anti-positioning discipline against a real HNWI advisory brief, then encoded as a reference template. The positioning document structure follows the 8-section Foundations division format.
+This is the canonical positioning example for a high-ticket advisory offer serving HNWI clients - a market where generic financial-planning language is background noise and where specificity, category naming, and anti-positioning do all the work. The audience is Solution Aware but actively hostile to most incoming pitches (they receive dozens per week). The positioning had to produce a category that no competitor currently owned and a mechanism that was defensible in a 30-second sentence. Source lineage: this example was built by running the offer architect's Phase 2 Mechanism Identification plus the 7-Phase architecture's anti-positioning discipline against a real HNWI advisory brief, then encoded as a reference template. The positioning document structure follows the 8-section Foundations department format.
 
 ## The Encoded Positioning Document
 
@@ -86,4 +86,4 @@ This is the canonical positioning example for a high-ticket advisory offer servi
 - IRS Section 1400Z-2 (Qualified Opportunity Zones) - regulatory reference for the mechanism claim
 
 ---
-*Encoded 2026-04-19. [SYNTHESIZED] canonical HNWI positioning example constructed using the offer architect's Phase 2 mechanism-identification + anti-positioning architecture [VERBATIM]. "the HNWI client Capital" is an illustrative brand used across the Growth OS library. Opportunity-zone and 1031 regulatory references are real; specific client figures are not.*
+*Encoded 2026-04-19. [SYNTHESIZED] canonical HNWI positioning example constructed using the offer architect's Phase 2 mechanism-identification + anti-positioning architecture [VERBATIM]. "the HNWI client Capital" is an illustrative brand used across the Growth Optimal System library. Opportunity-zone and 1031 regulatory references are real; specific client figures are not.*

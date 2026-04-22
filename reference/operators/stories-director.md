@@ -8,7 +8,7 @@
 
 - **the stories director Consulting hub:** `2d539dd823e7800aa97eef7b10569eac`
 - **Channel:** @NicolasClay
-- **Growth OS Growth Operator Directory:** Tier 2
+- **Growth Optimal System Growth Operator Directory:** Tier 2
 
 ## Core IP — 7-Day Story Sequence
 
@@ -67,7 +67,7 @@ Invariants:
 
 > *"Story sequences are the single most powerful converting asset you can leverage in your business. Most people don't realize just how powerful they are. If they did, everyone would be flooding their audience with story sequences. But here's the good news: most creators still sleep on them. And that's exactly what gives us the edge. When you open Instagram, what's the first thing you do? You don't start by scrolling the feed — you tap on stories. Where people's attention goes, that's where we want to be."*
 
-## Growth OS Skill Bindings
+## Growth Optimal System Skill Bindings
 
 | Skill | Binds to |
 |---|---|
@@ -76,7 +76,7 @@ Invariants:
 | `/content-calendar` | 30/50/20 LinkedIn pillar ratio adapted to weekly story cadence |
 | `/ig-profile-funnel` | Stories complement the paid media director profile funnel |
 
-## Growth OS Pillar Assignment
+## Growth Optimal System Pillar Assignment
 
 - **Pillar 2 — Marketing Block / Marketing** — secondary contributor
 - Cross-cutting — IG Stories touch nurture + marketing + sales

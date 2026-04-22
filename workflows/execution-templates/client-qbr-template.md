@@ -8,7 +8,7 @@
 - **Duration**: 90 min (60 min presentation + 30 min discussion)
 - **Format**: video call with screen-share; written QBR doc delivered 24h before
 - **Attendees (client)**: primary decision-maker required
-- **Attendees (us)**: delivery lead + division lead; founder for key accounts
+- **Attendees (us)**: delivery lead + department heads; founder for key accounts
 
 ## QBR Document Structure
 
@@ -130,7 +130,7 @@ EXECUTIVE SUMMARY
 Original goal: Build full foundations + launch first offer + close 10 cold-sourced demos
 90-day outcome: All foundations shipped + offer live + 14 cold demos booked + 5 closed ($65K)
 Status: Ahead (140% of demo goal, 130% of revenue goal)
-Recommendation: Renew annual + add Scale division
+Recommendation: Renew annual + add Scale department
 
 GOALS VS ACTUALS
 Demos booked: 0 → 10 → 14 (+40%)
@@ -162,7 +162,7 @@ Top 3 goals:
 1. Scale to $150K attributable revenue
 2. Produce 3 case studies + 1 JV webinar
 3. Build Scale SOPs + first hire brief
-Scope: Growth OS + Scale add-on
+Scope: Growth Optimal System + Scale add-on
 Cadence: Weekly Tue 14:00 PT + monthly KPI review
 Investment: $40K
 Risks: Founder bandwidth; need to hire delivery ops

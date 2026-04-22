@@ -1,7 +1,7 @@
 # 4-Week Fulfillment Cycle
 
 ## Purpose
-Standardized 4-week delivery cadence for a typical Growth OS engagement slice. Each week has a theme, deliverables, calls, checkpoints, and escalation triggers. Weeks compound: Week 4 depends on Week 3 depending on Week 2 depending on Week 1.
+Standardized 4-week delivery cadence for a typical Growth Optimal System engagement slice. Each week has a theme, deliverables, calls, checkpoints, and escalation triggers. Weeks compound: Week 4 depends on Week 3 depending on Week 2 depending on Week 1.
 
 ## Week-by-Week Overview
 | Week | Theme | Primary Deliverables |
@@ -96,7 +96,7 @@ Turn on traffic. Measure. Respond to live data.
 - Funnel break > 30 min → kill traffic, hot-fix, post-mortem
 - Cold-visit → lead CVR below 10% → rework landing page headline, re-test within 24h
 - VSL watch-through to crossroads < 20% → rewrite first 2 minutes over weekend
-- Overall EPC < $0.50 by end of Week 3 → escalate to division lead + founder; replan
+- Overall EPC < $0.50 by end of Week 3 → escalate to department heads + founder; replan
 
 ## Week 4 — Optimize
 
@@ -139,7 +139,7 @@ Capture what worked into SOPs, fix what didn't, hand off a running system.
 
 ## Cross-references
 - Onboarding: `workflows/client-onboarding/week-1.md`, `workflows/client-onboarding/90-day.md`
-- Division pipelines: all 7 in `workflows/divisions/`
+- Department pipelines: all 7 in `workflows/departments/`
 - Templates: all 7 in `workflows/execution-templates/`
 - Automations: all 5 in `workflows/automations/`
 

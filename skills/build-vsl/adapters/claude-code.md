@@ -63,7 +63,7 @@ Before writing the artifact to `output/`:
 If the skill fails verification, follow `workflows/handoffs/quality-revision.md`:
 - Attempt 1: auto-revise addressing the specific failure mode (usually voice-match or mechanism thread gaps)
 - Attempt 2: surface the gap to creator with a targeted question
-- If both fail: escalate to sales-lead, log to `skills/build-vsl/evidence/failure-modes.md`
+- If both fail: escalate to sales-head, log to `skills/build-vsl/evidence/failure-modes.md`
 
 ## Cross-skill routing
 

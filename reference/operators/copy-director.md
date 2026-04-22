@@ -68,7 +68,7 @@ Stefan's full outline is 53 bullets underneath these seven headers.
 >
 > "Replicable, modular, and templatized" — Stefan's self-descriptor for the method.
 
-## Growth OS skill bindings
+## Growth Optimal System skill bindings
 - `/rmbc-research-phase` → Forum + Amazon-review research protocol (Copy research)
 - `/two-part-mechanism` → Problem mechanism + Solution mechanism design (Copy/Offer)
 - `/rmbc-brief-document` → Pre-copy structured brief (Copy workflow)

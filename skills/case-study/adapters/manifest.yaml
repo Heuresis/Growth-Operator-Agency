@@ -7,7 +7,7 @@ category: scale
 temperature_gate: warm
 
 role_affinity:
-  - scale-lead
+  - scale-head
   - case-study
 
 required_tables:
@@ -61,7 +61,7 @@ next_skill_routing:
     - condition: "organic_distribution_planned"
       recommend: write-linkedin-post
   on_fail:
-    escalate_to: scale-lead
+    escalate_to: scale-head
 
 logging:
   phase_transitions: true

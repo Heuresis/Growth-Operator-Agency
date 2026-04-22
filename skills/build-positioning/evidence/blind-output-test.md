@@ -17,7 +17,7 @@ _v1.0 initial validation: pending (skill is freshly shipped)_
 ### 1. Output Set
 - 2 historical Positioning Documents produced by the creator or a hired strategist
 - 3 Positioning Documents produced by `/build-positioning` (different creator contexts)
-- 1 generic-LLM positioning (control — no Growth OS context)
+- 1 generic-LLM positioning (control — no Growth Optimal System context)
 
 All outputs anonymized. Strip creator names, replace brand names with `[BRAND]`, randomize order.
 
@@ -33,9 +33,9 @@ For each document, evaluator answers:
 
 ### 3. Pass Criteria
 For `/build-positioning` to be blind-test-validated (sacred tier 3/3):
-- **3/3 Growth OS documents** must have ≥ 1 evaluator say `creator` or `can't tell`
+- **3/3 Growth Optimal System documents** must have ≥ 1 evaluator say `creator` or `can't tell`
 - **No generic-LLM document** should be identified as `creator`
-- Average "Would you act on this?" score ≥ 70% yes for Growth OS docs
+- Average "Would you act on this?" score ≥ 70% yes for Growth Optimal System docs
 - Average Unique Mechanism rating ≥ 7/10
 - Average Core Belief rating ≥ 7/10
 

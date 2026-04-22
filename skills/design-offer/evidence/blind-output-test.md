@@ -17,7 +17,7 @@ _v1.0 initial validation: pending (skill is freshly shipped)_
 ### 1. Output Set
 - 2 historical Offer Documents produced by the creator with a hired strategist
 - 3 Offer Documents produced by `/design-offer` (different creator contexts)
-- 1 generic-LLM offer doc (control — no Growth OS context, no compartments loaded)
+- 1 generic-LLM offer doc (control — no Growth Optimal System context, no compartments loaded)
 
 All outputs anonymized. Strip creator names, replace brand names with `[BRAND]`, randomize order.
 
@@ -35,9 +35,9 @@ For each offer, evaluator answers:
 
 ### 3. Pass Criteria
 For `/design-offer` to be blind-test-validated (sacred tier 3/3):
-- **3/3 Growth OS documents** must have ≥ 1 evaluator say `creator` or `can't tell`
+- **3/3 Growth Optimal System documents** must have ≥ 1 evaluator say `creator` or `can't tell`
 - **No generic-LLM document** should be identified as `creator`
-- Average "Would you launch this?" score ≥ 70% yes for Growth OS docs
+- Average "Would you launch this?" score ≥ 70% yes for Growth Optimal System docs
 - Average Unique Mechanism rating ≥ 7/10
 - Average Guarantee rating ≥ 7/10
 - Economics stress-test PASS on 3/3 docs

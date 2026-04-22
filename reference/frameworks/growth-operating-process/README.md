@@ -2,7 +2,7 @@
 
 > **Reference:** the operations director (Deep Dive, 10 videos, $25M+ generated for info clients)
 > **Purpose:** The straight operational process — no esoteric flourishes — for running a high-ticket info business day-to-day.
-> **When to use:** Scale (SOPs, hiring, KPI tracking), all divisions (process discipline), customer-journey operations.
+> **When to use:** Scale (SOPs, hiring, KPI tracking), all departments (process discipline), customer-journey operations.
 
 ## Core Thesis — "Death by a Million Papercuts"
 

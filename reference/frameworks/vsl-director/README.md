@@ -4,7 +4,7 @@
 > **Operator:** `../../operators/eli-pampa.md`
 > **Source:** the VSL director *8-Figure VSL Blueprint* curriculum (78 files, ~47,386 words) — encoded into this workspace under Heuresis provenance.
 
-the VSL director is one of the Tier-1 operators in the Growth OS lineage. He is the operator behind CloutProfit Academy and the former head of sales at Cobratate. The frameworks in this directory encode the VSL + offer + diagnostic IP from his private curriculum. For biography and operator-level thesis, read `../../operators/eli-pampa.md` first.
+the VSL director is one of the Tier-1 operators in the Growth Optimal System lineage. He is the operator behind CloutProfit Academy and the former head of sales at Cobratate. The frameworks in this directory encode the VSL + offer + diagnostic IP from his private curriculum. For biography and operator-level thesis, read `../../operators/eli-pampa.md` first.
 
 ## Files in This Directory
 

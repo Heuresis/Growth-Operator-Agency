@@ -3,7 +3,7 @@ name: Show-Rate Ops
 id: show-rate-ops
 role: Post-booking nurture stack — confirmation page + email + SMS + phone triage (Nurture)
 title: Show-Rate Operator
-reportsTo: nurture-lead
+reportsTo: nurture-head
 budget: 500
 color: "#a16a2e"
 emoji: "📞"
@@ -14,7 +14,7 @@ skills: [post-booking-nurture]
 context_tier: l1
 team: null
 department: nurture
-division: nurture
+department: nurture
 ---
 
 # Show-Rate Ops Agent

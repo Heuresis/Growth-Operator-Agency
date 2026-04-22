@@ -1,7 +1,7 @@
 # Marketing Pipeline — FSM
 
 ## Purpose
-State machine governing the Marketing division's weekly-to-monthly content cycle. Transitions enforce the 40/30/20/10 pillar distribution, voice-match ≥ 8, specificity ≥ 8 before publish.
+State machine governing the Marketing department's weekly-to-monthly content cycle. Transitions enforce the 40/30/20/10 pillar distribution, voice-match ≥ 8, specificity ≥ 8 before publish.
 
 ## State Diagram
 
@@ -91,7 +91,7 @@ Post-performance window closed. Engagement, reach, conversion tagged. Winners fl
 ## Cross-references
 - Knowledge: `reference/knowledge/marketing.md`, `reference/knowledge/foundations.md` (voice)
 - Skills: `skills/content-calendar/`, `skills/write-reel/`, `skills/write-youtube/`, `skills/write-linkedin-post/`, `skills/write-x-thread/`, `skills/story-sequence/`, `skills/ad-creative/`
-- Downstream: `workflows/divisions/nurture-pipeline.md` (lead capture feeds nurture), `workflows/divisions/sales-pipeline.md` (ads feed VSL)
+- Downstream: `workflows/departments/nurture-pipeline.md` (lead capture feeds nurture), `workflows/departments/sales-pipeline.md` (ads feed VSL)
 
 ---
 *v1.0 — 2026-04-19.*

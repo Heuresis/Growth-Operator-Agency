@@ -111,7 +111,7 @@ Meta algorithm shift + scaling protocol — V9.
 
 > *"Scaling an info product isn't difficult by any means, but it DOES require lots of attention to detail. Little 'leaks' throughout your customer journey = death by a million papercuts. Be extremely detail-oriented with everything before ever spending a dollar on paid ads. Simultaneously, you need to become cognizant of every possible thing that could be going wrong, and where that would become apparent in your METRICS. Complaining about performance but not understanding why you're underperforming is the same as complaining about being out of shape but never tracking a calorie or a workout in your entire life. It'll always leave you wondering instead of identifying and iterating. The entire game is: Implement, Iterate, Amplify. Rinse and repeat."*
 
-## Growth OS Skill Bindings
+## Growth Optimal System Skill Bindings
 
 | Skill | Binds to |
 |---|---|
@@ -128,7 +128,7 @@ Meta algorithm shift + scaling protocol — V9.
 
 Primary lineage source for `reference/frameworks/growth-operating-process/` — Sanjay is the named operator for that concept-thematic folder.
 
-## Growth OS Pillar Assignment
+## Growth Optimal System Pillar Assignment
 
 - Cross-cutting operator — applies to Pillars 2/3/4/5/6 (operational discipline across all)
 

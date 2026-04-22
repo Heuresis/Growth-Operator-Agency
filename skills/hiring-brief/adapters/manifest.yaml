@@ -7,7 +7,7 @@ category: scale
 temperature_gate: warm
 
 role_affinity:
-  - scale-lead
+  - scale-head
   - team-builder
 
 required_tables:
@@ -60,7 +60,7 @@ next_skill_routing:
     - condition: "hire_impacts_pnl"
       recommend: revenue-report
   on_fail:
-    escalate_to: scale-lead
+    escalate_to: scale-head
 
 logging:
   phase_transitions: true

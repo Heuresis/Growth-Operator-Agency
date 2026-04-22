@@ -35,10 +35,10 @@ When the runtime scans `skills/*/SKILL.md` at boot, every skill folder is discov
 ---
 name: "Design Offer"
 id: design-offer
-division: foundations
+department: foundations
 tier: sacred-format
 description: "Produce an Offer Document with Value Stack, Bonuses, Guarantee, and 3:1 economics gate."
-agent_affinity: [offer-architect, foundations-lead]
+agent_affinity: [offer-architect, foundations-head]
 required_compartments:
   - creator_identity_matrix: 0.5
   - audience_intelligence_system: 0.7
@@ -144,7 +144,7 @@ temperature_gate: warm
 
 role_affinity:
   - offer-architect
-  - foundations-lead
+  - foundations-head
 
 required_tables:
   - creators
@@ -189,7 +189,7 @@ next_skill_routing:
     - condition: "economics_validation_passed"
       recommend: build-vsl
   on_fail:
-    escalate_to: foundations-lead
+    escalate_to: foundations-head
 
 logging:
   phase_transitions: true
@@ -255,4 +255,4 @@ Per [`.github/CONTRIBUTING.md`](../CONTRIBUTING.md):
 
 ---
 
-*Growth OS — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*
+*Growth Optimal System — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*

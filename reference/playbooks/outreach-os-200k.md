@@ -1,6 +1,6 @@
 # $200k/mo Outreach Operating System
 
-> **Why this matters:** Content-led funnels plateau. When an operator has a validated $5k–$30k offer but the inbound flow is inconsistent — or they don't have the content discipline to compound — a disciplined outbound operating system can carry $200k/mo with a solo founder + 2–3 setters. This playbook is the reference architecture: ICP filters, 5-message sequence, daily targets, handoff mechanics, compliance guardrails, and failure modes. It is what Growth OS recommends for operators who are stronger at diagnosis than at publishing.
+> **Why this matters:** Content-led funnels plateau. When an operator has a validated $5k–$30k offer but the inbound flow is inconsistent — or they don't have the content discipline to compound — a disciplined outbound operating system can carry $200k/mo with a solo founder + 2–3 setters. This playbook is the reference architecture: ICP filters, 5-message sequence, daily targets, handoff mechanics, compliance guardrails, and failure modes. It is what Growth Optimal System recommends for operators who are stronger at diagnosis than at publishing.
 
 ## Source / Lineage
 
@@ -34,7 +34,7 @@ Two viable team shapes:
 - **Solo operator:** One person runs ICP, outreach, qualification, and calls. Cap ~$80k–$100k/mo.
 - **2–3 setter team:** Setters run ICP + messaging + qualification. Founder (closer) takes booked calls only. Cap ~$200k–$300k/mo before needing a second closer.
 
-Growth OS default: start solo to pressure-test ICP + sequence, then add setters once the sequence → booked-call rate stabilizes above 3%.
+Growth Optimal System default: start solo to pressure-test ICP + sequence, then add setters once the sequence → booked-call rate stabilizes above 3%.
 
 ## ICP Filter Criteria (LinkedIn Sales Navigator)
 
@@ -203,10 +203,10 @@ Benchmarks for a disciplined 2–3 setter team on a $5k–$15k offer:
 - Operator unwilling to read 200+ messages/week to catch bot-feel drift
 - No validated offer yet — do not scale a bad offer via outbound
 
-## How this applies in Growth OS
+## How this applies in Growth Optimal System
 
 - **Skills:** `icp-filter-builder`, `sequence-writer`, `qualification-designer`, `call-handoff-scripter`
-- **Agents:** `outbound-division-agent` runs the whole sequence end-to-end. `sales-division-agent` takes booked calls. `ops-division-agent` manages CRM + handoffs.
+- **Agents:** `outbound-department-agent` runs the whole sequence end-to-end. `sales-department-agent` takes booked calls. `ops-department-agent` manages CRM + handoffs.
 - **Sub-agents:** `sales-nav-filterer`, `message-personalizer`, `compliance-auditor`, `setter-scorecard`
 - **Knowledge sources:** `reference/frameworks/foundations-methodology.md`, `reference/frameworks/icp-deep-dive.md`, `reference/frameworks/sales/`
 - **Operator artifacts touched:** `output/foundations/icp-document.md`, `output/foundations/offer-document.md`, new `output/outreach/sequence-v*.md` + `output/outreach/compliance-log.md`
@@ -219,7 +219,7 @@ Benchmarks for a disciplined 2–3 setter team on a $5k–$15k offer:
 - A LinkedIn consulting retainer
 - A "we'll run outbound for you" productized service
 
-If a founder wants to sell outbound-as-a-service to others, that is a separate workspace (`linkedin-agency-os`, future) with very different economics, tooling, and delivery. Growth OS assumes the operator is the seller, the offer, and the eventual closer.
+If a founder wants to sell outbound-as-a-service to others, that is a separate workspace (`linkedin-agency-os`, future) with very different economics, tooling, and delivery. Growth Optimal System assumes the operator is the seller, the offer, and the eventual closer.
 
 ## Non-applicable scenarios
 

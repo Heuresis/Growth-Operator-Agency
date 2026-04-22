@@ -103,7 +103,7 @@ Looms live in two places:
 ```
 / [Company Workspace]
 ├── Decisions
-├── SOPs (by division)
+├── SOPs (by department)
 ├── Team Updates
 ├── Feedback / Reviews
 ├── Training / Onboarding
@@ -155,7 +155,7 @@ A Loom starter pack for every new hire:
 | "How we work" | 15 min | Cadences, tools, async norms |
 | "Our customer" | 10 min | ICP, pain, why we exist |
 | "Our offer" | 10 min | What we sell, pricing, positioning |
-| Division overview (theirs) | 15-30 min | Their team's playbook |
+| Department overview (theirs) | 15-30 min | Their team's playbook |
 
 New hire's first Loom back: a 2-min "introducing myself" to #team-general, watched at 8:00am morning check on day 1.
 

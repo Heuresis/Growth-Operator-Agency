@@ -59,7 +59,7 @@ Before writing the artifact to `output/`:
 If the skill fails verification, follow `workflows/handoffs/quality-revision.md`:
 - Attempt 1: auto-revise addressing the specific failure mode (usually thin content brief or open curiosity loops at outro)
 - Attempt 2: surface the gap to creator with a targeted question
-- If both fail: escalate to marketing-lead, log to `skills/write-youtube/evidence/failure-modes.md`
+- If both fail: escalate to marketing-head, log to `skills/write-youtube/evidence/failure-modes.md`
 
 ## Cross-skill routing
 

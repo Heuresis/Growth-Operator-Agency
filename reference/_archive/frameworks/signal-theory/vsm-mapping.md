@@ -1,7 +1,7 @@
-# VSM Mapping — the Viable System Model → Growth OS 7 Divisions
+# VSM Mapping — the Viable System Model → Growth Optimal System 7 Departments
 
-> **Source:** viable systems theory, *Brain of the Firm* (1972) · Signal Theory pp.9 · applied to Growth OS 7-division structure
-> **Status:** Architectural — verifies Growth OS is a viable system.
+> **Source:** viable systems theory, *Brain of the Firm* (1972) · Signal Theory pp.9 · applied to Growth Optimal System 7-department structure
+> **Status:** Architectural — verifies Growth Optimal System is a viable system.
 
 ## The 5 VSM Subsystems
 
@@ -15,19 +15,19 @@
 
 **Recursive rule:** each operational subsystem must itself contain all 5.
 
-## Growth OS 7-Division Mapping
+## Growth Optimal System 7-Department Mapping
 
-| Division | Primary VSM Role | Why |
+| Department | Primary VSM Role | Why |
 |---|---|---|
-| **Foundations** | **S5 Policy** | ICP + Offer + Positioning = identity definition. Sets encoding standards for every downstream division. |
+| **Foundations** | **S5 Policy** | ICP + Offer + Positioning = identity definition. Sets encoding standards for every downstream department. |
 | **Marketing** | **Transmission Layer** (S1/S4 bridge) | Transmits S5's identity outward; scans external (trends, competitors) back inward |
 | **Nurture** | **S2 Coordination** | Prevents conflicts across buyer stages. Keeps awareness → solution → product → most-aware progression aligned. |
 | **Sales** | **Conversion Chain** (S1 specialized) | Produces revenue-signals. Converts prospect attention → customer. |
-| **Launch** | **S3 Control** | Coordinates all divisions during launch windows. Cross-functional control moment. |
+| **Launch** | **S3 Control** | Coordinates all departments during launch windows. Cross-functional control moment. |
 | **Scale** | **S1 Operations** | The ongoing operational layer. SOPs, hiring, retention, finance. |
 | **Partnerships** | **S4 Intelligence** (partial) | External environment scan — JVs, affiliates, influencers, competitor-aligned creators |
 
-## How the VSM Check Validates Growth OS
+## How the VSM Check Validates Growth Optimal System
 
 ### S5 check — Is identity defined?
 Foundations compartment (Creator Identity Matrix + Offer + Positioning) must be ≥ 70%. Below that = no S5 = no viable system.
@@ -46,7 +46,7 @@ Scale SOPs + team structure + revenue reports = S1. Without them, no output.
 
 ## The Recursive Principle
 
-Each division is itself a viable system:
+Each department is itself a viable system:
 
 **Foundations (S5 at business level) internally has its own S1-S5:**
 - S1 = `/research` output, `/build-icp` output, `/design-offer` output (operational artifacts)
@@ -55,7 +55,7 @@ Each division is itself a viable system:
 - S4 = market scanning during `/research`
 - S5 = INVARIANTS.md applied to Foundations (truth gate, 40/40/20, etc.)
 
-Same recursion applies to every division.
+Same recursion applies to every department.
 
 ## The 3* Audit Layer
 
@@ -63,7 +63,7 @@ viable-systems-theory 3* = audit function separate from S3:
 - S3 manages resources (normal operations control)
 - S3* audits S1 directly (catches what S3 misses)
 
-**In Growth OS:**
+**In Growth Optimal System:**
 - S3 = Launch-Lead + Scale-Lead (run operations)
 - S3* = Blind Output Test + Triple-Layer Verification + /retention-check (audit operations)
 
@@ -73,11 +73,11 @@ Without S3*, S3 + S1 can drift into incestuous optimization. The audit prevents 
 
 the algedonic = emergency pain/pleasure signal that bypasses normal channels and reaches S5 directly.
 
-**In Growth OS:** INVARIANTS.md violations + refund spikes + brand-safety issues = algedonic. Escalate directly to creator + growth-director agent, bypassing normal review cadence.
+**In Growth Optimal System:** INVARIANTS.md violations + refund spikes + brand-safety issues = algedonic. Escalate directly to creator + growth-ceo agent, bypassing normal review cadence.
 
 ## Applied Diagnostic
 
-When a Growth OS instance has problems, VSM-diagnose:
+When a Growth Optimal System instance has problems, VSM-diagnose:
 
 | Symptom | Likely VSM gap |
 |---|---|

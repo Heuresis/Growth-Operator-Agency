@@ -1,4 +1,4 @@
-# Contributing — Growth OS
+# Contributing — Growth Optimal System
 
 Internal contribution guide. This workspace is private to Heuresis; contributions come from named Heuresis collaborators.
 
@@ -47,7 +47,7 @@ Run this before you ask for review:
 - Tables for structured lists when rows repeat a schema.
 - Use declarative prose. Heuresis voice is calm, specific, and does not over-explain.
 - Do not write "we do not X" / "this is not Y" — declare positively instead.
-- Do not cite competitors. Compare Growth OS to itself at different versions, not to other vendors.
+- Do not cite competitors. Compare Growth Optimal System to itself at different versions, not to other vendors.
 
 ## Review checklist
 
@@ -64,4 +64,4 @@ The canonical roadmap lives at the bottom of `skills/_INDEX.md` ("Roadmap") and 
 
 ---
 
-*Growth OS — a Heuresis workspace template.*
+*Growth Optimal System — a Heuresis workspace template.*

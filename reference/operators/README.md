@@ -33,11 +33,11 @@ This directory holds canonical-playbook files for operators whose IP lives on th
 
 ## Priority recommendation for Phase E encoding order
 
-Rank by (a) strength of external canonical, (b) leverage to Growth OS divisions, (c) specificity of named frameworks:
+Rank by (a) strength of external canonical, (b) leverage to Growth Optimal System departments, (c) specificity of named frameworks:
 
 1. **the acquisition economist** — equations (Value Equation, Core Four) are the atomic primitives most other operators build on. Encode first so later operators can reference.
 2. **the copy director** — RMBC is the most *structurally explicit* copy framework; binds cleanly into Marketing/Copy sub-agent as the default writing protocol.
-3. **the growth engineer** — 38 named skills map 1:1 to Growth OS skill-atoms; highest binding density.
+3. **the growth engineer** — 38 named skills map 1:1 to Growth Optimal System skill-atoms; highest binding density.
 4. **the campaign director** — Big Idea + Unique Mechanism + Educational VSL provides the campaign-engineering layer above RMBC.
 5. **the VSL copywriter** — 3X VSL Formula slots under the campaign director's Educational VSL Method as the execution template.
 6. **the agency director** — SMMA 6-stage playbook for agency-model clients specifically.
@@ -46,11 +46,11 @@ Rank by (a) strength of external canonical, (b) leverage to Growth OS divisions,
 9. **the media buying director** — paid-media specificity layer; pairs with the growth engineer's Pixel Conditioning + Creative Family Micro Tests.
 10. **the creator-narrative architect** — hold until identity resolved.
 
-## Cross-operator primitives to promote to Growth OS library
+## Cross-operator primitives to promote to Growth Optimal System library
 
-Several frameworks surface repeatedly across operators and should become **first-class Growth OS skills**, not per-operator bindings:
+Several frameworks surface repeatedly across operators and should become **first-class Growth Optimal System skills**, not per-operator bindings:
 
-- **Unique Mechanism** — the campaign director names it, the copy director makes it two-part, the Value Equation depends on it. Should be a Growth OS primitive (`/unique-mechanism`) that all three bind into.
+- **Unique Mechanism** — the campaign director names it, the copy director makes it two-part, the Value Equation depends on it. Should be a Growth Optimal System primitive (`/unique-mechanism`) that all three bind into.
 - **Value Equation** (acquisition-economics methodology) — governs every offer decision across operators.
 - **Core Four** (acquisition-economics methodology) — governs every channel decision; the growth engineer, the media buying director, the content OS director, the agency director all map to one quadrant.
 - **Call Funnel** — the growth engineer and the backend economist both center it; the agency director's sales call is the agency variant.

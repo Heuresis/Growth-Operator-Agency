@@ -120,7 +120,7 @@ A prospect without Layer 1 cannot be sold — because to them, there is nothing 
 | "Let me check with my partner" | Usually Layer 4, sometimes Layer 3 |
 | "Can I get back to you in a few months?" | Layer 4 |
 
-## How this applies in Growth OS
+## How this applies in Growth Optimal System
 
 - Skills: `/sales-call-review`, `/objection-map`, `/vsl-audit`, `/funnel-review`
 - Agents: `sales-coach`, `copywriter-direct-response`, `offer-architect`

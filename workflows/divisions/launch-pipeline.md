@@ -49,7 +49,7 @@ Dead Middle through Cart-Close. Daily scheduled spikes, objection-handling, SCA 
 `/launch-report` runs. Revenue attribution, CVR analysis, lessons documented.
 - **Entry:** cart closes + 7 days (to let SCA recovery + refunds settle)
 - **Produces:** `output/launch/launch-report-{cycle}.md`
-- **Exit:** report published, lessons routed to foundations / marketing / nurture / sales divisions, cycle archived
+- **Exit:** report published, lessons routed to foundations / marketing / nurture / sales departments, cycle archived
 
 ## Transition Rules
 - **No-extension rule**: cart-close deadline is immutable. Any "emergency re-open" must be documented and approved by founder — exercising this option degrades future launch credibility.
@@ -98,7 +98,7 @@ Dead Middle through Cart-Close. Daily scheduled spikes, objection-handling, SCA 
 - [ ] CVR by step reported
 - [ ] CAC calculated
 - [ ] SCA recovery reported
-- [ ] Lessons routed to divisions
+- [ ] Lessons routed to departments
 
 ## KPIs Emitted per Cycle
 - Launch CVR (target: ≥ 2%)
@@ -112,8 +112,8 @@ Dead Middle through Cart-Close. Daily scheduled spikes, objection-handling, SCA 
 ## Cross-references
 - Knowledge: `reference/knowledge/launch.md`
 - Skills: `skills/plan-launch/`, `skills/launch-report/`
-- Upstream: `workflows/divisions/sales-pipeline.md` (funnel + VSL)
-- Integration: `workflows/divisions/marketing-pipeline.md` (creative), `workflows/divisions/nurture-pipeline.md` (sequences), `workflows/divisions/partnerships-pipeline.md` (JV timing)
+- Upstream: `workflows/departments/sales-pipeline.md` (funnel + VSL)
+- Integration: `workflows/departments/marketing-pipeline.md` (creative), `workflows/departments/nurture-pipeline.md` (sequences), `workflows/departments/partnerships-pipeline.md` (JV timing)
 
 ---
 *v1.0 — 2026-04-19.*

@@ -93,7 +93,7 @@ Each layer is a precondition for the next:
 
 ## The 5 Internal Quality Validation Tests
 
-Before delivery, skills run these 5 tests (from Growth OS Master Prompt Section 7):
+Before delivery, skills run these 5 tests (from Growth Optimal System Master Prompt Section 7):
 
 ### Test 1 — Verbatim Language Test
 Does output use the audience's **actual words** from compartment 2's `voice_of_customer.actual_customer_language`?
@@ -141,7 +141,7 @@ Quality gates operationalize INV-5 (Truth), INV-6 (No Fabrication), INV-7 (Banne
 ## Sources
 
 - Signal Theory p.41 (Triple-Layer Verification formula)
-- Growth OS Master Prompt Section 7 (5 Internal Quality Tests)
+- Growth Optimal System Master Prompt Section 7 (5 Internal Quality Tests)
 - the workspace manifest `protocol/verification.md`
 
 ---

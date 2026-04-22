@@ -99,7 +99,7 @@ For any traffic source, ask:
 | 11–30 | 4 |
 | 30+ | 5 |
 
-## How this applies in Growth OS
+## How this applies in Growth Optimal System
 
 - Skills: `/market-diagnose`, `/vsl-build`, `/ad-brief` consume this matrix to set the correct message frame per asset
 - Agents: `copywriter-direct-response`, `media-buyer`, `offer-architect` use cells as a shared language
@@ -116,7 +116,7 @@ For any traffic source, ask:
 - `awareness-spectrum-5-levels.md` — the row axis in full
 - `market-sophistication-4-stages.md` — the column axis in full
 - `direct-response-copy-principles.md` — copy tactics per cell
-- `market-sophistication-overview.md` — the VSL director application in Growth OS model
+- `market-sophistication-overview.md` — the VSL director application in Growth Optimal System model
 
 ---
 *v1.0 — 2026-04-19.*

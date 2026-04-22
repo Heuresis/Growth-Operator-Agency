@@ -1,7 +1,7 @@
 # Partnerships Pipeline — FSM
 
 ## Purpose
-State machine governing the Partnerships division. Every partner progresses PartnerIdentified → Proposed → Agreed → Executed → Retained. Partner-fit test gates the entry; compliance gates every promotion.
+State machine governing the Partnerships department. Every partner progresses PartnerIdentified → Proposed → Agreed → Executed → Retained. Partner-fit test gates the entry; compliance gates every promotion.
 
 ## State Diagram
 

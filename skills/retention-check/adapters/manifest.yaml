@@ -7,7 +7,7 @@ category: scale
 temperature_gate: warm
 
 role_affinity:
-  - scale-lead
+  - scale-head
   - retention
 
 required_tables:
@@ -58,7 +58,7 @@ next_skill_routing:
     - condition: "at_risk_clients_present"
       recommend: email-sequence
   on_fail:
-    escalate_to: scale-lead
+    escalate_to: scale-head
 
 logging:
   phase_transitions: true

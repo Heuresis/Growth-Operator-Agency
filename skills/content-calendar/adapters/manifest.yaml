@@ -7,7 +7,7 @@ category: marketing
 temperature_gate: warm
 
 role_affinity:
-  - marketing-lead
+  - marketing-head
   - content-strategist
 
 required_tables:
@@ -86,7 +86,7 @@ next_skill_routing:
     - condition: "anchor_ready"
       recommend: repurpose
   on_fail:
-    escalate_to: marketing-lead
+    escalate_to: marketing-head
 
 logging:
   phase_transitions: true

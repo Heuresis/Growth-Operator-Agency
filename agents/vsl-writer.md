@@ -3,7 +3,7 @@ name: VSL Writer
 id: vsl-writer
 role: VSL script producer — 5 framework variants (Sales)
 title: VSL Writer
-reportsTo: sales-lead
+reportsTo: sales-head
 budget: 1200
 color: "#0a0907"
 emoji: "🎬"
@@ -14,7 +14,7 @@ skills: [build-vsl]
 context_tier: l1
 team: null
 department: sales
-division: sales
+department: sales
 ---
 
 # VSL Writer Agent

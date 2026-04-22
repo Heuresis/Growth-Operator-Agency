@@ -9,8 +9,8 @@ signal:
   structure: w-sop-standard
   receiver: team member executing the role/process
   receiver_capacity: medium
-division: scale
-agent_affinity: [scale-lead, sop-builder]
+department: scale
+agent_affinity: [scale-head, sop-builder]
 required_compartments:
   audience_intelligence_system: 30
   offer_architecture: 50
@@ -47,7 +47,7 @@ version: 1.0
 
 ## Role
 
-Produce deterministic SOPs for roles and processes. Lineage: **the operations director** (straight growth operating process), **Scale division Division** (14 SOP variants), Agency Execution OS.
+Produce deterministic SOPs for roles and processes. Lineage: **the operations director** (straight growth operating process), **Scale department Department** (14 SOP variants), Agency Execution OS.
 
 ## The 14 Variants
 
@@ -259,7 +259,7 @@ Monthly SOP review. Quarterly deep audit.
 
 - `reference/frameworks/growth-operating-process/README.md` (the operations director 8-stage journey)
 - `reference/operators/tier-2-operators/sanjay-slings.md`
-- Scale division Division canonical
+- Scale department Department canonical
 
 ---
 *v1.0 — 2026-04-19. Cycle 5 Scale.*

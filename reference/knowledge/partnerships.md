@@ -1,9 +1,9 @@
 # Partnerships — Shared Knowledge
 
 ## Purpose
-Shared vocabulary, partner-fit tests, revenue-split economics, and compliance rules inherited by every skill in the Partnerships division. Partnerships multiply reach without multiplying ad spend — but only when the partner fit is real, the economics are legible, and compliance is clean.
+Shared vocabulary, partner-fit tests, revenue-split economics, and compliance rules inherited by every skill in the Partnerships department. Partnerships multiply reach without multiplying ad spend — but only when the partner fit is real, the economics are legible, and compliance is clean.
 
-## Division Skills (3)
+## Department Skills (3)
 - `/jv-webinar-proposal` — propose a joint venture webinar with a complementary list-holder
 - `/affiliate-program` — build + recruit for an affiliate/partner program
 - `/referral-program` — build a customer-led referral program
@@ -77,7 +77,7 @@ If any test fails, decline the partnership — even with short-term revenue upsi
 - Frameworks: `reference/frameworks/partner-fit-test.md`, `reference/frameworks/rev-split-economics.md`
 - Knowledge: `reference/knowledge/sales.md` (funnel), `reference/knowledge/nurture.md` (post-partner sequences), `reference/knowledge/launch.md` (JV timing)
 - Agents: `agents/partnerships/partner-manager.md`, `agents/partnerships/affiliate-ops.md`
-- Pipeline: `workflows/divisions/partnerships-pipeline.md`
+- Pipeline: `workflows/departments/partnerships-pipeline.md`
 
 ---
 *v1.0 — 2026-04-19.*

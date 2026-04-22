@@ -2,19 +2,19 @@
 
 > **Foundations-first enforcement.** Each skill declares its required compartment completeness. If not met, the skill refuses to execute and interview-mode activates to fill the gap.
 
-## Division Unlock Thresholds
+## Department Unlock Thresholds
 
-Before any skill in a division can execute, its parent division must hit baseline:
+Before any skill in a department can execute, its parent department must hit baseline:
 
-| Division | Parent Lead | Unlock threshold (overall context %) |
+| Department | Parent Lead | Unlock threshold (overall context %) |
 |---|---|---|
-| Foundations | `foundations-lead` | 15% (can start from near-zero — this IS the foundation-builder) |
-| Marketing | `marketing-lead` | 50% |
-| Nurture | `nurture-lead` | 55% |
-| Sales | `sales-lead` | 60% |
-| Launch | `launch-lead` | 60% |
-| Scale | `scale-lead` | 70% |
-| Partnerships | `partnerships-lead` | 60% |
+| Foundations | `foundations-head` | 15% (can start from near-zero — this IS the foundation-builder) |
+| Marketing | `marketing-head` | 50% |
+| Nurture | `nurture-head` | 55% |
+| Sales | `sales-head` | 60% |
+| Launch | `launch-head` | 60% |
+| Scale | `scale-head` | 70% |
+| Partnerships | `partnerships-head` | 60% |
 
 ## Asset-Specific Context Thresholds
 
@@ -83,7 +83,7 @@ Before producing a specific asset, these compartments must hit minimum %:
 
 ## Source
 
-- Growth OS Master Prompt Layer 2 Section 5 (Context Quality → Output Quality Engine)
+- Growth Optimal System Master Prompt Layer 2 Section 5 (Context Quality → Output Quality Engine)
 - Eli 8 Required Beliefs (Offer must hit 70% before pitch)
 - the offer architect 40/40/20 Impact Distribution
 

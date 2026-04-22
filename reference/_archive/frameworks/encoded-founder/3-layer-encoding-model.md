@@ -54,7 +54,7 @@ The contrast from source: *"But buried in those same documents was a paragraph n
 
 ## The Decision-vs-Process Split Table
 
-From Chapter V, Visual 5 "Decisions vs. Processes" — applied across four functions. Every Growth OS /build-sop session runs this separation:
+From Chapter V, Visual 5 "Decisions vs. Processes" — applied across four functions. Every Growth Optimal System /build-sop session runs this separation:
 
 | Function | Decision (encode this) | Process (this expires) |
 |---|---|---|
@@ -112,7 +112,7 @@ Lesson: encoding only at Layer 2 leaves 50%+ of the performance on the table. Th
 
 From Chapter V: *"Encode at Layer 1 first. Always. When the tools change, Layer 3 gets rebuilt in days. Layers 1 and 2 carry forward untouched."*
 
-Operational sequence for a Growth OS encoding session:
+Operational sequence for a Growth Optimal System encoding session:
 
 1. **Capture Layer 1 first.** Run the 30-Minute Expert Download. Highlight every decision rule, judgment call, and quality threshold. These are the Layer 1 targets.
 2. **Structure Layer 2 second.** Convert the Layer 1 decisions into SOPs, decision trees, and templates. This is the "durable" layer — survives platform changes but may need domain-specific updates.
@@ -128,13 +128,13 @@ The escape from the curse, from source: *"Which does not mean you stop. You have
 
 The 3-layer model is how the defense gets built. Layer 1 is the irreducible IP. Layer 2 is the operational scaffolding. Layer 3 is the interface, which is assumed to be commoditized. The moat is proprietary operational data generated through Layer 3's accumulated runs — which is what the compound (Chapter VI) covers.
 
-## How This Layer Model Binds to Growth OS
+## How This Layer Model Binds to Growth Optimal System
 
 - **/build-sop** applies the Decision-vs-Process split at Visual 5 fidelity. Every SOP lists the decision (Layer 1) in one column and the process (Layer 3) in the other. Only Layer 1 is considered "encoded."
 - **/design-offer** encodes the Offer's Layer 1 (the value equation principles, the guarantee logic) rather than the Layer 3 (the specific bonuses and price points).
 - **/build-vsl** Phase 2 Outline captures Layer 1 (the belief installation sequence) first, then Layer 2 (the beat-by-beat template), then Layer 3 (the specific language for the current creator).
 - **/extract-voice** captures Layer 1 voice — creator's communication style, tone framework, phrases-to-use/avoid — rather than Layer 3 language that expires.
-- **The INVARIANTS doc** is itself Layer 1 — decision logic about what Growth OS is and is not, which carries forward regardless of which skills implement it.
+- **The INVARIANTS doc** is itself Layer 1 — decision logic about what Growth Optimal System is and is not, which carries forward regardless of which skills implement it.
 
 ---
 *v1.0 — 2026-04-19. Deep reference on the 3-layer encoding durability model.*

@@ -7,7 +7,7 @@ category: foundations
 temperature_gate: warm
 
 role_affinity:
-  - foundations-lead
+  - foundations-head
   - brand-voice
   - researcher
 
@@ -59,7 +59,7 @@ next_skill_routing:
     - condition: "downstream_copy_skills_queued"
       recommend: ad-creative
   on_fail:
-    escalate_to: foundations-lead
+    escalate_to: foundations-head
 
 logging:
   phase_transitions: true

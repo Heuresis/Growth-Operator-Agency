@@ -17,7 +17,7 @@ _v1.0 initial validation: pending (skill is freshly shipped)_
 ### 1. Output Set
 - 2 briefs produced by the creator or their research team (historical or fresh)
 - 3 briefs produced by `/research` (different creator contexts)
-- 1 generic-LLM brief (control — no Growth OS context, just ChatGPT with basic prompt)
+- 1 generic-LLM brief (control — no Growth Optimal System context, just ChatGPT with basic prompt)
 
 All briefs anonymized: strip creator names, replace brand names with `[BRAND]`, randomize order.
 
@@ -33,14 +33,14 @@ For each brief, evaluator answers:
 
 ### 3. Pass Criteria
 For `/research` to be blind-test-validated:
-- **≥ 2 of 3 Growth OS briefs** must have ≥ 1 evaluator say `creator` or `can't tell`
+- **≥ 2 of 3 Growth Optimal System briefs** must have ≥ 1 evaluator say `creator` or `can't tell`
 - **No generic-LLM brief** should be identified as `creator` (re-calibrate test if so)
-- Average "Would you act on this?" score ≥ 60% yes for Growth OS briefs
+- Average "Would you act on this?" score ≥ 60% yes for Growth Optimal System briefs
 - Average ICP section rating ≥ 7/10
 - Average VOC section rating ≥ 7/10
 
 ### 4. Post-Test Analysis
-For any Growth OS brief flagged as `system`:
+For any Growth Optimal System brief flagged as `system`:
 - What tipped them off? Look for patterns:
   - Generic pain language (missing verbatim VOC)
   - No specific limiting belief diagnosis

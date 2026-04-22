@@ -96,12 +96,12 @@ the backend economist is the YouTube Architect and co-owner of WarriorBabe (wome
 **Notable quotes / phrases:**
 - [UNVERIFIED — no specific quote captured; pattern-inferred from the backend economist's public bio line "We've crossed $75M in cash from info/coaching. Did $30M in 2024 B2C with no MMO, no guru model."]
 
-**Takeaways for Growth OS operators:**
+**Takeaways for Growth Optimal System operators:**
 - Before shipping a second funnel, prove the first funnel cannot be made 2x better on RPL.
 - Treat the call funnel as the product line item, not the offer — the offer is what changes inside the funnel.
 - When reviewing a "scaling" plan, ask: *are you scaling the funnel or escaping it?* Most mid-seven-figure scaling plans are disguised funnel escapes.
 
-**What does NOT apply to most Growth OS operators:**
+**What does NOT apply to most Growth Optimal System operators:**
 - Pre-$1M/yr operators often do need to run 2-3 funnel tests to find the one worth compounding. "One funnel" is a post-product-market-fit discipline, not a zero-to-one rule.
 - Low-ticket / e-commerce operators have fundamentally different unit economics; RPL-as-primary-metric still applies, but the call-funnel architecture does not.
 
@@ -121,18 +121,18 @@ the backend economist is the YouTube Architect and co-owner of WarriorBabe (wome
 **Notable quotes / phrases:**
 - [UNVERIFIED — no specific quote captured; thesis-inferred from episode title and channel positioning]
 
-**Takeaways for Growth OS operators:**
+**Takeaways for Growth Optimal System operators:**
 - Each quarter, name the one skill that, if doubled, opens the next revenue tier. Drop secondary learning.
 - Publish the learning curve publicly — the act of teaching compresses the skill.
 - Bottleneck skill at $30K/mo is rarely the same as at $300K/mo; re-identify on each tier jump.
 
-**What does NOT apply to most Growth OS operators:**
+**What does NOT apply to most Growth Optimal System operators:**
 - Operators in pre-product-market-fit phase benefit from broad skill sampling, not narrow compounding — serialization is a scaling-phase discipline.
 - Public teaching is high-cost for operators whose ICP is not on YouTube; the forcing-function benefit still applies via written or community-internal teaching.
 
 ### Cross-episode synthesis
 
-the backend economist's two signature episodes together form a single thesis: *compound one funnel on the outside, compound one skill on the inside.* EP83 governs the asset layer (funnel), E56 governs the operator layer (self). Both are anti-diversification frames. Growth OS operators importing the backend economist should import both or neither — the outside discipline without the inside discipline collapses under boredom; the inside discipline without the outside discipline produces a great learner running a mediocre funnel.
+the backend economist's two signature episodes together form a single thesis: *compound one funnel on the outside, compound one skill on the inside.* EP83 governs the asset layer (funnel), E56 governs the operator layer (self). Both are anti-diversification frames. Growth Optimal System operators importing the backend economist should import both or neither — the outside discipline without the inside discipline collapses under boredom; the inside discipline without the outside discipline produces a great learner running a mediocre funnel.
 
 ## Source
 
@@ -144,7 +144,7 @@ the backend economist's two signature episodes together form a single thesis: *c
 
 **Encoding status:** PARTIAL — core frameworks extracted from the YouTube Architect Blueprint (synthesized source) + public YouTube/podcast positioning. Specific unit-economics thresholds (CAC, LTV, payback period numbers) live inside his Skool community; the scorecard structure is canonical, the thresholds are [UNVERIFIED] without internal data.
 
-## Growth OS skill bindings
+## Growth Optimal System skill bindings
 
 - `/3-cs-system` → Click + Consume + Convert funnel (Growth architecture)
 - `/4-competencies-youtube` → Meta / Writing / Editing / Analytics skill stack (Talent development)

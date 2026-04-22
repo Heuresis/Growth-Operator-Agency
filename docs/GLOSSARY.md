@@ -1,6 +1,6 @@
 # Glossary
 
-Terms used across Growth OS, in one place.
+Terms used across Growth Optimal System, in one place.
 
 ---
 
@@ -14,7 +14,7 @@ The encoding-completeness protocol. Three evaluators who know the creator's work
 
 ## workspace protocol
 
-The workspace file contract: `SYSTEM.md` + `SKILL.md` + two-layer structure + external skill references with provenance. Growth OS is manifest-compliant. the workspace manifest is the format the workspace speaks in.
+The workspace file contract: `SYSTEM.md` + `SKILL.md` + two-layer structure + external skill references with provenance. Growth Optimal System is manifest-compliant. the workspace manifest is the format the workspace speaks in.
 
 ## Compartment
 
@@ -40,9 +40,9 @@ The compounding cycle: every run through the workspace deepens the encoding, whi
 
 The methodology (by Syed Hussain, V4 published at encodedfounder.com) for translating tacit creator judgment into machine-readable workspace content. The three-layer knowledge architecture and the M-formula (`M = T × S × K × A × E × I × L`) come from here.
 
-## Growth OS
+## Growth Optimal System
 
-The predecessor / research workspace that Growth OS is extracted from. The 82KB agent architecture bible lives at [`reference/_archive/AGENT-ARCHITECTURE.md`](../reference/_archive/AGENT-ARCHITECTURE.md). Growth OS is Growth OS generalized and productized as a template.
+The predecessor / research workspace that Growth Optimal System is extracted from. The 82KB agent architecture bible lives at [`reference/_archive/AGENT-ARCHITECTURE.md`](../reference/_archive/AGENT-ARCHITECTURE.md). Growth Optimal System is Growth Optimal System generalized and productized as a template.
 
 ## Impact Distribution Principle
 
@@ -66,7 +66,7 @@ The core thesis. Workspace = ROM (persistent, files on disk, yours forever). Age
 
 ## Runtime
 
-The LLM host that reads the workspace and executes skills. Growth OS supports slash-command runtime, workspace manifests (primary), Codex, Cursor, OpenClaw, and any future runtime that reads markdown + YAML. Runtime-specific concerns live in `adapters/`.
+The LLM host that reads the workspace and executes skills. Growth Optimal System supports slash-command runtime, workspace manifests (primary), Codex, Cursor, OpenClaw, and any future runtime that reads markdown + YAML. Runtime-specific concerns live in `adapters/`.
 
 ## Sacred-format
 
@@ -78,7 +78,7 @@ An output of a skill, encoded as a 5-tuple `(Mode, Genre, Type, Format, Structur
 
 ## Signal Theory
 
-Signal Theory's methodology for intent encoding. The quality substrate Growth OS rests on. Spec at [`reference/_archive/spec/SIGNAL.md`](../reference/_archive/spec/SIGNAL.md).
+Signal Theory's methodology for intent encoding. The quality substrate Growth Optimal System rests on. Spec at [`reference/_archive/spec/SIGNAL.md`](../reference/_archive/spec/SIGNAL.md).
 
 ## S/N
 
@@ -98,8 +98,8 @@ Verbatim creator and customer language captured in Compartment 2 (Audience Intel
 
 ## Workspace
 
-The root folder of Growth OS. Contains `SYSTEM.md` + `INVARIANTS.md` + `ENCODING.md` + `company.yaml` + all skills, agents, spec, reference, workflows, and operations directories. The workspace is the product. The agent is the runtime. Skills are stacked.
+The root folder of Growth Optimal System. Contains `SYSTEM.md` + `INVARIANTS.md` + `ENCODING.md` + `company.yaml` + all skills, agents, spec, reference, workflows, and operations directories. The workspace is the product. The agent is the runtime. Skills are stacked.
 
 ---
 
-*Growth OS — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*
+*Growth Optimal System — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*

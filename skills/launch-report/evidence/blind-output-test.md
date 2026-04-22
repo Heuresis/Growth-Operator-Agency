@@ -19,7 +19,7 @@ Optional secondary reviewers (not required for 1/3 pass but recommended):
 ### 1. Output Set
 - 2 historical post-launch retrospectives the creator + team wrote (ideally with their actual fix paths and next-launch deltas documented)
 - 3 reports produced by `/launch-report` (different launch variants — e.g., one Live Launch win, one Flash Sale miss, one Beta)
-- 1 generic-LLM report (control — no Growth OS context, no phase-by-phase diagnosis framework)
+- 1 generic-LLM report (control — no Growth Optimal System context, no phase-by-phase diagnosis framework)
 
 All outputs anonymized where possible. Strip creator names, replace brand names with `[BRAND]`, randomize order. Reviewers see plan-vs-actual tables + phase diagnoses + fix paths + next-launch recommendations.
 
@@ -35,9 +35,9 @@ For each report, evaluator answers:
 
 ### 3. Pass Criteria (internal tier — 1/3)
 For `/launch-report` to be blind-test-validated:
-- **≥ 1 of 3 Growth OS reports** must have ≥ 1 evaluator say `creator` or `can't tell`
+- **≥ 1 of 3 Growth Optimal System reports** must have ≥ 1 evaluator say `creator` or `can't tell`
 - **No generic-LLM report** should be identified as `creator`
-- Average "Would you use this?" ≥ 50% yes for Growth OS reports
+- Average "Would you use this?" ≥ 50% yes for Growth Optimal System reports
 - Average leak-diagnosis rating ≥ 6/10
 - Average fix-path rating ≥ 6/10
 

@@ -76,10 +76,10 @@ the workspace manifest discovers skills via `skills/*/SKILL.md` pattern. The ada
 skill_id: "{skill-slug}"
 skill_path: "skills/{skill-slug}/SKILL.md"
 tier: structured_ai       # deterministic | structured_ai | reasoning_ai | generative_ai
-category: "foundations"        # matches division
+category: "foundations"        # matches department
 temperature_gate: warm         # cold (requires approval) | warm (standard) | hot (autonomous)
 required_tables: []            # database tables this skill reads/writes
-role_affinity: ["foundations-lead", "icp-builder"]
+role_affinity: ["foundations-head", "icp-builder"]
 execution_mode: interactive    # interactive | batch | streaming
 evidence_gate:
   - blind_output_test_passed

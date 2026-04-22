@@ -1,7 +1,7 @@
 # Sales Pipeline — FSM
 
 ## Purpose
-State machine governing the Sales division. The offer from Foundations becomes a VSL, the VSL becomes a funnel, and the funnel becomes recurring conversion. Each state has a gate that enforces the Sacred-Format 3/3 and mechanism-threading rules.
+State machine governing the Sales department. The offer from Foundations becomes a VSL, the VSL becomes a funnel, and the funnel becomes recurring conversion. Each state has a gate that enforces the Sacred-Format 3/3 and mechanism-threading rules.
 
 ## State Diagram
 
@@ -17,13 +17,13 @@ stateDiagram-v2
     FunnelLive --> Converting: first cohort traffic runs
     Converting --> FunnelLive: CVR below benchmark (iterate)
     Converting --> OfferReady: fundamental break requires offer reset
-    Converting --> [*]: handoff to launch / scale divisions
+    Converting --> [*]: handoff to launch / scale departments
 ```
 
 ## State Definitions
 
 ### OfferReady
-Foundations division has shipped `offer.md` with Value Equation ≥ 150.
+Foundations department has shipped `offer.md` with Value Equation ≥ 150.
 - **Entry:** foundations-pipeline completes
 - **Input required:** offer.md, voice-guide.md, positioning.md, icp.md
 - **Exit:** `/build-vsl` invoked
@@ -91,9 +91,9 @@ Active funnel with enough data to measure. Iteration window.
 ## Cross-references
 - Knowledge: `reference/knowledge/sales.md`, `reference/knowledge/foundations.md`
 - Skills: `skills/build-vsl/`, `skills/build-funnel/`
-- Upstream: `workflows/divisions/foundations-pipeline.md`
-- Downstream: `workflows/divisions/launch-pipeline.md`, `workflows/divisions/scale-pipeline.md`
-- Nurture integration: `workflows/divisions/nurture-pipeline.md`
+- Upstream: `workflows/departments/foundations-pipeline.md`
+- Downstream: `workflows/departments/launch-pipeline.md`, `workflows/departments/scale-pipeline.md`
+- Nurture integration: `workflows/departments/nurture-pipeline.md`
 
 ---
 *v1.0 — 2026-04-19.*

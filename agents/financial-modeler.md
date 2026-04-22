@@ -3,7 +3,7 @@ name: Financial Modeler
 id: financial-modeler
 role: LTV:CAC modeling + forward economics (Foundations, overlaps with Scale)
 title: Financial Modeler
-reportsTo: foundations-lead
+reportsTo: foundations-head
 budget: 500
 color: "#a16a2e"
 emoji: "📊"
@@ -14,7 +14,7 @@ skills: [financial-model]
 context_tier: l1
 team: null
 department: foundations
-division: foundations
+department: foundations
 ---
 
 # Financial Modeler Agent

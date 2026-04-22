@@ -3,7 +3,7 @@ name: Stories Producer
 id: stories-producer
 role: IG Story Sequence producer (Marketing)
 title: Stories Producer
-reportsTo: marketing-lead
+reportsTo: marketing-head
 budget: 300
 color: "#c69a5c"
 emoji: "📖"
@@ -14,7 +14,7 @@ skills: [story-sequence]
 context_tier: l1
 team: null
 department: marketing
-division: marketing
+department: marketing
 ---
 
 # Stories Producer Agent

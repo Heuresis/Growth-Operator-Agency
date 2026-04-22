@@ -1,10 +1,10 @@
 # FOUNDATIONS Build Plan — Canonical Methodology
 
-> Imported from Growth OS predecessor project 2026-04-19. Growth OS Audience + Offer divisions reference this as the FOUNDATIONS methodology source-of-truth.
+> Imported from Growth Optimal System predecessor project 2026-04-19. Growth Optimal System Audience + Offer departments reference this as the FOUNDATIONS methodology source-of-truth.
 
 ---
 
-# Foundations division — Focused Build Plan
+# Foundations department — Focused Build Plan
 
 > Build one really good set of Foundation agents. Not 200 files. The right files,
 > properly mapped, with real methodology and real examples.

@@ -33,7 +33,7 @@ For each brief, evaluator answers:
 
 ### 3. Pass Criteria
 For `/hiring-brief` to be blind-test-validated:
-- **≥ 1 of 3 Growth OS briefs** must have ≥ 1 evaluator say `creator` or `can't tell`
+- **≥ 1 of 3 Growth Optimal System briefs** must have ≥ 1 evaluator say `creator` or `can't tell`
 - **No generic-LLM brief** should be identified as `creator`
 - Average "Would you run a hiring process?" score ≥ 50% yes
 - Average Scorecard rating ≥ 7/10

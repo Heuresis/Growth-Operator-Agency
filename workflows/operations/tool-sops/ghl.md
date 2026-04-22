@@ -153,7 +153,7 @@ Saved in GHL or derived in dashboard tool (Databox / Metabase).
 |---|---|
 | Operator / CFO | Full admin |
 | Ops Mgr / Marketing Mgr | Admin except billing |
-| Sales Lead / Closer | Pipeline + contacts + their own reports |
+| Sales Head / Closer | Pipeline + contacts + their own reports |
 | Setter | Contacts + task list + their own scorecard |
 | CS Mgr | Customer + retained + advocate pipelines |
 | Developer | API access as needed, no UI admin |
@@ -162,10 +162,10 @@ Saved in GHL or derived in dashboard tool (Databox / Metabase).
 
 | Ritual | Frequency | Owner |
 |---|---|---|
-| Morning pipeline check | Daily 8am | Sales Lead |
-| Setter scoreboard update | Daily 4pm | Sales Lead |
-| Pipeline walk | Weekly Monday | Sales Lead + Closers |
-| Lost deal review | Weekly | Sales Lead |
+| Morning pipeline check | Daily 8am | Sales Head |
+| Setter scoreboard update | Daily 4pm | Sales Head |
+| Pipeline walk | Weekly Monday | Sales Head + Closers |
+| Lost deal review | Weekly | Sales Head |
 | Tag audit | Quarterly | Ops Mgr |
 | Automation audit | Quarterly | Ops Mgr |
 

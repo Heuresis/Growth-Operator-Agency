@@ -9,8 +9,8 @@ signal:
   structure: w-hiring-brief
   receiver: creator + hiring manager + candidates
   receiver_capacity: medium
-division: scale
-agent_affinity: [scale-lead, team-builder]
+department: scale
+agent_affinity: [scale-head, team-builder]
 required_compartments:
   offer_architecture: 50
   operational_intelligence: 30
@@ -48,7 +48,7 @@ version: 1.0
 
 ## Role
 
-Produce hiring briefs aligned to the VSL director's Revenue-Threshold Team Model. Lineage: **the VSL director** (solo → 3-8 → 10-20 → 20-40 A-players + 3-Strike System), **the growth engineer** (Recruit Top Closers — headline + VSL + Typeform + 90s selfie + formal interview with role plays + EEOC compliance), **the acquisition economist** (A-player hiring in $100M Leads), **Scale division Team Builder**.
+Produce hiring briefs aligned to the VSL director's Revenue-Threshold Team Model. Lineage: **the VSL director** (solo → 3-8 → 10-20 → 20-40 A-players + 3-Strike System), **the growth engineer** (Recruit Top Closers — headline + VSL + Typeform + 90s selfie + formal interview with role plays + EEOC compliance), **the acquisition economist** (A-player hiring in $100M Leads), **Scale department Team Builder**.
 
 ## The Revenue-Threshold Team Model (15-step VSL methodology)
 

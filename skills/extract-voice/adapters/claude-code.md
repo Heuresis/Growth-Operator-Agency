@@ -62,7 +62,7 @@ Before writing the artifact to `output/`:
 If the skill fails verification, follow `workflows/handoffs/quality-revision.md`:
 - Attempt 1: auto-revise addressing the specific failure mode (usually sparse samples → pause for more content capture)
 - Attempt 2: surface gap to creator with targeted question ("we need 2 more podcast transcripts to hit the 3+ instance threshold")
-- If both fail: escalate to foundations-lead, log to `skills/extract-voice/evidence/failure-modes.md`
+- If both fail: escalate to foundations-head, log to `skills/extract-voice/evidence/failure-modes.md`
 
 ## Cross-skill routing
 

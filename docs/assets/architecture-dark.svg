@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Growth OS architecture: Three-layer encoded operation">
-  <title>Growth OS — architecture</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Growth architecture: Three-layer encoded operation">
+  <title>Growth — architecture</title>
 
   <defs>
     <style>
@@ -12,7 +12,7 @@
 
   <rect width="1200" height="900" fill="#000000"/>
 
-  <text class="a-label" x="600" y="56" font-size="12" fill="#71717a" text-anchor="middle">Growth OS  ·  architecture</text>
+  <text class="a-label" x="600" y="56" font-size="12" fill="#71717a" text-anchor="middle">Growth  ·  architecture</text>
   <text class="a-title" x="600" y="96" font-size="34" fill="#fafafa" text-anchor="middle">Three layers. One encoded operation.</text>
 
   <g transform="translate(100 160)">

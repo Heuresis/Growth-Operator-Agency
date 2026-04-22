@@ -70,7 +70,7 @@ Applied in `/email-sequence` Type 3 (Launch).
 
 > *"Turn organic Instagram + YouTube traffic into booked calls and sales using a three-head content funnel and stage-specific content. This doc lists only what's in the transcript — no fluff."*
 
-## Growth OS Skill Bindings
+## Growth Optimal System Skill Bindings
 
 | Skill | Binds to |
 |---|---|
@@ -82,7 +82,7 @@ Applied in `/email-sequence` Type 3 (Launch).
 | `/content-calendar` | Three-head content funnel (awareness/consideration/decision) |
 | `/jv-webinar-proposal` | Growth partner + rev-share structure |
 
-## Growth OS Pillar Assignment
+## Growth Optimal System Pillar Assignment
 
 - **Pillar 4 — Sales Block** — primary (call funnels)
 - **Pillar 2 — Marketing Block** — secondary (Three-Head Content Funnel)

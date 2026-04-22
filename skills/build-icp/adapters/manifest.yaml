@@ -7,7 +7,7 @@ category: foundations
 temperature_gate: warm
 
 role_affinity:
-  - foundations-lead
+  - foundations-head
   - icp-builder
   - researcher
 
@@ -62,7 +62,7 @@ next_skill_routing:
     - condition: "brand_voice_architecture_sparse"
       recommend: extract-voice
   on_fail:
-    escalate_to: foundations-lead
+    escalate_to: foundations-head
 
 logging:
   phase_transitions: true

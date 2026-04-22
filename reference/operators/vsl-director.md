@@ -124,7 +124,7 @@ Aggregate revenue figure the VSL director cites for the methodology: **$165M+** 
 
 **When revenue is good but the operator feels stuck** — Blockage 6 (Mindset & Aura) diagnostic. the VSL director's E-series frameworks (psychological edge / emotional trigger curation / aura & presence) read the operator, not the business. If the numbers stopped climbing and nothing in the funnel explains it, the ceiling is internal.
 
-## Growth OS Skill Bindings
+## Growth Optimal System Skill Bindings
 
 | Skill | Binds to |
 |---|---|
@@ -154,7 +154,7 @@ Aggregate revenue figure the VSL director cites for the methodology: **$165M+** 
 - Install all 8 beliefs before the close — missing one drops conversion dramatically
 - No fake urgency, no fake scarcity, no value-stack theater
 
-## Growth OS Pillar Assignment
+## Growth Optimal System Pillar Assignment
 
 - **Pillar 2 — Positioning (Offer)** — primary lead
 - Secondary contributor: Pillar 4 Funnels (4 archetypes + 15-step VSL)

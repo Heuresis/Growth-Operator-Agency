@@ -7,7 +7,7 @@ category: nurture
 temperature_gate: warm
 
 role_affinity:
-  - nurture-lead
+  - nurture-head
   - email-sequence
   - sms
 
@@ -67,7 +67,7 @@ next_skill_routing:
     - condition: "post_close_sequence_needed"
       recommend: email-sequence
   on_fail:
-    escalate_to: nurture-lead
+    escalate_to: nurture-head
 
 logging:
   phase_transitions: true

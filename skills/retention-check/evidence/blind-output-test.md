@@ -33,7 +33,7 @@ For each report, evaluator answers:
 
 ### 3. Pass Criteria
 For `/retention-check` to be blind-test-validated:
-- **≥ 1 of 3 Growth OS reports** must have ≥ 1 evaluator say `creator` or `can't tell`
+- **≥ 1 of 3 Growth Optimal System reports** must have ≥ 1 evaluator say `creator` or `can't tell`
 - **No generic-LLM report** should be identified as `creator`
 - Average "Would you act on interventions?" score ≥ 50% yes
 - Average Rubric rating ≥ 7/10

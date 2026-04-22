@@ -1,7 +1,7 @@
-# Growth OS Target Avatar & Belief Systems
+# Growth Optimal System Target Avatar & Belief Systems
 
-> Growth OS domain knowledge — used by Foundation agents for market research,
-> ICP building, and offer architecture. All methodology is Growth OS-branded.
+> Growth Optimal System domain knowledge — used by Foundation agents for market research,
+> ICP building, and offer architecture. All methodology is Growth Optimal System-branded.
 
 ---
 

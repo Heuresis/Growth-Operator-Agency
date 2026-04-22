@@ -3,7 +3,7 @@ name: Post-Launch Analyst
 id: post-launch-analyst
 role: Launch retrospective + optimization recommendations (Launch)
 title: Post-Launch Analyst
-reportsTo: launch-lead
+reportsTo: launch-head
 budget: 400
 color: "#a16a2e"
 emoji: "🔬"
@@ -14,7 +14,7 @@ skills: [launch-report]
 context_tier: l1
 team: null
 department: launch
-division: launch
+department: launch
 ---
 
 # Post-Launch Analyst Agent

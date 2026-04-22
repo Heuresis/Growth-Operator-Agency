@@ -33,7 +33,7 @@ For each SOP, evaluator answers:
 
 ### 3. Pass Criteria
 For `/build-sop` to be blind-test-validated:
-- **≥ 1 of 3 Growth OS SOPs** must have ≥ 1 evaluator say `creator` or `can't tell`
+- **≥ 1 of 3 Growth Optimal System SOPs** must have ≥ 1 evaluator say `creator` or `can't tell`
 - **No generic-LLM SOP** should be identified as `creator`
 - Average "Could a new hire execute?" score ≥ 50% yes
 - Average Phase-by-Phase rating ≥ 7/10

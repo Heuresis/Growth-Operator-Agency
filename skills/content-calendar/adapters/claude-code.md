@@ -61,7 +61,7 @@ Before writing the artifact to `output/`:
 If the skill fails verification, follow `workflows/handoffs/quality-revision.md`:
 - Attempt 1: auto-revise addressing the specific failure mode (usually pillar imbalance or over-trend content)
 - Attempt 2: surface the gap to creator with a targeted question ("we have 0 active channels marked — which 1-2 should we start with?")
-- If both fail: escalate to marketing-lead, log to `skills/content-calendar/evidence/failure-modes.md`
+- If both fail: escalate to marketing-head, log to `skills/content-calendar/evidence/failure-modes.md`
 
 ## Cross-skill routing
 

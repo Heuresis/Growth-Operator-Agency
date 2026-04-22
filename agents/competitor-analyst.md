@@ -3,7 +3,7 @@ name: Competitor Analyst
 id: competitor-analyst
 role: Competitor teardown + whitespace identification (Scale)
 title: Competitor Analyst
-reportsTo: scale-lead
+reportsTo: scale-head
 budget: 400
 color: "#0a0907"
 emoji: "🕵️"
@@ -14,7 +14,7 @@ skills: [competitor-intel]
 context_tier: l1
 team: null
 department: scale
-division: scale
+department: scale
 ---
 
 # Competitor Analyst Agent

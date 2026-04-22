@@ -103,7 +103,7 @@ the operations director — operating-process practitioner for coach and consult
 - Scarcity must be real. Fake scarcity degrades the list permanently; the operations director treats this as a non-negotiable.
 - Setter / closer capacity is the binding constraint. Model the calendar at 60% utilisation, not 100%.
 
-## How this applies in Growth OS
+## How this applies in Growth Optimal System
 
 - **Skills that consume this:** `launch-plan`, `content-calendar-builder`, `email-sequence-draft`, `debrief-writeup`.
 - **Agents that use it:** launch-operator, content-producer, email-copywriter, revenue-ops-analyst.

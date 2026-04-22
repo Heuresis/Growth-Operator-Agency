@@ -1,7 +1,7 @@
 # Foundations Pipeline — FSM
 
 ## Purpose
-State machine governing the Foundations division. Transitions only occur when the gate for the downstream state is satisfied. A failed gate triggers rollback, not skip.
+State machine governing the Foundations department. Transitions only occur when the gate for the downstream state is satisfied. A failed gate triggers rollback, not skip.
 
 ## State Diagram
 
@@ -84,13 +84,13 @@ Value Equation scored, offer stack designed, guarantee + scarcity + mechanism lo
 - **Exit gate:** Value Equation ≥ 150, stack-to-price ≥ 3:1, names Limiting Belief dissolved, anchors ≥ 5 of 8 Required Beliefs
 
 ### Shipped
-Foundations artifacts complete. Sales division can start (`/build-vsl`).
+Foundations artifacts complete. Sales department can start (`/build-vsl`).
 - **Entry:** offer.md passes gate
 - **Exit:** handoff to sales-pipeline
 
 ## Transition Rules
 - **Forward transitions** require the gate of the downstream state to pass. No exceptions.
-- **Rollback transitions** are automatic on gate-failure. The division does not "skip ahead" with partial work.
+- **Rollback transitions** are automatic on gate-failure. The department does not "skip ahead" with partial work.
 - **Skip-forward is forbidden.** You cannot build positioning without the ICP. You cannot design the offer without the voice.
 - **Cycle-back is allowed.** If Sales discovers the offer is broken, they emit a `foundation-reset` signal and this pipeline returns to `Researching` for that offer.
 
@@ -107,7 +107,7 @@ Foundations artifacts complete. Sales division can start (`/build-vsl`).
 ## Cross-references
 - Knowledge: `reference/knowledge/foundations.md`
 - Skills: `skills/research/`, `skills/build-icp/`, `skills/build-positioning/`, `skills/extract-voice/`, `skills/design-offer/`
-- Downstream pipeline: `workflows/divisions/sales-pipeline.md`
+- Downstream pipeline: `workflows/departments/sales-pipeline.md`
 - Onboarding: `workflows/client-onboarding/week-1.md`
 
 ---

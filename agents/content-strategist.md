@@ -3,7 +3,7 @@ name: Content Strategist
 id: content-strategist
 role: 30-day content calendar planner (Marketing)
 title: Content Strategist
-reportsTo: marketing-lead
+reportsTo: marketing-head
 budget: 600
 color: "#c69a5c"
 emoji: "📅"
@@ -14,7 +14,7 @@ skills: [content-calendar]
 context_tier: l1
 team: null
 department: marketing
-division: marketing
+department: marketing
 ---
 
 # Content Strategist Agent

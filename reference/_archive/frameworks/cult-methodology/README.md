@@ -21,7 +21,7 @@ Whether you agree with the authority-provocation operator or not, his cult-forma
 - **Identity badge:** HU membership + the authority-provocation archetype vocabulary
 - **Mission larger than product:** "male agency in the modern world" (product = HU)
 
-Growth OS doesn't prescribe the authority-provocation archetype's content — it prescribes the **pattern**. Any creator with a real worldview can use the same 4-marker structure.
+Growth Optimal System doesn't prescribe the authority-provocation archetype's content — it prescribes the **pattern**. Any creator with a real worldview can use the same 4-marker structure.
 
 ## The Cult Methodology Stack
 
@@ -43,7 +43,7 @@ Examples by operator:
 - the growth engineer: "Hidden VSSL," "Offer Math"
 - the VSL director: "8 Required Beliefs," "6-Blockage Diagnostic"
 
-Every Growth OS creator should coin or inherit **2-5 core in-group terms**.
+Every Growth Optimal System creator should coin or inherit **2-5 core in-group terms**.
 
 ### Layer 3 — Ritual Architecture
 Repeated actions that bond the tribe:
@@ -80,7 +80,7 @@ The shared enemy is not just stated — it's weekly re-stated:
 
 ## Ethical Guardrails
 
-Cult methodology is powerful and can be misused. Growth OS applies these guardrails:
+Cult methodology is powerful and can be misused. Growth Optimal System applies these guardrails:
 - **Truth Gate (INV-5):** claims must survive 30-second fact-check
 - **No income guarantees** (INV-6, brand safety)
 - **No cult-of-personality without substance** — the creator's methodology must actually work

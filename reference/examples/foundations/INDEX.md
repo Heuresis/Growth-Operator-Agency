@@ -1,28 +1,28 @@
 # Foundations Examples — Index
 
 > Imported from `DEV ARCHIVE/growth-os-foundations/output/foundations/` on 2026-04-19.
-> These are the canonical worked-example outputs from the original Growth OS foundations run — the reference set Growth OS operators compare their own workspace artifacts against.
+> These are the canonical worked-example outputs from the original Growth Optimal System foundations run — the reference set Growth Optimal System operators compare their own workspace artifacts against.
 
 ## Imported files
 
 | File | Artifact type | What it demonstrates |
 |---|---|---|
-| `icp-document.md` | ICP (Ideal Customer Profile) | Avatar + psychographics + beliefs + buying triggers, as output by the Audience division |
+| `icp-document.md` | ICP (Ideal Customer Profile) | Avatar + psychographics + beliefs + buying triggers, as output by the Audience department |
 | `offer-document.md` | Offer architecture | Value equation + mechanism + proof + guarantee stack |
 | `positioning-document.md` | Positioning | Category, enemy, unique mechanism, promise, and USP SOP applied |
 | `signal-report.md` | Signal diagnostic | Audience / offer / positioning signal scan for gaps before shipping |
 
-## How Growth OS consumes these
+## How Growth Optimal System consumes these
 
-- **Audience division** → compare own ICP output against `icp-document.md` for depth + specificity
-- **Offer division** → compare own offer doc against `offer-document.md` for mechanism clarity + value stack
-- **Positioning division** → reference `positioning-document.md` when running USP SOP
+- **Audience department** → compare own ICP output against `icp-document.md` for depth + specificity
+- **Offer department** → compare own offer doc against `offer-document.md` for mechanism clarity + value stack
+- **Positioning department** → reference `positioning-document.md` when running USP SOP
 - **Signal operator** → reference `signal-report.md` for diagnostic-report shape
 
 ## Source lineage
 
-- Origin: earlier Growth OS foundations build, archived into Heuresis reference
-- Pipeline: outputs from the Foundations division build plan executed against the reference company seed
+- Origin: earlier Growth Optimal System foundations build, archived into Heuresis reference
+- Pipeline: outputs from the Foundations department build plan executed against the reference company seed
 - Date of original run: Mar 2026
 
 ## Scope note

@@ -3,7 +3,7 @@ name: Lead Magnet Designer
 id: lead-magnet-designer
 role: Lead magnet designer (Nurture)
 title: Lead Magnet Designer
-reportsTo: nurture-lead
+reportsTo: nurture-head
 budget: 400
 color: "#a16a2e"
 emoji: "🧲"
@@ -14,7 +14,7 @@ skills: [lead-magnet]
 context_tier: l1
 team: null
 department: nurture
-division: nurture
+department: nurture
 ---
 
 # Lead Magnet Designer Agent

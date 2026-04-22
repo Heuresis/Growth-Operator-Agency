@@ -1,9 +1,9 @@
 # Marketing — Shared Knowledge
 
 ## Purpose
-Shared context for every content and acquisition skill in the Marketing division. Defines channel mix, content pillars, voice-match rules, cadence, and the specificity bar.
+Shared context for every content and acquisition skill in the Marketing department. Defines channel mix, content pillars, voice-match rules, cadence, and the specificity bar.
 
-## Division Skills (7)
+## Department Skills (7)
 - `/ad-creative` — paid ad variants (Meta, YouTube, TikTok)
 - `/content-calendar` — 4-week rolling calendar across channels
 - `/write-reel` — short-form Reel/TikTok script (30–90s)
@@ -70,7 +70,7 @@ Shared context for every content and acquisition skill in the Marketing division
 - Skills: `skills/ad-creative/SKILL.md`, `skills/content-calendar/SKILL.md`, `skills/write-reel/SKILL.md`, `skills/write-youtube/SKILL.md`, `skills/write-linkedin-post/SKILL.md`, `skills/write-x-thread/SKILL.md`, `skills/story-sequence/SKILL.md`
 - Frameworks: `reference/frameworks/core-four.md`, `reference/frameworks/pillar-mix-40-30-20-10.md`, `reference/frameworks/hook-retention-payoff.md`
 - Swipe: `reference/swipe-file/hooks.md`, `reference/swipe-file/proof-stacks.md`
-- Pipeline: `workflows/divisions/marketing-pipeline.md`
+- Pipeline: `workflows/departments/marketing-pipeline.md`
 
 ---
 *v1.0 — 2026-04-19.*

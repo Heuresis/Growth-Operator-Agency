@@ -118,7 +118,7 @@ Remaining 23 principles cluster into: physical hygiene (walk daily, read daily),
 
 Implication: if a campaign is not converting, the first hypothesis is never "the copy is bad." It is "the market does not already want this enough."
 
-## Composite Copy Checklist (Growth OS use)
+## Composite Copy Checklist (Growth Optimal System use)
 
 Before shipping any long-form sales asset:
 
@@ -137,7 +137,7 @@ Before shipping any long-form sales asset:
 | P.S. contains close or curiosity hook | the direct-response tradition |  |
 | Specific numbers, not round numbers | the direct-response tradition |  |
 
-## How this applies in Growth OS
+## How this applies in Growth Optimal System
 
 - Skills: `/copy-audit`, `/vsl-build`, `/email-sequence`, `/landing-page`
 - Agents: `copywriter-direct-response`, `email-sequencer`, `offer-architect`

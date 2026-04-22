@@ -3,7 +3,7 @@ name: Talent Recruiter
 id: talent-recruiter
 role: 8-role hiring brief producer (Scale)
 title: Talent Recruiter
-reportsTo: scale-lead
+reportsTo: scale-head
 budget: 600
 color: "#0a0907"
 emoji: "👥"
@@ -14,7 +14,7 @@ skills: [hiring-brief]
 context_tier: l1
 team: null
 department: scale
-division: scale
+department: scale
 ---
 
 # Talent Recruiter Agent

@@ -9,8 +9,8 @@ signal:
   structure: w-webinar-script-5-section
   receiver: webinar attendee
   receiver_capacity: high
-division: nurture
-agent_affinity: [nurture-lead, webinar]
+department: nurture
+agent_affinity: [nurture-head, webinar]
 required_compartments:
   audience_intelligence_system: 70
   offer_architecture: 70
@@ -457,7 +457,7 @@ If Variant 3/4/5:
 - `reference/frameworks/esoteric-marketing/README.md` (the offer architect — Bible Offer + Bonus Stacking)
 - `reference/operators/vsl-director.md`
 - `reference/operators/content-os-director.md` (1-2 hour nurture-to-high-ticket rule)
-- `reference/sub-agents/webinar/` (Growth OS canonical source)
+- `reference/sub-agents/webinar/` (Growth Optimal System canonical source)
 
 ---
 *v1.0 — 2026-04-19. Cycle 4 Educate. Sacred format — Blind Output Test required.*

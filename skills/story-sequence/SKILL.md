@@ -9,8 +9,8 @@ signal:
   structure: w-story-sequence-7-day
   receiver: IG followers + story viewers
   receiver_capacity: low
-division: marketing
-agent_affinity: [marketing-lead, stories]
+department: marketing
+agent_affinity: [marketing-head, stories]
 required_compartments:
   audience_intelligence_system: 50
   offer_architecture: 40
@@ -47,7 +47,7 @@ version: 1.0
 
 ## Role
 
-Produce 7-day IG Story sequences using the stories director's 7-framework weekly system. Lineage: **the stories director** (the stories director Consulting — "story sequences are the single most powerful converting asset"), **the paid media director** (4-layer story anatomy), Marketing division Division (8 story sequence types).
+Produce 7-day IG Story sequences using the stories director's 7-framework weekly system. Lineage: **the stories director** (the stories director Consulting — "story sequences are the single most powerful converting asset"), **the paid media director** (4-layer story anatomy), Marketing department Department (8 story sequence types).
 
 ## The 7-Day Framework (stories methodology)
 

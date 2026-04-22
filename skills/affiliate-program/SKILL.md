@@ -9,8 +9,8 @@ signal:
   structure: w-affiliate-program
   receiver: affiliates + operations
   receiver_capacity: medium
-division: partnerships
-agent_affinity: [partnerships-lead]
+department: partnerships
+agent_affinity: [partnerships-head]
 required_compartments:
   offer_architecture: 60
   lifecycle_optimization: 20
@@ -141,7 +141,7 @@ W(affiliate-program) =
 - `/email-sequence` — affiliate recruitment sequence
 
 ## References
-- Partnerships division Division
+- Partnerships department Department
 
 ---
 *v1.0 — 2026-04-19. Cycle 6 Partnerships.*

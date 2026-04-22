@@ -1,9 +1,9 @@
 # Scale — Shared Knowledge
 
 ## Purpose
-Shared vocabulary, revenue thresholds, sling allocation, and cadence rules inherited by every skill in the Scale division. Scale is the discipline of removing the founder from every revenue-producing activity except the few where the founder is irreplaceable. VSL-director-style revenue-threshold gates dictate what gets built when.
+Shared vocabulary, revenue thresholds, sling allocation, and cadence rules inherited by every skill in the Scale department. Scale is the discipline of removing the founder from every revenue-producing activity except the few where the founder is irreplaceable. VSL-director-style revenue-threshold gates dictate what gets built when.
 
-## Division Skills (6)
+## Department Skills (6)
 - `/build-sop` — document a repeatable process with inputs, steps, outputs, owners, metrics
 - `/hiring-brief` — role scorecard + ICP for the hire (skills, signals, trial project)
 - `/retention-check` — customer health scan → save sequence or offboarding
@@ -51,7 +51,7 @@ Guardrail: if churn > 5%/mo, shift to 40/50/10 until stabilized.
 
 ## Cadences
 - **Daily** — Ops standup (15 min), support triage, metrics glance
-- **Weekly** — Division review (60 min), hiring pipeline, retention health scan
+- **Weekly** — Department review (60 min), hiring pipeline, retention health scan
 - **Monthly** — Revenue report, case-study release, SOP audit, competitor-offer scan
 - **Quarterly** — Full competitor intel refresh, QBR with each key client, hiring-plan revision, org review
 - **Annual** — Strategy re-set, pricing review, positioning audit
@@ -78,7 +78,7 @@ Guardrail: if churn > 5%/mo, shift to 40/50/10 until stabilized.
 - Frameworks: `reference/frameworks/pampa-thresholds.md`, `reference/frameworks/slings-60-30-10.md`
 - Knowledge: `reference/knowledge/foundations.md` (ICP for hiring), `reference/knowledge/nurture.md` (retention sequences)
 - Agents: `agents/scale/ops-director.md`, `agents/scale/cs-lead.md`, `agents/scale/finance-analyst.md`
-- Pipeline: `workflows/divisions/scale-pipeline.md`
+- Pipeline: `workflows/departments/scale-pipeline.md`
 
 ---
 *v1.0 — 2026-04-19.*

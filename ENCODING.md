@@ -205,7 +205,7 @@ content_strategy:
       topics: [string]
       conversion_bridge: string       # How this pillar bridges to offer
   platform_strategies:
-    # Growth OS: keep platform entries minimal — for full platform ops use a vertical workspace
+    # Growth Optimal System: keep platform entries minimal — for full platform ops use a vertical workspace
     youtube:
       active: boolean
       content_types: [string]         # Educational / VSSL / Lifestyle / Tutorial / Case Study
@@ -405,4 +405,4 @@ This file is the **authoritative schema**. `company.yaml` must conform. If a cre
 
 *Version: 1.0.0 — 2026-04-21. Based on Creator Context Profile Architecture + Signal Theory. Derived from Notion page 2f139dd8-23e7-8062-955e-fa6a004461a5.*
 
-*Growth OS — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*
+*Growth Optimal System — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*

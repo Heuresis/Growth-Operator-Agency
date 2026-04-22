@@ -3,7 +3,7 @@ name: ICP Builder
 id: icp-builder
 role: ICP Document producer (Foundations)
 title: ICP Builder
-reportsTo: foundations-lead
+reportsTo: foundations-head
 budget: 800
 color: "#0a0907"
 emoji: "🎯"
@@ -14,7 +14,7 @@ skills: [build-icp]
 context_tier: l1
 team: null
 department: foundations
-division: foundations
+department: foundations
 ---
 
 # ICP Builder Agent

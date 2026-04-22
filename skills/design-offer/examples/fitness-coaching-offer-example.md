@@ -1,13 +1,13 @@
 # Fitness Coaching - Canonical Starter Offer
 
-> **Case:** Fitness Coaching - the canonical starter-template offer in the Growth OS foundations pipeline
+> **Case:** Fitness Coaching - the canonical starter-template offer in the Growth Optimal System foundations pipeline
 > **Built from:** ICP (90/100 completeness) → Positioning Document → Offer Document
 > **Framework applied:** Value Equation + the offer architect tiered pricing architecture + explicit Belief Stack
 > **Outcome:** Offer validated - Value Score 7.0, LTV:CAC 57:1, path-to-$50K/month in clear math
 
 ## Context
 
-This is the canonical "starter template" example in the Growth OS foundations library. It is the offer that most closely mirrors what an operator will build on their first Phase-3 instantiation of the pipeline. The ICP is tech founders (28-45, $150K-$1M+ income), Solution Aware, HELPLESS-dominant (70%) with WORTHLESS secondary (30%). The offer is a 3-tier architecture built around a named mechanism (the Founder Fitness Operating System) with a conditional performance guarantee that would be risky if not conditioned on adherence.
+This is the canonical "starter template" example in the Growth Optimal System foundations library. It is the offer that most closely mirrors what an operator will build on their first Phase-3 instantiation of the pipeline. The ICP is tech founders (28-45, $150K-$1M+ income), Solution Aware, HELPLESS-dominant (70%) with WORTHLESS secondary (30%). The offer is a 3-tier architecture built around a named mechanism (the Founder Fitness Operating System) with a conditional performance guarantee that would be risky if not conditioned on adherence.
 
 ## The Encoded Offer
 
@@ -103,4 +103,4 @@ Conditions ensure the founder actually does the work. The risk is not the protoc
 - `reference/frameworks/esoteric-offer-architecture/7-phase-offer-architecture.md` - Phase 2.6 tiered pricing
 
 ---
-*Encoded 2026-04-19. Content is [VERBATIM] pulled from the canonical Growth OS foundations example set. Framework attribution (Value Equation, the offer architect tiering) reflects the lineage the foundations pipeline draws from.*
+*Encoded 2026-04-19. Content is [VERBATIM] pulled from the canonical Growth Optimal System foundations example set. Framework attribution (Value Equation, the offer architect tiering) reflects the lineage the foundations pipeline draws from.*

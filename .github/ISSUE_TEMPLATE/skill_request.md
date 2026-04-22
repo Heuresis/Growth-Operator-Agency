@@ -10,7 +10,7 @@ assignees: ''
 
 Kebab-case verb-noun. Example: `build-landing-page`, `extract-objections`.
 
-## Division
+## Department
 
 - [ ] Foundations
 - [ ] Marketing

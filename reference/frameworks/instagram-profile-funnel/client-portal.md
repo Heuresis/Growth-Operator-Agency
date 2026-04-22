@@ -187,7 +187,7 @@ Pick one platform. Consolidation matters more than feature-parity with competito
 4. Week 6: ship advocacy mechanics (referral link, testimonial form).
 5. Week 8+: iterate based on actual customer usage. Do not pre-build features no customer has asked for.
 
-## How this applies in Growth OS
+## How this applies in Growth Optimal System
 
 - **Skills that consume this:** `portal-audit`, `onboarding-builder`, `win-capture-workflow`, `retention-scorecard`.
 - **Agents that use it:** client-success-bot, community-manager, advocacy-operator.

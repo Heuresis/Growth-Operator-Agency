@@ -35,7 +35,7 @@ For each script, evaluator answers:
 
 ### 3. Pass Criteria
 For `/write-youtube` to be blind-test-validated (external tier 2/3):
-- **2/3 Growth OS scripts** must have ≥ 1 evaluator say `creator` or `can't tell`
+- **2/3 Growth Optimal System scripts** must have ≥ 1 evaluator say `creator` or `can't tell`
 - **No generic-LLM script** should be identified as `creator`
 - Average "Would you publish?" score ≥ 60% yes
 - Average Hook rating ≥ 7/10

@@ -9,8 +9,8 @@ signal:
   structure: w-referral-program
   receiver: existing customers + operations
   receiver_capacity: medium
-division: partnerships
-agent_affinity: [partnerships-lead]
+department: partnerships
+agent_affinity: [partnerships-head]
 required_compartments:
   offer_architecture: 50
   lifecycle_optimization: 40
@@ -158,7 +158,7 @@ k-factor, referral-driven revenue %, CAC via referral vs paid.
 - `/case-study` — referrals from Thriving clients pair with case studies
 
 ## References
-- Partnerships division Division
+- Partnerships department Department
 - Lifecycle best practices
 
 ---

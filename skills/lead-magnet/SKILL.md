@@ -9,8 +9,8 @@ signal:
   structure: w-lead-magnet-brief
   receiver: prospect + designer + copywriter
   receiver_capacity: medium
-division: nurture
-agent_affinity: [nurture-lead, lead-magnet]
+department: nurture
+agent_affinity: [nurture-head, lead-magnet]
 required_compartments:
   audience_intelligence_system: 60
   offer_architecture: 50

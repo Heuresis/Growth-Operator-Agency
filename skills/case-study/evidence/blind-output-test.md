@@ -17,7 +17,7 @@ _v1.0 initial validation: pending (skill is freshly shipped)_
 ### 1. Output Set
 - 2 case studies produced by the creator or their conversion copywriter (historical, ideally ones that converted well)
 - 3 case studies produced by `/case-study` (different clients, different outcome archetypes)
-- 1 generic-LLM case study (control — ChatGPT prompted with client name + outcome, no Growth OS context)
+- 1 generic-LLM case study (control — ChatGPT prompted with client name + outcome, no Growth Optimal System context)
 
 All case studies anonymized. Strip client names, replace brand names with `[BRAND]`, randomize order.
 
@@ -33,9 +33,9 @@ For each case study, evaluator answers:
 
 ### 3. Pass Criteria
 For `/case-study` to be blind-test-validated:
-- **≥ 3 of 3 Growth OS case studies** must have ≥ 1 evaluator say `creator` or `can't tell`
+- **≥ 3 of 3 Growth Optimal System case studies** must have ≥ 1 evaluator say `creator` or `can't tell`
 - **No generic-LLM case study** should be identified as `creator` (if so, re-calibrate test; skill is not yet ready)
-- Average "Would you publish as-is?" score ≥ 70% yes for Growth OS case studies
+- Average "Would you publish as-is?" score ≥ 70% yes for Growth Optimal System case studies
 - Average Before-State rating ≥ 7/10
 - Average Implementation + Journey rating ≥ 7/10
 

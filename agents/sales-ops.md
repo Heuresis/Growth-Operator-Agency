@@ -3,7 +3,7 @@ name: Sales Ops
 id: sales-ops
 role: Call prep + proposals + guarantees + applications + landing pages (Sales)
 title: Sales Operations Specialist
-reportsTo: sales-lead
+reportsTo: sales-head
 budget: 600
 color: "#0a0907"
 emoji: "📋"
@@ -14,7 +14,7 @@ skills: [call-prep, proposal, guarantee-copy, application-form, landing-page]
 context_tier: l1
 team: null
 department: sales
-division: sales
+department: sales
 ---
 
 # Sales Ops Agent

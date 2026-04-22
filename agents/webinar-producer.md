@@ -3,7 +3,7 @@ name: Webinar Producer
 id: webinar-producer
 role: Webinar + challenge script producer (Nurture)
 title: Webinar Producer
-reportsTo: nurture-lead
+reportsTo: nurture-head
 budget: 800
 color: "#a16a2e"
 emoji: "🎤"
@@ -14,7 +14,7 @@ skills: [webinar-script]
 context_tier: l1
 team: null
 department: nurture
-division: nurture
+department: nurture
 ---
 
 # Webinar Producer Agent

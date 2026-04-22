@@ -3,7 +3,7 @@ name: Sales Scripter
 id: sales-scripter
 role: Sales scripts + DM sequences + objection library (Sales)
 title: Sales Scripter
-reportsTo: sales-lead
+reportsTo: sales-head
 budget: 700
 color: "#0a0907"
 emoji: "📞"
@@ -14,7 +14,7 @@ skills: [sales-script, dm-sequence, objection-library]
 context_tier: l1
 team: null
 department: sales
-division: sales
+department: sales
 ---
 
 # Sales Scripter Agent

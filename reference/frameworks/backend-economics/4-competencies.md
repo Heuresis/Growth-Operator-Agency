@@ -164,7 +164,7 @@ See `scientific-method-content.md` for the full 5-step protocol with the weekly 
 
 Skipping the ranking inverts the leverage. An operator who starts at #3 (editing) without #1 (meta) produces well-edited videos of bad concepts. An operator who starts at #1 and loops through #4 compounds every week.
 
-## Binding into the Growth OS
+## Binding into the Growth Optimal System
 
 - Talent hiring sequence: hire for #1 (strategist) before #3 (editor). Most creators hire editors first; wrong order.
 - Skill-development plan: operator works on one competency at a time (E56 logic from the backend economist's channel — serialize, don't diversify).
