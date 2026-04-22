@@ -18,6 +18,10 @@
 
 <br/>
 
+<img alt="Growth Operating Agency — system diagram" src="docs/assets/system-diagram.svg" width="100%">
+
+<br/>
+
 An open-source workspace of 41 agents organized into 7 departments — Foundations, Marketing, Nurture, Sales, Launch, Scale, Partnerships — that run the operations of a high-ticket creator business.
 
 You fill in the context. The agents execute. You stay in the loop only where your judgment counts.
@@ -63,6 +67,18 @@ Full setup: **[Quickstart](docs/QUICKSTART.md)** · 30 minutes.
 - **Partnerships** — JV webinars · affiliate · referral
 
 Built from the playbooks of operators who've run this at scale.
+
+## Every skill is specced
+
+Each of the 36 capabilities ships with the same contract: required inputs, variants, gates, runtime adapters. One example:
+
+<img alt="Skill spec card — /build-vsl" src="docs/assets/skill-spec-card.svg" width="100%">
+
+## The map
+
+<img alt="File tree specimen" src="docs/assets/file-tree-specimen.svg" width="100%">
+
+Full annotated tree: [docs/FILE-TREE.md](docs/FILE-TREE.md)
 
 ## Documentation
 
