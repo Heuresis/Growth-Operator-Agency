@@ -1,6 +1,9 @@
 <div align="center">
 
-<img alt="Growth Operating Agency" src="docs/assets/growth-operating-agency-wordmark-light.svg" width="520">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/growth-operating-agency-wordmark-dark.svg">
+  <img alt="Growth Operating Agency" src="docs/assets/growth-operating-agency-wordmark-light.svg" width="520">
+</picture>
 
 <br/>
 
