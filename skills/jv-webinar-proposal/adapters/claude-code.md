@@ -57,7 +57,7 @@ Before writing to `output/`:
 
 ## Failure handling
 
-Per `handoffs/quality-revision.md`: auto-revise → surface gap → escalate to partnerships-lead, log to `skills/jv-webinar-proposal/evidence/failure-modes.md`.
+Per `workflows/handoffs/quality-revision.md`: auto-revise → surface gap → escalate to partnerships-lead, log to `skills/jv-webinar-proposal/evidence/failure-modes.md`.
 
 ## Cross-skill routing
 

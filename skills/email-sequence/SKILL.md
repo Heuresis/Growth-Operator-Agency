@@ -362,7 +362,7 @@ P.S. [optional high-read line]
 - `reference/operators/external/alex-hormozi.md` ($100M Leads email)
 - `reference/frameworks/sales/8-required-beliefs.md` (the VSL director — Nurture sequences install these)
 - `reference/operators/tier-3-rising/jonas-rorwick.md` (Whisper/Tease/Shout launch cadence)
-- `_archive/spec/INTEGRATIONS.md` (email platforms)
+- `reference/_archive/spec/INTEGRATIONS.md` (email platforms)
 
 ---
 *v1.0 — 2026-04-19. Cycle 4 Educate.*

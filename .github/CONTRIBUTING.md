@@ -6,7 +6,7 @@ Internal contribution guide. This workspace is private to Heuresis; contribution
 
 1. **Read `SYSTEM.md`, `INVARIANTS.md`, and `ENCODING.md` end to end.** These three files are load-bearing. An edit that contradicts them cascades through every skill output.
 2. **Check `spec/BANNED-VOCABULARY.md`.** Anti-slop constraints are enforced at skill-execution time. New content has to pass the banned-vocab check before it ships.
-3. **Check `PROVENANCE.md`.** Understand what layers the workspace rests on before touching the foundation layer.
+3. **Check `docs/PROVENANCE.md`.** Understand what layers the workspace rests on before touching the foundation layer.
 4. **Run the existing chain once.** If you have never executed `/research → /build-icp → /build-positioning → /design-offer → /extract-voice` against a test creator, do that first. The chain is the reality check for any architectural change.
 
 ## Where changes go

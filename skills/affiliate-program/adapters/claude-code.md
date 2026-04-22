@@ -46,7 +46,7 @@ If `$ARGUMENTS` includes `--tier=<info|digital|saas|done-for-you>`, calibrate co
 ## Quality gates
 
 Before writing the spec to `output/`:
-- Run `_archive/spec/QUALITY.md` triple-layer verification (formal 40% + semantic 35% + information-theoretic 25%)
+- Run `reference/_archive/spec/QUALITY.md` triple-layer verification (formal 40% + semantic 35% + information-theoretic 25%)
 - Check `spec/BANNED-VOCABULARY.md` — reject if any banned phrases
 - Confirm every evidence_gate condition (commission_structure_specified, payout_logic_clear, portal_assets_defined, recruitment_plan, compliance_disclosed)
 - Signal Score ≥ 0.8
@@ -55,7 +55,7 @@ Before writing the spec to `output/`:
 
 ## Failure handling
 
-If skill fails verification, follow `handoffs/quality-revision.md`:
+If skill fails verification, follow `workflows/handoffs/quality-revision.md`:
 - Attempt 1: auto-revise addressing the specific failure mode
 - Attempt 2: surface the gap to creator with targeted question (often cookie window or commission tier structure undecided)
 - If both fail: escalate to partnerships-lead, log to `skills/affiliate-program/evidence/failure-modes.md`

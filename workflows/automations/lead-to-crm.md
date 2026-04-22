@@ -83,7 +83,7 @@ Capture a lead, enrich the record, tag by source and intent, route to the right 
 - For high-intent with phone: add to SMS sequence if opted in
 
 **Step 7. Log**
-- Write to `operations/ledger.jsonl`: `{timestamp, event:lead_captured, lead_id, source, intent}`
+- Write to `workflows/operations/ledger.jsonl`: `{timestamp, event:lead_captured, lead_id, source, intent}`
 - Fire pixel conversion event (FB CAPI / Google Enhanced Conversions)
 
 ## Fillable Config

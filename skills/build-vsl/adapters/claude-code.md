@@ -49,7 +49,7 @@ If `$ARGUMENTS` contains `--variant=A|B|C|D|E`, force that variant. Otherwise ap
 ## Quality gates
 
 Before writing the artifact to `output/`:
-- Run `_archive/spec/QUALITY.md` triple-layer verification
+- Run `reference/_archive/spec/QUALITY.md` triple-layer verification
 - Check `spec/BANNED-VOCABULARY.md` — full regex sweep (INV-7)
 - Truth Gate on every claim (INV-5) — 30-second screenshot test
 - No Fabrication (INV-6) — no invented case studies, numbers, or testimonials
@@ -60,7 +60,7 @@ Before writing the artifact to `output/`:
 
 ## Failure handling
 
-If the skill fails verification, follow `handoffs/quality-revision.md`:
+If the skill fails verification, follow `workflows/handoffs/quality-revision.md`:
 - Attempt 1: auto-revise addressing the specific failure mode (usually voice-match or mechanism thread gaps)
 - Attempt 2: surface the gap to creator with a targeted question
 - If both fail: escalate to sales-lead, log to `skills/build-vsl/evidence/failure-modes.md`

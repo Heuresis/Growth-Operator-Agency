@@ -46,7 +46,7 @@ If `$ARGUMENTS` includes `--variant=<role|process>`, select that specific SOP va
 ## Quality gates
 
 Before writing the SOP to `output/`:
-- Run `_archive/spec/QUALITY.md` triple-layer verification (formal 40% + semantic 35% + information-theoretic 25%)
+- Run `reference/_archive/spec/QUALITY.md` triple-layer verification (formal 40% + semantic 35% + information-theoretic 25%)
 - Check `spec/BANNED-VOCABULARY.md` — reject if any banned phrases
 - Confirm every evidence_gate condition (variant_selected, full_process_mapped_phase_by_phase, kpis_specified, quality_gates_declared, escalation_rules, training_plan)
 - Signal Score ≥ 0.8
@@ -54,7 +54,7 @@ Before writing the SOP to `output/`:
 
 ## Failure handling
 
-If skill fails verification, follow `handoffs/quality-revision.md`:
+If skill fails verification, follow `workflows/handoffs/quality-revision.md`:
 - Attempt 1: auto-revise addressing the specific failure mode
 - Attempt 2: surface the gap to creator with targeted question (often team structure ambiguity)
 - If both fail: escalate to scale-lead, log to `skills/build-sop/evidence/failure-modes.md`

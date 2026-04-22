@@ -49,7 +49,7 @@ If `$ARGUMENTS` is provided, use it as the working offer name or price anchor. O
 ## Quality gates
 
 Before writing the artifact to `output/`:
-- Run `_archive/spec/QUALITY.md` triple-layer verification
+- Run `reference/_archive/spec/QUALITY.md` triple-layer verification
 - Check `spec/BANNED-VOCABULARY.md` — reject "unlock," "supercharge," "transform" as verb, "revolutionary" et al
 - Confirm every `evidence_gate` condition: all 12 sections, Value Equation ≥ 150, LTV:CAC ≥ 3, limiting belief aligned to transformation type, 5+ bonuses objection-mapped, ROI-positive guarantee
 - Signal Score ≥ 0.8
@@ -58,7 +58,7 @@ Before writing the artifact to `output/`:
 
 ## Failure handling
 
-If the skill fails verification, follow `handoffs/quality-revision.md`:
+If the skill fails verification, follow `workflows/handoffs/quality-revision.md`:
 - Attempt 1: auto-revise addressing the specific failure mode (usually economics fix-path or bonus re-mapping)
 - Attempt 2: surface the gap to creator with a targeted question
 - If both fail: escalate to foundations-lead, log to `skills/design-offer/evidence/failure-modes.md`

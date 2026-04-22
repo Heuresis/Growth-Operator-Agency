@@ -1,6 +1,6 @@
 # Blind Output Test — /case-study
 
-> Per `_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Case Study**. The case study is a **sacred format** — it is public-facing, carries the creator's public credibility, and every buyer reads it before converting. Requires **3/3 evaluator pass** before the skill is considered blind-test-validated.
+> Per `reference/_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Case Study**. The case study is a **sacred format** — it is public-facing, carries the creator's public credibility, and every buyer reads it before converting. Requires **3/3 evaluator pass** before the skill is considered blind-test-validated.
 
 ## Test Date(s)
 

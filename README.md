@@ -186,7 +186,7 @@ One workspace. Five runtimes. Zero lock-in.
 | **slash-command runtime** | primary | `git clone` → open → the slash commands exposed |
 | **workspace manifests** | primary | `manifest boot ./` — native protocol compliance |
 | **Generic LLM** (ChatGPT · Claude web · Perplexity · Ollama) | always available | Paste `SYSTEM.md` as system prompt + relevant `company.yaml` compartments |
-| **HTTP / OpenAPI** | v1.1 | REST contract at `_archive/spec/HTTP-OPENAPI-ADAPTER.md` |
+| **HTTP / OpenAPI** | v1.1 | REST contract at `reference/_archive/spec/HTTP-OPENAPI-ADAPTER.md` |
 | **Codex · Cursor · OpenClaw** | v2.0 | Adapter scaffolding prepared |
 
 A skill written today runs unchanged on any runtime that reads markdown and YAML. That is [INV-10](INVARIANTS.md) — the runtime-agnostic guarantee.
@@ -234,7 +234,7 @@ Every skill self-gates on compartment completeness. Below threshold, the skill r
 Full A-Z structure. Every file in the template.
 
 <details>
-<summary><strong>Expand full tree — 703 entries</strong></summary>
+<summary><strong>Expand full tree — 701 entries</strong></summary>
 
 ```
 .
@@ -277,11 +277,9 @@ Full A-Z structure. Every file in the template.
 │   │   ├── question.md
 │   │   └── skill_request.md
 │   ├── CODEOWNERS
-│   └── PULL_REQUEST_TEMPLATE.md
-├── _excluded/
-│   └── .gitkeep
-├── _private/
-│   └── .gitkeep
+│   ├── CONTRIBUTING.md
+│   ├── PULL_REQUEST_TEMPLATE.md
+│   └── SECURITY.md
 ├── agents/
 │   ├── _INDEX.md
 │   ├── affiliate-architect.md
@@ -346,38 +344,47 @@ Full A-Z structure. Every file in the template.
 │   ├── ARCHITECTURE.md
 │   ├── FAQ.md
 │   ├── GLOSSARY.md
+│   ├── PROVENANCE.md
 │   ├── QUICKSTART.md
 │   └── SKILL_AUTHORING.md
-├── handoffs/
-│   ├── quality-revision.md
-│   ├── skill-to-skill.md
-│   └── standard.md
-├── operations/
-│   ├── cadences/
-│   │   ├── daily.md
-│   │   ├── monthly.md
-│   │   ├── quarterly.md
-│   │   └── weekly.md
-│   ├── finance/
-│   │   └── tracker-schema.md
-│   ├── project-management/
-│   │   └── clickup.md
-│   ├── tool-sops/
-│   │   ├── ghl.md
-│   │   ├── loom.md
-│   │   ├── notion.md
-│   │   └── slack.md
-│   ├── _INDEX.md
-│   ├── competitive-intel-ops.md
-│   ├── crisis-management.md
-│   ├── daily-dashboard.md
-│   ├── hiring-roles.md
-│   ├── mode-of-operations.md
-│   ├── team-collaboration.md
-│   └── team-leadership.md
-├── output/
-│   └── .gitkeep
 ├── reference/
+│   ├── _archive/
+│   │   ├── frameworks/
+│   │   │   ├── classical/
+│   │   │   │   ├── 4-belief-layers.md
+│   │   │   │   ├── 6-principles-of-influence.md
+│   │   │   │   ├── awareness-spectrum-5-levels.md
+│   │   │   │   ├── direct-response-copy-principles.md
+│   │   │   │   ├── impact-distribution.md
+│   │   │   │   ├── limiting-belief-triad.md
+│   │   │   │   ├── market-hierarchy.md
+│   │   │   │   ├── market-sophistication-4-stages.md
+│   │   │   │   └── system-1-system-2.md
+│   │   │   ├── cult-methodology/
+│   │   │   │   ├── 4-cult-markers.md
+│   │   │   │   ├── README.md
+│   │   │   │   ├── authority-provocation-archetype.md
+│   │   │   │   ├── cult-to-customer-translation.md
+│   │   │   │   └── ethical-guardrails.md
+│   │   │   ├── encoded-founder/
+│   │   │   │   ├── 3-layer-encoding-model.md
+│   │   │   │   ├── README.md
+│   │   │   │   ├── encoded-founder-thesis.md
+│   │   │   │   └── encoding-flywheel.md
+│   │   │   └── signal-theory/
+│   │   │       ├── 4-principles.md
+│   │   │       ├── 5-tuple-encoding.md
+│   │   │       ├── README.md
+│   │   │       ├── triple-layer-verification.md
+│   │   │       └── vsm-mapping.md
+│   │   ├── spec/
+│   │   │   ├── BLIND-OUTPUT-TEST.md
+│   │   │   ├── HTTP-OPENAPI-ADAPTER.md
+│   │   │   ├── INTEGRATIONS.md
+│   │   │   ├── QUALITY.md
+│   │   │   └── SIGNAL.md
+│   │   ├── AGENT-ARCHITECTURE.md
+│   │   └── README.md
 │   ├── competitors/
 │   │   └── README.md
 │   ├── data-sources/
@@ -406,16 +413,6 @@ Full A-Z structure. Every file in the template.
 │   │   │   ├── README.md
 │   │   │   ├── scientific-method-content.md
 │   │   │   └── unit-economics-benchmarks.md
-│   │   ├── classical/
-│   │   │   ├── 4-belief-layers.md
-│   │   │   ├── 6-principles-of-influence.md
-│   │   │   ├── awareness-spectrum-5-levels.md
-│   │   │   ├── direct-response-copy-principles.md
-│   │   │   ├── impact-distribution.md
-│   │   │   ├── limiting-belief-triad.md
-│   │   │   ├── market-hierarchy.md
-│   │   │   ├── market-sophistication-4-stages.md
-│   │   │   └── system-1-system-2.md
 │   │   ├── content-os/
 │   │   │   ├── 9-area-icp-deep-dive.md
 │   │   │   ├── README.md
@@ -423,17 +420,6 @@ Full A-Z structure. Every file in the template.
 │   │   │   ├── education-os-4-phase.md
 │   │   │   ├── linkedin-cross-post-system.md
 │   │   │   └── youtube-flywheel-architecture.md
-│   │   ├── cult-methodology/
-│   │   │   ├── 4-cult-markers.md
-│   │   │   ├── README.md
-│   │   │   ├── authority-provocation-archetype.md
-│   │   │   ├── cult-to-customer-translation.md
-│   │   │   └── ethical-guardrails.md
-│   │   ├── encoded-founder/
-│   │   │   ├── 3-layer-encoding-model.md
-│   │   │   ├── README.md
-│   │   │   ├── encoded-founder-thesis.md
-│   │   │   └── encoding-flywheel.md
 │   │   ├── esoteric-marketing/
 │   │   │   ├── README.md
 │   │   │   ├── engineering-economics-offer.md
@@ -480,12 +466,6 @@ Full A-Z structure. Every file in the template.
 │   │   │   ├── crossroads-close.md
 │   │   │   ├── full-stack-sales-call-8-stage.md
 │   │   │   └── value-stack-architecture.md
-│   │   ├── signal-theory/
-│   │   │   ├── 4-principles.md
-│   │   │   ├── 5-tuple-encoding.md
-│   │   │   ├── README.md
-│   │   │   ├── triple-layer-verification.md
-│   │   │   └── vsm-mapping.md
 │   │   ├── vsl/
 │   │   │   ├── 13-step-vsl.md
 │   │   │   ├── 15-step-vsl.md
@@ -601,14 +581,13 @@ Full A-Z structure. Every file in the template.
 │   │   │   └── README.md
 │   │   └── threads-twitter/
 │   │       └── README.md
-│   ├── templates/
-│   │   └── README.md
-│   └── AGENT-ARCHITECTURE.md
+│   └── templates/
+│       └── README.md
 ├── skills/
 │   ├── ad-creative/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
-│   │   │   └── claude-code.md
+│   │   │   ├── claude-code.md
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
@@ -616,8 +595,8 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── affiliate-program/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
-│   │   │   └── claude-code.md
+│   │   │   ├── claude-code.md
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
@@ -625,8 +604,8 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── build-funnel/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
-│   │   │   └── claude-code.md
+│   │   │   ├── claude-code.md
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
@@ -634,8 +613,8 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── build-icp/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
-│   │   │   └── claude-code.md
+│   │   │   ├── claude-code.md
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
@@ -643,22 +622,22 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── build-positioning/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
 │   │   │   ├── claude-code.md
-│   │   │   └── http.openapi.yaml
+│   │   │   ├── http.openapi.yaml
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
-│   │   │   ├── hnwi-client-positioning.md
-│   │   │   ├── clipping-agency-positioning.md
-│   │   │   ├── fitness-coaching-positioning.md
+│   │   │   ├── clipping-agency-positioning-example.md
+│   │   │   ├── fitness-coaching-positioning-example.md
+│   │   │   ├── hnwi-positioning-example.md
 │   │   │   └── mechanism-positioning-example.md
 │   │   ├── reference/
 │   │   └── SKILL.md
 │   ├── build-sop/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
-│   │   │   └── claude-code.md
+│   │   │   ├── claude-code.md
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
@@ -666,9 +645,9 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── build-vsl/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
 │   │   │   ├── claude-code.md
-│   │   │   └── http.openapi.yaml
+│   │   │   ├── http.openapi.yaml
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
@@ -680,9 +659,9 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── case-study/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
 │   │   │   ├── claude-code.md
-│   │   │   └── http.openapi.yaml
+│   │   │   ├── http.openapi.yaml
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
@@ -690,8 +669,8 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── competitor-intel/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
-│   │   │   └── claude-code.md
+│   │   │   ├── claude-code.md
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
@@ -699,8 +678,8 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── content-calendar/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
-│   │   │   └── claude-code.md
+│   │   │   ├── claude-code.md
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
@@ -708,23 +687,23 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── design-offer/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
 │   │   │   ├── claude-code.md
-│   │   │   └── http.openapi.yaml
+│   │   │   ├── http.openapi.yaml
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
 │   │   │   ├── 7-phase-offer-walkthrough-example.md
-│   │   │   ├── clipping-agency-tiered-offer.md
-│   │   │   ├── fitness-coaching.md
+│   │   │   ├── fitness-coaching-offer-example.md
 │   │   │   ├── grand-slam-gym-launch-example.md
-│   │   │   └── high-ticket-offer-example.md
+│   │   │   ├── high-ticket-offer-example.md
+│   │   │   └── tiered-offer-example.md
 │   │   ├── reference/
 │   │   └── SKILL.md
 │   ├── email-sequence/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
-│   │   │   └── claude-code.md
+│   │   │   ├── claude-code.md
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
@@ -732,9 +711,9 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── extract-voice/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
 │   │   │   ├── claude-code.md
-│   │   │   └── http.openapi.yaml
+│   │   │   ├── http.openapi.yaml
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
@@ -742,8 +721,8 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── hiring-brief/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
-│   │   │   └── claude-code.md
+│   │   │   ├── claude-code.md
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
@@ -751,8 +730,8 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── jv-webinar-proposal/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
-│   │   │   └── claude-code.md
+│   │   │   ├── claude-code.md
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
@@ -760,8 +739,8 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── launch-report/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
-│   │   │   └── claude-code.md
+│   │   │   ├── claude-code.md
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
@@ -769,8 +748,8 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── lead-magnet/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
-│   │   │   └── claude-code.md
+│   │   │   ├── claude-code.md
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
@@ -778,9 +757,9 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── plan-launch/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
 │   │   │   ├── claude-code.md
-│   │   │   └── http.openapi.yaml
+│   │   │   ├── http.openapi.yaml
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
@@ -788,8 +767,8 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── post-booking-nurture/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
-│   │   │   └── claude-code.md
+│   │   │   ├── claude-code.md
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
@@ -797,8 +776,8 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── referral-program/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
-│   │   │   └── claude-code.md
+│   │   │   ├── claude-code.md
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
@@ -806,21 +785,21 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── research/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
-│   │   │   └── claude-code.md
+│   │   │   ├── claude-code.md
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
-│   │   │   ├── agency-market-research.md
-│   │   │   ├── clipping-agency-signal-report.md
-│   │   │   ├── fitness-coaching-signal.md
-│   │   │   └── market-sophistication-applied-example.md
+│   │   │   ├── agency-market-research-example.md
+│   │   │   ├── fitness-coaching-signal-example.md
+│   │   │   ├── market-sophistication-applied-example.md
+│   │   │   └── signal-report-example.md
 │   │   ├── reference/
 │   │   └── SKILL.md
 │   ├── retention-check/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
-│   │   │   └── claude-code.md
+│   │   │   ├── claude-code.md
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
@@ -828,8 +807,8 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── revenue-report/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
-│   │   │   └── claude-code.md
+│   │   │   ├── claude-code.md
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
@@ -837,8 +816,8 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── story-sequence/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
-│   │   │   └── claude-code.md
+│   │   │   ├── claude-code.md
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
@@ -846,9 +825,9 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── webinar-script/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
 │   │   │   ├── claude-code.md
-│   │   │   └── http.openapi.yaml
+│   │   │   ├── http.openapi.yaml
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
@@ -856,8 +835,8 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── write-linkedin-post/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
-│   │   │   └── claude-code.md
+│   │   │   ├── claude-code.md
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
@@ -865,8 +844,8 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── write-reel/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
-│   │   │   └── claude-code.md
+│   │   │   ├── claude-code.md
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
@@ -874,8 +853,8 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── write-x-thread/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
-│   │   │   └── claude-code.md
+│   │   │   ├── claude-code.md
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
@@ -883,8 +862,8 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── write-youtube/
 │   │   ├── adapters/
-│   │   │   ├── manifest.yaml
-│   │   │   └── claude-code.md
+│   │   │   ├── claude-code.md
+│   │   │   └── manifest.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
@@ -893,13 +872,8 @@ Full A-Z structure. Every file in the template.
 │   └── _INDEX.md
 ├── spec/
 │   ├── BANNED-VOCABULARY.md
-│   ├── BLIND-OUTPUT-TEST.md
 │   ├── CONTEXT-THRESHOLDS.md
-│   ├── HTTP-OPENAPI-ADAPTER.md
-│   ├── INTEGRATIONS.md
-│   ├── QUALITY.md
-│   ├── RUNTIMES.md
-│   └── SIGNAL.md
+│   └── RUNTIMES.md
 ├── workflows/
 │   ├── automations/
 │   │   ├── booking-to-show.md
@@ -920,24 +894,48 @@ Full A-Z structure. Every file in the template.
 │   │   ├── partnerships-pipeline.md
 │   │   ├── sales-pipeline.md
 │   │   └── scale-pipeline.md
-│   └── execution-templates/
-│       ├── client-qbr-template.md
-│       ├── daily-standup-template.md
-│       ├── launch-debrief-template.md
-│       ├── post-mortem-template.md
-│       ├── rfc-decision-template.md
-│       ├── runbook-template.md
-│       └── weekly-review-template.md
+│   ├── execution-templates/
+│   │   ├── client-qbr-template.md
+│   │   ├── daily-standup-template.md
+│   │   ├── launch-debrief-template.md
+│   │   ├── post-mortem-template.md
+│   │   ├── rfc-decision-template.md
+│   │   ├── runbook-template.md
+│   │   └── weekly-review-template.md
+│   ├── handoffs/
+│   │   ├── quality-revision.md
+│   │   ├── skill-to-skill.md
+│   │   └── standard.md
+│   └── operations/
+│       ├── cadences/
+│       │   ├── daily.md
+│       │   ├── monthly.md
+│       │   ├── quarterly.md
+│       │   └── weekly.md
+│       ├── finance/
+│       │   └── tracker-schema.md
+│       ├── project-management/
+│       │   └── clickup.md
+│       ├── tool-sops/
+│       │   ├── ghl.md
+│       │   ├── loom.md
+│       │   ├── notion.md
+│       │   └── slack.md
+│       ├── _INDEX.md
+│       ├── competitive-intel-ops.md
+│       ├── crisis-management.md
+│       ├── daily-dashboard.md
+│       ├── hiring-roles.md
+│       ├── mode-of-operations.md
+│       ├── team-collaboration.md
+│       └── team-leadership.md
 ├── .env.template
 ├── .gitignore
 ├── CHANGELOG.md
-├── CONTRIBUTING.md
 ├── ENCODING.md
 ├── INVARIANTS.md
 ├── LICENSE
-├── PROVENANCE.md
 ├── README.md
-├── SECURITY.md
 ├── SYSTEM.md
 └── company.yaml
 ```
@@ -956,7 +954,7 @@ The template ships structure. Encoded creator content stays local.
 - [INV-11](INVARIANTS.md) is load-bearing — creator data never pushes to a public repo.
 - When forking for a new creator, reset `company.yaml` to the empty-template form and start `_private/` + `output/` empty.
 
-Full data contract in [**SECURITY.md**](SECURITY.md).
+Full data contract in [**SECURITY.md**](.github/SECURITY.md).
 
 <br/>
 
@@ -971,10 +969,10 @@ Full data contract in [**SECURITY.md**](SECURITY.md).
 | [Skill Authoring](docs/SKILL_AUTHORING.md) | Adding or modifying skills |
 | [Glossary](docs/GLOSSARY.md) | Every term — compartment, signal, S/N, sacred-format, flywheel |
 | [FAQ](docs/FAQ.md) | Runtimes, privacy, instantiation, quality |
-| [Contributing](CONTRIBUTING.md) | Internal contribution workflow + quality gates |
-| [Security](SECURITY.md) | Credential handling, data contract, vulnerability reporting |
+| [Contributing](.github/CONTRIBUTING.md) | Internal contribution workflow + quality gates |
+| [Security](.github/SECURITY.md) | Credential handling, data contract, vulnerability reporting |
 | [Changelog](CHANGELOG.md) | Version history |
-| [Provenance](PROVENANCE.md) | Authorship + foundational sources |
+| [Provenance](docs/PROVENANCE.md) | Authorship + foundational sources |
 
 <br/>
 

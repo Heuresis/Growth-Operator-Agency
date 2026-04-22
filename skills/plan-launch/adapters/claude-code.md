@@ -56,7 +56,7 @@ Before writing to `output/`:
 
 ## Failure handling
 
-Per `handoffs/quality-revision.md`: auto-revise → surface gap → escalate to launch-lead, log to `skills/plan-launch/evidence/failure-modes.md`. If pixel/CAPI unverified, block launch day. If any upstream asset missing, block plan from production use.
+Per `workflows/handoffs/quality-revision.md`: auto-revise → surface gap → escalate to launch-lead, log to `skills/plan-launch/evidence/failure-modes.md`. If pixel/CAPI unverified, block launch day. If any upstream asset missing, block plan from production use.
 
 ## Cross-skill routing
 

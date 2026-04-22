@@ -47,7 +47,7 @@ If `$ARGUMENTS` names a client or Thriving ID from retention-check, target that 
 ## Quality gates
 
 Before writing the case study to `output/`:
-- Run `_archive/spec/QUALITY.md` triple-layer verification (formal 40% + semantic 35% + information-theoretic 25%)
+- Run `reference/_archive/spec/QUALITY.md` triple-layer verification (formal 40% + semantic 35% + information-theoretic 25%)
 - Check `spec/BANNED-VOCABULARY.md` — reject if any banned phrases
 - Confirm every evidence_gate condition (isomorphic_fit_verified, raw_interview_captured, 6_level_hierarchy_classified, multiple_format_outputs, ftc_disclosure, client_approval)
 - Signal Score ≥ 0.8
@@ -56,7 +56,7 @@ Before writing the case study to `output/`:
 
 ## Failure handling
 
-If skill fails verification, follow `handoffs/quality-revision.md`:
+If skill fails verification, follow `workflows/handoffs/quality-revision.md`:
 - Attempt 1: auto-revise addressing the specific failure mode
 - Attempt 2: surface the gap to creator with targeted question (often missing raw-interview quotes or non-isomorphic client selected)
 - If both fail: escalate to scale-lead, log to `skills/case-study/evidence/failure-modes.md`

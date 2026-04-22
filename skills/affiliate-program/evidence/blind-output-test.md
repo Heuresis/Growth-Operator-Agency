@@ -1,6 +1,6 @@
 # Blind Output Test — /affiliate-program
 
-> Per `_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces an **Affiliate Program Specification**. Classification: **external** (published and read by real affiliate partners) — requires **2/3 evaluator pass**.
+> Per `reference/_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces an **Affiliate Program Specification**. Classification: **external** (published and read by real affiliate partners) — requires **2/3 evaluator pass**.
 
 ## Test Date(s)
 

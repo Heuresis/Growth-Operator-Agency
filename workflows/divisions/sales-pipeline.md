@@ -76,7 +76,7 @@ Active funnel with enough data to measure. Iteration window.
 | SCA recovery | ≥ 15% | Rework SCA email sequence + SMS |
 
 ## Entry / Exit Side-Effects
-- Every state writes to `operations/ledger.jsonl`
+- Every state writes to `workflows/operations/ledger.jsonl`
 - Script failures archived in `output/sales/_failures/`
 - Funnel pages tagged with version + cycle-id for A/B history
 - Converting-state rollback to OfferReady requires written rationale in `output/sales/offer-reset-{date}.md`

@@ -7,7 +7,7 @@
 - **Time**: same time every working day (typical: 09:00 local)
 - **Duration**: hard stop at 15 min (use a timer)
 - **Format**: standing (in-person), cameras-on (remote), or async-in-Slack if team spans > 6 hours of time zones
-- **Scribe**: rotates weekly; notes land in `operations/standup-log/{YYYY-MM-DD}.md`
+- **Scribe**: rotates weekly; notes land in `workflows/operations/standup-log/{YYYY-MM-DD}.md`
 
 ## Agenda (3 questions per person, 60–90s each)
 1. **Yesterday** — one sentence on what actually moved

@@ -46,7 +46,7 @@ If `$ARGUMENTS` contains `--framework=N`, force that the short-form-frameworks a
 ## Quality gates
 
 Before writing the artifact to `output/`:
-- Run `_archive/spec/QUALITY.md` triple-layer verification
+- Run `reference/_archive/spec/QUALITY.md` triple-layer verification
 - Check `spec/BANNED-VOCABULARY.md` — reject if any banned phrases
 - No income guarantees, no health claims without backing
 - Confirm every `evidence_gate` condition: framework variant selected, 60s timing grid complete (hard cap — never exceed), Hook Specificity ≥ 8, Loop OR CTA present (not both), voice-matched (3+ phrases_to_use), platform adaptations for all target platforms
@@ -55,7 +55,7 @@ Before writing the artifact to `output/`:
 
 ## Failure handling
 
-If the skill fails verification, follow `handoffs/quality-revision.md`:
+If the skill fails verification, follow `workflows/handoffs/quality-revision.md`:
 - Attempt 1: auto-revise addressing the specific failure mode (usually Specificity below 8 or generic opener)
 - Attempt 2: surface the gap to creator with a targeted question
 - If both fail: escalate to marketing-lead, log to `skills/write-reel/evidence/failure-modes.md`

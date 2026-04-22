@@ -57,7 +57,7 @@ Before writing to `output/`:
 
 ## Failure handling
 
-Per `handoffs/quality-revision.md`: auto-revise → surface gap → escalate to marketing-lead, log to `skills/story-sequence/evidence/failure-modes.md`.
+Per `workflows/handoffs/quality-revision.md`: auto-revise → surface gap → escalate to marketing-lead, log to `skills/story-sequence/evidence/failure-modes.md`.
 
 ## Cross-skill routing
 

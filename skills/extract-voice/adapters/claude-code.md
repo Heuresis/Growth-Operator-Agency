@@ -50,7 +50,7 @@ If `$ARGUMENTS` is provided, prioritize that channel's samples (e.g., "podcast" 
 ## Quality gates
 
 Before writing the artifact to `output/`:
-- Run `_archive/spec/QUALITY.md` triple-layer verification
+- Run `reference/_archive/spec/QUALITY.md` triple-layer verification
 - Check `spec/BANNED-VOCABULARY.md` — reject if any banned phrases leak through
 - Confirm every `evidence_gate` condition: all 10 sections, phrases_to_use ≥ 15 verbatim, phrases_to_avoid ≥ 10, language_patterns ≥ 5, voice_samples_annotated ≥ 5
 - Signal Score ≥ 0.8
@@ -59,7 +59,7 @@ Before writing the artifact to `output/`:
 
 ## Failure handling
 
-If the skill fails verification, follow `handoffs/quality-revision.md`:
+If the skill fails verification, follow `workflows/handoffs/quality-revision.md`:
 - Attempt 1: auto-revise addressing the specific failure mode (usually sparse samples → pause for more content capture)
 - Attempt 2: surface gap to creator with targeted question ("we need 2 more podcast transcripts to hit the 3+ instance threshold")
 - If both fail: escalate to foundations-lead, log to `skills/extract-voice/evidence/failure-modes.md`

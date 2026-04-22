@@ -49,7 +49,7 @@ If `$ARGUMENTS` contains `--archetype=N`, force that archetype. Otherwise apply 
 ## Quality gates
 
 Before writing the artifact to `output/`:
-- Run `_archive/spec/QUALITY.md` triple-layer verification
+- Run `reference/_archive/spec/QUALITY.md` triple-layer verification
 - Check `spec/BANNED-VOCABULARY.md` — reject if any banned phrases
 - Confirm every `evidence_gate` condition: archetype with reasoning, all 5 stages mapped, conversion metrics tabled, tracking plan specified, full dependency chain, economics validated against Offer Doc (LTV:CAC ≥ 3 per INV-4)
 - Signal Score ≥ 0.8
@@ -57,7 +57,7 @@ Before writing the artifact to `output/`:
 
 ## Failure handling
 
-If the skill fails verification, follow `handoffs/quality-revision.md`:
+If the skill fails verification, follow `workflows/handoffs/quality-revision.md`:
 - Attempt 1: auto-revise addressing the specific failure mode (usually economics reconciliation or dependency gap)
 - Attempt 2: surface the gap to creator with a targeted question ("VSL not ready — are we selecting Archetype 3 or waiting for VSL?")
 - If both fail: escalate to sales-lead, log to `skills/build-funnel/evidence/failure-modes.md`

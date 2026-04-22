@@ -1,6 +1,6 @@
 # Blind Output Test — /write-youtube
 
-> Per `_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **YouTube Long-Form Script**. Classification: **external** — requires **2/3 evaluator pass** before publishing. YouTube is the content OS director's "only platform that nurtures to high-ticket" — broken long-form = broken authority-build + broken conversion nurture.
+> Per `reference/_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **YouTube Long-Form Script**. Classification: **external** — requires **2/3 evaluator pass** before publishing. YouTube is the content OS director's "only platform that nurtures to high-ticket" — broken long-form = broken authority-build + broken conversion nurture.
 
 ## Test Date(s)
 

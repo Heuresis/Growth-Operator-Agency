@@ -9,7 +9,7 @@ Growth OS is structured around a hard split between **template structure** (ship
 | `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `spec/`, `skills/*/SKILL.md`, `agents/`, `reference/` | Heuresis-authored template structure | Yes |
 | `company.yaml` (template form, all fields empty) | Empty scaffold | Yes |
 | `company.yaml` (filled with creator values) | Creator IP | **No** |
-| `_private/*` | Creator research, notes, drafts | **No** |
+| `_private/*  # auto-created on first use` | Creator research, notes, drafts | **No** |
 | `output/*` | Generated artifacts per creator | **No** |
 | `.env` / `.env.local` | Credentials | **No** |
 | `.env.template` | Variable names only, no values | Yes |
@@ -41,7 +41,7 @@ Do not open a public issue for security reports. Internal triage happens first.
 
 - This template has no runtime dependencies. It is markdown and YAML.
 - When a runtime (slash-command runtime, the workspace manifest, Codex, Cursor, OpenClaw, custom HTTP adapter) loads the workspace, the runtime's own security posture applies on top.
-- MCP servers referenced in `_archive/spec/INTEGRATIONS.md` should be audited before production use. Heuresis does not own or guarantee third-party MCPs.
+- MCP servers referenced in `reference/_archive/spec/INTEGRATIONS.md` should be audited before production use. Heuresis does not own or guarantee third-party MCPs.
 
 ---
 

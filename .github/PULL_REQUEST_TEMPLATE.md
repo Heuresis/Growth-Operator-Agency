@@ -18,7 +18,7 @@ One paragraph on what this PR changes and why. Link to the issue or roadmap item
 
 ## Quality gates
 
-Per [`CONTRIBUTING.md`](../CONTRIBUTING.md):
+Per [`.github/CONTRIBUTING.md`](../CONTRIBUTING.md):
 
 - [ ] Banned-vocabulary sweep clean (`grep -i` against [`spec/BANNED-VOCABULARY.md`](../spec/BANNED-VOCABULARY.md))
 - [ ] No hardcoded `/Users/...` or developer-specific paths

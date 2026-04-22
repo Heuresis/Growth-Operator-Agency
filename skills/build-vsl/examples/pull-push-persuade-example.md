@@ -95,7 +95,7 @@ Marcus, 19, college student, zero experience. Week 5 first client at $1,800/mont
 
 - `reference/frameworks/vsl/hogendoorn-11-step.md` - framework structure
 - `reference/operators/external/lucas-hogendoorn.md` - the psychological copywriter lineage
-- `operations/clipping-agency/output/foundations/offer-document.md` - the offer this VSL sells
+- `workflows/operations/clipping-agency/output/foundations/offer-document.md` - the offer this VSL sells
 
 ---
 *Encoded 2026-04-19. [SYNTHESIZED] application of the psychological copywriter's 11-step framework [VERBATIM] to the Clipping Agency offer. Framework structure (3 phases, 11 steps, 8 invariants, 5-layer close) is pulled from source. Case testimonials (Jalen, Priya, Marcus) and cohort revenue figure are composite illustrative examples calibrated to the ICP document.*
