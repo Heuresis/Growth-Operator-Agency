@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img alt="Growth Operating Agency" src="docs/assets/hero-banner-light.svg" width="100%">
@@ -73,4 +72,3 @@ Each one built from the playbooks of operators who've run this at scale.
 MIT. Free forever.
 
 Built by [Syed Hussain](https://heuresis.ai) at [Heuresis](https://heuresis.ai).
-```
