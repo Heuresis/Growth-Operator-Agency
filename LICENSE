@@ -1,47 +1,21 @@
-Heuresis Proprietary License
-============================
+MIT License
 
-Copyright (c) 2026 Heuresis. All rights reserved.
+Copyright (c) 2026 Heuresis
 
-Growth OS is a proprietary workspace template authored by Heuresis.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-This repository and every file within it, including but not limited to
-SYSTEM.md, INVARIANTS.md, ENCODING.md, company.yaml, and the contents of
-the agents/, skills/, spec/, reference/, workflows/, handoffs/, and
-operations/ directories, is the confidential and proprietary work product
-of Heuresis.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-No part of this work may be copied, reproduced, distributed, republished,
-downloaded, displayed, posted, or transmitted in any form or by any means,
-including electronic, mechanical, photocopying, recording, or otherwise,
-without the prior written permission of Heuresis.
-
-Access to this repository is granted only to named collaborators approved
-by Heuresis. Redistribution, forking outside of the authorized Heuresis
-organization, sublicensing, or use of this material to train or fine-tune
-a machine learning model is expressly forbidden without written consent.
-
-This license applies to the entire work. The underlying public
-methodology sources referenced inside reference/ (Signal Theory, Canopy
-Protocol, published operator frameworks, classical persuasion literature)
-retain their own provenance and are not licensed under this file — only
-the encoded workspace structure, the composition, and the Heuresis
-commentary surrounding those sources are covered here.
-
-The workspace ships with a data-contract split (INV-11):
-
-  - Structure: the directory layout, SYSTEM prompts, INVARIANTS, skill
-    procedures, agent personas, spec files, reference encodings, and
-    workflow diagrams. These are the Heuresis template.
-
-  - Encoded creator data: company.yaml values, _private/ contents, and
-    output/ artifacts. When a creator instantiates this template, those
-    files contain the creator's own intellectual property. That content
-    is owned by the creator and is not covered by this Heuresis license.
-
-For licensing inquiries, write to hello@heuresis.ai.
-
-THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED. IN NO EVENT SHALL HEURESIS BE LIABLE FOR ANY CLAIM, DAMAGES, OR
-OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE WORK OR
-THE USE OR OTHER DEALINGS IN THE WORK.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

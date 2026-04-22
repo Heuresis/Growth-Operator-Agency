@@ -5,7 +5,7 @@
 <br/>
 
 [![Version](https://img.shields.io/badge/version-1.0.0-09090b?style=flat-square&labelColor=09090b&color=52525b)](CHANGELOG.md)
-[![License](https://img.shields.io/badge/license-Heuresis%20Proprietary-09090b?style=flat-square&labelColor=09090b&color=52525b)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-09090b?style=flat-square&labelColor=09090b&color=52525b)](LICENSE)
 [![Runtime](https://img.shields.io/badge/runtime-agnostic-b45309?style=flat-square&labelColor=09090b&color=b45309)](spec/RUNTIMES.md)
 [![Skills](https://img.shields.io/badge/skills-29-09090b?style=flat-square&labelColor=09090b&color=52525b)](skills/_INDEX.md)
 [![Agents](https://img.shields.io/badge/agents-41-09090b?style=flat-square&labelColor=09090b&color=52525b)](agents/_INDEX.md)
@@ -995,7 +995,7 @@ Growth OS is the first workspace template shipping under the Heuresis brand. See
 
 ## License
 
-Private. All rights reserved. See [LICENSE](LICENSE).
+[MIT](LICENSE). Use it, fork it, ship it.
 
 <br/>
 
