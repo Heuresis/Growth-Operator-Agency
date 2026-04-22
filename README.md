@@ -1,9 +1,5 @@
 <div align="center">
 
-<img alt="Growth Operating Agency" src="docs/assets/hero-banner-light.svg" width="100%">
-
-<br/>
-
 <h1>Growth Operating Agency</h1>
 
 <p><strong>Everything your creator business ships — in one folder.</strong></p>
