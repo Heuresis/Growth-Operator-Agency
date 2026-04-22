@@ -631,7 +631,7 @@ After `/launch-report` ships:
   - `reference/frameworks/growth-operating-process/7-step-launch-sop.md` (debrief template source + re-launch cadence rules)
   - `reference/frameworks/growth-operating-process/60-30-10-revenue-mix.md` (channel mix attribution)
   - `reference/frameworks/growth-operating-process/3-operational-rules.md` (decision log + weekly rhythm carry into post-launch)
-  - `_archive/frameworks/classical/impact-distribution.md` (40/40/20 attribution)
+  - `reference/_archive/frameworks/classical/impact-distribution.md` (40/40/20 attribution)
 - Operators:
   - `reference/operators/operations-director.md` (death-by-papercuts + Implement-Iterate-Amplify + debrief discipline)
   - `reference/operators/growth-engineer.md` (Fix Revenue Plateau diagnostic + Offer Proof Flywheel)

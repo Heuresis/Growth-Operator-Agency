@@ -1,6 +1,6 @@
 # Blind Output Test — /revenue-report
 
-> Per `_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Revenue Report** (P&L + unit economics + forecast). Classification: **internal** — requires **1/3 evaluator pass**.
+> Per `reference/_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Revenue Report** (P&L + unit economics + forecast). Classification: **internal** — requires **1/3 evaluator pass**.
 
 ## Test Date(s)
 

@@ -46,7 +46,7 @@ If `$ARGUMENTS` contains `--type=N|VSSL`, force that video type. Otherwise selec
 ## Quality gates
 
 Before writing the artifact to `output/`:
-- Run `_archive/spec/QUALITY.md` triple-layer verification
+- Run `reference/_archive/spec/QUALITY.md` triple-layer verification
 - Check `spec/BANNED-VOCABULARY.md` — full sweep
 - Truth Gate (30-second screenshot test per claim)
 - No income guarantees, no health claims without backing, FTC disclosure if testimonials referenced
@@ -56,7 +56,7 @@ Before writing the artifact to `output/`:
 
 ## Failure handling
 
-If the skill fails verification, follow `handoffs/quality-revision.md`:
+If the skill fails verification, follow `workflows/handoffs/quality-revision.md`:
 - Attempt 1: auto-revise addressing the specific failure mode (usually thin content brief or open curiosity loops at outro)
 - Attempt 2: surface the gap to creator with a targeted question
 - If both fail: escalate to marketing-lead, log to `skills/write-youtube/evidence/failure-modes.md`

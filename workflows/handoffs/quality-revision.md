@@ -4,7 +4,7 @@
 
 ## When to use
 
-- Signal-theory S/N composite score below threshold (< 0.5 internal, < 0.8 external per `_archive/spec/QUALITY.md`)
+- Signal-theory S/N composite score below threshold (< 0.5 internal, < 0.8 external per `reference/_archive/spec/QUALITY.md`)
 - Triple-layer verification failure (formal 40% / semantic 35% / information-theoretic 25%)
 - Blind Output Test failure (0 of 3 evaluators said "expert")
 - Critical-rule violation surfaced by agent or human review
@@ -86,8 +86,8 @@ If revision limit exhausted:
 - `standard.md` — the normal phase-transition handoff
 - `skill-to-skill.md` — programmatic invocation
 - `../INVARIANTS.md` — INV-13 revision limit
-- `../_archive/spec/QUALITY.md` — verification spec
-- `../_archive/spec/BLIND-OUTPUT-TEST.md` — the gold-standard validation protocol
+- `../reference/_archive/spec/QUALITY.md` — verification spec
+- `../reference/_archive/spec/BLIND-OUTPUT-TEST.md` — the gold-standard validation protocol
 
 ---
 *Workspace: Growth OS v1.0 — revision contract per `INVARIANTS.md` INV-13*

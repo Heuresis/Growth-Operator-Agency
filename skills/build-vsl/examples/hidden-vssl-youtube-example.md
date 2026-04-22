@@ -82,7 +82,7 @@ Chapter 5 is soft. Two-options framing, no countdown, no fake urgency. CTA in pi
 - `reference/frameworks/vsl/haynes-hidden-vssl.md` - framework structure
 - `reference/operators/growth-engineer.md` - the growth engineer lineage
 - `reference/operators/content-os-director.md` - 3 Content Types (VSSL as the only video with external CTA)
-- `operations/clipping-agency/output/foundations/offer-document.md` - the offer this VSSL sells
+- `workflows/operations/clipping-agency/output/foundations/offer-document.md` - the offer this VSSL sells
 - creator-native youtuber (@ohalloran_sam) - canonical executor of this variant on YouTube
 
 ---

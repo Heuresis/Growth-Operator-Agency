@@ -27,9 +27,9 @@ Initial private release of the Growth OS workspace template.
 
 - `.gitignore` — covers `.DS_Store`, credentials, runtime outputs, creator-encoded data, build artifacts.
 - `LICENSE` — MIT.
-- `SECURITY.md` — credential handling and `_private/` data contract.
-- `CONTRIBUTING.md` — internal contribution workflow.
-- `PROVENANCE.md` — authorship, foundational sources, theoretical roots.
+- `.github/SECURITY.md` — credential handling and `_private/` data contract.
+- `.github/CONTRIBUTING.md` — internal contribution workflow.
+- `docs/PROVENANCE.md` — authorship, foundational sources, theoretical roots.
 
 ### Known next steps
 

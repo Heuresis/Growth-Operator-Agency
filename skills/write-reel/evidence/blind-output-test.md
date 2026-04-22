@@ -1,6 +1,6 @@
 # Blind Output Test — /write-reel
 
-> Per `_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Short-Form Reel Script**. Classification: **external** — requires **2/3 evaluator pass** before public posting. Reels are the attention-layer that feeds cold audiences into the funnel — generic short-form burns reach + signals low-quality to the algorithm.
+> Per `reference/_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Short-Form Reel Script**. Classification: **external** — requires **2/3 evaluator pass** before public posting. Reels are the attention-layer that feeds cold audiences into the funnel — generic short-form burns reach + signals low-quality to the algorithm.
 
 ## Test Date(s)
 

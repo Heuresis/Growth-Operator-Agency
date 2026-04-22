@@ -92,11 +92,11 @@ Course + weekly group coaching + hot-seat calls + community. Lifetime course acc
 
 ## Source
 
-- `operations/clipping-agency/output/foundations/offer-document.md` - full offer document
-- `operations/clipping-agency/output/foundations/signal-report.md` - Phase 4 offer design section
+- `workflows/operations/clipping-agency/output/foundations/offer-document.md` - full offer document
+- `workflows/operations/clipping-agency/output/foundations/signal-report.md` - Phase 4 offer design section
 - `reference/frameworks/esoteric-offer-architecture/7-phase-offer-architecture.md` - Phase 2.6 Pricing Architecture (tiered default)
 - `reference/frameworks/acquisition-economics/value-equation.md` - scoring engine
-- `operations/clipping-agency/company.yaml` - offer_architecture compartment
+- `workflows/operations/clipping-agency/company.yaml` - offer_architecture compartment
 
 ---
 *Encoded 2026-04-19. All tier deliverables, pricing, guarantee language, and economics figures are [VERBATIM] from the Clipping Agency offer document instantiation. The the offer architect-vs-the acquisition economist synthesis is framework-level attribution, not a direct quote.*

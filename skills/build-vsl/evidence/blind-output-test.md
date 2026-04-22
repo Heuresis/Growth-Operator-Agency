@@ -1,6 +1,6 @@
 # Blind Output Test — /build-vsl
 
-> Per `_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **VSL Script**. Classification: **sacred-format** — requires **3/3 evaluator pass** before any paid traffic. This is the asset that ad spend points at — broken VSL = burned budget.
+> Per `reference/_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **VSL Script**. Classification: **sacred-format** — requires **3/3 evaluator pass** before any paid traffic. This is the asset that ad spend points at — broken VSL = burned budget.
 
 ## Test Date(s)
 

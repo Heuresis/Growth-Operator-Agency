@@ -49,7 +49,7 @@ If `$ARGUMENTS` is provided, use it as the target month or day count. Otherwise 
 ## Quality gates
 
 Before writing the artifact to `output/`:
-- Run `_archive/spec/QUALITY.md` triple-layer verification
+- Run `reference/_archive/spec/QUALITY.md` triple-layer verification
 - Check `spec/BANNED-VOCABULARY.md` — sweep all brief language
 - Confirm every `evidence_gate` condition: 30-day calendar complete, 40/30/20/10 pillar ratio enforced weekly + monthly, content-to-conversion bridge 50/35/15 distributed, Core Four channel mix applied, per-post brief for every slot, platform-specific cadence respected (the VSL director Shorts Rule, LinkedIn 3-4/week NOT daily)
 - Big Enemy appears at least weekly
@@ -58,7 +58,7 @@ Before writing the artifact to `output/`:
 
 ## Failure handling
 
-If the skill fails verification, follow `handoffs/quality-revision.md`:
+If the skill fails verification, follow `workflows/handoffs/quality-revision.md`:
 - Attempt 1: auto-revise addressing the specific failure mode (usually pillar imbalance or over-trend content)
 - Attempt 2: surface the gap to creator with a targeted question ("we have 0 active channels marked — which 1-2 should we start with?")
 - If both fail: escalate to marketing-lead, log to `skills/content-calendar/evidence/failure-modes.md`

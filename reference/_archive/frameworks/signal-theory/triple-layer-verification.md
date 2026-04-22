@@ -91,7 +91,7 @@ Violations of these = automatic reject regardless of composite score.
 
 ## Violation Handling
 
-Per `handoffs/quality-revision.md`:
+Per `workflows/handoffs/quality-revision.md`:
 1. **Attempt 1** — auto-revise addressing the specific failure mode
 2. **Attempt 2** — creator-assisted (surface the gap + targeted question)
 3. **Escalate** — after 2 attempts, halt + log to `skills/{slug}/evidence/failure-modes.md`

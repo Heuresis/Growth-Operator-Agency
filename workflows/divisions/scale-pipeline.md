@@ -88,7 +88,7 @@ Monthly review loop. `/competitor-intel` (quarterly) + revenue report + retentio
 - Gross margin (≥ 60% services, ≥ 80% info)
 
 ## Entry / Exit Side-Effects
-- Every state transition logs to `operations/ledger.jsonl`
+- Every state transition logs to `workflows/operations/ledger.jsonl`
 - Retention health-scans produce a per-customer row in `output/scale/retention/log.csv`
 - Hire-fail triggers post-mortem at `output/scale/hires/_post-mortems/`
 - Monthly reports archive in `output/scale/reports/`

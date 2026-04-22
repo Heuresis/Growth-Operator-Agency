@@ -95,7 +95,7 @@ Foundations artifacts complete. Sales division can start (`/build-vsl`).
 - **Cycle-back is allowed.** If Sales discovers the offer is broken, they emit a `foundation-reset` signal and this pipeline returns to `Researching` for that offer.
 
 ## Entry / Exit Side-Effects
-- Every state transition writes to `operations/ledger.jsonl`
+- Every state transition writes to `workflows/operations/ledger.jsonl`
 - Every state produces a single artifact in `output/foundations/`
 - Every gate failure produces `output/foundations/_failures/{timestamp}-{state}.md` with diagnosis
 

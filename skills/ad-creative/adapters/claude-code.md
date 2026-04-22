@@ -50,7 +50,7 @@ If `$ARGUMENTS` contains `--type=N`, force that ad type. Otherwise auto-select b
 ## Quality gates
 
 Before writing the artifact to `output/`:
-- Run `_archive/spec/QUALITY.md` triple-layer verification
+- Run `reference/_archive/spec/QUALITY.md` triple-layer verification
 - Check `spec/BANNED-VOCABULARY.md` — full INV-7 sweep
 - Compliance: no income guarantees, no health claims without clinical backing, no before/after without disclaimer, Meta restricted category check if applicable, FTC disclosure if testimonials
 - Confirm every `evidence_gate` condition: ad type with reasoning, Specificity Score ≥ 8 per variant, mechanism referenced, voice-matched, compliance passed, variant count ≥ 3
@@ -59,7 +59,7 @@ Before writing the artifact to `output/`:
 
 ## Failure handling
 
-If the skill fails verification, follow `handoffs/quality-revision.md`:
+If the skill fails verification, follow `workflows/handoffs/quality-revision.md`:
 - Attempt 1: auto-revise addressing the specific failure mode (usually specificity gap or voice mismatch)
 - Attempt 2: surface the gap to creator with a targeted question
 - If both fail: escalate to marketing-lead, log to `skills/ad-creative/evidence/failure-modes.md`

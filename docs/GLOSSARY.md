@@ -10,7 +10,7 @@ A thin binding file inside `skills/{slug}/adapters/` that translates a runtime-a
 
 ## Blind Output Test
 
-The encoding-completeness protocol. Three evaluators who know the creator's work see the output and answer: *did the creator produce this, or the system?* If at least one says "creator" or "can't tell," encoding passed. If zero do, the encoding is wrong — revise. Spec at [`_archive/spec/BLIND-OUTPUT-TEST.md`](../_archive/spec/BLIND-OUTPUT-TEST.md).
+The encoding-completeness protocol. Three evaluators who know the creator's work see the output and answer: *did the creator produce this, or the system?* If at least one says "creator" or "can't tell," encoding passed. If zero do, the encoding is wrong — revise. Spec at [`reference/_archive/spec/BLIND-OUTPUT-TEST.md`](../reference/_archive/spec/BLIND-OUTPUT-TEST.md).
 
 ## workspace protocol
 
@@ -42,7 +42,7 @@ The methodology (by Syed Hussain, V4 published at encodedfounder.com) for transl
 
 ## Growth OS
 
-The predecessor / research workspace that Growth OS is extracted from. The 82KB agent architecture bible lives at [`_archive/AGENT-ARCHITECTURE.md`](../_archive/AGENT-ARCHITECTURE.md). Growth OS is Growth OS generalized and productized as a template.
+The predecessor / research workspace that Growth OS is extracted from. The 82KB agent architecture bible lives at [`reference/_archive/AGENT-ARCHITECTURE.md`](../reference/_archive/AGENT-ARCHITECTURE.md). Growth OS is Growth OS generalized and productized as a template.
 
 ## Impact Distribution Principle
 
@@ -74,11 +74,11 @@ The strictest skill tier — 3/3 Blind Output Test pass required. Applies to the
 
 ## Signal
 
-An output of a skill, encoded as a 5-tuple `(Mode, Genre, Type, Format, Structure)`. Unresolved dimensions equal noise. Per the Signal Theory author's Signal Theory. See [`_archive/spec/SIGNAL.md`](../_archive/spec/SIGNAL.md).
+An output of a skill, encoded as a 5-tuple `(Mode, Genre, Type, Format, Structure)`. Unresolved dimensions equal noise. Per the Signal Theory author's Signal Theory. See [`reference/_archive/spec/SIGNAL.md`](../reference/_archive/spec/SIGNAL.md).
 
 ## Signal Theory
 
-Signal Theory's methodology for intent encoding. The quality substrate Growth OS rests on. Spec at [`_archive/spec/SIGNAL.md`](../_archive/spec/SIGNAL.md).
+Signal Theory's methodology for intent encoding. The quality substrate Growth OS rests on. Spec at [`reference/_archive/spec/SIGNAL.md`](../reference/_archive/spec/SIGNAL.md).
 
 ## S/N
 
@@ -90,7 +90,7 @@ A deterministic procedure that produces a specific asset. Lives as a folder `ski
 
 ## Triple-Layer Verification
 
-The output gate: 40% formal + 35% semantic + 25% information-theoretic. All three layers must pass before ship. Spec at [`_archive/spec/QUALITY.md`](../_archive/spec/QUALITY.md).
+The output gate: 40% formal + 35% semantic + 25% information-theoretic. All three layers must pass before ship. Spec at [`reference/_archive/spec/QUALITY.md`](../reference/_archive/spec/QUALITY.md).
 
 ## Voice of Customer (VOC)
 

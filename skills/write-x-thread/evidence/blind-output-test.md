@@ -1,6 +1,6 @@
 # Blind Output Test — /write-x-thread
 
-> Per `_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces an **X/Twitter Thread** (one of 7 types). Classification: **external** — requires **2/3 evaluator pass** before posting to creator's production feed.
+> Per `reference/_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces an **X/Twitter Thread** (one of 7 types). Classification: **external** — requires **2/3 evaluator pass** before posting to creator's production feed.
 
 ## Test Date(s)
 

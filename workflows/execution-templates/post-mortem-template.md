@@ -195,7 +195,7 @@ LESSONS
 
 ## Cross-references
 - Templates: `workflows/execution-templates/rfc-decision-template.md`, `workflows/execution-templates/runbook-template.md`
-- Incident response: `operations/` ledger
+- Incident response: `workflows/operations/` ledger
 - Knowledge: `reference/knowledge/launch.md` (launch SOPs), `reference/knowledge/scale.md` (SOP audits)
 
 ---

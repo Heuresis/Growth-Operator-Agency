@@ -2,12 +2,12 @@
 
 > **Purpose:** team + process SOPs for running the Growth OS as an operating agency (team-level, not per-client-operation).
 >
-> **Scope note:** this `operations/` directory is the team-ops surface that every instantiation of the template inherits — the SOPs, cadences, and tool configurations a Heuresis-run operation uses to execute. It is distinct from the per-creator delivery instance that spins up downstream.
+> **Scope note:** this `workflows/operations/` directory is the team-ops surface that every instantiation of the template inherits — the SOPs, cadences, and tool configurations a Heuresis-run operation uses to execute. It is distinct from the per-creator delivery instance that spins up downstream.
 
 ## Layout
 
 ```
-operations/
+workflows/operations/
 ├── cadences/           # Recurring meeting rhythm
 │   ├── daily.md
 │   ├── weekly.md
@@ -46,7 +46,7 @@ operations/
 ## Relationship to skills
 
 Operations files are the **team-level SOPs**; skills are the **per-deliverable methodology**. Example:
-- `operations/cadences/weekly.md` tells the team to run a weekly launch review.
+- `workflows/operations/cadences/weekly.md` tells the team to run a weekly launch review.
 - `skills/launch-report/SKILL.md` tells the agent what an individual launch report looks like.
 - Agent running skill → output → team reviews output at weekly cadence.
 

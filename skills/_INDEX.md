@@ -100,9 +100,9 @@ Every skill maps 1:1 to a slash-command in `.claude/commands/{slug}.md`. manifes
 
 Cross-cutting frameworks every skill can pull from:
 
-- **Signal Theory** (`_archive/frameworks/signal-theory/`) — applies to every skill's output verification
+- **Signal Theory** (`reference/_archive/frameworks/signal-theory/`) — applies to every skill's output verification
 - **Primitives** (`reference/frameworks/primitives/`) — Unique Mechanism, Value Equation, Core Four, Call Funnel, Educate-before-pitch, Specificity
-- **Cult Methodology** (`_archive/frameworks/cult-methodology/`) — authority and community-building patterns
+- **Cult Methodology** (`reference/_archive/frameworks/cult-methodology/`) — authority and community-building patterns
 - **Esoteric Marketing** (`reference/frameworks/esoteric-marketing/`) — emotional marketing, low-ticket ascension, 40/40/20
 - **Growth Operating Process** (`reference/frameworks/growth-operating-process/`) — the straight operating process for ops
 - **Instagram Profile Funnel** (`reference/frameworks/instagram-profile-funnel/`) — the IG ecosystem stack

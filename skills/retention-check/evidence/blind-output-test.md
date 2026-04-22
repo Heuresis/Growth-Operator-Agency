@@ -1,6 +1,6 @@
 # Blind Output Test — /retention-check
 
-> Per `_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Retention / Client Health Report**. Classification: **internal** — requires **1/3 evaluator pass**.
+> Per `reference/_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Retention / Client Health Report**. Classification: **internal** — requires **1/3 evaluator pass**.
 
 ## Test Date(s)
 

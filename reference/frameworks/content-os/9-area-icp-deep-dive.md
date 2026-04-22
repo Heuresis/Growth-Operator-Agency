@@ -176,7 +176,7 @@ If the document falls short on any of these, the downstream copy will generalize
 - `reference/frameworks/icp-deep-dive.md` (Growth OS canonical source of the 9 areas)
 - `skills/build-icp/SKILL.md` (13-section ICP Document format that consumes this framework)
 - `agents/icp-builder.md` (agent that runs the 9-area interrogation)
-- `_archive/frameworks/classical/4-belief-layers.md` (belief-depth companion)
+- `reference/_archive/frameworks/classical/4-belief-layers.md` (belief-depth companion)
 - `reference/frameworks/content-os/education-os-4-phase.md` (Indoctrination phase uses area 4 output)
 
 ## Non-applicable scenarios

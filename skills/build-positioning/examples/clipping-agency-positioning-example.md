@@ -81,9 +81,9 @@ The creator stopped thinking of themselves as a "clipper" and started thinking o
 
 ## Source
 
-- `operations/clipping-agency/output/foundations/positioning-document.md` - full positioning document
-- `operations/clipping-agency/output/foundations/signal-report.md` - Phase 3 positioning section
-- `operations/clipping-agency/output/foundations/icp-document.md` - ICP that grounds the positioning
+- `workflows/operations/clipping-agency/output/foundations/positioning-document.md` - full positioning document
+- `workflows/operations/clipping-agency/output/foundations/signal-report.md` - Phase 3 positioning section
+- `workflows/operations/clipping-agency/output/foundations/icp-document.md` - ICP that grounds the positioning
 - `reference/frameworks/esoteric-offer-architecture/7-phase-offer-architecture.md` - Phase 2.2 mechanism identification
 
 ---

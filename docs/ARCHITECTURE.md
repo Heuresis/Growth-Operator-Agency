@@ -117,7 +117,7 @@ Unresolved dimensions equal noise. The S/N ratio is measured per output and gate
 - S/N ≥ 0.5 → internal / usable draft
 - S/N < 0.5 → reject plus revise
 
-Signal Theory is the quality substrate. It is not a style guide — it is the information-theoretic backbone that determines whether an output actually lands. See [`_archive/spec/SIGNAL.md`](../_archive/spec/SIGNAL.md).
+Signal Theory is the quality substrate. It is not a style guide — it is the information-theoretic backbone that determines whether an output actually lands. See [`reference/_archive/spec/SIGNAL.md`](../reference/_archive/spec/SIGNAL.md).
 
 ---
 
@@ -133,7 +133,7 @@ Every output passes through three gates before ship:
 
 Plus the **Blind Output Test** for ship-worthy assets: three evaluators who know the creator's work answer "Did the creator produce this, or the system?" If at least one says "creator" or "can't tell," the encoding passed. If zero say "creator," revise.
 
-See [`_archive/spec/QUALITY.md`](../_archive/spec/QUALITY.md) and [`_archive/spec/BLIND-OUTPUT-TEST.md`](../_archive/spec/BLIND-OUTPUT-TEST.md).
+See [`reference/_archive/spec/QUALITY.md`](../reference/_archive/spec/QUALITY.md) and [`reference/_archive/spec/BLIND-OUTPUT-TEST.md`](../reference/_archive/spec/BLIND-OUTPUT-TEST.md).
 
 ---
 
@@ -170,7 +170,7 @@ Agents are thin personas. Business logic lives in skills, not agents. The routin
 3. Division lead routes to the specialist that owns the relevant skill.
 4. Specialist loads `skills/{slug}/SKILL.md`, checks context thresholds, executes.
 5. Output passes through the triple-layer gate.
-6. On pass, artifact ships. On fail, handoff per `handoffs/quality-revision.md` (max 2 attempts before creator escalation).
+6. On pass, artifact ships. On fail, handoff per `workflows/handoffs/quality-revision.md` (max 2 attempts before creator escalation).
 
 See [`agents/_INDEX.md`](../agents/_INDEX.md) for the full roster and reporting chain.
 
@@ -184,7 +184,7 @@ See [`agents/_INDEX.md`](../agents/_INDEX.md) for the full roster and reporting 
 
 ## Further reading
 
-- [`PROVENANCE.md`](../PROVENANCE.md) — authorship, foundational sources, what Heuresis owns and does not own
+- [`docs/PROVENANCE.md`](../PROVENANCE.md) — authorship, foundational sources, what Heuresis owns and does not own
 - [`SYSTEM.md`](../SYSTEM.md) — the boot file, full routing, full spec catalog
 - [`INVARIANTS.md`](../INVARIANTS.md) — the 14 sacred rules
 - [`ENCODING.md`](../ENCODING.md) — the 11-compartment schema

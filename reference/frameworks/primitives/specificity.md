@@ -49,7 +49,7 @@ Score: **10 = unique visual concept or unique verbal framing**. Score: **1 = "st
 Specificity Score = (Audience + Problem + Mechanism + Outcome + Creative) / 5
 ```
 
-**Gate thresholds** (per `_archive/spec/QUALITY.md`):
+**Gate thresholds** (per `reference/_archive/spec/QUALITY.md`):
 - ≥ 8 = ship-ready for external
 - 6-7 = revise before ship
 - < 6 = reject, rewrite

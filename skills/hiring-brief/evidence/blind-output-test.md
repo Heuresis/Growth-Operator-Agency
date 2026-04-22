@@ -1,6 +1,6 @@
 # Blind Output Test — /hiring-brief
 
-> Per `_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Hiring Brief**. Classification: **internal** — requires **1/3 evaluator pass**.
+> Per `reference/_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Hiring Brief**. Classification: **internal** — requires **1/3 evaluator pass**.
 
 ## Test Date(s)
 

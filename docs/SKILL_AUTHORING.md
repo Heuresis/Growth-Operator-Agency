@@ -114,7 +114,7 @@ Load and execute `skills/design-offer/SKILL.md` in the current workspace.
 
 ## Quality gates
 
-- Triple-layer verification per `_archive/spec/QUALITY.md`.
+- Triple-layer verification per `reference/_archive/spec/QUALITY.md`.
 - Banned-vocabulary check per `spec/BANNED-VOCABULARY.md`.
 - Economics: 3:1 LTV:CAC enforced per INV-4.
 - Signal score ≥ 0.8 before ship.
@@ -122,7 +122,7 @@ Load and execute `skills/design-offer/SKILL.md` in the current workspace.
 
 ## Failure handling
 
-Per `handoffs/quality-revision.md`: auto-revise once, then surface the gap to the creator, then escalate.
+Per `workflows/handoffs/quality-revision.md`: auto-revise once, then surface the gap to the creator, then escalate.
 
 `$ARGUMENTS`
 ```
@@ -245,7 +245,7 @@ Changes to adapter files are safe in isolation. Changes to `SKILL.md` are not.
 
 ## Quality gates before commit
 
-Per [`CONTRIBUTING.md`](../CONTRIBUTING.md):
+Per [`.github/CONTRIBUTING.md`](../CONTRIBUTING.md):
 
 - Banned-vocabulary sweep clean.
 - No hardcoded `/Users/...` paths.

@@ -1,4 +1,4 @@
-# _archive/
+# reference/_archive/
 
 Dense / academic / future reference content, moved out of the main workspace to keep Growth OS focused on day-to-day use.
 

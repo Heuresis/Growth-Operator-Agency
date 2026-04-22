@@ -102,7 +102,7 @@ Convert a purchase from a transaction into a momentum-rich onboarding experience
 - If applicable: upsell sequence fires based on product-ladder
 
 **Step 10. Log**
-- `operations/ledger.jsonl`: `{timestamp, event:purchase_completed, customer_id, sku, amount}`
+- `workflows/operations/ledger.jsonl`: `{timestamp, event:purchase_completed, customer_id, sku, amount}`
 - Fire conversion pixel (FB, Google, TikTok)
 - Revenue dashboard updated
 

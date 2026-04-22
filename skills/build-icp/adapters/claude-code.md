@@ -49,7 +49,7 @@ If `$ARGUMENTS` is provided, focus the ICP on that specific offer. Otherwise tar
 ## Quality gates
 
 Before writing the artifact to `output/`:
-- Run `_archive/spec/QUALITY.md` triple-layer verification (formal 40% + semantic 35% + information-theoretic 25%)
+- Run `reference/_archive/spec/QUALITY.md` triple-layer verification (formal 40% + semantic 35% + information-theoretic 25%)
 - Check `spec/BANNED-VOCABULARY.md` — reject if any banned phrases
 - Confirm every `evidence_gate` condition is satisfied
 - Completeness Score >= 80
@@ -60,7 +60,7 @@ Before writing the artifact to `output/`:
 
 ## Failure handling
 
-If the skill fails verification, follow `handoffs/quality-revision.md`:
+If the skill fails verification, follow `workflows/handoffs/quality-revision.md`:
 - Attempt 1: auto-revise addressing the specific failure mode
 - Attempt 2: surface the gap to creator with a targeted question
 - If both fail: escalate to foundations-lead, log to `skills/build-icp/evidence/failure-modes.md`

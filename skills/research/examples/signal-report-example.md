@@ -95,8 +95,8 @@ AI tools (Opus Clip at 16M users, $29/mo) are commoditizing basic clipping. The 
 
 ## Source
 
-- `operations/clipping-agency/output/foundations/signal-report.md` - full 64,500-word report
-- `operations/clipping-agency/output/foundations/audience-intelligence-report.md` - complementary audience intelligence
+- `workflows/operations/clipping-agency/output/foundations/signal-report.md` - full 64,500-word report
+- `workflows/operations/clipping-agency/output/foundations/audience-intelligence-report.md` - complementary audience intelligence
 - Primary sources cited: Goldman Sachs, Bloomberg, NPR, Entrepreneur.com, DemandSage, Sacra, Yaguara, Business Research Insights, OpenPR
 
 ---
