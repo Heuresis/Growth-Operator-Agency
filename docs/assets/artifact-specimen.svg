@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img" aria-label="Artifact specimen — value stack from /build-vsl output">
+  <style>
+    .bg { fill: #faf8f5; }
+    .ink { fill: #09090b; }
+    .graphite { fill: #52525b; }
+    .hair { stroke: #d4d4d8; stroke-width: 0.5; fill: none; }
+    .rule-thick { stroke: #09090b; stroke-width: 1; fill: none; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+    .serif { font-family: "Charter", "Iowan Old Style", Georgia, "Times New Roman", serif; }
+    .mono { font-family: ui-monospace, "SF Mono", "Menlo", "IBM Plex Mono", Consolas, monospace; }
+    .eyebrow { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; }
+    .label { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; }
+    .spec { font-size: 14px; }
+    .body { font-size: 14px; }
+    .h1 { font-size: 64px; font-weight: 400; letter-spacing: -0.02em; }
+    .num { font-size: 13px; }
+    .val { font-size: 16px; }
+    .price { font-size: 52px; font-weight: 400; }
+    .total { font-size: 22px; }
+    .foot { font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase; }
+  </style>
+
+  <rect class="bg" width="1600" height="1000"/>
+
+  <!-- Eyebrow -->
+  <text class="mono eyebrow graphite" x="120" y="100">Artifact · Value stack · /build-vsl output specimen</text>
+
+  <!-- Title -->
+  <text class="serif ink h1" x="120" y="185">Everything you get.</text>
+
+  <!-- Thick rule -->
+  <line class="rule-thick" x1="120" y1="240" x2="1480" y2="240"/>
+
+  <!-- Column headers -->
+  <text class="mono label graphite" x="120" y="285">No.</text>
+  <text class="mono label graphite" x="210" y="285">Component</text>
+  <text class="mono label graphite" x="740" y="285">Description</text>
+  <text class="mono label graphite" x="1480" y="285" text-anchor="end">Value</text>
+  <line class="hair" x1="120" y1="305" x2="1480" y2="305"/>
+
+  <!-- Row 1 -->
+  <text class="mono num ink" x="120" y="345">01</text>
+  <text class="serif ink val" x="210" y="345">Core program</text>
+  <text class="sans graphite body" x="740" y="345">12-week live cohort + on-demand curriculum</text>
+  <text class="mono val ink" x="1480" y="345" text-anchor="end">$4,997</text>
+  <line class="hair" x1="120" y1="370" x2="1480" y2="370"/>
+
+  <!-- Row 2 -->
+  <text class="mono num ink" x="120" y="405">02</text>
+  <text class="serif ink val" x="210" y="405">1:1 onboarding</text>
+  <text class="sans graphite body" x="740" y="405">60-min strategy call + custom rollout plan</text>
+  <text class="mono val ink" x="1480" y="405" text-anchor="end">$1,500</text>
+  <line class="hair" x1="120" y1="430" x2="1480" y2="430"/>
+
+  <!-- Row 3 -->
+  <text class="mono num ink" x="120" y="465">03</text>
+  <text class="serif ink val" x="210" y="465">Private community</text>
+  <text class="sans graphite body" x="740" y="465">Peer cohort + weekly office hours for 12 months</text>
+  <text class="mono val ink" x="1480" y="465" text-anchor="end">$2,400</text>
+  <line class="hair" x1="120" y1="490" x2="1480" y2="490"/>
+
+  <!-- Row 4 -->
+  <text class="mono num ink" x="120" y="525">04</text>
+  <text class="serif ink val" x="210" y="525">Swipe library</text>
+  <text class="sans graphite body" x="740" y="525">170+ hooks · 20 templates · proven patterns</text>
+  <text class="mono val ink" x="1480" y="525" text-anchor="end">$1,200</text>
+  <line class="hair" x1="120" y1="550" x2="1480" y2="550"/>
+
+  <!-- Row 5 -->
+  <text class="mono num ink" x="120" y="585">05</text>
+  <text class="serif ink val" x="210" y="585">Implementation audit</text>
+  <text class="sans graphite body" x="740" y="585">Week-6 1:1 review + adjustments</text>
+  <text class="mono val ink" x="1480" y="585" text-anchor="end">$1,000</text>
+  <line class="hair" x1="120" y1="610" x2="1480" y2="610"/>
+
+  <!-- Row 6 -->
+  <text class="mono num ink" x="120" y="645">06</text>
+  <text class="serif ink val" x="210" y="645">Lifetime updates</text>
+  <text class="sans graphite body" x="740" y="645">New modules as the methodology extends</text>
+  <text class="mono val ink" x="1480" y="645" text-anchor="end">$1,800</text>
+  <line class="hair" x1="120" y1="670" x2="1480" y2="670"/>
+
+  <!-- Total row -->
+  <text class="mono label graphite" x="120" y="710">Total value</text>
+  <text class="mono total ink" x="1480" y="710" text-anchor="end">$12,897</text>
+  <line class="rule-thick" x1="120" y1="740" x2="1480" y2="740"/>
+
+  <!-- Price reveal -->
+  <text class="mono label graphite" x="120" y="790">Today</text>
+  <text class="serif price ink" x="210" y="810">$2,997</text>
+  <text class="sans graphite body" x="470" y="810">or 3 monthly payments of $1,100</text>
+
+  <!-- Guarantee -->
+  <text class="mono label graphite" x="120" y="870">Guarantee</text>
+  <text class="sans ink body" x="280" y="870">Complete weeks 1–4 + submit deliverables. If you don't hit the benchmark, full refund.</text>
+
+  <!-- Scarcity -->
+  <text class="mono label graphite" x="120" y="905">Scarcity</text>
+  <text class="sans ink body" x="280" y="905">Cohort starts [date]. 40 seats. Price increases next cycle.</text>
+
+  <!-- Footer -->
+  <line class="hair" x1="120" y1="945" x2="1480" y2="945"/>
+  <text class="mono foot graphite" x="120" y="980">Template · Growth Operating Agency · v1.1 · MIT</text>
+  <text class="mono foot graphite" x="1480" y="980" text-anchor="end">heuresis.ai</text>
+</svg>
