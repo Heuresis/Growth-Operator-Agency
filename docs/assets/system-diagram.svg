@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img" aria-label="Growth Operating Agency — system diagram">
+  <style>
+    .bg { fill: #faf8f5; }
+    .ink { fill: #09090b; }
+    .graphite { fill: #52525b; }
+    .hair { stroke: #d4d4d8; stroke-width: 0.5; fill: none; }
+    .rule-thick { stroke: #09090b; stroke-width: 1; fill: none; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+    .serif { font-family: "Charter", "Iowan Old Style", "Apple Garamond", Georgia, "Times New Roman", serif; }
+    .mono { font-family: ui-monospace, "SF Mono", "Menlo", "IBM Plex Mono", Consolas, monospace; }
+    .eyebrow { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; }
+    .spec-label { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; }
+    .h1 { font-size: 72px; font-weight: 400; letter-spacing: -0.02em; }
+    .h2 { font-size: 22px; font-weight: 500; }
+    .body { font-size: 14px; }
+    .spec { font-size: 13px; }
+    .foot { font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase; }
+  </style>
+
+  <rect class="bg" width="1600" height="1000"/>
+
+  <!-- Eyebrow -->
+  <text class="mono eyebrow graphite" x="120" y="110">Growth Operating Agency · System</text>
+
+  <!-- Title -->
+  <text class="serif ink h1" x="120" y="210">A business,</text>
+  <text class="serif ink h1" x="120" y="290">encoded.</text>
+
+  <!-- Subtitle -->
+  <text class="sans graphite body" x="120" y="340">36 skills.  41 agents.  One 11-compartment schema.</text>
+  <text class="sans graphite body" x="120" y="362">Runtime-agnostic. Markdown + YAML throughout.</text>
+
+  <!-- Thick rule -->
+  <line class="rule-thick" x1="120" y1="420" x2="1480" y2="420"/>
+
+  <!-- Column headers -->
+  <text class="mono spec-label graphite" x="120" y="470">Input</text>
+  <text class="mono spec-label graphite" x="640" y="470">Process</text>
+  <text class="mono spec-label graphite" x="1120" y="470">Output</text>
+
+  <!-- Column 1 — Input -->
+  <text class="serif ink h2" x="120" y="510">company.yaml</text>
+  <text class="sans graphite spec" x="120" y="535">Your business, captured once.</text>
+  <text class="mono ink spec" x="120" y="575">01   Creator identity</text>
+  <text class="mono ink spec" x="120" y="596">02   Audience intelligence</text>
+  <text class="mono ink spec" x="120" y="617">03   Offer architecture</text>
+  <text class="mono ink spec" x="120" y="638">04   Funnel systems</text>
+  <text class="mono ink spec" x="120" y="659">05   Copy + messaging</text>
+  <text class="mono ink spec" x="120" y="680">06   Content strategy</text>
+  <text class="mono ink spec" x="120" y="701">07   Traffic + acquisition</text>
+  <text class="mono ink spec" x="120" y="722">08   Conversion + sales</text>
+  <text class="mono ink spec" x="120" y="743">09   Education + nurture</text>
+  <text class="mono ink spec" x="120" y="764">10   Lifecycle + retention</text>
+  <text class="mono ink spec" x="120" y="785">11   Operational intelligence</text>
+
+  <!-- Arrow 1 -->
+  <text class="serif ink" font-size="28" x="565" y="635">→</text>
+
+  <!-- Column 2 — Process -->
+  <text class="serif ink h2" x="640" y="510">36 skills</text>
+  <text class="sans graphite spec" x="640" y="535">Executed by 41 AI specialists.</text>
+  <text class="mono ink spec" x="640" y="575">/research          /build-icp</text>
+  <text class="mono ink spec" x="640" y="596">/build-positioning /design-offer</text>
+  <text class="mono ink spec" x="640" y="617">/extract-voice     /build-vsl</text>
+  <text class="mono ink spec" x="640" y="638">/build-funnel      /ad-creative</text>
+  <text class="mono ink spec" x="640" y="659">/content-calendar  /lead-magnet</text>
+  <text class="mono ink spec" x="640" y="680">/email-sequence    /webinar-script</text>
+  <text class="mono ink spec" x="640" y="701">/sales-script      /objection-library</text>
+  <text class="mono ink spec" x="640" y="722">/call-prep         /proposal</text>
+  <text class="mono ink spec" x="640" y="743">/application-form  /tripwire-design</text>
+  <text class="mono ink spec" x="640" y="764">/landing-page      /plan-launch</text>
+  <text class="mono graphite spec" x="640" y="785">+ 14 more</text>
+
+  <!-- Arrow 2 -->
+  <text class="serif ink" font-size="28" x="1060" y="635">→</text>
+
+  <!-- Column 3 — Output -->
+  <text class="serif ink h2" x="1120" y="510">Business assets</text>
+  <text class="sans graphite spec" x="1120" y="535">Ship-quality artifacts.</text>
+  <text class="mono ink spec" x="1120" y="575">Market Research Brief</text>
+  <text class="mono ink spec" x="1120" y="596">ICP Document</text>
+  <text class="mono ink spec" x="1120" y="617">Positioning Document</text>
+  <text class="mono ink spec" x="1120" y="638">Offer Document</text>
+  <text class="mono ink spec" x="1120" y="659">Brand Voice Architecture</text>
+  <text class="mono ink spec" x="1120" y="680">VSL Script</text>
+  <text class="mono ink spec" x="1120" y="701">Funnel Architecture</text>
+  <text class="mono ink spec" x="1120" y="722">Email Sequence</text>
+  <text class="mono ink spec" x="1120" y="743">Launch Plan</text>
+  <text class="mono ink spec" x="1120" y="764">Team SOPs</text>
+  <text class="mono graphite spec" x="1120" y="785">+ 25 more</text>
+
+  <!-- Thin rule above runtime -->
+  <line class="hair" x1="120" y1="845" x2="1480" y2="845"/>
+
+  <!-- Runtime row -->
+  <text class="mono spec-label graphite" x="120" y="882">Runtime</text>
+  <text class="mono ink spec" x="290" y="882">claude-code · cursor · codex · http+openapi · workspace-manifest · any orchestrator</text>
+
+  <!-- Thin rule below runtime -->
+  <line class="hair" x1="120" y1="908" x2="1480" y2="908"/>
+
+  <!-- Footer -->
+  <text class="mono foot graphite" x="120" y="960">v1.1 · MIT · heuresis.ai</text>
+  <text class="mono foot graphite" x="1480" y="960" text-anchor="end">Growth Operating Agency</text>
+</svg>
