@@ -112,8 +112,8 @@ Dead Middle through Cart-Close. Daily scheduled spikes, objection-handling, SCA 
 ## Cross-references
 - Knowledge: `reference/knowledge/launch.md`
 - Skills: `skills/plan-launch/`, `skills/launch-report/`
-- Upstream: `workflows/departments/sales-pipeline.md` (funnel + VSL)
-- Integration: `workflows/departments/marketing-pipeline.md` (creative), `workflows/departments/nurture-pipeline.md` (sequences), `workflows/departments/partnerships-pipeline.md` (JV timing)
+- Upstream: `workflows/divisions/sales-pipeline.md` (funnel + VSL)
+- Integration: `workflows/divisions/marketing-pipeline.md` (creative), `workflows/divisions/nurture-pipeline.md` (sequences), `workflows/divisions/partnerships-pipeline.md` (JV timing)
 
 ---
 *v1.0 — 2026-04-19.*

@@ -12,8 +12,6 @@ signal: "S=(linguistic, affiliate-program-spec, inform, markdown, affiliate-prog
 tools: [Read, Write, Edit, Grep, Glob]
 skills: [affiliate-program]
 context_tier: l1
-team: null
-department: partnerships
 department: partnerships
 ---
 

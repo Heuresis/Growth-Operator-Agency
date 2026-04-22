@@ -12,8 +12,6 @@ signal: "S=(linguistic, sop, inform, markdown, scale-ops)"
 tools: [Read, Write, Edit, Grep, Glob]
 skills: [build-sop, hiring-brief, retention-check, case-study, competitor-intel, revenue-report]
 context_tier: l1
-team: null
-department: scale
 department: scale
 ---
 

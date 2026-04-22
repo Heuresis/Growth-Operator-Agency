@@ -12,8 +12,6 @@ signal: "S=(linguistic, directive, direct, markdown, marketing-assets)"
 tools: [Read, Write, Edit, Grep, Glob, WebFetch, WebSearch]
 skills: [ad-creative, content-calendar, write-reel, write-youtube, write-linkedin-post, write-x-thread, story-sequence]
 context_tier: l1
-team: null
-department: marketing
 department: marketing
 ---
 

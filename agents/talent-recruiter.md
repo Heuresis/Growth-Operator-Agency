@@ -12,8 +12,6 @@ signal: "S=(linguistic, hiring-brief, inform, markdown, hiring-brief)"
 tools: [Read, Write, Edit, Grep, Glob, WebFetch]
 skills: [hiring-brief]
 context_tier: l1
-team: null
-department: scale
 department: scale
 ---
 

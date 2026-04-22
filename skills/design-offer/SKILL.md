@@ -67,13 +67,13 @@ This skill is the **Cycle 1 hero demo** — the $10K deliverable in 12 minutes s
 
 - **After `/build-icp`** — ICP Document at Completeness Score >= 80 is the primary input
 - **Ideally after `/build-positioning`** — positioning informs the offer's mechanism naming
-- When pivoting an existing offer (run `/offer-repositioning` instead if minor re-skin)
+- When pivoting an existing offer (run `/offer-repositioning` (v1.1) if minor re-skin)
 - Before any paid traffic or launch work
 
 ## When NOT to Use
 
 - Before ICP is at 70%+ Audience compartment — output will be generic
-- For minor offer tweaks — use `/offer-repositioning`
+- For minor offer tweaks — `/offer-repositioning` (v1.1)
 - For B2B enterprise >$100K ACV — this skill is calibrated for $1K-$150K range
 
 ## The 12 Sections
@@ -122,7 +122,7 @@ See `reference/frameworks/primitives/value-equation.md` for full methodology.
 4. **Feedback Loop Engineering** — design the first-win milestone (when/how they know it's working)
 5. **Risk Reversal Architecture** — structure the guarantee to be ROI-positive
 6. **Pricing Structure** — identity-aligned (not cost-plus) — matches the buyer's aspirant identity
-7. **Upsell Ecosystem** — 5-10 adjacent solutions that amplify the core transformation
+7. **Upsell Ecosystem** — 5-10 adjacent solutions that deepen the core transformation
 
 ### Alignment with Limiting Belief Triad
 
@@ -510,7 +510,7 @@ After `/design-offer` ships:
 - **`/extract-voice`** — Brand Voice Doc (can run in parallel)
 - **`/build-vsl`** — VSL that opens with mechanism, closes with offer (Cycle 2 hero)
 - **`/build-funnel`** — funnel architecture matched to offer type
-- **`/offer-repositioning`** — if Value Equation Score 50-150, run this to tighten
+- **`/offer-repositioning`** (v1.1) — if Value Equation Score 50-150, run this to tighten
 
 ## References
 

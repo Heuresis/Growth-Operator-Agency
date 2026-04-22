@@ -10,7 +10,7 @@ signal:
   receiver: prospects + marketing assets
   receiver_capacity: medium
 department: scale
-agent_affinity: [scale-head, case-study]
+agent_affinity: [scale-head, case-study-producer]
 required_compartments:
   audience_intelligence_system: 50
   copy_messaging: 40

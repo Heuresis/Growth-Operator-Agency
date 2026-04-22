@@ -79,7 +79,7 @@ growth-ceo (orchestrator)
 | [`linkedin-writer`](linkedin-writer.md) | `/write-linkedin-post` | marketing-head |
 | [`paid-ads`](paid-ads.md) | `/ad-creative` | marketing-head |
 
-### Nurture (4)
+### Nurture (5)
 | Agent | Primary skill(s) | Reports to |
 |---|---|---|
 | [`nurture-head`](nurture-head.md) | (orchestrates nurture skills) | growth-ceo |
@@ -88,7 +88,7 @@ growth-ceo (orchestrator)
 | [`show-rate-ops`](show-rate-ops.md) | `/post-booking-nurture` | nurture-head |
 | [`lead-magnet-designer`](lead-magnet-designer.md) | `/lead-magnet` | marketing-head + nurture-head |
 
-### Sales (6)
+### Sales (7)
 | Agent | Primary skill(s) | Reports to |
 |---|---|---|
 | [`sales-head`](sales-head.md) | (orchestrates sales skills) | growth-ceo |
@@ -99,7 +99,7 @@ growth-ceo (orchestrator)
 | [`sales-ops`](sales-ops.md) | (sales operations skills) | sales-head |
 | [`competitor-analyst`](competitor-analyst.md) | `/competitor-intel` | sales-head |
 
-### Launch (2)
+### Launch (3)
 | Agent | Primary skill(s) | Reports to |
 |---|---|---|
 | [`launch-head`](launch-head.md) | (orchestrates launch skills) | growth-ceo |
@@ -114,7 +114,7 @@ growth-ceo (orchestrator)
 | [`affiliate-architect`](affiliate-architect.md) | `/affiliate-program` | partnerships-head |
 | [`referral-designer`](referral-designer.md) | `/referral-program` | partnerships-head |
 
-### Scale (6)
+### Scale (7)
 | Agent | Primary skill(s) | Reports to |
 |---|---|---|
 | [`scale-head`](scale-head.md) | (orchestrates scale skills) | growth-ceo |

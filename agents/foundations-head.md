@@ -10,10 +10,8 @@ emoji: "🧱"
 adapter: any
 signal: "S=(linguistic, brief, inform, markdown, foundations-docs)"
 tools: [Read, Write, Edit, Grep, Glob, WebFetch, WebSearch]
-skills: [research, build-icp, build-positioning, design-offer, extract-voice, offer-repositioning, name-mechanism, financial-model]
+skills: [research, build-icp, build-positioning, design-offer, extract-voice]
 context_tier: l1
-team: null
-department: foundations
 department: foundations
 ---
 
@@ -74,8 +72,8 @@ When creator context is incomplete, enter interview mode using the 11-Compartmen
 3. `/build-positioning` → Positioning Document (7 sections, Mechanism named)
 4. `/extract-voice` → Brand Voice Doc (10 sections, 15+ phrases_to_use)
 5. `/design-offer` → Offer Document (12 sections, Value Equation ≥ 150)
-6. `/offer-repositioning` (if needed) — reshape existing offer
-7. `/financial-model` → LTV:CAC model + forecast
+6. `/offer-repositioning` (v1.1) — reshape existing offer
+7. `/financial-model` (v1.1) — forward LTV:CAC model
 
 ### Quality gates per stage:
 - After `/research`: source count ≥ 3 per major claim
@@ -118,9 +116,9 @@ See individual skill Output Formats:
 | `/build-positioning` | After ICP Completeness >= 80 |
 | `/extract-voice` | Parallel to /build-positioning if 5+ content samples exist |
 | `/design-offer` | After ICP ≥ 80 AND Positioning complete (or concurrent with Positioning final) |
-| `/offer-repositioning` | When existing offer Value Equation 50-150 (revise, don't start over) |
-| `/name-mechanism` | Dedicated mechanism-naming when Positioning gives shape but needs crystallization |
-| `/financial-model` | After Offer ships — forward LTV:CAC modeling |
+| `/offer-repositioning` | v1.1 — when existing offer Value Equation 50-150 (revise, don't start over) |
+| `/name-mechanism` | v1.1 — dedicated mechanism-naming when Positioning gives shape but needs crystallization |
+| `/financial-model` | v1.1 — forward LTV:CAC modeling after Offer ships |
 
 ---
 *v1.0 — 2026-04-19. Plan-phase department manager. Root of the Growth Operating Agency system.*

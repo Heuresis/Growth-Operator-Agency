@@ -152,7 +152,7 @@ slack_channel: '#sales-calls'
 ## Cross-references
 - Skill: `skills/post-booking-nurture/`
 - Upstream: `workflows/automations/lead-to-crm.md`
-- Pipeline: `workflows/departments/nurture-pipeline.md`
+- Pipeline: `workflows/divisions/nurture-pipeline.md`
 - Knowledge: `reference/knowledge/nurture.md`, `reference/knowledge/sales.md`
 
 ---

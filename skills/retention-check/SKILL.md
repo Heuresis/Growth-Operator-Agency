@@ -10,7 +10,7 @@ signal:
   receiver: creator + CS team + next-month-cs-ops
   receiver_capacity: medium
 department: scale
-agent_affinity: [scale-head, retention, cs-lead]
+agent_affinity: [scale-head, client-success]
 required_compartments:
   lifecycle_optimization: 40
   operational_intelligence: 30

@@ -10,7 +10,7 @@ signal:
   receiver: creator + team + next-launch-plan
   receiver_capacity: high
   department: launch
-agent_affinity: [launch-head, post-launch, revenue-analyst]
+agent_affinity: [launch-head, post-launch-analyst, revenue-analyst]
 required_compartments:
   funnel_systems: 60
   lifecycle_optimization: 30

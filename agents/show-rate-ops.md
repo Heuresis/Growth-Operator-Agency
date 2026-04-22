@@ -12,8 +12,6 @@ signal: "S=(linguistic, post-booking-stack, inform, markdown, show-rate-stack)"
 tools: [Read, Write, Edit, Grep, Glob]
 skills: [post-booking-nurture]
 context_tier: l1
-team: null
-department: nurture
 department: nurture
 ---
 

@@ -10,7 +10,7 @@ signal:
   receiver: creator + editor + YouTube algorithm
   receiver_capacity: high
 department: marketing
-agent_affinity: [marketing-head, youtube]
+agent_affinity: [marketing-head, youtube-producer]
 required_compartments:
   audience_intelligence_system: 60
   offer_architecture: 50

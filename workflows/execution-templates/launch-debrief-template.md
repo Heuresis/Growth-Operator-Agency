@@ -130,7 +130,7 @@ NEXT-CYCLE DECISIONS
 - Wins-only or misses-only report — both distort future decisions
 
 ## Cross-references
-- Pipeline: `workflows/departments/launch-pipeline.md`
+- Pipeline: `workflows/divisions/launch-pipeline.md`
 - Skill: `skills/launch-report/`
 - Templates: `workflows/execution-templates/post-mortem-template.md`
 

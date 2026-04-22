@@ -12,8 +12,6 @@ signal: "S=(linguistic, revenue-report, inform, markdown, p-and-l)"
 tools: [Read, Write, Edit, Grep, Glob]
 skills: [revenue-report]
 context_tier: l1
-team: null
-department: scale
 department: scale
 ---
 

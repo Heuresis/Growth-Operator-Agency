@@ -178,7 +178,7 @@ See [`agents/_INDEX.md`](../agents/_INDEX.md) for the full roster and reporting 
 
 ## The 7 departments
 
-<img alt="7 departments of Growth Operating Agency" src="assets/departments-light.svg" width="100%">
+<img alt="7 departments of Growth Operating Agency" src="assets/divisions-light.svg" width="100%">
 
 ---
 

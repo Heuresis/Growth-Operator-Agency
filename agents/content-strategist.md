@@ -12,8 +12,6 @@ signal: "S=(linguistic, content-calendar, plan, markdown, 30-day-calendar)"
 tools: [Read, Write, Edit, Grep, Glob]
 skills: [content-calendar]
 context_tier: l1
-team: null
-department: marketing
 department: marketing
 ---
 

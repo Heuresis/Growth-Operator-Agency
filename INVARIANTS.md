@@ -15,8 +15,8 @@ Audience quality drives 40% of results. Offer strength drives 40%. Copy drives 2
 
 ### INV-2 — Sequential Dependency
 Foundation assets must be built in order:
-**Market Research Brief → ICP → Positioning → Offer → Offer Repositioning**
-Each step requires the previous step's output. **Offer construction cannot begin without a completed ICP.** No marketing asset can ship without a Brand Voice doc. *(Foundations agent spec)*
+**Market Research Brief → ICP → Positioning → Offer** (→ Offer Repositioning when v1.1 ships)
+Each step requires the previous step's output. **Offer construction cannot begin without a completed ICP.** No marketing asset can ship without a Brand Voice doc. Offer Repositioning is the v1.1 revise-don't-restart step when the Value Equation Score lands between 50–150. *(Foundations agent spec)*
 
 ### INV-3 — Context Threshold Gates
 No skill executes without its required compartment completeness. Department unlock thresholds:

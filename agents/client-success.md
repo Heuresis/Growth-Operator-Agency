@@ -12,8 +12,6 @@ signal: "S=(linguistic, retention-report, inform, markdown, health-scores)"
 tools: [Read, Write, Edit, Grep, Glob]
 skills: [retention-check]
 context_tier: l1
-team: null
-department: scale
 department: scale
 ---
 

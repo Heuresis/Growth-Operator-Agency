@@ -10,7 +10,7 @@ signal:
   receiver: X audience + algorithm
   receiver_capacity: low-to-medium
 department: marketing
-agent_affinity: [marketing-head, twitter]
+agent_affinity: [marketing-head, twitter-writer]
 required_compartments:
   audience_intelligence_system: 50
   offer_architecture: 30
@@ -91,7 +91,7 @@ Tweet count calibrated by type:
 - Replies > likes (signal value)
 - Bookmarks > replies (highest value — means they'll return)
 - Threaded replies are decay-prone — main thread matters most
-- Quote-tweets amplify reach
+- Quote-tweets expand reach
 
 ### Format Choices
 - **Image in hook tweet:** 15-30% reach boost for some accounts (test)

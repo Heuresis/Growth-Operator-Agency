@@ -10,10 +10,8 @@ emoji: "📞"
 adapter: any
 signal: "S=(linguistic, sales-script, direct, markdown, sales-scripts)"
 tools: [Read, Write, Edit, Grep, Glob]
-skills: [sales-script, dm-sequence, objection-library]
+skills: []
 context_tier: l1
-team: null
-department: sales
 department: sales
 ---
 

@@ -12,8 +12,6 @@ signal: "S=(linguistic, funnel-blueprint, plan, markdown, funnel-5-stage)"
 tools: [Read, Write, Edit, Grep, Glob]
 skills: [build-funnel]
 context_tier: l1
-team: null
-department: sales
 department: sales
 ---
 

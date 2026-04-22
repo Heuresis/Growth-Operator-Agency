@@ -12,8 +12,6 @@ signal: "S=(linguistic, email-sequence, inform, markdown, email-sequences)"
 tools: [Read, Write, Edit, Grep, Glob]
 skills: [email-sequence]
 context_tier: l1
-team: null
-department: nurture
 department: nurture
 ---
 

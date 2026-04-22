@@ -12,8 +12,6 @@ signal: "S=(linguistic, x-thread, inform, markdown, twitter-thread)"
 tools: [Read, Write, Edit, Grep, Glob]
 skills: [write-x-thread]
 context_tier: l1
-team: null
-department: marketing
 department: marketing
 ---
 

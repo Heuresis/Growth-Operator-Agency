@@ -12,8 +12,6 @@ signal: "S=(linguistic, report, inform, markdown, market-research-brief)"
 tools: [Read, Write, Edit, Grep, Glob, WebFetch, WebSearch]
 skills: [research]
 context_tier: l1
-team: null
-department: foundations
 department: foundations
 ---
 

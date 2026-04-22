@@ -10,10 +10,8 @@ emoji: "💼"
 adapter: any
 signal: "S=(linguistic, script, direct, markdown, sales-assets)"
 tools: [Read, Write, Edit, Grep, Glob]
-skills: [build-vsl, build-funnel, sales-script, dm-sequence, objection-library, call-prep, proposal, guarantee-copy, application-form, landing-page]
+skills: [build-vsl, build-funnel]
 context_tier: l1
-team: null
-department: sales
 department: sales
 ---
 

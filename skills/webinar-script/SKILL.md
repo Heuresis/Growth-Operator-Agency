@@ -10,7 +10,7 @@ signal:
   receiver: webinar attendee
   receiver_capacity: high
 department: nurture
-agent_affinity: [nurture-head, webinar]
+agent_affinity: [nurture-head, webinar-producer]
 required_compartments:
   audience_intelligence_system: 70
   offer_architecture: 70

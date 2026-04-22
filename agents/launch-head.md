@@ -12,8 +12,6 @@ signal: "S=(linguistic, plan, direct, markdown, launch-runbook)"
 tools: [Read, Write, Edit, Grep, Glob]
 skills: [plan-launch, launch-report]
 context_tier: l1
-team: null
-department: launch
 department: launch
 ---
 

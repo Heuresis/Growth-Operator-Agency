@@ -69,7 +69,7 @@ After the Offer Document ships + passes gate:
 - Default next skill: `/build-vsl` (VSL that opens with mechanism, closes with offer — Cycle 2 hero)
 - Parallel: `/extract-voice` if not yet complete
 - Downstream: `/build-funnel` for funnel architecture matched to offer type
-- If Value Equation Score 50-150: recommend `/offer-repositioning` to tighten before shipping
+- If Value Equation Score 50-150: recommend `/offer-repositioning` (v1.1) to tighten before shipping
 - On sacred-format completion: ensure Blind Output Test 3/3 is queued before paid traffic
 
 ---

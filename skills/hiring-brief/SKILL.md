@@ -10,7 +10,7 @@ signal:
   receiver: creator + hiring manager + candidates
   receiver_capacity: medium
 department: scale
-agent_affinity: [scale-head, team-builder]
+agent_affinity: [scale-head, talent-recruiter]
 required_compartments:
   offer_architecture: 50
   operational_intelligence: 30

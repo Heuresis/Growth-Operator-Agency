@@ -12,8 +12,6 @@ signal: "S=(linguistic, directive, decide, markdown, agent-orchestration)"
 tools: [Read, Write, Edit, Grep, Glob]
 skills: []
 context_tier: l0
-team: null
-department: null
 department: null
 ---
 
@@ -42,7 +40,7 @@ When a request fits a department, pass to `foundations-head`, `marketing-head`, 
 ### 3. Enforce Impact Distribution (40/40/20)
 Always audit upstream before downstream:
 - **Audience problem?** (40%) — route to `/research` or `/build-icp`
-- **Offer problem?** (40%) — route to `/design-offer` or `/offer-repositioning`
+- **Offer problem?** (40%) — route to `/design-offer` (`/offer-repositioning` is v1.1)
 - **Copy problem?** (20%) — route to copy skills only if upstream is ≥ 70%
 
 ### 4. Refuse scope creep
@@ -132,13 +130,13 @@ Growth CEO doesn't invoke skills directly. Routes to department heads or special
 
 | Department lead | Department |
 |---|---|
-| `foundations-head` | /research, /build-icp, /build-positioning, /design-offer, /extract-voice, /offer-repositioning, /name-mechanism, /financial-model |
-| `marketing-head` | /ad-creative, /content-calendar, /write-reel, /write-youtube, /write-linkedin-post, /write-x-thread, /story-sequence |
-| `nurture-head` | /email-sequence, /lead-magnet, /webinar-script, /post-booking-nurture |
-| `sales-head` | /build-vsl, /build-funnel, /sales-script, /dm-sequence, /objection-library, /call-prep, /proposal, /guarantee-copy, /application-form, /landing-page |
-| `launch-head` | /plan-launch, /launch-report |
-| `scale-head` | /build-sop, /hiring-brief, /retention-check, /case-study, /competitor-intel, /revenue-report |
-| `partnerships-head` | /jv-webinar-proposal, /affiliate-program, /referral-program |
+| `foundations-head` | v1.0: /research, /build-icp, /build-positioning, /design-offer, /extract-voice · v1.1: /offer-repositioning, /name-mechanism, /financial-model |
+| `marketing-head` | v1.0: /ad-creative, /content-calendar, /write-reel, /write-youtube, /write-linkedin-post, /write-x-thread, /story-sequence |
+| `nurture-head` | v1.0: /email-sequence, /lead-magnet, /webinar-script, /post-booking-nurture |
+| `sales-head` | v1.0: /build-vsl, /build-funnel · v1.1: /sales-script, /dm-sequence, /objection-library, /call-prep, /proposal, /guarantee-copy, /application-form, /landing-page |
+| `launch-head` | v1.0: /plan-launch, /launch-report |
+| `scale-head` | v1.0: /build-sop, /hiring-brief, /retention-check, /case-study, /competitor-intel, /revenue-report |
+| `partnerships-head` | v1.0: /jv-webinar-proposal, /affiliate-program, /referral-program |
 
 ---
 *v1.0 — 2026-04-19. L0 top-level orchestrator.*

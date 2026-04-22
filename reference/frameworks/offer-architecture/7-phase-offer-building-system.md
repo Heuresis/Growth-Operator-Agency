@@ -69,7 +69,7 @@ Examples:
 **Rule:** cheap prices don't transform identity. High price = part of the buy.
 
 ### Step 7 — Upsell Ecosystem
-5-10 adjacent solutions that amplify the core transformation.
+5-10 adjacent solutions that deepen the core transformation.
 
 Ecosystem design:
 - Lead magnet (free entry)

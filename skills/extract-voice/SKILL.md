@@ -13,6 +13,7 @@ department: foundations
 agent_affinity: [foundations-head, brand-voice, researcher]
 required_compartments:
   creator_identity_matrix: 30
+upstream_dependency: null
 execution_mode: interactive
 tier: structured_ai
 temperature_gate: warm

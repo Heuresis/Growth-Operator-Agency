@@ -12,8 +12,6 @@ signal: "S=(linguistic, webinar-script, direct, markdown, webinar-5-section)"
 tools: [Read, Write, Edit, Grep, Glob]
 skills: [webinar-script]
 context_tier: l1
-team: null
-department: nurture
 department: nurture
 ---
 

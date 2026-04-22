@@ -120,7 +120,7 @@ W(launch-plan) =
    Phase 5  Close + Post-Mortem    T+N to T+(N+7)  (the operations director Step 6 Optimization — debrief)
 ```
 
-Every phase has a named exit gate. No phase transitions forward without the prior phase's checklist complete (per `workflows/departments/launch-pipeline.md` FSM).
+Every phase has a named exit gate. No phase transitions forward without the prior phase's checklist complete (per `workflows/divisions/launch-pipeline.md` FSM).
 
 ## Decision Logic (the WHY)
 
@@ -232,7 +232,7 @@ Each of the 7 the operations director launch steps maps to a go / no-go gate ins
 | 4. Hard launch | Phase 2 → Phase 3 | Runway KPIs met + cart opens on time |
 | 5. Second wind / Live event | Phase 4 | Mid-cycle event executed, re-acceleration visible |
 | 6. Optimization | Phase 5 | Leak-plugging assigned from debrief |
-| 7. Amplify + New conversion | Next launch cycle | Only after #4 proves leak-free at target |
+| 7. Scale pass + new conversion | Next launch cycle | Only after #4 proves leak-free at target |
 
 The plan surfaces which the operations director step the creator is at and refuses to skip. Skipping Step 1 or 2 is the most common failure in first-time Live launches.
 
@@ -314,7 +314,7 @@ Read:
 - `reference/operators/operations-director.md`
 - `reference/operators/growth-strategist.md`
 - `reference/operators/growth-engineer.md`
-- `workflows/departments/launch-pipeline.md` (FSM)
+- `workflows/divisions/launch-pipeline.md` (FSM)
 
 **Pre-flight check:** every upstream asset PASSes its own gate. If any fails, block and route to the producing skill.
 
@@ -627,7 +627,7 @@ After `/plan-launch` ships (and passes gates):
   - INV-7 Banned Vocabulary
   - INV-13 S/N Quality Gate (≥ 0.8 external)
   - ALWAYS Rule 14 — Max-2-Revisions cap
-- Pipeline FSM: `workflows/departments/launch-pipeline.md`
+- Pipeline FSM: `workflows/divisions/launch-pipeline.md`
 - Companion skill: `skills/launch-report/SKILL.md`
 - Upstream skills: `/design-offer`, `/build-vsl`, `/build-funnel`, `/email-sequence`, `/ad-creative`, `/extract-voice`, `/post-booking-nurture`
 

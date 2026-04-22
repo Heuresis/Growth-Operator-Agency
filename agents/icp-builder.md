@@ -12,8 +12,6 @@ signal: "S=(linguistic, icp-doc, inform, markdown, icp-document-13-section)"
 tools: [Read, Write, Edit, Grep, Glob]
 skills: [build-icp]
 context_tier: l1
-team: null
-department: foundations
 department: foundations
 ---
 

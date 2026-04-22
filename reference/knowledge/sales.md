@@ -91,7 +91,7 @@ If any bucket has < 3 elements, the VSL is not shippable.
 - Frameworks: `reference/frameworks/value-equation.md`, `reference/frameworks/vsl-sacred-format.md`, `reference/frameworks/crossroads-close.md`
 - Knowledge: `reference/knowledge/foundations.md` (offer + voice prerequisites), `reference/knowledge/nurture.md` (email follow-up)
 - Agents: `agents/sales/vsl-writer.md`, `agents/sales/funnel-architect.md`
-- Pipeline: `workflows/departments/sales-pipeline.md`
+- Pipeline: `workflows/divisions/sales-pipeline.md`
 
 ---
 *v1.0 — 2026-04-19.*

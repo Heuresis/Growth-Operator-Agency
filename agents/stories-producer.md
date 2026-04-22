@@ -12,8 +12,6 @@ signal: "S=(linguistic, story-sequence, inform, markdown, 7-day-story-sequence)"
 tools: [Read, Write, Edit, Grep, Glob]
 skills: [story-sequence]
 context_tier: l1
-team: null
-department: marketing
 department: marketing
 ---
 

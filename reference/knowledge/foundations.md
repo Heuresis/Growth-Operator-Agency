@@ -56,7 +56,7 @@ Shared vocabulary, frameworks, KPIs, and handoff patterns inherited by every ski
 - Skills: `skills/research/SKILL.md`, `skills/build-icp/SKILL.md`, `skills/build-positioning/SKILL.md`, `skills/extract-voice/SKILL.md`, `skills/design-offer/SKILL.md`
 - Frameworks: `reference/frameworks/value-equation.md`, `reference/frameworks/8-required-beliefs.md`, `reference/frameworks/limiting-belief-triad.md`
 - Agents: `agents/foundations/research-lead.md`, `agents/foundations/offer-architect.md`
-- Pipeline: `workflows/departments/foundations-pipeline.md`
+- Pipeline: `workflows/divisions/foundations-pipeline.md`
 
 ---
 *v1.0 — 2026-04-19.*

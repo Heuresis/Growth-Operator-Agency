@@ -12,8 +12,6 @@ signal: "S=(linguistic, vsl-script, direct, markdown, vsl-variant)"
 tools: [Read, Write, Edit, Grep, Glob]
 skills: [build-vsl]
 context_tier: l1
-team: null
-department: sales
 department: sales
 ---
 
