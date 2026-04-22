@@ -17,7 +17,7 @@ required_compartments:
   funnel_systems: 10
 upstream_dependency: design-offer
 execution_mode: interactive
-sorx_tier: reasoning_ai
+tier: reasoning_ai
 temperature_gate: warm
 evidence_gate:
   - archetype_selected_with_reasoning

@@ -4,18 +4,18 @@ argument-hint: [optional: --type=1-8]
 allowed-tools: Read, Write, Edit, Grep, Glob
 ---
 
-# /email-sequence — Claude Code Runtime Binding
+# /email-sequence — slash-command runtime Runtime Binding
 
 Load and execute `skills/email-sequence/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/email-sequence/SKILL.md` (full body)
-   - `Read` `skills/email-sequence/reference/` if present
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/email-sequence/SKILL.md` (full body)
+   - read `skills/email-sequence/reference/` if present
    - `Read` upstream: `output/design-offer/latest.md`, `output/build-icp/` (objection library), `output/build-positioning/`, `output/extract-voice/`
-   - `Read` `output/content-calendar/` if Type 8 Broadcast
+   - read `output/content-calendar/` if Type 8 Broadcast
 
 2. **Pre-flight check:** Verify `required_compartments` — audience_intelligence_system ≥ 60, offer_architecture ≥ 50, copy_messaging ≥ 40, education_nurture ≥ 20.
 
@@ -27,7 +27,7 @@ Load and execute `skills/email-sequence/SKILL.md` in the current workspace.
    - Structure per SKILL.md Output Format — sequence overview table + per-email spec + segmentation plan + platform export JSON
 
 5. **Post-ship:**
-   - `Write` `skills/email-sequence/evidence/runs/{YYYY-MM-DD}-run.md`
+   - write `skills/email-sequence/evidence/runs/{YYYY-MM-DD}-run.md`
    - Recommend next skill: `/post-booking-nurture` (call funnels), `/lead-magnet` (Welcome upstream), or `/webinar-script` (Webinar seq target)
 
 ## Arguments
@@ -66,4 +66,4 @@ Per `handoffs/quality-revision.md`: auto-revise → surface gap → escalate to 
 - On external-tier completion: Blind Output Test 2/3 queued before send-to-list
 
 ---
-*Claude Code adapter v1.0 — binds to skills/email-sequence/SKILL.md*
+*the slash-command adapter v1.0 — binds to skills/email-sequence/SKILL.md*

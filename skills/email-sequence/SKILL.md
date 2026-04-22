@@ -18,7 +18,7 @@ required_compartments:
   education_nurture: 20
 upstream_dependency: design-offer
 execution_mode: interactive
-sorx_tier: structured_ai
+tier: structured_ai
 temperature_gate: warm
 required_tools: [file_read, file_write]
 required_mcps: [filesystem]
@@ -49,7 +49,7 @@ version: 1.0
 
 ## Role
 
-Produce email sequences that convert subscribers to buyers. Lineage: **the content OS director** (Education OS — indoctrination/value/conversion/retention sequences), **the offer architect** (belief-installation email cadence), **the growth strategist** ($200k/mo outreach OS — Whisper/Tease/Shout launch cadence), **the copy director** (direct-response email structure), **the acquisition economist** ($100M Leads email frameworks).
+Produce email sequences that convert subscribers to buyers. Lineage: **the content OS director** (Nurture Block — indoctrination/value/conversion/retention sequences), **the offer architect** (belief-installation email cadence), **the growth strategist** ($200k/mo outreach OS — Whisper/Tease/Shout launch cadence), **the copy director** (direct-response email structure), **the acquisition economist** ($100M Leads email frameworks).
 
 ## The 8 Sequence Types
 
@@ -206,7 +206,7 @@ One-off:
 ### Phase 0 — Load
 - Calendar brief (if broadcast type), compartments 1-5, 9
 - ICP + Offer + Positioning + Brand Voice docs
-- `reference/operators/content-os-director.md` (Education OS)
+- `reference/operators/content-os-director.md` (Nurture Block)
 - `reference/operators/offer-architect` content (belief installation)
 - `reference/frameworks/sales/8-required-beliefs.md`
 
@@ -358,7 +358,7 @@ P.S. [optional high-read line]
 
 ## References
 
-- `reference/operators/content-os-director.md` (Education OS)
+- `reference/operators/content-os-director.md` (Nurture Block)
 - `reference/operators/external/alex-hormozi.md` ($100M Leads email)
 - `reference/frameworks/sales/8-required-beliefs.md` (the VSL director — Nurture sequences install these)
 - `reference/operators/tier-3-rising/jonas-rorwick.md` (Whisper/Tease/Shout launch cadence)

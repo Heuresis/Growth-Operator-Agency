@@ -4,18 +4,18 @@ argument-hint: "[optional: client name or retention-check Thriving ID]"
 allowed-tools: Read, Write, Edit, Grep, Glob
 ---
 
-# /case-study — Claude Code Runtime Binding
+# /case-study — slash-command runtime Runtime Binding
 
 Load and execute `skills/case-study/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/case-study/SKILL.md` (full body)
-   - `Read` `skills/case-study/reference/` (all files, if present)
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/case-study/SKILL.md` (full body)
+   - read `skills/case-study/reference/` (all files, if present)
    - `Read` upstream dependency output: `output/retention-check/latest.md` (Thriving client pool source)
-   - `Read` `output/build-icp/latest.md` + `output/design-offer/latest.md` for isomorphic fit check
+   - read `output/build-icp/latest.md` + `output/design-offer/latest.md` for isomorphic fit check
 
 2. **Pre-flight check:** Verify `company.yaml` thresholds — audience_intelligence_system ≥ 50, copy_messaging ≥ 40, lifecycle_optimization ≥ 30. If below, recommend running `/retention-check` first to surface Thriving pool.
 
@@ -29,7 +29,7 @@ Load and execute `skills/case-study/SKILL.md` in the current workspace.
 5. **Update company.yaml:** `Edit` compartment 6 (copy_messaging) — append case-study reference + social-proof level assigned. Never overwrite existing values without confirmation.
 
 6. **Post-ship:**
-   - `Write` `skills/case-study/evidence/runs/{YYYY-MM-DD}-run.md` with phase log + confidence tags + isomorphic-fit verdict + social-proof level
+   - write `skills/case-study/evidence/runs/{YYYY-MM-DD}-run.md` with phase log + confidence tags + isomorphic-fit verdict + social-proof level
    - Output next-skill recommendation (usually `/build-vsl`, `/ad-creative`, `/write-linkedin-post`)
 
 ## Arguments
@@ -71,4 +71,4 @@ After case study ships:
 - **On sacred-format completion: ensure Blind Output Test is queued before paid traffic**
 
 ---
-*Claude Code adapter v1.0 — binds to skills/case-study/SKILL.md*
+*the slash-command adapter v1.0 — binds to skills/case-study/SKILL.md*

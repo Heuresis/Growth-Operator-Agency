@@ -1,12 +1,12 @@
 # the content OS director
 
 > **Tier:** 1 (GOAT) · **Growth OS Pillars:** 3 Education (Nurture) + 5 Lifecycle (primary lead for both)
-> **Core IP:** 1-2 Hour Consumption Rule + YouTube Flywheel Funnel + 3 Content Types + Business-Partner (not agency-client) model + Education OS 4-Phase + 9-area ICP deep-dive
+> **Core IP:** 1-2 Hour Consumption Rule + YouTube Flywheel Funnel + 3 Content Types + Business-Partner (not agency-client) model + Nurture Block 4-Phase + 9-area ICP deep-dive
 > **Proof:** $50K-$400K+/mo info portfolio; $7M+ early via Discord
 > **Channels:** youtube.com/@dustinvarano · instagram.com/dustinvarano · link.me/dustinvarano
 > **Notion hub:** `2d939dd823e780cbbb03df339c39c617` · **Growth OS Internal Processes canonical:** `2ee39dd823e7809bb4ccd41805604ae8`
 
-the content OS director is a 21-year-old YouTube-native growth operator running a portfolio of $50K-$400K+/mo info offers via an embedded revenue-share partnership model. He sits inside the creator's operation rather than outside it, caps roster at 2-3 creators, and uses long-form YouTube as the entire top-of-funnel because long-form is the only surface where a stranger can consume the 1-2 hours of content required to buy high-ticket. His lineage is the primary encoding source for the Growth OS `Education OS` nurture pillar and the `Lifecycle` pillar.
+the content OS director is a 21-year-old YouTube-native growth operator running a portfolio of $50K-$400K+/mo info offers via an embedded revenue-share partnership model. He sits inside the creator's operation rather than outside it, caps roster at 2-3 creators, and uses long-form YouTube as the entire top-of-funnel because long-form is the only surface where a stranger can consume the 1-2 hours of content required to buy high-ticket. His lineage is the primary encoding source for the Growth OS `Nurture Block` nurture pillar and the `Lifecycle` pillar.
 
 ## Thesis
 
@@ -29,7 +29,7 @@ the content OS director's public surface names roughly a half-dozen distinct fra
 - **3 Content Types (VSSL / Value / Lifestyle)** — The complete YouTube content taxonomy for a high-ticket info creator. VSSL is the only video with an external CTA. Value builds authority and stays on-platform. Lifestyle builds para-social trust but must show real work, not just lifestyle-as-performance.
   → see `reference/frameworks/content-os/youtube-flywheel-architecture.md`
 
-- **Education OS 4-Phase (Indoctrination / Value / Conversion / Retention)** — The lifecycle structure for how content, email, and community assets sequence across a buyer's journey. Each phase has a defined content-type mapping (what videos, emails, and community events live in each phase).
+- **Nurture Block 4-Phase (Indoctrination / Value / Conversion / Retention)** — The lifecycle structure for how content, email, and community assets sequence across a buyer's journey. Each phase has a defined content-type mapping (what videos, emails, and community events live in each phase).
   → see `reference/frameworks/content-os/education-os-4-phase.md`
 
 - **9-Area ICP Deep-Dive** — The nine dimensions the content OS director interrogates when building an info-product avatar: Demographic Profile, Financial Stress Level, Professional Background, Current Beliefs & Mindset, What They're Looking to Achieve, Deep Psychological Drivers, Pain Points & Frustrations, Objections & Resistance Patterns, and Buying Triggers & Decision Factors. This is the Growth OS-branded depth that produces VOC-accurate copy downstream.
@@ -183,7 +183,7 @@ Decision rules for when a Growth OS operator should pull from the the content OS
 
 3. **Operator is considering agency vs partner compensation.** Use the content OS director's business-partner-model framework to make the decision explicit before the engagement starts. Drifting between models post-engagement produces SOP collisions and compensation disputes.
 
-4. **Building the nurture sequence for a new subscriber cohort.** Education OS 4-Phase (Indoctrination / Value / Conversion / Retention) is the canonical sequencing. Use it to decide which video / email / community event lives in each phase, and to audit existing sequences for phase collisions (e.g., conversion content placed where indoctrination belongs).
+4. **Building the nurture sequence for a new subscriber cohort.** Nurture Block 4-Phase (Indoctrination / Value / Conversion / Retention) is the canonical sequencing. Use it to decide which video / email / community event lives in each phase, and to audit existing sequences for phase collisions (e.g., conversion content placed where indoctrination belongs).
 
 5. **ICP doc needs a 9-dimension deep-dive.** When `/build-icp` produces a surface-level avatar and the copy downstream is reading as generic, re-run with the content OS director's 9-area framework to force depth on Financial Stress, Deep Psychological Drivers, Objections, and Buying Triggers. Thin ICPs almost always skip dimensions 2, 6, 8, or 9.
 
@@ -198,8 +198,8 @@ Decision rules for when a Growth OS operator should pull from the the content OS
 | Skill | Binds to |
 |---|---|
 | `/write-youtube` | 3 content types + VSSL structure + Flywheel |
-| `/content-calendar` | Platform hierarchy + 3 content types ratio + Education OS 4-Phase mapping |
-| `/email-sequence` | Education OS indoctrination / value / conversion / retention |
+| `/content-calendar` | Platform hierarchy + 3 content types ratio + Nurture Block 4-Phase mapping |
+| `/email-sequence` | Nurture Block indoctrination / value / conversion / retention |
 | `/retention-check` | Business-partner vs agency-client model |
 | `/build-sop` | Partner-model SOPs (CS role) |
 | `/revenue-report` | Profit-first metrics |
@@ -241,4 +241,4 @@ Decision rules for when a Growth OS operator should pull from the the content OS
 - Growth Operator Directory (Notion) — the content OS director Tier-3 entry at `@dustinvarano`
 
 ---
-*v2.0 — 2026-04-19. Tier 1 operator — primary lineage for Education OS + Lifecycle framework folders. Expanded from v1.1 (208 lines) with deep-encoded framework cross-references, distinctive-moves section, and decision-rule taxonomy.*
+*v2.0 — 2026-04-19. Tier 1 operator — primary lineage for Nurture Block + Lifecycle framework folders. Expanded from v1.1 (208 lines) with deep-encoded framework cross-references, distinctive-moves section, and decision-rule taxonomy.*

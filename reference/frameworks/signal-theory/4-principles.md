@@ -1,6 +1,6 @@
 # The 4 Governing Principles — information theory / cybernetics theory / viable systems theory / feedback-loop theory
 
-> **Source:** Signal Theory pp.9-11 · Canopy `protocol/signal-theory.md` lines 38-69
+> **Source:** Signal Theory pp.9-11 · the workspace manifest `protocol/signal-theory.md` lines 38-69
 > **Status:** Load-bearing. Every skill output constrained by all 4 simultaneously. Violate any = signal fails.
 
 ## The Root Objective
@@ -103,7 +103,7 @@ When something underperforms, diagnose WHICH principle failed:
 ## Sources
 
 - Signal Theory pp.9-11
-- Canopy `protocol/signal-theory.md` lines 38-69
+- the workspace manifest `protocol/signal-theory.md` lines 38-69
 - information theory (1948), cybernetics (1956), viable systems (1972), feedback-loop theory (1948)
 - `spec/SIGNAL.md`
 

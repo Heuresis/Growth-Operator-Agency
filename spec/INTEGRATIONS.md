@@ -9,8 +9,8 @@ L3 — Skills declare capability needs (runtime-agnostic)
       "This skill needs calendar booking + payment processing + audience analysis"
   ↓
 L2 — Adapters resolve capabilities to concrete services
-      Claude Code adapter → {WebFetch tool, Notion MCP, Cal.com API}
-      Canopy adapter → {SORX skill registry, native engine calls}
+      the slash-command adapter → {WebFetch tool, Notion MCP, Cal.com API}
+      manifest adapter → {runtime tier skill registry, native engine calls}
   ↓
 L1 — Runtime executes against concrete services
       Actual API calls, MCP invocations, tool usage
@@ -319,7 +319,7 @@ GITHUB_TOKEN=
 
 ### MCP server config
 
-Creator adds MCP servers to `.mcp.json` (Claude Code) or equivalent runtime config:
+Creator adds MCP servers to `.mcp.json` (slash-command runtime) or equivalent runtime config:
 
 ```json
 {
@@ -344,7 +344,7 @@ Creator adds MCP servers to `.mcp.json` (Claude Code) or equivalent runtime conf
 
 When a skill declares `required_integrations: {ads: meta-ads-api}`, the adapter for a specific runtime translates:
 
-**Claude Code adapter:**
+**the slash-command adapter:**
 ```markdown
 ## Runtime tool bindings
 - Ads integration: use WebFetch on Meta Ads API endpoints
@@ -352,12 +352,12 @@ When a skill declares `required_integrations: {ads: meta-ads-api}`, the adapter 
 - Credentials from .env.local via Bash with env-var echo
 ```
 
-**Canopy/SORX adapter:**
+**workspace manifests adapter:**
 ```yaml
 integrations:
   ads:
     service: meta-ads-api
-    sorx_adapter: adapters/meta_ads_adapter.go
+    adapter_file: adapters/meta_ads_adapter.go
     credentials: vault://creator/meta_ads
 ```
 
@@ -410,13 +410,13 @@ Most skills should prefer MCP where possible. Direct API only when MCP doesn't c
 - **INV-11** — credentials never committed to git, never in `company.yaml`
 - **Scope-limit** OAuth tokens — request only the scopes needed (e.g. `linkedin:w_member_social` not full profile access)
 - **Rotate credentials** quarterly
-- **Audit log** every API call (Canopy heartbeat logs by default; Claude Code via bash history)
+- **Audit log** every API call (the workspace manifest heartbeat logs by default; slash-command runtime via bash history)
 - **No PII in prompts** — when feeding data to LLMs, strip PII unless absolutely required + authorized
 
 ## Sources
 
 - Anthropic Agent SDK + Claude Skills documentation
-- Canopy `architecture/adapters.md`
+- the workspace manifest `architecture/adapters.md`
 - Growth OS Context Profile Compartment 11 (Operational Intelligence — tech_stack)
 - MCP specification — https://modelcontextprotocol.io
 

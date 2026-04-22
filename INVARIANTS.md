@@ -48,13 +48,13 @@ Growth OS is for **high-ticket offer launch + scale operations**, not vertical a
 Skills are **deterministic procedures** with Decision Logic + Tacit Principles + Output Format. Skills do not chat. Skills do not skip steps. Skills do not invent steps. If the creator asks for something outside a skill, the agent routes to the right skill or requests a skill creation — never freestyles.
 
 ### INV-10 — Runtime-Agnostic File Contract
-Every skill must be **runtime-agnostic at the SKILL.md level**. Runtime-specific implementation lives in `skills/{slug}/adapters/{runtime}.md`. A skill written today must work unchanged on Claude Code, Canopy/SORX, Codex, Cursor, OpenClaw, and any future runtime that reads markdown + YAML. *(Differentiator — "everlasting")*
+Every skill must be **runtime-agnostic at the SKILL.md level**. Runtime-specific implementation lives in `skills/{slug}/adapters/{runtime}.md`. A skill written today must work unchanged on a slash-command runtime, workspace manifests, Codex, Cursor, OpenClaw, and any future runtime that reads markdown + YAML. *(Differentiator — "everlasting")*
 
 ### INV-11 — Private by Default
 All creator data, compartment content, `company.yaml` values, and `_private/` folder contents are **never pushed to GitHub**. The template ships as structure; the encoded creator content stays local or in a creator-owned private repo. *(Security differentiator)*
 
 ### INV-12 — Signal 5-Tuple Declared
-Every skill output declares its Signal encoding: **S = (Mode, Genre, Type, Format, Structure)** in the SKILL.md frontmatter and optionally in the output's metadata block. Unresolved dimensions = noise. *(Signal Theory + Canopy spec)*
+Every skill output declares its Signal encoding: **S = (Mode, Genre, Type, Format, Structure)** in the SKILL.md frontmatter and optionally in the output's metadata block. Unresolved dimensions = noise. *(Signal Theory + workspace spec)*
 
 ### INV-13 — S/N Quality Gate
 Every output passes the S/N gate before delivery:

@@ -1,6 +1,6 @@
 # Triple-Layer Verification — 40% Formal + 35% Semantic + 25% Info-Theoretic
 
-> **Source:** Signal Theory p.41 · Canopy `protocol/signal-theory.md` lines 120-140
+> **Source:** Signal Theory p.41 · the workspace manifest `protocol/signal-theory.md` lines 120-140
 > **Status:** Load-bearing. Every skill output scored on all 3 layers before ship.
 
 ## The Formula
@@ -99,7 +99,7 @@ Per `handoffs/quality-revision.md`:
 ## Sources
 
 - Signal Theory p.41
-- Canopy `protocol/signal-theory.md` lines 120-140
+- the workspace manifest `protocol/signal-theory.md` lines 120-140
 - `spec/QUALITY.md`
 
 ---

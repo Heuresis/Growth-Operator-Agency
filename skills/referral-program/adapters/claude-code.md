@@ -4,18 +4,18 @@ argument-hint: "[optional: --reward=cash|credit-both|perks|hybrid]"
 allowed-tools: Read, Write, Edit, Grep, Glob
 ---
 
-# /referral-program — Claude Code Runtime Binding
+# /referral-program — slash-command runtime Runtime Binding
 
 Load and execute `skills/referral-program/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/referral-program/SKILL.md` (full body)
-   - `Read` `skills/referral-program/reference/` (all files, if present)
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/referral-program/SKILL.md` (full body)
+   - read `skills/referral-program/reference/` (all files, if present)
    - `Read` upstream dependency output: `output/retention-check/latest.md` (Thriving clients = referral pool)
-   - `Read` `output/design-offer/latest.md` for offer tier + price-point context
+   - read `output/design-offer/latest.md` for offer tier + price-point context
 
 2. **Pre-flight check:** Verify `company.yaml` thresholds — offer_architecture ≥ 50, lifecycle_optimization ≥ 40. If below, recommend running `/retention-check` first.
 
@@ -29,7 +29,7 @@ Load and execute `skills/referral-program/SKILL.md` in the current workspace.
 5. **Update company.yaml:** `Edit` compartment 10 (lifecycle_optimization) — append referral program reference + k-factor target + trigger points. Never overwrite existing values without confirmation.
 
 6. **Post-ship:**
-   - `Write` `skills/referral-program/evidence/runs/{YYYY-MM-DD}-run.md` with phase log + confidence tags + reward pattern + k-factor target
+   - write `skills/referral-program/evidence/runs/{YYYY-MM-DD}-run.md` with phase log + confidence tags + reward pattern + k-factor target
    - Output next-skill recommendation (usually `/email-sequence` for referral-ask emails, or `/case-study` to pair with Thriving clients)
 
 ## Arguments
@@ -68,4 +68,4 @@ After spec ships:
 - Recommend `/case-study` to pair with Thriving clients (referral ask + testimonial capture in same touchpoint)
 
 ---
-*Claude Code adapter v1.0 — binds to skills/referral-program/SKILL.md*
+*the slash-command adapter v1.0 — binds to skills/referral-program/SKILL.md*

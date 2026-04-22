@@ -497,7 +497,7 @@ Ambitious 20-35 year old side hustlers and aspiring entrepreneurs who see clippi
 
 ## Section 1: Positioning Statement
 
-> **For** aspiring clippers and side hustlers stuck at $0-$2K/month **who** can't figure out how to find streamer clients or scale past freelancing, **ClipScale Academy** is the **clipping agency accelerator** **that** transforms you from a $15/clip freelancer into a $10K/month agency owner with retainer clients and a team **because** it's the only program built on the Clip-to-Agency Method — a systemized playbook specifically designed for the streaming niche, not generic agency advice repurposed for clipping.
+> **For** aspiring clippers and side hustlers stuck at $0-$2K/month **who** can't figure out how to find streamer clients or scale past freelancing, **Clipping Agency** is the **clipping agency accelerator** **that** transforms you from a $15/clip freelancer into a $10K/month agency owner with retainer clients and a team **because** it's the only program built on the Clip-to-Agency Method — a systemized playbook specifically designed for the streaming niche, not generic agency advice repurposed for clipping.
 
 - **Audience**: Aspiring clippers wanting to build an agency (ICP Section 1)
 - **Pain**: Can't find clients, stuck at freelancer income, no system (ICP Section 6, Pains 1-3)

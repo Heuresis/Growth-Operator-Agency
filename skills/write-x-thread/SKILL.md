@@ -17,7 +17,7 @@ required_compartments:
   copy_messaging: 30
 upstream_dependency: content-calendar
 execution_mode: interactive
-sorx_tier: structured_ai
+tier: structured_ai
 temperature_gate: warm
 required_tools: [file_read, file_write]
 required_mcps: [filesystem]

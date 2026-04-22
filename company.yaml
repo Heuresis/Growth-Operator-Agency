@@ -18,7 +18,7 @@ description: "[One-sentence description of the business]"
 mission: "[North star mission statement]"
 issue_prefix: "[PREFIX-]"                # e.g. "ACME-"
 
-# ---- Budget & governance (Canopy spec) ----
+# ---- Budget & governance (workspace spec) ----
 budget:
   monthly_usd: 0
   per_agent_usd: 500
@@ -302,7 +302,7 @@ operational_intelligence:
     client_onboarding_workflow: ""
 
 # ============================================================
-# GOALS (Canopy spec — initiatives/projects/milestones)
+# GOALS (workspace spec — initiatives/projects/milestones)
 # ============================================================
 goals:
   initiatives: []

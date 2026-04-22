@@ -3,11 +3,11 @@
 > **Framework:** Jeremy Hidden VSSL Framework (Variant E) - `reference/frameworks/vsl/haynes-hidden-vssl.md`
 > **Runtime target:** 28-32 minutes (within the 20-45 min window)
 > **Best for:** Organic YouTube distribution, content-first brand, audience expects teaching
-> **Applied to:** ClipScale Academy - the Clipping Agency Accelerator offer
+> **Applied to:** Clipping Agency - the Clipping Agency Accelerator offer
 
 ## Context
 
-The Hidden VSSL is the the growth engineer framework optimized for YouTube-native organic distribution. Unlike paid-traffic VSLs (15-step, Pull-Push-Persuade 11-step) where the viewer arrived expecting sales, the Hidden VSSL lives inside a creator's YouTube content ecosystem - the viewer arrived expecting teaching. The offer reveal emerges naturally from the teaching, not as a hard pivot. The 80/20 rule governs: 80% story/problem/mechanism teaching, 20% mechanism/solution/offer. Violate the ratio and the "selling" tell activates. This example applies the framework to ClipScale Academy, where the audience of aspiring clippers watches YouTube to learn clipping - so the Hidden VSSL teaches clipping-as-a-business and the offer appears as the "proven system" option.
+The Hidden VSSL is the the growth engineer framework optimized for YouTube-native organic distribution. Unlike paid-traffic VSLs (15-step, Pull-Push-Persuade 11-step) where the viewer arrived expecting sales, the Hidden VSSL lives inside a creator's YouTube content ecosystem - the viewer arrived expecting teaching. The offer reveal emerges naturally from the teaching, not as a hard pivot. The 80/20 rule governs: 80% story/problem/mechanism teaching, 20% mechanism/solution/offer. Violate the ratio and the "selling" tell activates. This example applies the framework to Clipping Agency, where the audience of aspiring clippers watches YouTube to learn clipping - so the Hidden VSSL teaches clipping-as-a-business and the offer appears as the "proven system" option.
 
 ## The Encoded Hidden VSSL (5 Chapters)
 
@@ -65,7 +65,7 @@ Three isomorphic testimonials (Fiverr clipper, corporate, student), same outcome
 
 Option 1, keep doing what you're doing. Figure out the agency transition on your own. Some people do. Most don't, because the gap isn't editing skill. It's the specific system for outreach, pricing, onboarding, and scaling that took me 18 months and $5K-$15K in mistakes.
 
-Option 2, use the system I built. The Clip-to-Agency Method, inside ClipScale Academy. Phase 1 Production Mastery (AI+human workflow), Phase 2 Client Engine (DM scripts, proposals for streamers), Phase 3 Scale System (editors, SOPs, retention). Three tiers: DIY $997, Accelerator $2,997, Partner $7,500. Link in the first pinned comment.
+Option 2, use the system I built. The Clip-to-Agency Method, inside Clipping Agency. Phase 1 Production Mastery (AI+human workflow), Phase 2 Client Engine (DM scripts, proposals for streamers), Phase 3 Scale System (editors, SOPs, retention). Three tiers: DIY $997, Accelerator $2,997, Partner $7,500. Link in the first pinned comment.
 
 You don't have to. I'm not chasing you. If Option 1 feels right, go do Option 1. Either way, thanks for watching."
 
@@ -82,8 +82,8 @@ Chapter 5 is soft. Two-options framing, no countdown, no fake urgency. CTA in pi
 - `reference/frameworks/vsl/haynes-hidden-vssl.md` - framework structure
 - `reference/operators/growth-engineer.md` - the growth engineer lineage
 - `reference/operators/content-os-director.md` - 3 Content Types (VSSL as the only video with external CTA)
-- `operations/clipscale-academy/output/foundations/offer-document.md` - the offer this VSSL sells
+- `operations/clipping-agency/output/foundations/offer-document.md` - the offer this VSSL sells
 - creator-native youtuber (@ohalloran_sam) - canonical executor of this variant on YouTube
 
 ---
-*Encoded 2026-04-19. [SYNTHESIZED] application of the Hidden VSSL framework [VERBATIM] to the ClipScale Academy offer. Framework structure (5 chapters, 80/20 rule, soft Chapter 5) is pulled from source. Case testimonials (Jalen, Priya, Marcus) are composite illustrative examples calibrated to the ICP document's three archetypes, not named real clients.*
+*Encoded 2026-04-19. [SYNTHESIZED] application of the Hidden VSSL framework [VERBATIM] to the Clipping Agency offer. Framework structure (5 chapters, 80/20 rule, soft Chapter 5) is pulled from source. Case testimonials (Jalen, Priya, Marcus) are composite illustrative examples calibrated to the ICP document's three archetypes, not named real clients.*

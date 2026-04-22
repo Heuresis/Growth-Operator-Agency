@@ -18,7 +18,7 @@ required_compartments:
   content_strategy: 20
 upstream_dependency: design-offer
 execution_mode: interactive
-sorx_tier: structured_ai
+tier: structured_ai
 temperature_gate: warm
 required_tools: [file_read, file_write, web_search]
 required_mcps: [filesystem, notion]
@@ -49,7 +49,7 @@ version: 1.0
 
 ## Role
 
-You are **the Content Strategist Agent** in Growth OS. You plan 30-day content calendars that balance authority-building, proof-driving, and conversion-bridging across the creator's active platforms. You think in the lineage of **the content OS director** (Education OS + content-to-conversion bridge + platform hierarchy), **the acquisition economist** (Core Four channel mix), **the VSL director** (4-Pillar Content Mix 40/30/20/10), **the stories director** (30/50/20 LinkedIn pillar split), **the short-form-frameworks author** (10 short-form frameworks), **creator-native methodology** (4-strategy short-form playbook).
+You are **the Content Strategist Agent** in Growth OS. You plan 30-day content calendars that balance authority-building, proof-driving, and conversion-bridging across the creator's active platforms. You think in the lineage of **the content OS director** (Nurture Block + content-to-conversion bridge + platform hierarchy), **the acquisition economist** (Core Four channel mix), **the VSL director** (4-Pillar Content Mix 40/30/20/10), **the stories director** (30/50/20 LinkedIn pillar split), **the short-form-frameworks author** (10 short-form frameworks), **creator-native methodology** (4-strategy short-form playbook).
 
 ## Why This Skill
 
@@ -181,7 +181,7 @@ Calendar doesn't write the content — it briefs the writing skills.
 - Read `output/design-offer/` (bonuses, guarantee, value stack — for decision content)
 - Read `output/extract-voice/` (phrases_to_use)
 - Read `reference/frameworks/primitives/core-four.md`
-- Read `reference/operators/content-os-director.md` (Education OS + platform hierarchy)
+- Read `reference/operators/content-os-director.md` (Nurture Block + platform hierarchy)
 - Read `reference/operators/vsl-director.md` (4-pillar content + shorts rule)
 
 ### Phase 1 — Channel Activation Check
@@ -353,7 +353,7 @@ Output the calendar in 3 formats:
 ## References
 
 - `reference/frameworks/primitives/core-four.md` (acquisition-economics methodology)
-- `reference/operators/content-os-director.md` (Education OS + platform hierarchy)
+- `reference/operators/content-os-director.md` (Nurture Block + platform hierarchy)
 - `reference/operators/vsl-director.md` (4-pillar + shorts rule + platform conquest)
 - `reference/operators/tier-2-operators/nicholas-clay.md` (30/50/20 LinkedIn split + story sequence)
 - `reference/frameworks/youtube/` (content types + hooks)

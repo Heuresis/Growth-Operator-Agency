@@ -14,7 +14,7 @@ agent_affinity: [foundations-lead, brand-voice, researcher]
 required_compartments:
   creator_identity_matrix: 30
 execution_mode: interactive
-sorx_tier: structured_ai
+tier: structured_ai
 temperature_gate: warm
 evidence_gate:
   - all_10_sections_complete

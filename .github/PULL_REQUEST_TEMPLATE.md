@@ -34,7 +34,7 @@ Per [`CONTRIBUTING.md`](../CONTRIBUTING.md):
 - [ ] `SKILL.md` has all 9 body sections (Role, Decision Logic, Tacit Principles, Process, Output Format, Context Requirements, Verification Checklist, Important Rules, Cross-skill Routing)
 - [ ] `SKILL.md` does not reference a specific runtime
 - [ ] `adapters/claude-code.md` is ≤ 50 lines
-- [ ] `adapters/canopy.yaml` declares sorx_tier, category, temperature_gate, evidence_gate
+- [ ] `adapters/manifest.yaml` declares tier, category, temperature_gate, evidence_gate
 - [ ] `evidence/blind-output-test.md` classifies the tier correctly (sacred / external / internal)
 - [ ] `.claude/commands/{slug}.md` exists and points to the adapter
 - [ ] `skills/_INDEX.md` updated

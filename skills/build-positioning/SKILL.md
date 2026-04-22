@@ -17,7 +17,7 @@ required_compartments:
   offer_architecture: 10
 upstream_dependency: build-icp
 execution_mode: interactive
-sorx_tier: reasoning_ai
+tier: reasoning_ai
 temperature_gate: warm
 evidence_gate:
   - all_7_sections_complete

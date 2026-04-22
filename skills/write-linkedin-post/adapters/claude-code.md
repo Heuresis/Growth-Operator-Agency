@@ -4,18 +4,18 @@ argument-hint: [optional: --type=value-bomb|lead-magnet|case-study|authority|eng
 allowed-tools: Read, Write, Edit, Grep, Glob
 ---
 
-# /write-linkedin-post — Claude Code Runtime Binding
+# /write-linkedin-post — slash-command runtime Runtime Binding
 
 Load and execute `skills/write-linkedin-post/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/write-linkedin-post/SKILL.md` (full body)
-   - `Read` `skills/write-linkedin-post/reference/` if present
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/write-linkedin-post/SKILL.md` (full body)
+   - read `skills/write-linkedin-post/reference/` if present
    - `Read` upstream: `output/content-calendar/latest.md` for calendar brief
-   - `Read` `output/extract-voice/`, `output/build-positioning/`, `output/design-offer/` as relevant
+   - read `output/extract-voice/`, `output/build-positioning/`, `output/design-offer/` as relevant
 
 2. **Pre-flight check:** Verify `required_compartments` — audience_intelligence_system ≥ 60, offer_architecture ≥ 40, copy_messaging ≥ 30, content_strategy ≥ 20. INV-8 scope guard: confirm this is creator-promoting-own-offer, NOT full LinkedIn agency content.
 
@@ -28,7 +28,7 @@ Load and execute `skills/write-linkedin-post/SKILL.md` in the current workspace.
    - Include primary hook + 2 alts, full post, first-comment plan, reply-to-own plan
 
 5. **Post-ship:**
-   - `Write` `skills/write-linkedin-post/evidence/runs/{YYYY-MM-DD}-run.md` with phase log
+   - write `skills/write-linkedin-post/evidence/runs/{YYYY-MM-DD}-run.md` with phase log
    - Output next-skill recommendation (usually `/write-x-thread` or `/email-sequence` for repurpose)
 
 ## Arguments
@@ -66,4 +66,4 @@ Per `handoffs/quality-revision.md`: auto-revise → surface gap → escalate to 
 - On external-tier completion: ensure Blind Output Test 2/3 queued
 
 ---
-*Claude Code adapter v1.0 — binds to skills/write-linkedin-post/SKILL.md*
+*the slash-command adapter v1.0 — binds to skills/write-linkedin-post/SKILL.md*

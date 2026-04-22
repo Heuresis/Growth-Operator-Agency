@@ -4,17 +4,17 @@ argument-hint: [optional: "--variant=A|B|C|D|E" to force variant; else auto-sele
 allowed-tools: Read, Write, Edit, Grep, Glob, WebSearch, WebFetch
 ---
 
-# /build-vsl — Claude Code Runtime Binding
+# /build-vsl — slash-command runtime Runtime Binding
 
 Load and execute `skills/build-vsl/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/build-vsl/SKILL.md` (full body)
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/build-vsl/SKILL.md` (full body)
    - `Read` upstream: `output/design-offer/` (Offer Doc — gate-passed required), `output/build-positioning/`, `output/build-icp/`, `output/extract-voice/`
-   - `Read` `reference/frameworks/vsl/` (all 5 variant files) + the VSL director/the psychological copywriter/the 13-step VSL author/the VSL copywriter/the growth engineer operator files + 8-required-beliefs + crossroads-close + value-stack-architecture
+   - read `reference/frameworks/vsl/` (all 5 variant files) + the VSL director/the psychological copywriter/the 13-step VSL author/the VSL copywriter/the growth engineer operator files + 8-required-beliefs + crossroads-close + value-stack-architecture
 
 2. **Pre-flight check:** Verify `audience_intelligence_system >= 60`, `offer_architecture >= 70`, `copy_messaging >= 40` in `company.yaml`. Confirm mechanism named (Positioning), 5+ isomorphic case studies available, 15+ phrases_to_use (Brand Voice Doc). If any fails, HOLD with specific gap.
 
@@ -26,11 +26,11 @@ Load and execute `skills/build-vsl/SKILL.md` in the current workspace.
    - Mark `[GAP]` if any belief not installable given current offer structure
 
 5. **Update company.yaml:**
-   - `Edit` `company.yaml` Compartment 5 (copy_messaging) to reference the shipped VSL script path + variant selected
+   - edit `company.yaml` Compartment 5 (copy_messaging) to reference the shipped VSL script path + variant selected
    - Never overwrite existing VSL references without confirmation
 
 6. **Post-ship:**
-   - `Write` `skills/build-vsl/evidence/runs/{YYYY-MM-DD}-run.md` with variant rationale + voice-match audit + mechanism thread trace
+   - write `skills/build-vsl/evidence/runs/{YYYY-MM-DD}-run.md` with variant rationale + voice-match audit + mechanism thread trace
    - Output next-skill recommendation (usually `/build-funnel` if funnel incomplete, else `/ad-creative` for traffic)
 
 ## Arguments
@@ -74,4 +74,4 @@ After the VSL Script ships (and passes Blind Test 3/3):
 - On sacred-format completion: Blind Output Test 3/3 REQUIRED before any paid traffic spend
 
 ---
-*Claude Code adapter v1.0 — binds to skills/build-vsl/SKILL.md*
+*the slash-command adapter v1.0 — binds to skills/build-vsl/SKILL.md*

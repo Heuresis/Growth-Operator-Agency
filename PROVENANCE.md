@@ -22,9 +22,9 @@ Hussain, Syed. *Encoded Founder* (V4). encodedfounder.com.
 
 Encoded Founder is the methodology for translating tacit creator judgment into machine-readable workspace content. The 11-compartment Creator Context Profile (`ENCODING.md`), the three-layer knowledge architecture (Decision Logic / Structured Knowledge / Technology Interface), and the Encoding Flywheel all derive from Encoded Founder. The M-formula (`M = T × S × K × A × E × I × L`) referenced across the workspace is the Encoded Founder measure of fit between an encoded workspace and its creator.
 
-### 3. Canopy Protocol
+### 3. workspace protocol
 
-Canopy workspace protocol — the file contract that defines `SYSTEM.md` + `SKILL.md` + two-layer structure + external skill references with provenance. Canopy is the format Growth OS speaks in; adapters translate Canopy-shaped skills into whatever specific runtime is reading the workspace.
+the workspace protocol — the file contract that defines `SYSTEM.md` + `SKILL.md` + two-layer structure + external skill references with provenance. the workspace manifest is the format Growth OS speaks in; adapters translate the workspace manifest-shaped skills into whatever specific runtime is reading the workspace.
 
 ## Cognitive activation sources
 
@@ -46,7 +46,7 @@ No operator in the activation list is a partner, endorser, or collaborator of He
 ## What Heuresis does not own
 
 - The underlying intellectual property of any named operator or theorist encoded in `reference/frameworks/` or `reference/operators/`. Those frameworks are their authors' work; the files in this workspace are structured summaries with attribution, encoded for runtime use.
-- The Canopy Protocol specification itself.
+- The workspace protocol specification itself.
 - The public-domain classical theory (information theory, cybernetics theory, viable systems theory, feedback-loop theory) cited inside Signal Theory and Quality.
 
 ## Version lineage

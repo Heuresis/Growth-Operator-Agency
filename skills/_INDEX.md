@@ -5,7 +5,7 @@
 >
 > **Discovery pattern:** runtime scans `skills/*/SKILL.md` at boot (one level deep, flat).
 > **Execution pattern:** runtime reads the SKILL.md body and follows the Process section.
-> **Runtime binding:** `skills/{slug}/adapters/{runtime}.{ext}` — Claude Code and Canopy ship as primary.
+> **Runtime binding:** `skills/{slug}/adapters/{runtime}.{ext}` — slash-command runtime and the workspace manifest ship as primary.
 
 ## Status legend
 
@@ -15,7 +15,7 @@
 
 ---
 
-## Foundations — Positioning OS (5)
+## Foundations — Foundations Block (5)
 
 | # | Skill | Purpose | Status |
 |---|---|---|---|
@@ -25,7 +25,7 @@
 | 4 | `design-offer` | Offer Document (12 sections, Value Stack, Bonuses, Guarantee, 3:1 economics gate) | ✅ |
 | 5 | `extract-voice` | Brand Voice Architecture (Compartment 1) from creator content | ✅ |
 
-## Marketing — Traffic OS (7)
+## Marketing — Marketing Block (7)
 
 | # | Skill | Purpose | Status |
 |---|---|---|---|
@@ -37,7 +37,7 @@
 | 11 | `write-x-thread` | Twitter / X thread across thread types | ✅ |
 | 12 | `story-sequence` | 7-day Instagram Story sequence (4-layer anatomy) | ✅ |
 
-## Nurture — Education OS (4)
+## Nurture — Nurture Block (4)
 
 | # | Skill | Purpose | Status |
 |---|---|---|---|
@@ -46,7 +46,7 @@
 | 15 | `webinar-script` | Webinar or challenge script (Live / Evergreen / 3-5-7-Day / Workshop) | ✅ |
 | 16 | `post-booking-nurture` | Confirmation page + 24h / 6h / 1h email + personal SMS | ✅ |
 
-## Sales — Conversion OS (3)
+## Sales — Sales Block (3)
 
 | # | Skill | Purpose | Status |
 |---|---|---|---|
@@ -94,7 +94,7 @@
 
 ## Command binding
 
-Every skill maps 1:1 to a Claude Code slash command in `.claude/commands/{slug}.md`. Canopy bindings live in `skills/{slug}/adapters/canopy.yaml`. Any runtime that reads markdown + YAML can invoke a skill by copying the `SKILL.md` body.
+Every skill maps 1:1 to a slash-command in `.claude/commands/{slug}.md`. manifest bindings live in `skills/{slug}/adapters/manifest.yaml`. Any runtime that reads markdown + YAML can invoke a skill by copying the `SKILL.md` body.
 
 ## Skill-to-framework binding
 

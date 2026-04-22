@@ -65,7 +65,7 @@
 Per creator revenue tier:
 
 **Tier 1 — Pre-revenue to $10K/mo** (budget stack)
-- LLM: Claude (via Claude Code) or ChatGPT (direct)
+- LLM: Claude (via slash-command runtime) or ChatGPT (direct)
 - CRM: Close free tier OR Airtable
 - Email: ConvertKit free tier
 - Payment: Stripe

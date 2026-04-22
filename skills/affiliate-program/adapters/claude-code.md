@@ -4,16 +4,16 @@ argument-hint: "[optional: --tier=info|digital|saas|done-for-you]"
 allowed-tools: Read, Write, Edit, Grep, Glob
 ---
 
-# /affiliate-program — Claude Code Runtime Binding
+# /affiliate-program — slash-command runtime Runtime Binding
 
 Load and execute `skills/affiliate-program/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/affiliate-program/SKILL.md` (full body)
-   - `Read` `skills/affiliate-program/reference/` (all files, if present)
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/affiliate-program/SKILL.md` (full body)
+   - read `skills/affiliate-program/reference/` (all files, if present)
    - `Read` upstream dependency output: `output/design-offer/latest.md` (offer economics informs commission math)
 
 2. **Pre-flight check:** Verify `company.yaml` thresholds — offer_architecture ≥ 60, lifecycle_optimization ≥ 20. If below, recommend running `/design-offer` first.
@@ -28,7 +28,7 @@ Load and execute `skills/affiliate-program/SKILL.md` in the current workspace.
 5. **Update company.yaml:** `Edit` compartment 3 (offer_architecture) — append affiliate program reference + commission tier summary. Never overwrite existing values without confirmation.
 
 6. **Post-ship:**
-   - `Write` `skills/affiliate-program/evidence/runs/{YYYY-MM-DD}-run.md` with phase log + confidence tags + LTV:CAC impact math
+   - write `skills/affiliate-program/evidence/runs/{YYYY-MM-DD}-run.md` with phase log + confidence tags + LTV:CAC impact math
    - Output next-skill recommendation (usually `/referral-program` for customer-referral adjacent, or `/email-sequence` for affiliate recruitment)
 
 ## Arguments
@@ -67,4 +67,4 @@ After spec ships:
 - Recommend `/email-sequence` for affiliate recruitment sequence (Tier 1 direct outreach, Tier 2 existing-buyer activation)
 
 ---
-*Claude Code adapter v1.0 — binds to skills/affiliate-program/SKILL.md*
+*the slash-command adapter v1.0 — binds to skills/affiliate-program/SKILL.md*

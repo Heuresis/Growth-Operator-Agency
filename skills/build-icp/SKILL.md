@@ -16,7 +16,7 @@ required_compartments:
   creator_identity_matrix: 30
 upstream_dependency: research         # /research must run before this skill
 execution_mode: interactive
-sorx_tier: structured_ai
+tier: structured_ai
 temperature_gate: warm
 evidence_gate:
   - all_13_sections_complete

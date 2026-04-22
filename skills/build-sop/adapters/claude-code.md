@@ -4,16 +4,16 @@ argument-hint: "[optional: --variant=<role|process>]"
 allowed-tools: Read, Write, Edit, Grep, Glob
 ---
 
-# /build-sop — Claude Code Runtime Binding
+# /build-sop — slash-command runtime Runtime Binding
 
 Load and execute `skills/build-sop/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/build-sop/SKILL.md` (full body)
-   - `Read` `skills/build-sop/reference/` (all files, if present)
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/build-sop/SKILL.md` (full body)
+   - read `skills/build-sop/reference/` (all files, if present)
    - `Read` upstream dependency output: `output/design-offer/latest.md` (offer mechanism informs process)
 
 2. **Pre-flight check:** Verify `company.yaml` thresholds — audience_intelligence_system ≥ 30, offer_architecture ≥ 50, conversion_sales ≥ 30, operational_intelligence ≥ 30. If below, recommend running upstream `/design-offer` first or enter Compartment Interview Mode for compartment 11 (team structure).
@@ -28,7 +28,7 @@ Load and execute `skills/build-sop/SKILL.md` in the current workspace.
 5. **Update company.yaml:** `Edit` compartment 11 (operational_intelligence) — append SOP reference + owner + review cadence. Never overwrite existing values without confirmation.
 
 6. **Post-ship:**
-   - `Write` `skills/build-sop/evidence/runs/{YYYY-MM-DD}-run.md` with phase log + confidence tags + variant selected
+   - write `skills/build-sop/evidence/runs/{YYYY-MM-DD}-run.md` with phase log + confidence tags + variant selected
    - Output next-skill recommendation (usually `/hiring-brief` for the role)
 
 ## Arguments
@@ -67,4 +67,4 @@ After SOP ships:
 - Recommend `/revenue-report` if Reporting SOP is the variant
 
 ---
-*Claude Code adapter v1.0 — binds to skills/build-sop/SKILL.md*
+*the slash-command adapter v1.0 — binds to skills/build-sop/SKILL.md*

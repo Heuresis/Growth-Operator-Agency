@@ -134,10 +134,10 @@ Error body shape:
 
 ## Cross-Reference to Other Adapters
 
-The HTTP adapter, the Claude Code slash command at `.claude/commands/{skill}.md`, and the Canopy binding at `adapters/canopy.yaml` are **three ports onto the same skill**. They are not three skills. The `SKILL.md` body is the single source of truth. The adapters only differ in **how the runtime is invoked and how inputs/outputs are transported**:
+The HTTP adapter, the slash-command at `.claude/commands/{skill}.md`, and the manifest binding at `adapters/manifest.yaml` are **three ports onto the same skill**. They are not three skills. The `SKILL.md` body is the single source of truth. The adapters only differ in **how the runtime is invoked and how inputs/outputs are transported**:
 
 - `adapters/claude-code.md` — slash command, tool-based I/O, local filesystem
-- `adapters/canopy.yaml` — SORX registration, progressive disclosure, sandboxed execution
+- `adapters/manifest.yaml` — runtime tier registration, progressive disclosure, sandboxed execution
 - `adapters/http.openapi.yaml` — REST endpoint, JSON envelope, HTTP transport
 
 A change to methodology lives in `SKILL.md` and is instantly reflected across all three adapters. A change to transport lives in one adapter file and does not touch the others. This is the INV-10 Runtime-Agnostic File Contract operationalized at Layer 3.
@@ -148,7 +148,7 @@ The HTTP adapter file **does not implement the skill**. It is a contract file th
 
 1. Declares the REST surface (path, method, request schema, response schema, auth)
 2. References the canonical SKILL.md via `x-skill-source: ../SKILL.md`
-3. Is consumed by whatever HTTP runtime actually executes (a Next.js route, a Go handler, an AWS Lambda, a Canopy-fronted endpoint)
+3. Is consumed by whatever HTTP runtime actually executes (a Next.js route, a Go handler, an AWS Lambda, a the workspace manifest-fronted endpoint)
 
 The downstream HTTP runtime reads `SKILL.md`, loads the referenced `company.yaml` context profile, executes the skill's Process section, writes the artifact, and returns the envelope. The adapter is purely descriptive. Business logic stays in `SKILL.md`.
 

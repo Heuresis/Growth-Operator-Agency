@@ -1,6 +1,6 @@
 # The 5-Tuple Encoding — S = (Mode, Genre, Type, Format, Structure)
 
-> **Source:** Signal Theory pp.14-18 · Canopy `protocol/signal-theory.md` lines 9-24
+> **Source:** Signal Theory pp.14-18 · the workspace manifest `protocol/signal-theory.md` lines 9-24
 > **Status:** Load-bearing. Every skill output declares its 5-tuple before execution.
 
 ## Definition
@@ -109,7 +109,7 @@ Unresolved dimensions = skill refuses to execute.
 ## Sources
 
 - Signal Theory pp.14-18
-- Canopy `protocol/signal-theory.md` lines 9-24
+- the workspace manifest `protocol/signal-theory.md` lines 9-24
 - `spec/SIGNAL.md`
 
 ---

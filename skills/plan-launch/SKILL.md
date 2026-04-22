@@ -18,7 +18,7 @@ required_compartments:
   content_strategy: 40
 upstream_dependency: build-funnel
 execution_mode: interactive
-sorx_tier: reasoning_ai
+tier: reasoning_ai
 temperature_gate: warm
 required_tools: [file_read, file_write]
 required_mcps: [filesystem, notion]

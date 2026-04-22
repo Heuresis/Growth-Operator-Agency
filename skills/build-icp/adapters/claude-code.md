@@ -4,16 +4,16 @@ argument-hint: [optional: offer name the ICP targets]
 allowed-tools: Read, Write, Edit, Grep, Glob, WebSearch, WebFetch
 ---
 
-# /build-icp — Claude Code Runtime Binding
+# /build-icp — slash-command runtime Runtime Binding
 
 Load and execute `skills/build-icp/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/build-icp/SKILL.md` (full body)
-   - `Read` `skills/build-icp/reference/` (all files, if present)
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/build-icp/SKILL.md` (full body)
+   - read `skills/build-icp/reference/` (all files, if present)
    - `Read` upstream Market Research Brief at `output/research/` (latest)
 
 2. **Pre-flight check:** Verify `audience_intelligence_system >= 30` and `creator_identity_matrix >= 30` in `company.yaml`. If below threshold, route back to `/research` or enter Compartment Interview Mode.
@@ -26,11 +26,11 @@ Load and execute `skills/build-icp/SKILL.md` in the current workspace.
    - If any section fails cross-validation, mark `[GAP: section N]` and continue
 
 5. **Update company.yaml:**
-   - `Edit` `company.yaml` to populate Compartment 2 (audience_intelligence_system) to 70%+
+   - edit `company.yaml` to populate Compartment 2 (audience_intelligence_system) to 70%+
    - Never overwrite existing values without confirmation
 
 6. **Post-ship:**
-   - `Write` `skills/build-icp/evidence/runs/{YYYY-MM-DD}-run.md` with phase log + confidence tags
+   - write `skills/build-icp/evidence/runs/{YYYY-MM-DD}-run.md` with phase log + confidence tags
    - Output next-skill recommendation (usually `/build-positioning`)
 
 ## Arguments
@@ -74,4 +74,4 @@ After the ICP Document ships:
 - On Blind Output Test completion: open gate for `/design-offer`
 
 ---
-*Claude Code adapter v1.0 — binds to skills/build-icp/SKILL.md*
+*the slash-command adapter v1.0 — binds to skills/build-icp/SKILL.md*

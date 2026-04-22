@@ -17,50 +17,46 @@
 
   <text class="d-label" x="600" y="56" font-size="12" fill="#71717a" text-anchor="middle">Growth OS  ·  7 divisions</text>
   <text class="d-title" x="600" y="96" font-size="34" fill="#09090b" text-anchor="middle">One director. Seven divisions.</text>
-  <text class="d-sub" x="600" y="130" font-size="16" fill="#52525b" text-anchor="middle">29 shipped skills distributed across the full go-to-market operation.</text>
+  <text class="d-sub" x="600" y="130" font-size="16" fill="#52525b" text-anchor="middle">Every artifact a high-ticket creator business ships.</text>
 
   <g transform="translate(40 180)">
     <rect x="0" y="0" width="265" height="240" fill="#fafafa" stroke="#e4e4e7" stroke-width="1" rx="12"/>
     <text class="d-num" x="24" y="48" font-size="28" fill="#d4d4d8">01</text>
     <text class="d-cell-name" x="24" y="90" font-size="22" fill="#09090b">Foundations</text>
-    <text class="d-sub" x="24" y="116" font-size="13" fill="#52525b">Positioning OS</text>
+    <text class="d-sub" x="24" y="116" font-size="13" fill="#52525b">Foundations Block</text>
     <text class="d-sub" x="24" y="140" font-size="13" fill="#52525b">ICP · offer · positioning · voice</text>
     <line x1="24" y1="170" x2="72" y2="170" stroke="#b45309" stroke-width="2" stroke-linecap="square"/>
     <text class="d-cell-role" x="24" y="198" font-size="11" fill="#71717a">foundations-lead</text>
-    <text class="d-cell-meta" x="241" y="220" font-size="11" fill="#71717a" text-anchor="end">5 skills</text>
-  </g>
+      </g>
 
   <g transform="translate(325 180)">
     <rect x="0" y="0" width="265" height="240" fill="#fafafa" stroke="#e4e4e7" stroke-width="1" rx="12"/>
     <text class="d-num" x="24" y="48" font-size="28" fill="#d4d4d8">02</text>
     <text class="d-cell-name" x="24" y="90" font-size="22" fill="#09090b">Marketing</text>
-    <text class="d-sub" x="24" y="116" font-size="13" fill="#52525b">Traffic OS</text>
+    <text class="d-sub" x="24" y="116" font-size="13" fill="#52525b">Marketing Block</text>
     <text class="d-sub" x="24" y="140" font-size="13" fill="#52525b">Content · paid ads · organic distribution</text>
     <line x1="24" y1="170" x2="72" y2="170" stroke="#b45309" stroke-width="2" stroke-linecap="square"/>
     <text class="d-cell-role" x="24" y="198" font-size="11" fill="#71717a">marketing-lead</text>
-    <text class="d-cell-meta" x="241" y="220" font-size="11" fill="#71717a" text-anchor="end">7 skills</text>
   </g>
 
   <g transform="translate(610 180)">
     <rect x="0" y="0" width="265" height="240" fill="#fafafa" stroke="#e4e4e7" stroke-width="1" rx="12"/>
     <text class="d-num" x="24" y="48" font-size="28" fill="#d4d4d8">03</text>
     <text class="d-cell-name" x="24" y="90" font-size="22" fill="#09090b">Nurture</text>
-    <text class="d-sub" x="24" y="116" font-size="13" fill="#52525b">Education OS</text>
+    <text class="d-sub" x="24" y="116" font-size="13" fill="#52525b">Nurture Block</text>
     <text class="d-sub" x="24" y="140" font-size="13" fill="#52525b">Email · community · webinar · lead magnet</text>
     <line x1="24" y1="170" x2="72" y2="170" stroke="#b45309" stroke-width="2" stroke-linecap="square"/>
     <text class="d-cell-role" x="24" y="198" font-size="11" fill="#71717a">nurture-lead</text>
-    <text class="d-cell-meta" x="241" y="220" font-size="11" fill="#71717a" text-anchor="end">4 skills</text>
   </g>
 
   <g transform="translate(895 180)">
     <rect x="0" y="0" width="265" height="240" fill="#fafafa" stroke="#e4e4e7" stroke-width="1" rx="12"/>
     <text class="d-num" x="24" y="48" font-size="28" fill="#d4d4d8">04</text>
     <text class="d-cell-name" x="24" y="90" font-size="22" fill="#09090b">Sales</text>
-    <text class="d-sub" x="24" y="116" font-size="13" fill="#52525b">Conversion OS</text>
+    <text class="d-sub" x="24" y="116" font-size="13" fill="#52525b">Sales Block</text>
     <text class="d-sub" x="24" y="140" font-size="13" fill="#52525b">VSL · funnel · scripts · DM · operations</text>
     <line x1="24" y1="170" x2="72" y2="170" stroke="#b45309" stroke-width="2" stroke-linecap="square"/>
     <text class="d-cell-role" x="24" y="198" font-size="11" fill="#71717a">sales-lead</text>
-    <text class="d-cell-meta" x="241" y="220" font-size="11" fill="#71717a" text-anchor="end">3 skills</text>
   </g>
 
   <g transform="translate(182 440)">
@@ -71,7 +67,6 @@
     <text class="d-sub" x="24" y="140" font-size="13" fill="#52525b">Planning · execution · analysis</text>
     <line x1="24" y1="170" x2="72" y2="170" stroke="#b45309" stroke-width="2" stroke-linecap="square"/>
     <text class="d-cell-role" x="24" y="198" font-size="11" fill="#71717a">launch-lead</text>
-    <text class="d-cell-meta" x="241" y="220" font-size="11" fill="#71717a" text-anchor="end">2 skills</text>
   </g>
 
   <g transform="translate(467 440)">
@@ -82,8 +77,7 @@
     <text class="d-sub" x="24" y="140" font-size="13" fill="#52525b">SOPs · hiring · finance · retention</text>
     <line x1="24" y1="170" x2="72" y2="170" stroke="#b45309" stroke-width="2" stroke-linecap="square"/>
     <text class="d-cell-role" x="24" y="198" font-size="11" fill="#71717a">scale-lead</text>
-    <text class="d-cell-meta" x="241" y="220" font-size="11" fill="#71717a" text-anchor="end">5 skills</text>
-  </g>
+      </g>
 
   <g transform="translate(752 440)">
     <rect x="0" y="0" width="265" height="240" fill="#09090b" stroke="#09090b" stroke-width="1" rx="12"/>
@@ -93,7 +87,6 @@
     <text class="d-sub" x="24" y="140" font-size="13" fill="#a1a1aa">JV · affiliate · influencer · referral</text>
     <line x1="24" y1="170" x2="72" y2="170" stroke="#d97706" stroke-width="2" stroke-linecap="square"/>
     <text class="d-cell-role" x="24" y="198" font-size="11" fill="#a1a1aa">partnerships-lead</text>
-    <text class="d-cell-meta" x="241" y="220" font-size="11" fill="#a1a1aa" text-anchor="end">3 skills</text>
   </g>
 
   <g transform="translate(600 730)">

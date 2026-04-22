@@ -16,7 +16,7 @@ required_compartments:
   lifecycle_optimization: 40
 upstream_dependency: retention-check
 execution_mode: interactive
-sorx_tier: structured_ai
+tier: structured_ai
 temperature_gate: warm
 required_tools: [file_read, file_write]
 required_mcps: [filesystem]

@@ -4,17 +4,17 @@ argument-hint: [optional: specific channel to prioritize, e.g. "podcast" or "Lin
 allowed-tools: Read, Write, Edit, Grep, Glob, WebFetch
 ---
 
-# /extract-voice — Claude Code Runtime Binding
+# /extract-voice — slash-command runtime Runtime Binding
 
 Load and execute `skills/extract-voice/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/extract-voice/SKILL.md` (full body)
-   - `Read` `spec/BANNED-VOCABULARY.md` (baseline for phrases_to_avoid)
-   - `Read` `skills/extract-voice/reference/` (all files, if present) + operator voice references
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/extract-voice/SKILL.md` (full body)
+   - read `spec/BANNED-VOCABULARY.md` (baseline for phrases_to_avoid)
+   - read `skills/extract-voice/reference/` (all files, if present) + operator voice references
 
 2. **Pre-flight check:** Verify `creator_identity_matrix >= 30` in `company.yaml` and confirm the creator has 3+ hours of content available (podcasts, long-form posts, video transcripts, newsletters). If below threshold, flag for content capture before proceeding.
 
@@ -26,11 +26,11 @@ Load and execute `skills/extract-voice/SKILL.md` in the current workspace.
    - If any section fails verbatim-count gate, mark `[GAP: section N — needs more samples]` and continue
 
 5. **Update company.yaml:**
-   - `Edit` `company.yaml` to populate Compartment 1 `brand_voice_architecture` sub-fields (communication_style, tone_framework, personality_traits, language_patterns, phrases_to_use, phrases_to_avoid, persuasion_style, authority_positioning)
+   - edit `company.yaml` to populate Compartment 1 `brand_voice_architecture` sub-fields (communication_style, tone_framework, personality_traits, language_patterns, phrases_to_use, phrases_to_avoid, persuasion_style, authority_positioning)
    - Never overwrite existing values without creator review confirmation
 
 6. **Post-ship:**
-   - `Write` `skills/extract-voice/evidence/runs/{YYYY-MM-DD}-run.md` with sample inventory + confidence tags
+   - write `skills/extract-voice/evidence/runs/{YYYY-MM-DD}-run.md` with sample inventory + confidence tags
    - Schedule creator review (voice extraction is load-bearing and requires human sign-off per Tacit Principle 7)
    - Output next-skill recommendation (enables every downstream copy skill)
 
@@ -72,4 +72,4 @@ After the Brand Voice Document ships + creator confirms:
 - Annual re-extraction recommended as voice evolves
 
 ---
-*Claude Code adapter v1.0 — binds to skills/extract-voice/SKILL.md*
+*the slash-command adapter v1.0 — binds to skills/extract-voice/SKILL.md*

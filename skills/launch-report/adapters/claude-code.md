@@ -4,16 +4,16 @@ argument-hint: [optional: launch-slug to report on]
 allowed-tools: Read, Write, Edit, Grep, Glob
 ---
 
-# /launch-report — Claude Code Runtime Binding
+# /launch-report — slash-command runtime Runtime Binding
 
 Load and execute `skills/launch-report/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/launch-report/SKILL.md` (full body)
-   - `Read` `skills/launch-report/reference/` if present
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/launch-report/SKILL.md` (full body)
+   - read `skills/launch-report/reference/` if present
    - `Read` upstream: `output/plan-launch/latest.md` (target plan), actual performance data from `company.yaml` launch_strategy.actuals + integration outputs (GA4, Stripe, GHL, Meta)
 
 2. **Pre-flight check:** Verify `required_compartments` — funnel_systems ≥ 60, lifecycle_optimization ≥ 30. Launch must be T+7 or later (post-launch window closed). Actual performance data must be populated.
@@ -26,11 +26,11 @@ Load and execute `skills/launch-report/SKILL.md` in the current workspace.
    - Structure per SKILL.md Output Format — plan vs actual table, phase-by-phase diagnosis, fix paths grid, next-launch recommendations, asset performance breakdown
 
 5. **Update company.yaml:**
-   - `Edit` `company.yaml` compartment 11 (lifecycle_optimization) with learnings
+   - edit `company.yaml` compartment 11 (lifecycle_optimization) with learnings
    - Append to launch_strategy.historical_actuals for baseline reference
 
 6. **Post-ship:**
-   - `Write` `skills/launch-report/evidence/runs/{YYYY-MM-DD}-run.md`
+   - write `skills/launch-report/evidence/runs/{YYYY-MM-DD}-run.md`
    - Recommend next skills: `/plan-launch` (next launch with corrections), `/build-funnel` (if funnel leaks), `/ad-creative` (if creative underperformed)
 
 ## Arguments
@@ -66,4 +66,4 @@ Per `handoffs/quality-revision.md`: auto-revise → surface gap → escalate to 
 - On internal-tier completion: Blind Output Test 1/3 optional but recommended
 
 ---
-*Claude Code adapter v1.0 — binds to skills/launch-report/SKILL.md*
+*the slash-command adapter v1.0 — binds to skills/launch-report/SKILL.md*

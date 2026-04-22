@@ -4,17 +4,17 @@ argument-hint: [optional: offer name to position]
 allowed-tools: Read, Write, Edit, Grep, Glob, WebSearch, WebFetch
 ---
 
-# /build-positioning — Claude Code Runtime Binding
+# /build-positioning — slash-command runtime Runtime Binding
 
 Load and execute `skills/build-positioning/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/build-positioning/SKILL.md` (full body)
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/build-positioning/SKILL.md` (full body)
    - `Read` upstream: `output/build-icp/` (latest ICP Document — Completeness >= 80 required) + `output/research/` (Market Research Brief)
-   - `Read` `skills/build-positioning/reference/` (all files, if present)
+   - read `skills/build-positioning/reference/` (all files, if present)
 
 2. **Pre-flight check:** Verify `audience_intelligence_system >= 60`, `creator_identity_matrix >= 50`, `offer_architecture >= 10` in `company.yaml`. If below threshold, route to `/build-icp` first.
 
@@ -26,11 +26,11 @@ Load and execute `skills/build-positioning/SKILL.md` in the current workspace.
    - If any section fails cross-validation, mark `[GAP: section N]` and continue
 
 5. **Update company.yaml:**
-   - `Edit` `company.yaml` to populate `offer_architecture.positioning` + `copy_messaging.mechanism_name` + `copy_messaging.core_belief`
+   - edit `company.yaml` to populate `offer_architecture.positioning` + `copy_messaging.mechanism_name` + `copy_messaging.core_belief`
    - Never overwrite existing values without confirmation
 
 6. **Post-ship:**
-   - `Write` `skills/build-positioning/evidence/runs/{YYYY-MM-DD}-run.md` with phase log + confidence tags
+   - write `skills/build-positioning/evidence/runs/{YYYY-MM-DD}-run.md` with phase log + confidence tags
    - Output next-skill recommendation (usually `/design-offer`; `/extract-voice` can run in parallel)
 
 ## Arguments
@@ -71,4 +71,4 @@ After the Positioning Document ships:
 - On sacred-format completion: ensure Blind Output Test 3/3 is queued before paid traffic
 
 ---
-*Claude Code adapter v1.0 — binds to skills/build-positioning/SKILL.md*
+*the slash-command adapter v1.0 — binds to skills/build-positioning/SKILL.md*
