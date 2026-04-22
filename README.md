@@ -1,6 +1,8 @@
 <div align="center">
 
-<h1>Growth Operating Agency</h1>
+<img alt="Growth Operating Agency" src="docs/assets/growth-operating-agency-wordmark-light.svg" width="520">
+
+<br/>
 
 <p><strong>Everything your creator business ships — in one folder.</strong></p>
 
