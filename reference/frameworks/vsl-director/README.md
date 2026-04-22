@@ -1,10 +1,10 @@
 # the VSL director — Framework Index
 
 > **Status:** deep-encoded. 6 framework files + cross-references to sales/vsl directories.
-> **Operator:** `../../operators/eli-pampa.md`
+> **Operator:** `../../operators/vsl-director.md`
 > **Source:** the VSL director *8-Figure VSL Blueprint* curriculum (78 files, ~47,386 words) — encoded into this workspace under Heuresis provenance.
 
-the VSL director is one of the Tier-1 operators in the Growth Operating Agency lineage. He is the operator behind CloutProfit Academy and the former head of sales at Cobratate. The frameworks in this directory encode the VSL + offer + diagnostic IP from his private curriculum. For biography and operator-level thesis, read `../../operators/eli-pampa.md` first.
+the VSL director is one of the Tier-1 operators in the Growth Operating Agency lineage. He is the operator behind a sales-training academy and the former head of sales at a creator-economy program. The frameworks in this directory encode the VSL + offer + diagnostic IP from his private curriculum. For biography and operator-level thesis, read `../../operators/vsl-director.md` first.
 
 ## Files in This Directory
 
@@ -14,7 +14,7 @@ the VSL director is one of the Tier-1 operators in the Growth Operating Agency l
 | `4-funnel-archetypes.md` | Authority Lead Magnet / Direct Application / Low-Ticket Tripwire / Webinar-VSL. Decision rules for matching archetype to offer type + price point. | deep |
 | `6-blockage-diagnostic.md` | Leads / Lead Quality / Offer / Sales / Team / Mindset. Symptoms, fix-order, common misdiagnosis patterns. | deep |
 | `8-required-beliefs-deep.md` | Reproduction / Derivative Desire / Can-Fulfill / Urgency / This-Offer / Better-or-Faster / Trust-Person / Trust-Expertise. Installation methods per belief. | deep |
-| `price-anchoring-mechanics.md` | The 5-step mechanic from Section 9. Explicit rejection of Brunson-style value stacking. | medium |
+| `price-anchoring-mechanics.md` | The 5-step mechanic from Section 9. Explicit rejection of the funnel-building platform founder-style value stacking. | medium |
 | `hero-story-architecture.md` | 6-phase Hero's Journey + 5-phase emotional crescendo. Length calibration by avatar. Guru integration rule. | medium |
 
 ## Cross-References (the VSL director content in other directories)
@@ -24,7 +24,7 @@ the VSL director is one of the Tier-1 operators in the Growth Operating Agency l
 | 15-step VSL framework (canonical summary) | `../vsl/pampa-15-step.md` |
 | 8 Required Beliefs (canonical summary + installation map) | `../sales/8-required-beliefs.md` |
 | Crossroads Close (canonical) | `../sales/crossroads-close.md` |
-| Operator playbook + biography | `../../operators/eli-pampa.md` |
+| Operator playbook + biography | `../../operators/vsl-director.md` |
 | Market sophistication (4-stage, the VSL director interpretation) | `../market-sophistication-overview.md` |
 | Offer architecture influence | `../offer-architecture/hormozi-grand-slam-offer.md` (the acquisition economist-primary, the VSL director cross-referenced) |
 
@@ -43,7 +43,7 @@ the VSL director is one of the Tier-1 operators in the Growth Operating Agency l
 
 ## Reading Order (for someone new to the VSL director)
 
-1. `../../operators/eli-pampa.md` — biography, thesis, distinctive moves, real cases
+1. `../../operators/vsl-director.md` — biography, thesis, distinctive moves, real cases
 2. `6-blockage-diagnostic.md` — the top-level diagnostic lens that routes to everything else
 3. `8-required-beliefs-deep.md` — the core conversion kernel
 4. `4-funnel-archetypes.md` — funnel selection decision tree

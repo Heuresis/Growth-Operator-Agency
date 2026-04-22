@@ -4,7 +4,7 @@
 
 ## Source / Lineage
 
-- the awareness-spectrum author (awareness levels — Breakthrough Advertising)
+- the awareness-spectrum author (awareness levels — the mid-20th-century market-awareness monograph)
 - influence-principles research (commitment + consistency)
 - the campaign director (E5 desire escalation)
 - the content OS director (YouTube-native phase mapping)

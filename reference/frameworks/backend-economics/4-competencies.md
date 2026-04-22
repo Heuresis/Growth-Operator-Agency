@@ -4,7 +4,7 @@
 
 ## Source / Lineage
 
-- **MODULE 1: THE FOUNDATION, SECTION 1** (The YouTube Architect Blueprint) — "These are ranked by importance. Master them in this order."
+- **MODULE 1: THE FOUNDATION, SECTION 1** (The YouTube architecture playbook) — "These are ranked by importance. Master them in this order."
 - Competency #1-4 files in the source export.
 
 ## The ranking

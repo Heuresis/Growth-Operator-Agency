@@ -84,7 +84,7 @@ Every growth operator business uses services in 12 categories. Growth Operating 
 - **Mailchimp API** — legacy but widespread
 
 ### 4. Funnel Builders / Page Hosting
-- **ClickFunnels API** — classic funnel stack
+- **a funnel-building platform API** — classic funnel stack
 - **GoHighLevel** — all-in-one including funnel pages
 - **Systeme.io API** — budget alternative
 - **Kajabi API** — course + membership hosting

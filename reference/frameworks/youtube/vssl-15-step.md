@@ -5,7 +5,7 @@
 ## Source / Lineage
 
 - the VSL copywriter — original VSL/VSSL 15-step architecture
-- the campaign director — E5 Method market-sophistication layer
+- the campaign director — educational-VSL method market-sophistication layer
 - the acquisition economist — offer density and guarantee stack
 - the content OS director — YouTube-native pacing + session-starter placement
 

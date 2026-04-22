@@ -133,7 +133,7 @@ The most common failure is surfacing gaps the ICP doesn't care about ("no compet
 
 ### 3. Positioning-Gap Scoring Method
 
-For the top 3 direct competitors, score on a 1-5 scale across the three buyer axes (the acquisition economist's Grand Slam Offer frame):
+For the top 3 direct competitors, score on a 1-5 scale across the three buyer axes (the acquisition economist's high-value stacked offer frame):
 - **Dream Outcome** — how vivid, specific, status-loaded is their promise?
 - **Perceived Likelihood** — how strong is their proof that the outcome is achievable?
 - **Time + Effort** — how minimized are the time-cost and the effort-cost?
@@ -472,7 +472,7 @@ After `/competitor-intel` delivers the Whitespace Map:
 - `reference/_archive/frameworks/classical/schwartz-awareness-spectrum.md` (5 awareness levels)
 - `reference/frameworks/primitives/unique-mechanism.md` (two-part mechanism — Part 1 + Part 2)
 - `reference/_archive/frameworks/classical/pampa-market-sophistication.md`
-- `reference/operators/campaign-director.md` (category-failure framing, E5 Method, Big Idea)
+- `reference/operators/campaign-director.md` (category-failure framing, educational-VSL method, big idea)
 - `reference/operators/copy-director.md` (RMBC method, two-part mechanism, competitor-copy teardown discipline)
 - `reference/operators/offer-architect.md` (positioning-as-mechanism lineage)
 - `spec/BANNED-VOCABULARY.md` (anti-slop filter)

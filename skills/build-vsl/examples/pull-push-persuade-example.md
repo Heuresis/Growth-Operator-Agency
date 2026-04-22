@@ -3,7 +3,7 @@
 > **Framework:** the psychological copywriter's Pull-Push-Persuade 11-Step - `reference/frameworks/vsl/hogendoorn-11-step.md`
 > **Runtime target:** 10-12 minutes (within the 8-12 min window)
 > **Best for:** Faceless / no-camera / paid-traffic cold audience
-> **Applied to:** Clipping Agency - Clipping Agency Accelerator, Meta Ads → VSL page (no creator face)
+> **Applied to:** Clipping Agency - Clipping a creator-agency program, Meta Ads → VSL page (no creator face)
 
 ## Context
 
@@ -94,7 +94,7 @@ Marcus, 19, college student, zero experience. Week 5 first client at $1,800/mont
 ## Source
 
 - `reference/frameworks/vsl/hogendoorn-11-step.md` - framework structure
-- `reference/operators/external/lucas-hogendoorn.md` - the psychological copywriter lineage
+- `reference/operators/external/youtube-native-director.md` - the psychological copywriter lineage
 - `workflows/operations/clipping-agency/output/foundations/offer-document.md` - the offer this VSL sells
 
 ---

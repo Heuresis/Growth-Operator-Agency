@@ -27,5 +27,5 @@
 \t\t- Is it 10x better/faster than alternatives?
 \t\t- Do you have proof/receipts/testimonials?
 
-\t\t**⚠ Critical Rule:** Don't perfect the offer before launch. Launch within 26 hours like Hostage University did (\\$5-6 figure MRR Day 1). Traffic \\> Perfect Offer. Iterate as you sell.
+\t\t**⚠ Critical Rule:** Don't perfect the offer before launch. Launch within 26 hours like a high-ticket sales-training operation did (\\$5-6 figure MRR Day 1). Traffic \\> Perfect Offer. Iterate as you sell.
 \t

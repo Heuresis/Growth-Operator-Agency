@@ -45,9 +45,9 @@ Full operator identity + thesis + 3 signature breakdowns + decision rules: [`../
 
 ## Source Material
 
-- the content OS director public surfaces: `youtube.com/@dustinvarano`, `instagram.com/dustinvarano`, `link.me/dustinvarano`
-- Growth Operating Agency Internal Processes canonical: Notion `2ee39dd823e7809bb4ccd41805604ae8`
-- the content OS director operator hub: Notion `2d939dd823e780cbbb03df339c39c617`
+- the content OS director public surfaces: `youtube.com/`, `instagram.com/`, `link.me/`
+- Growth Operating Agency Internal Processes canonical: Notion `{NOTION_ID}`
+- the content OS director operator hub: Notion `{NOTION_ID}`
 - Three signature breakdown videos (channel URL above)
 - Growth Operating Agency ICP Deep Dive framework file as the 9-area canonical source
 

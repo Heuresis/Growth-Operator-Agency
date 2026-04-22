@@ -1,6 +1,6 @@
 # Educate-Before-Pitch — The Primitive
 
-> **Source lineage:** the campaign director (*Educational VSL Method* — explicit principle), the VSL copywriter (3X VSL — three tips before pitch), the growth engineer (Hidden VSSL — teaches mechanism before offer), the offer architect (VSL opening + middle teaches, close sells), the psychological copywriter (Pull-Push-Persuade — never sell before Step 9).
+> **Source lineage:** the campaign director (*educational VSL method* — explicit principle), the VSL copywriter (3X VSL — three tips before pitch), the growth engineer (hidden-pitch long-form video — teaches mechanism before offer), the offer architect (VSL opening + middle teaches, close sells), the psychological copywriter (Pull-Push-Persuade — never sell before Step 9).
 > **Status:** First-class primitive. The trust-building substrate.
 
 ## The Principle
@@ -20,7 +20,7 @@ Across sales assets, the teach-to-pitch ratio:
 | VSL (15-step) | 60-70% | 30-40% (pitch starts ~step 9) |
 | VSL (Pull-Push-Persuade 11-step) | 73% | 27% (pitch = steps 9-11) |
 | Webinar (7-Figure) | 70-75% | 25-30% (pitch after transition at ~min 75) |
-| YouTube VSSL (O'Halloran 5-chapter) | 80% | 20% (only mechanism, then CTA) |
+| YouTube VSSL (the YouTube-native director 5-chapter) | 80% | 20% (only mechanism, then CTA) |
 | Long-form post / email | 85% | 15% (teach with soft CTA) |
 | Ad (paid) | 50% | 50% (faster, but still teach-first) |
 
@@ -46,7 +46,7 @@ When you give real value first, prospects feel obligation to reciprocate. Offer 
 - **WHAT** = the concept + why it works + the sub-steps + the framework. Creates understanding.
 - **HOW** = the implementation details. If you teach HOW, prospect thinks "I can do this alone."
 
-the campaign director: teach the Big Idea, Unique Mechanism, and sub-steps. Don't teach the 147-step implementation course.
+the campaign director: teach the big idea, Unique Mechanism, and sub-steps. Don't teach the 147-step implementation course.
 
 the offer architect: the Core Offer is the HOW. The teaching is the WHAT.
 
@@ -77,7 +77,7 @@ Three is the magic number:
 - Pitch 15-20 min: offer + bonuses + guarantee + CTA
 - Q&A 30+ min: more teaching + objection-handling + CTAs
 
-### In YouTube VSSLs (O'Halloran 5-chapter)
+### In YouTube VSSLs (the YouTube-native director 5-chapter)
 - Chapter 1-4 = teach (80% of runtime)
 - Chapter 5 = two options framing (soft pitch)
 
@@ -122,16 +122,16 @@ Educate-before-pitch is applied when:
 
 ## Sources
 
-- the campaign director — *Educational VSL Method*, *E5 Method*
-- the VSL copywriter — *3X VSL Formula*
-- the growth engineer — *Hidden VSSL*
+- the campaign director — *educational VSL method*, *educational-VSL method*
+- the VSL copywriter — *three-phase VSL formula*
+- the growth engineer — *hidden-pitch long-form video*
 - the offer architect — VSL Masterclass Parts 1-4
 - the psychological copywriter — *The 5,280-Word VSL Conversion Framework* (Pull-Push-Persuade)
 - 7-Figure Webinar Script (gamma.app)
 - `reference/operators/campaign-director.md`
-- `reference/operators/tier-3-rising/jon-benson.md`
+- `reference/operators/vsl-copywriter.md`
 - `reference/operators/growth-engineer.md`
-- `reference/operators/external/lucas-hogendoorn.md`
+- `reference/operators/external/youtube-native-director.md`
 
 ---
 *v1.0 — 2026-04-19. Primitive — trust-building substrate.*

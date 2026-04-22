@@ -1,15 +1,15 @@
-# Hidden VSSL - YouTube-Native Variant for Clipping Agency Education
+# hidden-pitch long-form video - YouTube-Native Variant for Clipping Agency Education
 
-> **Framework:** Jeremy Hidden VSSL Framework (Variant E) - `reference/frameworks/vsl/haynes-hidden-vssl.md`
+> **Framework:** Jeremy hidden-pitch long-form video framework (Variant E) - `reference/frameworks/vsl/haynes-hidden-vssl.md`
 > **Runtime target:** 28-32 minutes (within the 20-45 min window)
 > **Best for:** Organic YouTube distribution, content-first brand, audience expects teaching
-> **Applied to:** Clipping Agency - the Clipping Agency Accelerator offer
+> **Applied to:** Clipping Agency - the Clipping a creator-agency program offer
 
 ## Context
 
-The Hidden VSSL is the the growth engineer framework optimized for YouTube-native organic distribution. Unlike paid-traffic VSLs (15-step, Pull-Push-Persuade 11-step) where the viewer arrived expecting sales, the Hidden VSSL lives inside a creator's YouTube content ecosystem - the viewer arrived expecting teaching. The offer reveal emerges naturally from the teaching, not as a hard pivot. The 80/20 rule governs: 80% story/problem/mechanism teaching, 20% mechanism/solution/offer. Violate the ratio and the "selling" tell activates. This example applies the framework to Clipping Agency, where the audience of aspiring clippers watches YouTube to learn clipping - so the Hidden VSSL teaches clipping-as-a-business and the offer appears as the "proven system" option.
+The hidden-pitch long-form video is the the growth engineer framework optimized for YouTube-native organic distribution. Unlike paid-traffic VSLs (15-step, Pull-Push-Persuade 11-step) where the viewer arrived expecting sales, the hidden-pitch long-form video lives inside a creator's YouTube content ecosystem - the viewer arrived expecting teaching. The offer reveal emerges naturally from the teaching, not as a hard pivot. The 80/20 rule governs: 80% story/problem/mechanism teaching, 20% mechanism/solution/offer. Violate the ratio and the "selling" tell activates. This example applies the framework to Clipping Agency, where the audience of aspiring clippers watches YouTube to learn clipping - so the hidden-pitch long-form video teaches clipping-as-a-business and the offer appears as the "proven system" option.
 
-## The Encoded Hidden VSSL (5 Chapters)
+## The Encoded hidden-pitch long-form video (5 Chapters)
 
 ### Chapter 1 - "What is a Clipping Agency?" (0-6 min)
 
@@ -83,7 +83,7 @@ Chapter 5 is soft. Two-options framing, no countdown, no fake urgency. CTA in pi
 - `reference/operators/growth-engineer.md` - the growth engineer lineage
 - `reference/operators/content-os-director.md` - 3 Content Types (VSSL as the only video with external CTA)
 - `workflows/operations/clipping-agency/output/foundations/offer-document.md` - the offer this VSSL sells
-- creator-native youtuber (@ohalloran_sam) - canonical executor of this variant on YouTube
+- creator-native youtuber () - canonical executor of this variant on YouTube
 
 ---
-*Encoded 2026-04-19. [SYNTHESIZED] application of the Hidden VSSL framework [VERBATIM] to the Clipping Agency offer. Framework structure (5 chapters, 80/20 rule, soft Chapter 5) is pulled from source. Case testimonials (Jalen, Priya, Marcus) are composite illustrative examples calibrated to the ICP document's three archetypes, not named real clients.*
+*Encoded 2026-04-19. [SYNTHESIZED] application of the hidden-pitch long-form video framework [VERBATIM] to the Clipping Agency offer. Framework structure (5 chapters, 80/20 rule, soft Chapter 5) is pulled from source. Case testimonials (Jalen, Priya, Marcus) are composite illustrative examples calibrated to the ICP document's three archetypes, not named real clients.*

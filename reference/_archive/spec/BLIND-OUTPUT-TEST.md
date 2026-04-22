@@ -86,7 +86,7 @@ The Blind Output Test is the **operational proof** that the Encoded Founder meth
 
 > "If three evaluators who know Jeff's work say 'Jeff' — the encoding is real. If all three say 'system' — we're shipping slop, and we're lying when we call it encoded."
 >
-> — (Adapted from Hussain Encoded Founder)
+> — (Adapted from the Encoded Founder methodology)
 
 ## Record-Keeping
 
@@ -123,7 +123,7 @@ YYYY-MM-DD
 
 ## Source
 
-- Hussain, Encoded Founder V4 — the Blind Output Test as verification of encoding completeness
+- the Encoded Founder methodology — the Blind Output Test as verification of encoding completeness
 - Heuresis vocabulary: "Every block is evaluated. Every workspace is evaluated. Every company we work with is evaluated."
 
 ---

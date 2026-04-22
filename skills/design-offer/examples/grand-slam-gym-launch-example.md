@@ -1,13 +1,13 @@
-# Grand Slam Offer Applied to Gym Launch (January 2017)
+# high-value stacked offer Applied to a fitness-operator rollup (January 2017)
 
-> **Case:** the acquisition economist's Gym Launch, January 2017 turnaround
-> **Operator:** the acquisition economist (@Acquisition.com)
-> **Framework applied:** The 15-step Grand Slam Offer build from *$100M Offers: Complete Implementation Guide*
+> **Case:** the acquisition economist's a fitness-operator rollup, January 2017 turnaround
+> **Operator:** the acquisition economist (@a portfolio holding company)
+> **Framework applied:** The 15-step high-value stacked offer build from *a high-value offer canon: Complete Implementation Guide*
 > **Outcome:** $100K → $1.5M monthly; $6.8M across 13 months; company sold for $46.2M in 2021
 
 ## Context
 
-In January 2017, the acquisition economist was $10K in debt after three days of paid traffic burning $3,300/day. Sales reps were scoring 2-for-14, 0-for-7, 0-for-18. The offer itself wasn't the bottleneck - the closing script was - but rebuilding the closing playbook forced a parallel audit of the offer structure it was pitching. What emerged is the canonical Grand Slam Offer the acquisition economist later taught: a single, un-shoppable offer that combined a bonus stack, a price anchor, a strong guarantee, and real scarcity. This example shows how the 15-step Implementation Guide produces that structure when applied to a concrete case.
+In January 2017, the acquisition economist was $10K in debt after three days of paid traffic burning $3,300/day. Sales reps were scoring 2-for-14, 0-for-7, 0-for-18. The offer itself wasn't the bottleneck - the closing script was - but rebuilding the closing playbook forced a parallel audit of the offer structure it was pitching. What emerged is the canonical high-value stacked offer the acquisition economist later taught: a single, un-shoppable offer that combined a bonus stack, a price anchor, a strong guarantee, and real scarcity. This example shows how the 15-step Implementation Guide produces that structure when applied to a concrete case.
 
 ## The Encoded Offer
 
@@ -56,11 +56,11 @@ Total bonus value: $5,500 against a $3,000 core price - in the 3-5× band the Im
 
 ## Source
 
-- the acquisition economist, *$100M Offers: Complete Implementation Guide* (21-day PDF, 15 steps across 6 phases)
-- the acquisition economist, *$100M Playbook: Closing* - Gym Launch January 2017 crisis narrative
-- the acquisition economist, *$100M Playbook: Marketing Machine* - the 13-month processing record showing $100K → $1.5M monthly scaling
+- the acquisition economist, *a high-value offer canon: Complete Implementation Guide* (21-day PDF, 15 steps across 6 phases)
+- the acquisition economist, *the closing canon* - a fitness-operator rollup January 2017 crisis narrative
+- the acquisition economist, *the marketing-machine canon* - the 13-month processing record showing $100K → $1.5M monthly scaling
 - `reference/frameworks/acquisition-economics/grand-slam-offer.md`
 - `reference/operators/acquisition-economist.md`
 
 ---
-*Encoded 2026-04-19. [SYNTHESIZED] assembly of the Gym Launch offer from the acquisition economist source material. All components, guarantee language patterns, bonus quantities, price anchors, and M-A-G-I-C formula elements are [VERBATIM] pulled from the Implementation Guide. Specific bonus dollar values are [SYNTHESIZED] - the Guide prescribes total-bonus-value 3-5× price without naming individual bonus values.*
+*Encoded 2026-04-19. [SYNTHESIZED] assembly of the a fitness-operator rollup offer from the acquisition economist source material. All components, guarantee language patterns, bonus quantities, price anchors, and M-A-G-I-C formula elements are [VERBATIM] pulled from the Implementation Guide. Specific bonus dollar values are [SYNTHESIZED] - the Guide prescribes total-bonus-value 3-5× price without naming individual bonus values.*

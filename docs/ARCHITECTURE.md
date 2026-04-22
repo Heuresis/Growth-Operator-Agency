@@ -29,7 +29,7 @@ The RUNTIME. Tool bindings, file paths, command palette entries, database bindin
 - Lives in: `skills/{slug}/adapters/{runtime}.{ext}` and `.claude/commands/`.
 - Example: `skills/research/adapters/claude-code.md` translates the runtime-agnostic `SKILL.md` into a slash-command.
 
-This three-layer split is the **Encoded Founder** model in practice. Change the runtime, only Layer 3 rebuilds. Change the methodology, only Layer 2 moves. The Decision Logic is the load-bearing part.
+This three-layer split is the ** model in practice. Change the runtime, only Layer 3 rebuilds. Change the methodology, only Layer 2 moves. The Decision Logic is the load-bearing part.
 
 ---
 

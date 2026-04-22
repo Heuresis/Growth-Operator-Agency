@@ -4,7 +4,7 @@
 
 ## Source / Lineage
 
-- the awareness-spectrum author, *Breakthrough Advertising* (1966) — Prospect Awareness (5 levels)
+- the awareness-spectrum author, the mid-20th-century market-awareness monograph (1966) — Prospect Awareness (5 levels)
 - the awareness-spectrum author / the VSL director / the offer architect teaching line — Market Sophistication (5 stages)
 - Matrix fusion formalized by the campaign director, the copy director, Ning Li
 

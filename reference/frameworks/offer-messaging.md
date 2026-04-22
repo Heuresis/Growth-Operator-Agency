@@ -17,13 +17,13 @@ At a baseline level, this is what it comes down to;
 \t- Identifying the clear quantifiable goal that you can help said client \\^ achieve
 \t- Packaging it into an \"offer\" that is not only attractive from a marketing perspective but also just makes sense logically.
 
-\t**Example:** Your client's niche expertise is that they're a TT Shop Creator who's generated 7 figures GMV, and they just so happen to be a 30 y/o woman
+\t**Example:** Your client's niche expertise is that they're a a social-commerce storefront Creator who's generated 7 figures GMV, and they just so happen to be a 30 y/o woman
 
-**Expertise:** TT Shop Affiliate
+**Expertise:** a social-commerce storefront Affiliate
 
 **ICP: **(Technically) they could help anyone, but given their niche expertise, they're probably best suited to help moms, middle aged women, etc.
 
-**Big promise:** Learn how to make a new disposable income stream on TT Shop in as little as a couple hours per week (something you can juggle with your career, kids, etc.)
+**Big promise:** Learn how to make a new disposable income stream on a social-commerce storefront in as little as a couple hours per week (something you can juggle with your career, kids, etc.)
 
 **Offer:** Primarily focused around selling products that middle aged women would excel with, without having it take hours per week, etc.
 
@@ -42,7 +42,7 @@ le:**
 \t
 \t**Step 2: The 4 Elements Of AN “outlier” info product offer**
 \t
-\t![](https://prod-files-secure.s3.us-west-2.amazonaws.com/1da360c2-5418-4b55-8ae2-2a470fe94d43/115c35c0-b23f-4a77-b11b-d2d5439131a6/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46673VC5KFE%2F20260321%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260321T071342Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEH8aCXVzLXdlc3QtMiJHMEUCIC9RX%2BzgijeJT%2Feul251NjBP%2BScK2h0r71LLJpDSkYagAiEA3uZhZmA%2FS8dwBACssNmadtAFlwL8yFSE4PGDflVV47Eq%2FwMIRxAAGgw2Mzc0MjMxODM4MDUiDGb1J7kXPy0W2p3vYSrcA%2Bk3C2XvZY3rOvGhf96I4k1DYEzryI2qYg5xPcQ1BOY4xDAOTcY4EWRMCS06%2B4DQkWWw%2FZDbkCpjIeJzz5LTJ4SSEBaRBu3pJ1yI12wKBiLp67OuPAKZE1Mvr3E%2FGDLlaoQzDHuXL1WzoNHfJPOdT%2BU8f%2FVDD1Ha651hDzA5EjMwu8Ichn1Dj4ZEQhwr5jBfiDXQa5uCAchhW2XUGsGgmewlE14V1k22Wgm1NF0EUUN45PjaCmm6cSSzBTm7fjf1TkZZA3sLvh9B1ElO%2FwbkqKKIQeqR7Si0zAQjTBcieA0DbRkckhhOp2OXN1gOrPWhcRiK5DONzhttaCxEHZxoq%2FxM83D696m1n%2FKqV8nOJ9jieDcn1hRMICNp7gRtKGSRMu52EpLKuuliZiBBkOwZLBTXBm4aWnk2c1xJdFPyMthMX%2FnlG%2B9UsR5Ykm2waobxcMtor7M38oVPGXMaPzJBmmo%2FB4sOCA3F8SZt68XTm9OFE2KUetLfTEJ%2BkjMhMI8Y0k3LTat%2FG9UqKXVVrBHw1FAkhXUI29%2BH2tZWlIB2Pg8vEhcU6QuPEVtXntmKNP3a3NOdtBHwYvFfW3U2HS1oEINjgGReqcOJ3%2Fu7BKCcf%2Bz30NJZCxnFrewqzaWOMIHz%2BM0GOqUBHJ4zJJepJrjB2%2FGhxLumAPzpNUg1KxD5KRFCUaM1vnOjABAchSV38EhoVDUlmdmBv96Fk5COH9QyU2UkAgSvOdc6O3fn4HCEEt8vyMdUqurFclycBZzBS1JC108bX8KCFhnf2kV19wc1%2BdJmkiVntpB3nwSkhB1BCZYWSJkluq47hTcZGVhRkSMA76bF5PULInTGsJ2RfB6wfnPfeIuRifkNTfxw&X-Amz-Signature=bd97c1407c781310874cf3f204ce0641133e068d48365883a0d4a418735ef5ca&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+\t![image-redacted]()
 \t
 \t**Element 1: **Niche expertise (Foundation)
 **Element 2:** Unique mechanism / offer positioning (What
@@ -55,7 +55,7 @@ you send your traffic)
 **Step 3: Creating messaging that aligns to said offer: **
 \tAdjacent to first reason... but you can still have an offer that is POSITIONED well but is still being marketed to the wrong people (ICP issue)
 
-Ie: Built To Sell Brand Offer (positioned towards beginners on organic) 
+Ie: a brand-offer workshop (positioned towards beginners on organic) 
 
 **- BUT:**
 \t- If it's positioned as...
@@ -73,8 +73,8 @@ Ie: Built To Sell Brand Offer (positioned towards beginners on organic)
 We want to use the leverage of the Al Brand Building angle to our advantage as opposed to the 95% who just sell \"dropshipping coaching\".
 
 The key thing to remember here is, you can literally just **shape shift** your offer to attract more financially qualified people
-\t![](https://prod-files-secure.s3.us-west-2.amazonaws.com/1da360c2-5418-4b55-8ae2-2a470fe94d43/af268a82-e1bf-4faf-8076-f55f3778393c/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46673VC5KFE%2F20260321%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260321T071342Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEH8aCXVzLXdlc3QtMiJHMEUCIC9RX%2BzgijeJT%2Feul251NjBP%2BScK2h0r71LLJpDSkYagAiEA3uZhZmA%2FS8dwBACssNmadtAFlwL8yFSE4PGDflVV47Eq%2FwMIRxAAGgw2Mzc0MjMxODM4MDUiDGb1J7kXPy0W2p3vYSrcA%2Bk3C2XvZY3rOvGhf96I4k1DYEzryI2qYg5xPcQ1BOY4xDAOTcY4EWRMCS06%2B4DQkWWw%2FZDbkCpjIeJzz5LTJ4SSEBaRBu3pJ1yI12wKBiLp67OuPAKZE1Mvr3E%2FGDLlaoQzDHuXL1WzoNHfJPOdT%2BU8f%2FVDD1Ha651hDzA5EjMwu8Ichn1Dj4ZEQhwr5jBfiDXQa5uCAchhW2XUGsGgmewlE14V1k22Wgm1NF0EUUN45PjaCmm6cSSzBTm7fjf1TkZZA3sLvh9B1ElO%2FwbkqKKIQeqR7Si0zAQjTBcieA0DbRkckhhOp2OXN1gOrPWhcRiK5DONzhttaCxEHZxoq%2FxM83D696m1n%2FKqV8nOJ9jieDcn1hRMICNp7gRtKGSRMu52EpLKuuliZiBBkOwZLBTXBm4aWnk2c1xJdFPyMthMX%2FnlG%2B9UsR5Ykm2waobxcMtor7M38oVPGXMaPzJBmmo%2FB4sOCA3F8SZt68XTm9OFE2KUetLfTEJ%2BkjMhMI8Y0k3LTat%2FG9UqKXVVrBHw1FAkhXUI29%2BH2tZWlIB2Pg8vEhcU6QuPEVtXntmKNP3a3NOdtBHwYvFfW3U2HS1oEINjgGReqcOJ3%2Fu7BKCcf%2Bz30NJZCxnFrewqzaWOMIHz%2BM0GOqUBHJ4zJJepJrjB2%2FGhxLumAPzpNUg1KxD5KRFCUaM1vnOjABAchSV38EhoVDUlmdmBv96Fk5COH9QyU2UkAgSvOdc6O3fn4HCEEt8vyMdUqurFclycBZzBS1JC108bX8KCFhnf2kV19wc1%2BdJmkiVntpB3nwSkhB1BCZYWSJkluq47hTcZGVhRkSMA76bF5PULInTGsJ2RfB6wfnPfeIuRifkNTfxw&X-Amz-Signature=7cca9fc7698cb1b504d80962a219b6715fa77daf3473285e025afb8b833bb1a8&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
-\t![](https://prod-files-secure.s3.us-west-2.amazonaws.com/1da360c2-5418-4b55-8ae2-2a470fe94d43/81f06dc5-c807-4edb-b3c8-4c0c398b9a1d/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46673VC5KFE%2F20260321%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260321T071342Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEH8aCXVzLXdlc3QtMiJHMEUCIC9RX%2BzgijeJT%2Feul251NjBP%2BScK2h0r71LLJpDSkYagAiEA3uZhZmA%2FS8dwBACssNmadtAFlwL8yFSE4PGDflVV47Eq%2FwMIRxAAGgw2Mzc0MjMxODM4MDUiDGb1J7kXPy0W2p3vYSrcA%2Bk3C2XvZY3rOvGhf96I4k1DYEzryI2qYg5xPcQ1BOY4xDAOTcY4EWRMCS06%2B4DQkWWw%2FZDbkCpjIeJzz5LTJ4SSEBaRBu3pJ1yI12wKBiLp67OuPAKZE1Mvr3E%2FGDLlaoQzDHuXL1WzoNHfJPOdT%2BU8f%2FVDD1Ha651hDzA5EjMwu8Ichn1Dj4ZEQhwr5jBfiDXQa5uCAchhW2XUGsGgmewlE14V1k22Wgm1NF0EUUN45PjaCmm6cSSzBTm7fjf1TkZZA3sLvh9B1ElO%2FwbkqKKIQeqR7Si0zAQjTBcieA0DbRkckhhOp2OXN1gOrPWhcRiK5DONzhttaCxEHZxoq%2FxM83D696m1n%2FKqV8nOJ9jieDcn1hRMICNp7gRtKGSRMu52EpLKuuliZiBBkOwZLBTXBm4aWnk2c1xJdFPyMthMX%2FnlG%2B9UsR5Ykm2waobxcMtor7M38oVPGXMaPzJBmmo%2FB4sOCA3F8SZt68XTm9OFE2KUetLfTEJ%2BkjMhMI8Y0k3LTat%2FG9UqKXVVrBHw1FAkhXUI29%2BH2tZWlIB2Pg8vEhcU6QuPEVtXntmKNP3a3NOdtBHwYvFfW3U2HS1oEINjgGReqcOJ3%2Fu7BKCcf%2Bz30NJZCxnFrewqzaWOMIHz%2BM0GOqUBHJ4zJJepJrjB2%2FGhxLumAPzpNUg1KxD5KRFCUaM1vnOjABAchSV38EhoVDUlmdmBv96Fk5COH9QyU2UkAgSvOdc6O3fn4HCEEt8vyMdUqurFclycBZzBS1JC108bX8KCFhnf2kV19wc1%2BdJmkiVntpB3nwSkhB1BCZYWSJkluq47hTcZGVhRkSMA76bF5PULInTGsJ2RfB6wfnPfeIuRifkNTfxw&X-Amz-Signature=4f708682ee1a074dad4bd172ece143535a4ef5a6514c993c1c349ff898e8cef0&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+\t![image-redacted]()
+\t![image-redacted]()
 \t
 \tSame thing just REPACKAGED. You can BEND your offer to your will and what ever market will consider as HIGHER PRECEIVED VALUE. 
 \t
@@ -84,7 +84,7 @@ The key thing to remember here is, you can literally just **shape shift** your o
 Marketing = Air bending**
 \t<columns>
 \t\t<column>
-\t\t\t![](https://prod-files-secure.s3.us-west-2.amazonaws.com/1da360c2-5418-4b55-8ae2-2a470fe94d43/12754eb2-8a45-4627-aeae-51fa0836648f/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46673VC5KFE%2F20260321%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260321T071342Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEH8aCXVzLXdlc3QtMiJHMEUCIC9RX%2BzgijeJT%2Feul251NjBP%2BScK2h0r71LLJpDSkYagAiEA3uZhZmA%2FS8dwBACssNmadtAFlwL8yFSE4PGDflVV47Eq%2FwMIRxAAGgw2Mzc0MjMxODM4MDUiDGb1J7kXPy0W2p3vYSrcA%2Bk3C2XvZY3rOvGhf96I4k1DYEzryI2qYg5xPcQ1BOY4xDAOTcY4EWRMCS06%2B4DQkWWw%2FZDbkCpjIeJzz5LTJ4SSEBaRBu3pJ1yI12wKBiLp67OuPAKZE1Mvr3E%2FGDLlaoQzDHuXL1WzoNHfJPOdT%2BU8f%2FVDD1Ha651hDzA5EjMwu8Ichn1Dj4ZEQhwr5jBfiDXQa5uCAchhW2XUGsGgmewlE14V1k22Wgm1NF0EUUN45PjaCmm6cSSzBTm7fjf1TkZZA3sLvh9B1ElO%2FwbkqKKIQeqR7Si0zAQjTBcieA0DbRkckhhOp2OXN1gOrPWhcRiK5DONzhttaCxEHZxoq%2FxM83D696m1n%2FKqV8nOJ9jieDcn1hRMICNp7gRtKGSRMu52EpLKuuliZiBBkOwZLBTXBm4aWnk2c1xJdFPyMthMX%2FnlG%2B9UsR5Ykm2waobxcMtor7M38oVPGXMaPzJBmmo%2FB4sOCA3F8SZt68XTm9OFE2KUetLfTEJ%2BkjMhMI8Y0k3LTat%2FG9UqKXVVrBHw1FAkhXUI29%2BH2tZWlIB2Pg8vEhcU6QuPEVtXntmKNP3a3NOdtBHwYvFfW3U2HS1oEINjgGReqcOJ3%2Fu7BKCcf%2Bz30NJZCxnFrewqzaWOMIHz%2BM0GOqUBHJ4zJJepJrjB2%2FGhxLumAPzpNUg1KxD5KRFCUaM1vnOjABAchSV38EhoVDUlmdmBv96Fk5COH9QyU2UkAgSvOdc6O3fn4HCEEt8vyMdUqurFclycBZzBS1JC108bX8KCFhnf2kV19wc1%2BdJmkiVntpB3nwSkhB1BCZYWSJkluq47hTcZGVhRkSMA76bF5PULInTGsJ2RfB6wfnPfeIuRifkNTfxw&X-Amz-Signature=dc46f4de22bf7d73c4baefef94b3dade8eaf4c682aadef6a2ca88a32e113fca4&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+\t\t\t![image-redacted]()
 \t\t</column>
 \t\t<column>
 \t\t\t**Element 1: **Take the knowledge
@@ -158,7 +158,7 @@ Typically looks something like:
 \t**Messaging:**
 \tAdjacent to first reason... but you can still have an offer that is POSITIONED well but is still being marketed to the wrong people:
 
-*Ie: Built To Sell Brand Offer (positioned towards beginners on organic)
+*Ie: a brand-offer workshop (positioned towards beginners on organic)
 
 - BUT:
 *
@@ -168,13 +168,13 @@ Typically looks something like:
 \t- Take knowledge
 \t- Position it towards ideal ICP (typically financially)
 \t- Make messaging congruent towards this person
-\t![](https://prod-files-secure.s3.us-west-2.amazonaws.com/1da360c2-5418-4b55-8ae2-2a470fe94d43/5a66fc66-3ea0-4543-9210-7a9f8464b959/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46673VC5KFE%2F20260321%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260321T071342Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEH8aCXVzLXdlc3QtMiJHMEUCIC9RX%2BzgijeJT%2Feul251NjBP%2BScK2h0r71LLJpDSkYagAiEA3uZhZmA%2FS8dwBACssNmadtAFlwL8yFSE4PGDflVV47Eq%2FwMIRxAAGgw2Mzc0MjMxODM4MDUiDGb1J7kXPy0W2p3vYSrcA%2Bk3C2XvZY3rOvGhf96I4k1DYEzryI2qYg5xPcQ1BOY4xDAOTcY4EWRMCS06%2B4DQkWWw%2FZDbkCpjIeJzz5LTJ4SSEBaRBu3pJ1yI12wKBiLp67OuPAKZE1Mvr3E%2FGDLlaoQzDHuXL1WzoNHfJPOdT%2BU8f%2FVDD1Ha651hDzA5EjMwu8Ichn1Dj4ZEQhwr5jBfiDXQa5uCAchhW2XUGsGgmewlE14V1k22Wgm1NF0EUUN45PjaCmm6cSSzBTm7fjf1TkZZA3sLvh9B1ElO%2FwbkqKKIQeqR7Si0zAQjTBcieA0DbRkckhhOp2OXN1gOrPWhcRiK5DONzhttaCxEHZxoq%2FxM83D696m1n%2FKqV8nOJ9jieDcn1hRMICNp7gRtKGSRMu52EpLKuuliZiBBkOwZLBTXBm4aWnk2c1xJdFPyMthMX%2FnlG%2B9UsR5Ykm2waobxcMtor7M38oVPGXMaPzJBmmo%2FB4sOCA3F8SZt68XTm9OFE2KUetLfTEJ%2BkjMhMI8Y0k3LTat%2FG9UqKXVVrBHw1FAkhXUI29%2BH2tZWlIB2Pg8vEhcU6QuPEVtXntmKNP3a3NOdtBHwYvFfW3U2HS1oEINjgGReqcOJ3%2Fu7BKCcf%2Bz30NJZCxnFrewqzaWOMIHz%2BM0GOqUBHJ4zJJepJrjB2%2FGhxLumAPzpNUg1KxD5KRFCUaM1vnOjABAchSV38EhoVDUlmdmBv96Fk5COH9QyU2UkAgSvOdc6O3fn4HCEEt8vyMdUqurFclycBZzBS1JC108bX8KCFhnf2kV19wc1%2BdJmkiVntpB3nwSkhB1BCZYWSJkluq47hTcZGVhRkSMA76bF5PULInTGsJ2RfB6wfnPfeIuRifkNTfxw&X-Amz-Signature=654ff123b03c6cc6affc68f098e3b5fa7176b7625b10d39af3feb72d4f9316d7&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+\t![image-redacted]()
 \t
 **Tangent:
 Marketing = Air bending**
 \t<columns>
 \t\t<column>
-\t\t\t![](https://prod-files-secure.s3.us-west-2.amazonaws.com/1da360c2-5418-4b55-8ae2-2a470fe94d43/12754eb2-8a45-4627-aeae-51fa0836648f/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46673VC5KFE%2F20260321%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260321T071342Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEH8aCXVzLXdlc3QtMiJHMEUCIC9RX%2BzgijeJT%2Feul251NjBP%2BScK2h0r71LLJpDSkYagAiEA3uZhZmA%2FS8dwBACssNmadtAFlwL8yFSE4PGDflVV47Eq%2FwMIRxAAGgw2Mzc0MjMxODM4MDUiDGb1J7kXPy0W2p3vYSrcA%2Bk3C2XvZY3rOvGhf96I4k1DYEzryI2qYg5xPcQ1BOY4xDAOTcY4EWRMCS06%2B4DQkWWw%2FZDbkCpjIeJzz5LTJ4SSEBaRBu3pJ1yI12wKBiLp67OuPAKZE1Mvr3E%2FGDLlaoQzDHuXL1WzoNHfJPOdT%2BU8f%2FVDD1Ha651hDzA5EjMwu8Ichn1Dj4ZEQhwr5jBfiDXQa5uCAchhW2XUGsGgmewlE14V1k22Wgm1NF0EUUN45PjaCmm6cSSzBTm7fjf1TkZZA3sLvh9B1ElO%2FwbkqKKIQeqR7Si0zAQjTBcieA0DbRkckhhOp2OXN1gOrPWhcRiK5DONzhttaCxEHZxoq%2FxM83D696m1n%2FKqV8nOJ9jieDcn1hRMICNp7gRtKGSRMu52EpLKuuliZiBBkOwZLBTXBm4aWnk2c1xJdFPyMthMX%2FnlG%2B9UsR5Ykm2waobxcMtor7M38oVPGXMaPzJBmmo%2FB4sOCA3F8SZt68XTm9OFE2KUetLfTEJ%2BkjMhMI8Y0k3LTat%2FG9UqKXVVrBHw1FAkhXUI29%2BH2tZWlIB2Pg8vEhcU6QuPEVtXntmKNP3a3NOdtBHwYvFfW3U2HS1oEINjgGReqcOJ3%2Fu7BKCcf%2Bz30NJZCxnFrewqzaWOMIHz%2BM0GOqUBHJ4zJJepJrjB2%2FGhxLumAPzpNUg1KxD5KRFCUaM1vnOjABAchSV38EhoVDUlmdmBv96Fk5COH9QyU2UkAgSvOdc6O3fn4HCEEt8vyMdUqurFclycBZzBS1JC108bX8KCFhnf2kV19wc1%2BdJmkiVntpB3nwSkhB1BCZYWSJkluq47hTcZGVhRkSMA76bF5PULInTGsJ2RfB6wfnPfeIuRifkNTfxw&X-Amz-Signature=dc46f4de22bf7d73c4baefef94b3dade8eaf4c682aadef6a2ca88a32e113fca4&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+\t\t\t![image-redacted]()
 \t\t</column>
 \t\t<column>
 \t\t\t**Element 1: **Take the knowledge

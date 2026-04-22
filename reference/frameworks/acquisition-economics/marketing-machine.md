@@ -1,11 +1,11 @@
 # Marketing Machine - Turning Customers into Ad Creative
 
-> **Source:** the acquisition economist, *$100M Playbook: Marketing Machine - How to Turn Your Business Into an Ads Machine* (Acquisition.com, 2025)
+> **Source:** the acquisition economist, *the marketing-machine canon - How to Turn Your Business Into an Ads Machine* (a portfolio holding company, 2025)
 > **Frame:** "How to get endless ads by doing what you're already doing."
 
 ## Origin - The 2019 PE Rejection
 
-the acquisition economist tried to sell Gym Launch in 2019. Bankers rejected: "The business depends on your face. If anyone would buy it, you'd have to stay in the business. If selling means becoming an employee of the very business I used to own, what's the point?" Unsellable.
+the acquisition economist tried to sell a fitness-operator rollup in 2019. Bankers rejected: "The business depends on your face. If anyone would buy it, you'd have to stay in the business. If selling means becoming an employee of the very business I used to own, what's the point?" Unsellable.
 
 Walking to clear his head, a friend texted: "What would you do to make another $5M per year without doing more work?" He reframed it: "If I got hit by a bus today - what would keep the business growing tomorrow?"
 
@@ -15,7 +15,7 @@ A few weeks later: "The ads from the new campaign are CRUSHING... The member-gen
 
 12 months later, he re-met the bankers. Pulled up the ad account. Sorted by sales generated. He hadn't been in any of the top-performing ads for 12 months. The business closed for $46.2M.
 
-The key data point from the PDF: reviewing thousands of Gym Launch ads retroactively, **40 of the top 50 performers had no the acquisition economist in them.** 80% of top ads were customer-generated.
+The key data point from the PDF: reviewing thousands of a fitness-operator rollup ads retroactively, **40 of the top 50 performers had no the acquisition economist in them.** 80% of top ads were customer-generated.
 
 ## The Machine - 9 Components
 
@@ -51,7 +51,7 @@ Local-business variant - **"Upon Delivery" Ads**. Ribbon-cutting moments: kitche
 
 ## Component 2 - Social Media Scrape
 
-- Assign a hashtag for customers. Gym Launch used `#gymlord #gymlaunch #gymowner`. Prestige Labs used `#poweredbyprestige`. Personal: `#neverskipdessert #acquisition #100moffers #100mleads`.
+- Assign a hashtag for customers. a fitness-operator rollup used `#brandedhashtag`. a supplement brand used `#`. Personal: `#personalbrandedhashtags`.
 - Set regular reminders to capture tagged media before stories disappear (24h on IG/FB/Snap).
 - Separate studs from duds - good organic performance correlates with good ad performance.
 - Use best-performing organic images/videos as ad creative with already-performing ad copy.
@@ -118,7 +118,7 @@ Instructions:
 - Community manager tagged.
 - Keywords included for later scraping.
 
-**Award Testimonials.** Create an aspirational goal (Gym Lords = $1M/year gym; others could be bikini photo, remodeled kitchen photoshoot). Make a trophy. Spend money on it.
+**Award Testimonials.** Create an aspirational goal (a fitness-operator community = $1M/year gym; others could be bikini photo, remodeled kitchen photoshoot). Make a trophy. Spend money on it.
 
 For each award, get **four proofs**:
 1. Post in community showing sales hit + testimonial template.
@@ -126,7 +126,7 @@ For each award, get **four proofs**:
 3. Unboxing video of the trophy.
 4. Stage presentation footage (personalized/engraved trophy mailed; generic trophy presented on stage).
 
-Gym Launch award: sword and shield for Gym Lords community. Swords already had prestige association in fitness.
+a fitness-operator rollup award: sword and shield for a fitness-operator community community. Swords already had prestige association in fitness.
 
 ## Component 6 - Competitions
 
@@ -206,9 +206,9 @@ Three structural reasons from the PDF:
 
 ## Source
 
-- the acquisition economist, *$100M Playbook: Marketing Machine* (2025, Acquisition.com). 27-page PDF including implementation checklist.
-- Gym Launch 2019 PE rejection story (opens the PDF).
-- Gym Launch $46.2M sale (2021).
+- the acquisition economist, *the marketing-machine canon* (2025, a portfolio holding company). 27-page PDF including implementation checklist.
+- a fitness-operator rollup 2019 PE rejection story (opens the PDF).
+- a fitness-operator rollup $46.2M sale (2021).
 
 ---
 *v1.0 - 2026-04-19. Direct distillation of the 2025 Marketing Machine playbook.*

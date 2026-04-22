@@ -38,7 +38,7 @@ The compounding cycle: every run through the workspace deepens the encoding, whi
 
 ## Encoded Founder
 
-The methodology (by Syed Hussain, V4 published at encodedfounder.com) for translating tacit creator judgment into machine-readable workspace content. The three-layer knowledge architecture and the M-formula (`M = T × S × K × A × E × I × L`) come from here.
+The methodology for translating tacit creator judgment into machine-readable workspace content. The three-layer knowledge architecture and the M-formula (`M = T × S × K × A × E × I × L`) come from here.
 
 ## Growth Operating Agency
 

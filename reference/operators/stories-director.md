@@ -1,4 +1,4 @@
-# the stories director — the stories director Consulting
+# the stories director
 
 > **Tier:** 2 (Operator)
 > **Core IP:** 7-Day Story Sequence Framework + 4-Layer Story Anatomy + Psychology-Backed Organic Scaling
@@ -6,8 +6,8 @@
 
 ## Canonical Sources
 
-- **the stories director Consulting hub:** `2d539dd823e7800aa97eef7b10569eac`
-- **Channel:** @NicolasClay
+- **the stories director Consulting hub:** `{NOTION_ID}`
+- **Channel:** 
 - **Growth Operating Agency Growth Operator Directory:** Tier 2
 
 ## Core IP — 7-Day Story Sequence

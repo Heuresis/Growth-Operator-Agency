@@ -115,10 +115,10 @@ IMPLEMENTATION
 ## Sample Filled RFC
 ```
 RFC-2026-07: Migrate ESP from Mailchimp to Customer.io
-Author: Syed
+Author: {AUTHOR}
 Status: in-review
 Date: 2026-04-19
-Deciders: Alex, Syed
+Deciders: {APPROVER}, {AUTHOR}
 Review by: 2026-04-26
 
 CONTEXT

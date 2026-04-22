@@ -11,7 +11,7 @@ the VSL director opens Section 9 with an explicit rejection of the dominant copy
 **Value Stacking (what the VSL director rejects)**:
 > "This course is worth $5,000. This template is worth $2,000. This bonus is worth $1,500. Total value: $8,500. But today, you get it all for just $497!"
 
-Why it fails, per source: "Completely disingenuous. Nobody believes it. Insults the viewer's intelligence. Hurts credibility." → `🚀 SECTION 9 PRICE ANCHORING` line 17-22. the VSL director credits Russell Brunson but labels this approach "flawed in modern markets" because sophistication has risen.
+Why it fails, per source: "Completely disingenuous. Nobody believes it. Insults the viewer's intelligence. Hurts credibility." → `🚀 SECTION 9 PRICE ANCHORING` line 17-22. the VSL director credits the funnel-building platform founder but labels this approach "flawed in modern markets" because sophistication has risen.
 
 **Price Anchoring (what the VSL director uses)**: get the prospect to convince themselves of the value through their own math — then state the price into that self-generated anchor.
 
@@ -67,10 +67,10 @@ Guide them to the value conclusion without stating it directly.
 Two approaches:
 
 **Approach A: Contrast Price**
-> "Based on that math, I could easily charge $10,000 for this program. And honestly, it would be worth it. But that's not what I'm charging. The investment to join Cloud Profit Scaling Secrets is $2,997."
+> "Based on that math, I could easily charge $10,000 for this program. And honestly, it would be worth it. But that's not what I'm charging. The investment to join a sales-training operation Scaling Secrets is $2,997."
 
 **Approach B: Direct Statement**
-> "The investment to join Cloud Profit Scaling Secrets is $2,997. One time. No recurring fees. Full access to everything."
+> "The investment to join a sales-training operation Scaling Secrets is $2,997. One time. No recurring fees. Full access to everything."
 
 Choose Contrast when the offer is significantly below the mental anchor they've just built. Choose Direct when the price itself is positioned as a selling point (low-ticket) or when over-justification would feel salesy.
 

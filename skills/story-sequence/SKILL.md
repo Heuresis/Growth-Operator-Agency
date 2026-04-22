@@ -152,8 +152,8 @@ Invariants:
 
 ### Phase 0 — Load
 - Calendar brief + ICP Section 10 Objections + Offer Doc Social Proof + Brand Voice
-- `reference/operators/tier-2-operators/nicholas-clay.md` (7-day framework + 4-layer anatomy)
-- `reference/operators/tier-3-rising/siguard-foss.md` (4-layer anatomy origin)
+- `reference/operators/stories-director.md` (7-day framework + 4-layer anatomy)
+- `reference/operators/paid-media-director.md` (4-layer anatomy origin)
 
 ### Phase 1 — Weekly Topic Thread
 Choose the week's connective theme:
@@ -302,8 +302,8 @@ Enhanced versions of orange-days with deeper behind-scenes, exclusive updates, o
 
 ## References
 
-- `reference/operators/tier-2-operators/nicholas-clay.md` (7-day framework + 4-layer anatomy)
-- `reference/operators/tier-3-rising/siguard-foss.md` (Content Studio)
+- `reference/operators/stories-director.md` (7-day framework + 4-layer anatomy)
+- `reference/operators/paid-media-director.md` (Content Studio)
 - `reference/frameworks/instagram-profile-funnel/README.md`
 
 ---

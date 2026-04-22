@@ -168,9 +168,9 @@ Investment: $40K
 Risks: Founder bandwidth; need to hire delivery ops
 
 NEXT STEPS
-- Renewal contract signed — Alex — by 2026-04-23
-- Scale scope signed — Alex — by 2026-04-25
-- Case-study #1 recorded — Alex — by 2026-04-30
+- Renewal contract signed — {OWNER} — by 2026-04-23
+- Scale scope signed — {OWNER} — by 2026-04-25
+- Case-study #1 recorded — {OWNER} — by 2026-04-30
 ```
 
 ## Anti-patterns (block these)

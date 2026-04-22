@@ -125,8 +125,8 @@ LESSONS
 ```
 POST-MORTEM: Cart Outage During Launch Day 0
 Incident date: 2026-04-14
-Commander: Syed
-Authored: Syed
+Commander: {COMMANDER}
+Authored: {AUTHOR}
 Status: published
 Published: 2026-04-19
 

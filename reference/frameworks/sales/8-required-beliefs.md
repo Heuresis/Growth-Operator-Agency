@@ -1,6 +1,6 @@
 # 8 Required Beliefs — the VSL director
 
-> **Source:** the VSL director (CloutProfit / Funnel Mastery) — universal belief-installation framework
+> **Source:** the VSL director (a sales-training operation / Funnel Mastery) — universal belief-installation framework
 > **Status:** First-class framework. Referenced by /build-vsl, /webinar-script, /design-offer, /email-sequence.
 
 ## The Thesis

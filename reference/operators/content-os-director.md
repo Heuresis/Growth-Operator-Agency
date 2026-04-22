@@ -3,8 +3,8 @@
 > **Tier:** 1 (GOAT) · **Growth Operating Agency Pillars:** 3 Education (Nurture) + 5 Lifecycle (primary lead for both)
 > **Core IP:** 1-2 Hour Consumption Rule + YouTube Flywheel Funnel + 3 Content Types + Business-Partner (not agency-client) model + Nurture Block 4-Phase + 9-area ICP deep-dive
 > **Proof:** $50K-$400K+/mo info portfolio; $7M+ early via Discord
-> **Channels:** youtube.com/@dustinvarano · instagram.com/dustinvarano · link.me/dustinvarano
-> **Notion hub:** `2d939dd823e780cbbb03df339c39c617` · **Growth Operating Agency Internal Processes canonical:** `2ee39dd823e7809bb4ccd41805604ae8`
+> **Channels:** youtube.com/ · instagram.com/ · link.me/
+> **Notion hub:** `{NOTION_ID}` · **Growth Operating Agency Internal Processes canonical:** `{NOTION_ID}`
 
 the content OS director is a 21-year-old YouTube-native growth operator running a portfolio of $50K-$400K+/mo info offers via an embedded revenue-share partnership model. He sits inside the creator's operation rather than outside it, caps roster at 2-3 creators, and uses long-form YouTube as the entire top-of-funnel because long-form is the only surface where a stranger can consume the 1-2 hours of content required to buy high-ticket. His lineage is the primary encoding source for the Growth Operating Agency `Nurture Block` nurture pillar and the `Lifecycle` pillar.
 
@@ -12,7 +12,7 @@ the content OS director is a 21-year-old YouTube-native growth operator running 
 
 the content OS director's central claim is that **for a stranger to buy a high-ticket info product, they must first consume a minimum of 1-2 hours of that creator's content**. This one rule cascades through the entire operation. Short-form surfaces (Reels, TikTok, LinkedIn posts) cap at 20-30 total watchable minutes before attention breaks — they physically cannot deliver the consumption required for a $3K-$50K sale. YouTube long-form can deliver 1-2 hours in a single session. So YouTube long-form is not "a channel" in the the content OS director model — it is the entire nurture machine, and everything else is either a derivative distribution layer (clips, shorts) or an amplification layer (IG Stories).
 
-The second claim is that **content is the funnel, not an input to it**. Most operators build a funnel (ads, opt-in, email, webinar, call) and then bolt content onto the top. the content OS director inverts this: the YouTube video is the view-to-lead ad, the evergreen asset, the short-form source, the session-starter, and the VSSL routing surface, simultaneously. The "funnel" is the set of content-linking policies (which video has the CTA, which does not, which feeds which), not a separate software artifact. This is why he does not build Kajabi/ClickFunnels spaghetti — the linking logic lives inside the content plan.
+The second claim is that **content is the funnel, not an input to it**. Most operators build a funnel (ads, opt-in, email, webinar, call) and then bolt content onto the top. the content OS director inverts this: the YouTube video is the view-to-lead ad, the evergreen asset, the short-form source, the session-starter, and the VSSL routing surface, simultaneously. The "funnel" is the set of content-linking policies (which video has the CTA, which does not, which feeds which), not a separate software artifact. This is why he does not build generic-funnel-tool spaghetti — the linking logic lives inside the content plan.
 
 The third claim is the **business-partner operating model**. A 7-figure info creator cannot be served by an agency because an agency is project-based, reactive, and weekly-at-most. It needs someone embedded in the same Slack, the same CRM, the same daily rhythm — compensated on revenue share (10-30%) rather than retainer, so upside and downside are shared. The math only works with a small roster (2-3 creators), and the roster stays small by policy rather than by capacity — because "spreading thin across 10 clients" is the exact failure mode of the agency world he is positioned against. This is the `business-partner-model` encoded in the Lifecycle pillar.
 
@@ -92,7 +92,7 @@ Tacit principles that recur across the content OS director's three signature bre
 
 ## Real Cases
 
-> These are the content OS director's three signature YouTube breakdowns plus cross-breakdown synthesis. Source references are his channel (`youtube.com/@dustinvarano`). Specific dollar figures inside each video are tagged `[UNVERIFIED]` where they depend on transcript specifics beyond the public title framing. Quotes are included only where captured from public positioning; where no quote is captured, the notable-quote line is tagged `[UNVERIFIED]`.
+> These are the content OS director's three signature YouTube breakdowns plus cross-breakdown synthesis. Source references are his channel (`youtube.com/`). Specific dollar figures inside each video are tagged `[UNVERIFIED]` where they depend on transcript specifics beyond the public title framing. Quotes are included only where captured from public positioning; where no quote is captured, the notable-quote line is tagged `[UNVERIFIED]`.
 
 ### Breakdown 1 — "Leaking my $178K/month info operating blueprint"
 
@@ -222,7 +222,7 @@ Decision rules for when a Growth Operating Agency operator should pull from the 
 
 ## Signature Quote
 
-> *"Documenting my life as a 21 year old scaling a portfolio of $50k-$400k+/mo info offers using his YouTube Flywheel Funnel."* — @dustinvarano public bio
+> *"Documenting my life as a 21 year old scaling a portfolio of $50k-$400k+/mo info offers using his YouTube Flywheel Funnel."* —  public bio
 
 > *"Make them feel like a business partner, NOT an agency client."* — the content OS director on the Lifecycle/CS relational contract (public positioning, exact wording per his channel/profile framing)
 
@@ -232,13 +232,13 @@ Decision rules for when a Growth Operating Agency operator should pull from the 
 
 ## Source
 
-- the content OS director public surfaces: `youtube.com/@dustinvarano`, `instagram.com/dustinvarano`, `link.me/dustinvarano`
-- Growth Operating Agency Internal Processes canonical: Notion `2ee39dd823e7809bb4ccd41805604ae8`
-- the content OS director operator hub: Notion `2d939dd823e780cbbb03df339c39c617`
+- the content OS director public surfaces: `youtube.com/`, `instagram.com/`, `link.me/`
+- Growth Operating Agency Internal Processes canonical: Notion `{NOTION_ID}`
+- the content OS director operator hub: Notion `{NOTION_ID}`
 - Growth Operating Agency ICP Deep Dive framework: `reference/frameworks/icp-deep-dive.md` (9-area source)
 - Three signature breakdown videos ($178K / $246K / $57K) — channel URLs above; transcript-level verification pending
 - Cross-encoded YouTube frameworks: `reference/frameworks/youtube/7-video-types.md`, `3-tier-funnel.md`, `binge-loop-mechanic.md`, `session-starter-strategy.md`, `4-pillar-content-mix.md`
-- Growth Operator Directory (Notion) — the content OS director Tier-3 entry at `@dustinvarano`
+- Growth Operator Directory (Notion) — the content OS director Tier-3 entry at ``
 
 ---
 *v2.0 — 2026-04-19. Tier 1 operator — primary lineage for Nurture Block + Lifecycle framework folders. Expanded from v1.1 (208 lines) with deep-encoded framework cross-references, distinctive-moves section, and decision-rule taxonomy.*

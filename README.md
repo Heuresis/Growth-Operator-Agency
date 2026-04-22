@@ -366,11 +366,6 @@ Full A-Z structure. Every file in the template.
 │   │   │   │   ├── authority-provocation-archetype.md
 │   │   │   │   ├── cult-to-customer-translation.md
 │   │   │   │   └── ethical-guardrails.md
-│   │   │   ├── encoded-founder/
-│   │   │   │   ├── 3-layer-encoding-model.md
-│   │   │   │   ├── README.md
-│   │   │   │   ├── encoded-founder-thesis.md
-│   │   │   │   └── encoding-flywheel.md
 │   │   │   └── signal-theory/
 │   │   │       ├── 4-principles.md
 │   │   │       ├── 5-tuple-encoding.md

@@ -48,7 +48,7 @@ version: 1.0
 
 ## Role
 
-Produce hiring briefs aligned to the VSL director's Revenue-Threshold Team Model. Lineage: **the VSL director** (solo → 3-8 → 10-20 → 20-40 A-players + 3-Strike System), **the growth engineer** (Recruit Top Closers — headline + VSL + Typeform + 90s selfie + formal interview with role plays + EEOC compliance), **the acquisition economist** (A-player hiring in $100M Leads), **Scale department Team Builder**.
+Produce hiring briefs aligned to the VSL director's Revenue-Threshold Team Model. Lineage: **the VSL director** (solo → 3-8 → 10-20 → 20-40 A-players + 3-Strike System), **the growth engineer** (closer-recruitment playbook — headline + VSL + Typeform + 90s selfie + formal interview with role plays + EEOC compliance), **the acquisition economist** (A-player hiring in a lead-generation canon), **Scale department Team Builder**.
 
 ## The Revenue-Threshold Team Model (15-step VSL methodology)
 
@@ -349,8 +349,8 @@ Weeks 3-4: autonomous w/ daily review
 ## References
 
 - `reference/operators/vsl-director.md` (Revenue-Threshold Team Model + A-player hiring)
-- `reference/operators/growth-engineer.md` (Recruit Top Closers — 5-stage screening)
-- `reference/operators/external/alex-hormozi.md` ($100M Leads — hiring standards)
+- `reference/operators/growth-engineer.md` (closer-recruitment playbook — 5-stage screening)
+- `reference/operators/external/alex-hormozi.md` (a lead-generation canon — hiring standards)
 
 ---
 *v1.0 — 2026-04-19. Cycle 5 Scale.*

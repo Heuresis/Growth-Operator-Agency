@@ -42,7 +42,7 @@ YouTube methodology master stack — 7 video types, 20-hook library, VSSL constr
 Used by: marketing (YouTube + Shorts)
 
 ### 8. VSL Variants (`vsl/`)
-5 VSL framework variants — the VSL director (15-step), the psychological copywriter (11-step Pull-Push-Persuade), the 13-step VSL author (13-step slides), the VSL copywriter (3X), the growth engineer (Hidden VSSL).
+5 VSL framework variants — the VSL director (15-step), the psychological copywriter (11-step Pull-Push-Persuade), the 13-step VSL author (13-step slides), the VSL copywriter (3X), the growth engineer (hidden-pitch long-form video).
 Used by: sales (/build-vsl skill has 5 variants to pick from)
 
 ### 9. Classical Persuasion (`classical/`)
@@ -89,7 +89,7 @@ awareness-spectrum research, influence-principles research, cognitive-bias resea
 ## Source Provenance
 
 Every framework file ends with a **Sources** section citing the exact location:
-- Notion page IDs (e.g. `2f139dd8-23e7-8062-955e-fa6a004461a5`)
+- Notion page IDs (e.g. `{EXAMPLE_NOTION_ID}`)
 - Named publications with page references (e.g. *Signal Theory: Optimal Intent Encoding* p.41)
 - Web URLs (e.g. a public methodology page)
 - YouTube channel + video references

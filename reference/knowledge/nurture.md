@@ -17,7 +17,7 @@ Shared context for every lifecycle / middle-of-funnel skill. Nurture converts ca
 - **Deliverability Score** — inbox placement %. Target ≥ 95% (primary inbox).
 - **Objection Map** — ranked list of top 8 objections for the offer. Every objection has ≥ 1 email that dissolves it.
 - **8 Required Beliefs** (inherits from Foundations) — sequences must touch all 8 by the sales email.
-- **Perfect Webinar (Russell Brunson)** — Hook → Story → Content (3 Secrets) → Stack → Close. Default for webinar scripts.
+- **three-secrets webinar archetype (the funnel-building platform founder)** — Hook → Story → Content (3 Secrets) → Stack → Close. Default for webinar scripts.
 
 ## Core KPIs
 | KPI | Target | Skill |

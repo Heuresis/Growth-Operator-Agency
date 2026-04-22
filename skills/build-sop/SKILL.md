@@ -133,7 +133,7 @@ Per team structure and gap identified. Or `--variant=<role>|<process>`.
 - Offer Doc, company.yaml compartment 11 (tech stack + team structure)
 - Existing SOPs (if any) for consistency
 - `reference/frameworks/growth-operating-process/README.md` (operations methodology)
-- `reference/operators/tier-2-operators/sanjay-slings.md`
+- `reference/operators/operations-director.md`
 
 ### Phase 1 — Variant Selection
 Per team gap or request.
@@ -258,7 +258,7 @@ Monthly SOP review. Quarterly deep audit.
 ## References
 
 - `reference/frameworks/growth-operating-process/README.md` (the operations director 8-stage journey)
-- `reference/operators/tier-2-operators/sanjay-slings.md`
+- `reference/operators/operations-director.md`
 - Scale department Department canonical
 
 ---

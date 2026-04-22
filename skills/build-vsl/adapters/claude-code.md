@@ -1,5 +1,5 @@
 ---
-description: Produce a VSL script using one of 5 variants (15-step / Pull-Push-Persuade 11-step / 13-step VSL / 3X VSL Formula / Hidden VSSL). Voice-matched, mechanism-threaded, 8 beliefs installed.
+description: Produce a VSL script using one of 5 variants (15-step / Pull-Push-Persuade 11-step / 13-step VSL / three-phase VSL formula / hidden-pitch long-form video). Voice-matched, mechanism-threaded, 8 beliefs installed.
 argument-hint: [optional: "--variant=A|B|C|D|E" to force variant; else auto-select]
 allowed-tools: Read, Write, Edit, Grep, Glob, WebSearch, WebFetch
 ---

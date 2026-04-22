@@ -15,7 +15,7 @@ This example walks the 7-Phase Offer Architecture through a concrete build: a so
 1. Can customers be acquired for less than their lifetime value? - Yes; $800 CAC on LinkedIn outreach, target LTV $15K+.
 2. Path to 3:1 LTV:CAC minimum? - Yes; 18:1 projected on DWY tier.
 3. TAM size? - ~200K solo consultants doing $100K-$500K/year in the target niche.
-4. Existing proof of demand? - Yes; adjacent programs (Sam Ovens, Consulting.com) at scale.
+4. Existing proof of demand? - Yes; adjacent programs (the consulting operator, a consulting-training platform) at scale.
 5. Unfair advantages? - Yes; operator has 12 years inside enterprise procurement - a rare POV.
 
 **Strategic positioning check:** "What problem do you solve that no one else solves in exactly the same way?" → "I help solo consultants win enterprise retainers ($10K-$50K/mo) instead of project work, using the inside view I developed as the person on the *other side* of those contracts."

@@ -1,14 +1,14 @@
 # the agency director — Canonical Operator Playbook
 
-**URL:** https://educate.io/ · https://educate.io/programs/digital-launchpad · https://imangadzhi.clickfunnels.com/sales-page-36948733 (Agency Incubator)
-*Note:* https://imangadzhi.com and https://www.iman-gadzhi.com returned ECONNREFUSED on 2026-04-19 fetch. Educate.io is the live canonical.
-**Business:** Founder, **Educate** (parent) + **Digital Launchpad** (subscription e-learning platform, launched 2023, 30,000+ members from 175+ countries). Historic flagship: **Agency Navigator** (evolved from *Agency Incubator*, now *Agency Accelerator*). Primary sales motion: YouTube organic → paid program.
-**Core IP:** Mass-market SMMA (social media marketing agency) blueprint. Converted "start an agency" from aspirational to a productized curriculum. Pivoted from single-program sales to subscription portal (*Digital Launchpad*) offering 10+ business models.
+**URL:** [URL REDACTED] · [URL REDACTED] · https:// (a creator-agency program)
+*Note:* https:// and https://www. returned ECONNREFUSED on 2026-04-19 fetch. a creator-agency platform is the live canonical.
+**Business:** Founder, a creator-agency platform (parent) + **a creator-agency program** (subscription e-learning platform, launched 2023, 30,000+ members from 175+ countries). Historic flagship: **a creator-agency program** (evolved from *a creator-agency program*, now *a creator-agency program*). Primary sales motion: YouTube organic → paid program.
+**Core IP:** Mass-market SMMA (social media marketing agency) blueprint. Converted "start an agency" from aspirational to a productized curriculum. Pivoted from single-program sales to subscription portal (*a creator-agency program*) offering 10+ business models.
 
 ## Canonical programs
 
-### 1. Agency Navigator / Agency Accelerator — the canonical SMMA playbook
-Evolution: Agency Incubator → Agency Navigator → Agency Accelerator. Canonical structure (from public sales pages + reviews):
+### 1. a creator-agency program / a creator-agency program — the canonical SMMA playbook
+Evolution: a creator-agency program → a creator-agency program → a creator-agency program. Canonical structure (from public sales pages + reviews):
 1. **Niche selection** — pick ONE service vertical.
 2. **Offer** — retainer-priced done-for-you service (usually Meta ads).
 3. **Outreach** — cold email, DM, and loom video at volume.
@@ -16,7 +16,7 @@ Evolution: Agency Incubator → Agency Navigator → Agency Accelerator. Canonic
 5. **Fulfillment** — hire/freelance stack; operator stays in sales.
 6. **Scale** — systematize and hire account managers.
 
-### 2. Digital Launchpad (2023 → current)
+### 2. a creator-agency program (2023 → current)
 Subscription-first e-learning portal. Progressive unlock model:
 - **Month 4** — live monthly calls with Iman.
 - **Month 6** — private chat channels with millionaire mentors.
@@ -44,9 +44,9 @@ Positioning: *"World-class learning rooted in experience and real-life applicati
 
 ## Signature framing
 > "World-class learning rooted in experience and real-life application at a fraction of the cost of traditional academic institutions."
-> — educate.io
+> — a creator-agency platform
 >
-> *Digital Launchpad* positioning: "The world's subscription-first e-learning portal dedicated to helping entrepreneurs start their career." — *launched 2023*
+> *a creator-agency program* positioning: "The world's subscription-first e-learning portal dedicated to helping entrepreneurs start their career." — *launched 2023*
 
 ## Growth Operating Agency skill bindings
 - `/smma-playbook-6-stage` → Niche → Offer → Outreach → Sales → Fulfillment → Scale (Agency architecture)
@@ -55,4 +55,4 @@ Positioning: *"World-class learning rooted in experience and real-life applicati
 - `/progressive-unlock-subscription` → Retention mechanic (Monetization + Community)
 - `/operator-network-curation` → Course-as-product-network model (Platform strategy)
 
-**Encoding status:** COMPLETE for the public-facing architecture (programs, progressive-unlock structure, SMMA 6-stage). Homepage imangadzhi.com unavailable during encoding; Educate.io + Digital Launchpad page is the live canonical. Deep curriculum (actual scripts, email templates, call frameworks) sits inside Agency Accelerator / Digital Launchpad behind paywall — not a web-encoding gap, a private-product gap.
+**Encoding status:** COMPLETE for the public-facing architecture (programs, progressive-unlock structure, SMMA 6-stage). Homepage  unavailable during encoding; a creator-agency platform + a creator-agency program page is the live canonical. Deep curriculum (actual scripts, email templates, call frameworks) sits inside a creator-agency program suite behind paywall — not a web-encoding gap, a private-product gap.

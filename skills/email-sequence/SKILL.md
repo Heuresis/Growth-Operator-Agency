@@ -49,7 +49,7 @@ version: 1.0
 
 ## Role
 
-Produce email sequences that convert subscribers to buyers. Lineage: **the content OS director** (Nurture Block — indoctrination/value/conversion/retention sequences), **the offer architect** (belief-installation email cadence), **the growth strategist** ($200k/mo outreach OS — Whisper/Tease/Shout launch cadence), **the copy director** (direct-response email structure), **the acquisition economist** ($100M Leads email frameworks).
+Produce email sequences that convert subscribers to buyers. Lineage: **the content OS director** (Nurture Block — indoctrination/value/conversion/retention sequences), **the offer architect** (belief-installation email cadence), **the growth strategist** ($200k/mo outreach OS — Whisper/Tease/Shout launch cadence), **the copy director** (direct-response email structure), **the acquisition economist** (a lead-generation canon email frameworks).
 
 ## The 8 Sequence Types
 
@@ -359,9 +359,9 @@ P.S. [optional high-read line]
 ## References
 
 - `reference/operators/content-os-director.md` (Nurture Block)
-- `reference/operators/external/alex-hormozi.md` ($100M Leads email)
+- `reference/operators/external/alex-hormozi.md` (a lead-generation canon email)
 - `reference/frameworks/sales/8-required-beliefs.md` (the VSL director — Nurture sequences install these)
-- `reference/operators/tier-3-rising/jonas-rorwick.md` (Whisper/Tease/Shout launch cadence)
+- `reference/operators/growth-strategist.md` (Whisper/Tease/Shout launch cadence)
 - `reference/_archive/spec/INTEGRATIONS.md` (email platforms)
 
 ---

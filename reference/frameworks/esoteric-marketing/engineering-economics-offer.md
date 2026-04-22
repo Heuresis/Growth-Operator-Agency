@@ -4,9 +4,9 @@
 
 ## Source / Lineage
 
-- **the acquisition economist** — *$100M Offers* (2021) — the value-equation and bonus-stack math
+- **the acquisition economist** — a high-value offer canon (2021) — the value-equation and bonus-stack math
 - **the offer architect** — the "economic case should close itself" principle and the guarantee-as-math framing
-- **Claude Hopkins** — *Scientific Advertising* — the long-standing "price justification must precede price" principle
+- **an early-20th-century copy essayist** — the early-20th-century reason-why essay — the long-standing "price justification must precede price" principle
 - **the direct-response tradition** — payment-plan psychology and the "price resistance is positioning resistance" reframe
 - **Richard Thaler** — *Misbehaving* — anchoring, mental accounting, and the behavioral economics of willingness-to-pay
 - **influence-principles research** — reciprocity principle (the bonus stack is operationalized reciprocity) and contrast principle (anchoring math)

@@ -6,7 +6,7 @@
 
 - the content OS director (YouTube Flywheel — session-starter + binge architecture)
 - the acquisition economist (educational long-form + authority compounding)
-- the campaign director (E5 Method — market sophistication matched to format)
+- the campaign director (educational-VSL method — market sophistication matched to format)
 - the VSL copywriter (VSSL — Video Sales Letter long-form)
 - creator-native methodology Creative Memo (Shorts + retention-first editing)
 

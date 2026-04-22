@@ -137,13 +137,13 @@ Used by:
 
 ## Operator Reference
 
-- `reference/operators/tier-2-operators/sanjay-slings.md` — full operator profile with 10-video deep-dive
+- `reference/operators/operations-director.md` — full operator profile with 10-video deep-dive
 
 ## Sources
 
-- the operations director Deep Dive (Notion: `2d739dd823e78001b1ccfa16d35e3ce3`)
+- the operations director Deep Dive (Notion: `{NOTION_ID}`)
 - 10 videos analyzed — $15M webinar system, Post-Andromeda ads scaling to $10k/day, $130K/mo Growth Operating economics, Zero-to-$1M/mo free course
-- `reference/operators/tier-2-operators/sanjay-slings.md`
+- `reference/operators/operations-director.md`
 
 ---
 *v1.0 — 2026-04-19. The operational counterweight to esoteric-marketing/ — both are needed; neither is sufficient alone.*

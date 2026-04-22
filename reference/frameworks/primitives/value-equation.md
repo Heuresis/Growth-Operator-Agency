@@ -1,6 +1,6 @@
 # Value Equation — The Primitive
 
-> **Source:** the acquisition economist, *$100M Offers* (Chapter 4)
+> **Source:** the acquisition economist, a high-value offer canon (Chapter 4)
 > **Status:** First-class primitive. Referenced by every offer/pricing/VSL skill.
 
 ## The Equation
@@ -116,8 +116,8 @@ This primitive is invoked by:
 
 ## Sources
 
-- the acquisition economist, *$100M Offers* — Chapter 4 (Value Equation)
-- Acquisition.com playbooks
+- the acquisition economist, a high-value offer canon — Chapter 4 (Value Equation)
+- a portfolio holding company playbooks
 - Joe McMahan, "The Value Equation," Medium — https://medium.com/@joemcmahan/the-value-equation-436ad5fe5a3a
 - `reference/operators/external/alex-hormozi.md` — full the acquisition economist profile
 

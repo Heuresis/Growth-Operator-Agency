@@ -4,7 +4,7 @@
 
 ## Source / Lineage
 
-- **MODULE 2: THE 3 C'S SYSTEM** (The YouTube Architect Blueprint)
+- **MODULE 2: THE 3 C'S SYSTEM** (The YouTube architecture playbook)
 - **C #1: CLICK** — impressions, CTR, concept, title, thumbnail
 - **C #2: CONSUME** — APV, non-sub watch time, end-screen CTR, fulfillment, stimuli, momentum
 - **C #3: CONVERT** — net subs, interactions, community post engagement, CTAs
@@ -99,7 +99,7 @@ See `reference/frameworks/youtube/5-phase-psychology.md` for phase-by-phase view
 
 ## Stage 3 — CONVERT
 
-**Goal:** Convert returning viewers into subscribers, superfans, community members, and customers. The realm of creator-native methodology obsession, Ali Abdaal superfans, the acquisition economist disciples.
+**Goal:** Convert returning viewers into subscribers, superfans, community members, and customers. The realm of creator-native methodology obsession, an education-creator superfans, the acquisition economist disciples.
 
 ### Metrics that matter
 

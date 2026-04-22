@@ -181,7 +181,7 @@ W(confirmation-page) =
 - `/build-funnel` output (which archetype)
 - Offer Doc, ICP Doc (objections)
 - Brand Voice Doc
-- `reference/operators/tier-3-rising/siguard-foss.md` (Infomatic Setting Flow + Show Rate stack)
+- `reference/operators/paid-media-director.md` (Infomatic Setting Flow + Show Rate stack)
 - `reference/operators/growth-engineer.md` (Confirmation Page That Converts)
 
 ### Phase 1 — Component Selection
@@ -381,7 +381,7 @@ Per offer price + funnel archetype, decide which components (confirmation page +
 
 ## References
 
-- `reference/operators/tier-3-rising/siguard-foss.md` (Infomatic Setting Flow + Show Rate stack)
+- `reference/operators/paid-media-director.md` (Infomatic Setting Flow + Show Rate stack)
 - `reference/operators/growth-engineer.md` (Confirmation Page That Converts — 5-function)
 - Growth Operating Agency `Show Rates - VSL Call Funnel` canonical source
 - `reference/_archive/spec/INTEGRATIONS.md` (Twilio + Cal.com + GHL)

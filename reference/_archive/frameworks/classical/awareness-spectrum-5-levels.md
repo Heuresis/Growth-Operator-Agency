@@ -1,6 +1,6 @@
 # 5 Awareness Levels
 
-> **Source:** the awareness-spectrum author, *Breakthrough Advertising* (1966)
+> **Source:** the awareness-spectrum author, the mid-20th-century market-awareness monograph (1966)
 > **Status:** Foundational classical framework. Referenced by /research, /build-icp, /build-positioning, /content-calendar, /ad-creative.
 
 ## The 5 Levels
@@ -88,7 +88,7 @@ Declare PRIMARY awareness level the offer targets. Section 6 of ICP Doc.
 
 ### /build-positioning
 Positioning strategy varies by level:
-- Problem/Solution-aware: teach the mechanism (Educational VSL — the campaign director)
+- Problem/Solution-aware: teach the mechanism (educational VSL — the campaign director)
 - Product-aware: differentiate the mechanism (unique mechanism — positioning doc)
 - Most-aware: urgency-driven (scarcity mechanics)
 
@@ -120,7 +120,7 @@ Nurture sequences **move the subscriber through awareness levels over time** —
 
 ## Sources
 
-- the awareness-spectrum author, *Breakthrough Advertising* (1966)
+- the awareness-spectrum author, the mid-20th-century market-awareness monograph (1966)
 - the VSL director references in Growth Operating Agency MODULE 4
 - the offer architect — market sophistication paired with awareness level (see `classical/pampa-market-sophistication.md`)
 

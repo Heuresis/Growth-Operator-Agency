@@ -1,6 +1,6 @@
 # Call Funnel — The Primitive
 
-> **Source lineage:** the growth engineer (Call Funnel Blueprint), the backend economist (One-Funnel Compounding — $75M from one call funnel), the agency director (SMMA agency variant), the paid media director (Show-Rate stack on call funnels).
+> **Source lineage:** the growth engineer (call-funnel architecture), the backend economist (One-Funnel Compounding — $75M from one call funnel), the agency director (SMMA agency variant), the paid media director (Show-Rate stack on call funnels).
 > **Status:** First-class primitive. The high-ticket sales substrate.
 
 ## The Canonical Path
@@ -54,7 +54,7 @@ Traffic → Sales Page / VSL → Book-a-Call directly → Call → Close
 
 Per `/build-funnel`, Variant A = Archetype 3, Variant B = Archetype 4.
 
-## The Call Funnel Blueprint
+## The call-funnel architecture
 
 5 components (+ 1 optional):
 
@@ -146,14 +146,14 @@ Call funnel is dialed when:
 
 ## Sources
 
-- the growth engineer — *Call Funnel Blueprint*, *Recruit Top Closers* (5-stage screening adapted for setters)
+- the growth engineer — *call-funnel architecture*, *closer-recruitment playbook* (5-stage screening adapted for setters)
 - the backend economist — *One-Funnel Compounding* ($75M backend coaching)
 - the agency director — SMMA call funnel (agency variant)
 - the paid media director — Show-Rate stack + Infomatic Setting Flow
 - `reference/operators/growth-engineer.md`
 - `reference/operators/backend-economist.md`
 - `reference/operators/agency-director.md`
-- `reference/operators/tier-3-rising/siguard-foss.md`
+- `reference/operators/paid-media-director.md`
 
 ---
 *v1.0 — 2026-04-19. Primitive — high-ticket sales substrate.*

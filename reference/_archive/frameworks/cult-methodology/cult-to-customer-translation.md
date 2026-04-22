@@ -4,12 +4,12 @@
 
 ## Source / Lineage
 
-- **the awareness-spectrum author** — *Breakthrough Advertising* (1966): market awareness + sophistication as the conversion substrate
-- **Claude Hopkins** — *Scientific Advertising* (1923): the phrase-as-hook principle, reused a century later
+- **the awareness-spectrum author** — the mid-20th-century market-awareness monograph (1966): market awareness + sophistication as the conversion substrate
+- **an early-20th-century copy essayist** — the early-20th-century reason-why essay (1923): the phrase-as-hook principle, reused a century later
 - **the direct-response tradition** — the pricing/positioning feedback loop between tribe and offer
 - **the offer architect** — the "identity-layer offer" principle and the Vehicle Switch mechanism
 - **the VSL director** — 15-step VSL structure where vocabulary + mission collapse into copy
-- **Russell Brunson** — the clearest modern expression of funnel-as-tribe artifact
+- **the funnel-building platform founder** — the clearest modern expression of funnel-as-tribe artifact
 
 ## The Translation Map — One Sentence
 
@@ -44,7 +44,7 @@ The sacred phrases are not decorative; they are **load-bearing copy**. Every hig
 Pick the 5 phrases that must appear. They cannot be negotiable.
 Examples:
 
-- **Brunson** funnel copy uses "funnel hack," "hook-story-offer," "perfect webinar," "two-comma club," "Funnel Hacker" — the same 5 terms appear in every surface.
+- **the funnel-building platform founder** funnel copy uses "funnel hack," "hook-story-offer," "perfect webinar," "two-comma club," "funnel-modelling practitioner" — the same 5 terms appear in every surface.
 - **the acquisition economist** offer copy uses "grand slam offer," "value equation," "dream outcome," "perceived likelihood," "time delay / effort."
 
 ### Audit test
@@ -77,7 +77,7 @@ This is NOT for:
 - [Out-group descriptor 3]
 ```
 
-The "NOT for" list is non-negotiable. It's the tribal filter made copy. It also functions as a Jim Camp "permission to say no" — which raises close rate among the fit ICPs because it lowers perceived pressure.
+The "NOT for" list is non-negotiable. It's the tribal filter made copy. It also functions as a a no-first negotiation author "permission to say no" — which raises close rate among the fit ICPs because it lowers perceived pressure.
 
 ### The Vehicle Switch
 
@@ -123,7 +123,7 @@ Target: by Day 7, subscriber has received 5+ touches of sacred vocabulary. This 
 - Audience learns to expect and save for them
 - Standard structure: pre-launch (7-14 days warming) → open cart (3-7 days) → close cart (24-48 hours) → post-launch debrief (1 email, public, showing numbers)
 
-Launch-as-ritual is what lets a creator run 4 high-revenue weeks a year and take the other 48 off. See Brunson's Funnel Hacking Live → quarterly launch cadence.
+Launch-as-ritual is what lets a creator run 4 high-revenue weeks a year and take the other 48 off. See the funnel-building platform founder's annual funnel conference → quarterly launch cadence.
 
 **3. Post-purchase cadence — the membership rhythm**
 
@@ -228,7 +228,7 @@ These numbers compound multiplicatively, not additively. A fully translated funn
 
 - **Skill(s) that consume this:** `/build-vsl`, `/design-offer`, `/build-sales-page`, `/email-sequence`, `/launch-plan`, `/audit-funnel`
 - **Agent(s) that use it:** funnel-architect, copywriter, brand-strategist, content-director, launch-operator
-- **Companion framework(s):** `cult-methodology/4-cult-markers.md`, `vsl/eli-pampa-15-step.md`, `esoteric-marketing/vsl-story-architecture.md`, `primitives/unique-mechanism.md`, `sales/value-stack-architecture.md`
+- **Companion framework(s):** `cult-methodology/4-cult-markers.md`, `vsl/vsl-director-15-step.md`, `esoteric-marketing/vsl-story-architecture.md`, `primitives/unique-mechanism.md`, `sales/value-stack-architecture.md`
 
 ## Non-applicable scenarios
 
@@ -241,7 +241,7 @@ These numbers compound multiplicatively, not additively. A fully translated funn
 - `cult-methodology/4-cult-markers.md` — the source of each translation
 - `cult-methodology/tate-archetype-analysis.md` — the archetype that produces the markers
 - `cult-methodology/ethical-guardrails.md` — restraints on Translations 2 and 4 specifically
-- `vsl/eli-pampa-15-step.md` — the VSL structure that carries the translations
+- `vsl/vsl-director-15-step.md` — the VSL structure that carries the translations
 - `esoteric-marketing/vsl-story-architecture.md` — the emotional-beat layer underneath
 - `primitives/unique-mechanism.md` — the vocabulary's structural home
 

@@ -1,6 +1,6 @@
 # Impact Distribution Principle (40/40/20) — the offer architect
 
-> **Source:** the offer architect (Nothing Held Back) via the awareness-spectrum author lineage
+> **Source:** the offer architect (the offer-architecture masterclass) via the awareness-spectrum author lineage
 > **Status:** CORE INVARIANT of Growth Operating Agency (INV-1). Referenced by every department.
 
 ## The Principle
@@ -110,7 +110,7 @@ Break the plateau: go back upstream. `/research` fresh. `/build-icp` fresh. `/de
 ## Sources
 
 - the offer architect — Offer Building System + Market Psychology Foundations
-- the awareness-spectrum author — *Breakthrough Advertising* (market awareness + sophistication basis)
+- the awareness-spectrum author — the mid-20th-century market-awareness monograph (market awareness + sophistication basis)
 - the VSL director — 6-Blockage Diagnostic (applies 40/40/20 as diagnostic lens)
 - `reference/operators/offer-architect.md`
 - `reference/frameworks/esoteric-marketing/README.md`

@@ -1,6 +1,6 @@
 # Contributing — Growth Operating Agency
 
-Internal contribution guide. This workspace is private to Heuresis; contributions come from named Heuresis collaborators.
+Contribution guide for this workspace template. The main line is authored by the maintainers; external contributions are accepted when they preserve the invariants below.
 
 ## Before you change anything
 

@@ -1,14 +1,14 @@
 # the backend economist
 
-the backend economist is the YouTube Architect and co-owner of WarriorBabe (women-40+ fitness coaching). He has crossed $75M+ cash collected across info and coaching, did $30M in 2024 B2C with no MMO or guru model, and runs one of the most surgically operated call-funnel businesses in the category. His public surface is @RyanClogg on YouTube plus a Skool community; he has no personal website. What he publishes is a scientific, no-fluff system for building category-defining YouTube channels on top of a backend-first coaching architecture. This file captures the YouTube Architect Blueprint layer of his operating system (sourced from the 8-module blueprint he teaches) alongside the backend unit-economics layer he reveals in EP83 and E56.
+the backend economist is the YouTube architect and co-owner of a women-40+ fitness coaching business (women-40+ fitness coaching). He has crossed $75M+ cash collected across info and coaching, did $30M in 2024 B2C with no MMO or guru model, and runs one of the most surgically operated call-funnel businesses in the category. His public surface is  on YouTube plus a Skool community; he has no personal website. What he publishes is a scientific, no-fluff system for building category-defining YouTube channels on top of a backend-first coaching architecture. This file captures the YouTube architecture playbook layer of his operating system (sourced from the 8-module blueprint he teaches) alongside the backend unit-economics layer he reveals in EP83 and E56.
 
 ## Thesis
 
-**Long-form YouTube is the primary growth machine for info-product and coaching businesses, and the algorithm is a friend to anyone who aligns with its incentive.** YouTube makes money when more people watch more videos for longer. The operator's job is to make content that increases viewing time from non-subscribers, which is the single signal most correlated with channel growth. Everything else (thumbnails, titles, shorts, community posts) is a sub-optimization inside that one rule. The Blueprint is built on 15+ years of testing, 10,000+ videos, and 1+ billion views generated, tested against creator-native methodology, Ali Abdaal, the acquisition economist, Y Combinator, and ClickUp. It is a category-defining methodology, not a quick-views or pump-and-dump strategy.
+**Long-form YouTube is the primary growth machine for info-product and coaching businesses, and the algorithm is a friend to anyone who aligns with its incentive.** YouTube makes money when more people watch more videos for longer. The operator's job is to make content that increases viewing time from non-subscribers, which is the single signal most correlated with channel growth. Everything else (thumbnails, titles, shorts, community posts) is a sub-optimization inside that one rule. The Blueprint is built on 15+ years of testing, 10,000+ videos, and 1+ billion views generated, tested against creator-native methodology, an education-creator, the acquisition economist, Y Combinator, and ClickUp. It is a category-defining methodology, not a quick-views or pump-and-dump strategy.
 
 **The scientific method beats intuition for content decisions.** the backend economist's fourth competency (Data Analytics & Pattern Recognition) treats every video as an experiment: observe retention graphs, name the pattern, form a hypothesis, test it in the next video, document the result, and compound the insight. "Insanity is doing the same thing over and over expecting different results" (Module 1). Operators who guess at what works lose to operators who benchmark by view count, by time, and by video type, then run weekly experiments with one variable at a time.
 
-**Unit economics run the business, not conversion rate.** the backend economist's backend thesis (extracted from EP83 and ClickFunnels Radio #777) is that operators at 8-figure scale win on revenue-per-lead (RPL), cohort LTV, LTV:CAC per source, and contribution margin per call. A funnel with a 15% conversion rate and 3x LTV:CAC beats a funnel with 30% conversion and 1.5x LTV:CAC. At $30M+/yr, growth is earned on the backend (continuity, ascension, re-sell) while the front end pays for itself. Email is the backend compounding layer. One great call funnel, run for years, beats ten new funnel archetypes.
+**Unit economics run the business, not conversion rate.** the backend economist's backend thesis (extracted from EP83 and a funnel-building platform podcast #777) is that operators at 8-figure scale win on revenue-per-lead (RPL), cohort LTV, LTV:CAC per source, and contribution margin per call. A funnel with a 15% conversion rate and 3x LTV:CAC beats a funnel with 30% conversion and 1.5x LTV:CAC. At $30M+/yr, growth is earned on the backend (continuity, ascension, re-sell) while the front end pays for itself. Email is the backend compounding layer. One great call funnel, run for years, beats ten new funnel archetypes.
 
 ## Signature Frameworks
 
@@ -20,9 +20,9 @@ the backend economist is the YouTube Architect and co-owner of WarriorBabe (wome
 
 **The 8-Module Architecture** — The complete A-to-Z video creation sequence: Foundation → 3 C's System → Concept Development → Script Architecture → Digital-Native Production → Scientific Method → Monetization & Conversion → Team & Scaling. Modules 1-2 are theory, Modules 3-5 are applying the strategy, Module 6 is post-production analytics, Modules 7-8 are monetization and scaling. Modules are referenced back-and-forth, not executed linearly. → see `reference/frameworks/backend-economics/8-module-architecture.md`
 
-**Unit Economics Scorecard (RPL / LTV / LTV:CAC / Contribution Margin)** — The backend metric set that replaces conversion rate as the primary diagnostic for an info-product funnel. From EP83 and ClickFunnels Radio #777. Specific published numbers are limited (no CAC or LTV thresholds are public), so the scorecard is canonical; the thresholds are [UNVERIFIED] without internal data. → see `reference/frameworks/backend-economics/unit-economics-benchmarks.md`
+**Unit Economics Scorecard (RPL / LTV / LTV:CAC / Contribution Margin)** — The backend metric set that replaces conversion rate as the primary diagnostic for an info-product funnel. From EP83 and a funnel-building platform podcast #777. Specific published numbers are limited (no CAC or LTV thresholds are public), so the scorecard is canonical; the thresholds are [UNVERIFIED] without internal data. → see `reference/frameworks/backend-economics/unit-economics-benchmarks.md`
 
-**One-Funnel Compounding Model** — The WarriorBabe operating principle: pick one call funnel, refuse to proliferate, and compound on offer iteration / creative family / show-rate / close-rate / backend continuity inside that single structure for years. Captured in the existing EP83 breakdown in this file below.
+**One-Funnel Compounding Model** — The a women-40+ fitness coaching business operating principle: pick one call funnel, refuse to proliferate, and compound on offer iteration / creative family / show-rate / close-rate / backend continuity inside that single structure for years. Captured in the existing EP83 breakdown in this file below.
 
 **Skill-Compounding Operator Stance** — From E56 ("How I Learn SKILLS Fast $72M+"). Operator ceiling equals skill-acquisition rate. Serialize learning on the single bottleneck skill rather than diversifying across 4-6 skills simultaneously. Close the learning loop in public (YouTube long-form) as a forcing function. Captured in the existing E56 breakdown below.
 
@@ -38,7 +38,7 @@ the backend economist is the YouTube Architect and co-owner of WarriorBabe (wome
 
 **Run the 3x3 thumbnail matrix on every upload.** 3 fundamentally different concepts × 3 variations per concept = 9 thumbnails ready before publish. Native A/B test catches a >7% CTR gap, triggers a switch; under 7% means keep waiting. Document winners and losers in a database; feed descriptions to ChatGPT to extract patterns.
 
-**The backend pays the company; the front end pays for itself.** Below 8-figure scale, operators obsess over front-end conversion. At 8-figure scale, backend (continuity, ascension, re-sell) carries the P&L. Email marketing is the compounding backend layer (per CFR #777). Front end is a break-even machine that feeds the backend.
+**The backend pays the company; the front end pays for itself.** Below 8-figure scale, operators obsess over front-end conversion. At 8-figure scale, backend (continuity, ascension, re-sell) carries the P&L. Email marketing is the compounding backend layer (per a funnel-building platform podcast #777). Front end is a break-even machine that feeds the backend.
 
 **Cut the denouement.** YouTube 3-act structure is Hook + EQ → Rising Tension + Value Delivery → Climax (EQ answered) → END VIDEO. No conclusion. No summary. No "thanks for watching." Viewers leave after climax anyway; trying to extend loses retention and the end-screen CTA to the next video.
 
@@ -48,15 +48,15 @@ the backend economist is the YouTube Architect and co-owner of WarriorBabe (wome
 
 ## Real Cases
 
-**EP83 — "ClickFunnels Asked How We Made $75M w/ One Funnel"** (public YouTube, @RyanClogg). WarriorBabe crossed $75M cash through one call funnel. The funnel itself is the compounding asset; offer iteration, creative family, show-rate, close-rate, and backend continuity are the variables operated under that constant structure. Key beats: (1) picking one funnel is itself the strategic move, (2) measure by RPL and contribution margin, not landing-page conversion, (3) backend is where the $75M lives, (4) creative families (not single winning ads) are the iteration unit, (5) [SPECULATIVE] team structure splits by function because there is only one funnel. See detailed episode encoding below.
+**EP83 — "a funnel-building-platform podcast episode titled "How We Made $75M w/ One Funnel"** (public YouTube, ). a women-40+ fitness coaching business crossed $75M cash through one call funnel. The funnel itself is the compounding asset; offer iteration, creative family, show-rate, close-rate, and backend continuity are the variables operated under that constant structure. Key beats: (1) picking one funnel is itself the strategic move, (2) measure by RPL and contribution margin, not landing-page conversion, (3) backend is where the $75M lives, (4) creative families (not single winning ads) are the iteration unit, (5) [SPECULATIVE] team structure splits by function because there is only one funnel. See detailed episode encoding below.
 
-**E56 — "How I Learn SKILLS Fast ($72M+)"** (public YouTube, @RyanClogg). Operator ceiling equals skill-acquisition rate. Serialize learning on the single bottleneck skill. Close the loop in public on YouTube to force clarity. Bottleneck skill at $30K/mo ≠ bottleneck skill at $300K/mo; re-identify on each tier jump. See detailed episode encoding below.
+**E56 — "How I Learn SKILLS Fast ($72M+)"** (public YouTube, ). Operator ceiling equals skill-acquisition rate. Serialize learning on the single bottleneck skill. Close the loop in public on YouTube to force clarity. Bottleneck skill at $30K/mo ≠ bottleneck skill at $300K/mo; re-identify on each tier jump. See detailed episode encoding below.
 
-**WarriorBabe (the $75M coaching company)** — Co-owned with partners, women-40+ fitness coaching, crossed $100M total revenue January 2025, generated $72M+ through a single call-funnel model, $75M+ cash across info/coaching. Direct-response + paid-traffic + call-funnel is the proven 8-figure stack. No MMO (make-money-online) category, no guru model.
+**a women-40+ fitness coaching business (the $75M coaching company)** — Co-owned with partners, women-40+ fitness coaching, crossed $100M total revenue January 2025, generated $72M+ through a single call-funnel model, $75M+ cash across info/coaching. Direct-response + paid-traffic + call-funnel is the proven 8-figure stack. No MMO (make-money-online) category, no guru model.
 
-**ClickFunnels Radio #777 — "Effective Email Marketing And Driving Revenue"** (public podcast appearance). Thesis: email marketing is the backend compounding layer. At $30M+/yr, growth is earned on the backend, not the front. Email drives the majority of lifetime revenue once the front-end funnel pays for itself.
+**a funnel-building platform podcast #777 — "Effective Email Marketing And Driving Revenue"** (public podcast appearance). Thesis: email marketing is the backend compounding layer. At $30M+/yr, growth is earned on the backend, not the front. Email drives the majority of lifetime revenue once the front-end funnel pays for itself.
 
-**The YouTube Architect Blueprint proof stack** — Tested against creators the acquisition economist, Ali Abdaal, creator-native methodology Philanthropy, Chris Williamson, Codei Sanchez, David Fogarty, Neil Patel, The Dentist; and brands Y Combinator, ClickUp, LinkTree, Whoop. 15+ years of testing, 10,000+ videos, 1+ billion views, hundreds of millions in revenue for clients.
+**The YouTube architecture playbook proof stack** — Tested against creators the acquisition economist, an education-creator, creator-native methodology Philanthropy, a long-form podcast creator, a finance creator, an e-commerce creator, an SEO operator, The Dentist; and brands Y Combinator, ClickUp, LinkTree, Whoop. 15+ years of testing, 10,000+ videos, 1+ billion views, hundreds of millions in revenue for clients.
 
 ## When To Invoke the backend economist's Thinking
 
@@ -78,12 +78,12 @@ the backend economist is the YouTube Architect and co-owner of WarriorBabe (wome
 
 ## YouTube Content Encoding — Detailed Episode Breakdowns
 
-> Added 2026-04-19 — Phase J external encoding. Works from public positioning, episode titles, and synopsis-level knowledge of the backend economist's signature frames. No live transcript pull; specific numeric claims inside each episode are tagged `[UNVERIFIED]` unless independently corroborated on his public bio or ClickFunnels Radio #777.
+> Added 2026-04-19 — Phase J external encoding. Works from public positioning, episode titles, and synopsis-level knowledge of the backend economist's signature frames. No live transcript pull; specific numeric claims inside each episode are tagged `[UNVERIFIED]` unless independently corroborated on his public bio or a funnel-building platform podcast #777.
 
-### EP83 — "ClickFunnels Asked How We Made $75M w/ One Funnel" — `https://www.youtube.com/@RyanClogg`
+### EP83 — "a funnel-building-platform podcast episode titled "How We Made $75M w/ One Funnel" — `https://www.youtube.com/`
 
 **Runtime:** [UNVERIFIED — estimated 45-70 min long-form interview cut]
-**Core thesis:** WarriorBabe crossed $75M cash through one call funnel; the funnel itself is the compounding asset and everything else is a sub-optimization under it.
+**Core thesis:** a women-40+ fitness coaching business crossed $75M cash through one call funnel; the funnel itself is the compounding asset and everything else is a sub-optimization under it.
 **Signature mechanism:** One-Funnel Compounding Model — pick a single call funnel, hold structure constant, iterate offer / creative family / show-rate / close-rate / backend continuity against it over years.
 
 **Key beats:**
@@ -105,7 +105,7 @@ the backend economist is the YouTube Architect and co-owner of WarriorBabe (wome
 - Pre-$1M/yr operators often do need to run 2-3 funnel tests to find the one worth compounding. "One funnel" is a post-product-market-fit discipline, not a zero-to-one rule.
 - Low-ticket / e-commerce operators have fundamentally different unit economics; RPL-as-primary-metric still applies, but the call-funnel architecture does not.
 
-### E56 — "How I Learn SKILLS Fast ($72M+)" — `https://www.youtube.com/@RyanClogg`
+### E56 — "How I Learn SKILLS Fast ($72M+)" — `https://www.youtube.com/`
 
 **Runtime:** [UNVERIFIED — estimated 15-30 min solo video]
 **Core thesis:** Operator ceiling equals skill-acquisition rate. The bottleneck skill at any revenue tier is knowable; the operator who isolates it and compounds on it beats the operator diversifying attention.
@@ -136,13 +136,13 @@ the backend economist's two signature episodes together form a single thesis: *c
 
 ## Source
 
-- **The YouTube Architect Blueprint** — 8-module system synthesized from Dragonfruit Media's presentations, interviews, and educational content (Notion export, 2a419fad751880e5a669c5ce6e8692ea, ~42,000 words).
-- **@RyanClogg YouTube channel** — EP83 ($75M one-funnel), E56 (skill compounding).
-- **ClickFunnels Radio #777** — "Effective Email Marketing And Driving Revenue."
-- **Public positioning:** LinkedIn /in/ryanclogg, X /RyanClogg, Skool /@ryan-clogg.
-- **WarriorBabe** — co-ownership / backend proof stack.
+- **The YouTube architecture playbook** — 8-module system synthesized from a creator-media shop's presentations, interviews, and educational content (Notion export, ~42,000 words).
+- ** YouTube channel** — EP83 ($75M one-funnel), E56 (skill compounding).
+- **a funnel-building platform podcast #777** — "Effective Email Marketing And Driving Revenue."
+- **Public positioning:** LinkedIn , X handle, Skool .
+- **a women-40+ fitness coaching business** — co-ownership / backend proof stack.
 
-**Encoding status:** PARTIAL — core frameworks extracted from the YouTube Architect Blueprint (synthesized source) + public YouTube/podcast positioning. Specific unit-economics thresholds (CAC, LTV, payback period numbers) live inside his Skool community; the scorecard structure is canonical, the thresholds are [UNVERIFIED] without internal data.
+**Encoding status:** PARTIAL — core frameworks extracted from the YouTube architecture playbook (synthesized source) + public YouTube/podcast positioning. Specific unit-economics thresholds (CAC, LTV, payback period numbers) live inside his Skool community; the scorecard structure is canonical, the thresholds are [UNVERIFIED] without internal data.
 
 ## Growth Operating Agency skill bindings
 

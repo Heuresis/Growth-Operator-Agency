@@ -109,12 +109,12 @@ WINS
 3. Two new case-study wins locked for publication
 
 MISSES
-1. Call → close dipped to 18% — root cause: 2 poor-fit leads made it to call due to qualification form gap — owner: Syed — correction: tighten qualification form fields by Tue
-2. Script iteration #2 slipped 2 days — root cause: founder unavailable for voice review — owner: Alex — correction: block Tue 2pm standing
+1. Call → close dipped to 18% — root cause: 2 poor-fit leads made it to call due to qualification form gap — owner: {OWNER} — correction: tighten qualification form fields by Tue
+2. Script iteration #2 slipped 2 days — root cause: founder unavailable for voice review — owner: {OWNER} — correction: block Tue 2pm standing
 
 DECISIONS
-- Add mandatory mid-funnel qualifier question ("budget confirmed?") — owner: Syed
-- Pause affiliate recruit until internal EPC stable 4 weeks — owner: Alex
+- Add mandatory mid-funnel qualifier question ("budget confirmed?") — owner: {OWNER}
+- Pause affiliate recruit until internal EPC stable 4 weeks — owner: {OWNER}
 
 NEXT WEEK TOP 3
 Syed:
@@ -128,7 +128,7 @@ Alex:
 3. Approve new hire scorecard for sales ops
 
 OPEN ITEMS
-- SMS provider approval pending — open 5 days — next: re-submit with updated use-case doc — owner: Syed
+- SMS provider approval pending — open 5 days — next: re-submit with updated use-case doc — owner: {OWNER}
 ```
 
 ## Anti-patterns (block these)

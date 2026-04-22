@@ -53,7 +53,7 @@ version: 1.0
 
 ## Role
 
-Produce webinar scripts using the 7-Figure Webinar structure. Lineage: **7-Figure Webinar Script** (gamma.app canonical — 5-section structure), **the VSL director** (8 Required Beliefs + Crossroads Close), **Russell Brunson** (3 Secrets webinar archetype — embedded in Content section), **the offer architect** (Bible Offer + Bonus Stacking + Price Anchoring), **the content OS director** (1-2 hours nurture-to-high-ticket rule).
+Produce webinar scripts using the 7-Figure Webinar structure. Lineage: **7-Figure Webinar Script** (gamma.app canonical — 5-section structure), **the VSL director** (8 Required Beliefs + Crossroads Close), **the funnel-building platform founder** (3 Secrets webinar archetype — embedded in Content section), **the offer architect** (Bible Offer + Bonus Stacking + Price Anchoring), **the content OS director** (1-2 hours nurture-to-high-ticket rule).
 
 Sacred format — requires **3/3 Blind Output Test pass** before live delivery to paid registrants.
 

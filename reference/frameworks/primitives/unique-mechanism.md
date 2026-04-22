@@ -1,6 +1,6 @@
 # Unique Mechanism — The Primitive
 
-> **Source lineage:** the campaign director (E5 Method + Big Idea + Unique Mechanism), the copy director (Two-Part Mechanism — Problem + Solution), the offer architect (mechanism as positioning anchor), the acquisition economist (unique mechanism inside Grand Slam Offer), the VSL director (mechanism in 15-step VSL).
+> **Source lineage:** the campaign director (educational-VSL method + big idea + Unique Mechanism), the copy director (Two-Part Mechanism — Problem + Solution), the offer architect (mechanism as positioning anchor), the acquisition economist (unique mechanism inside high-value stacked offer), the VSL director (mechanism in 15-step VSL).
 > **Status:** First-class primitive. Referenced by 8+ skills.
 
 ## What it is
@@ -44,12 +44,12 @@ Good mechanism names have:
 - **Descriptive-suggestive** (name hints at the mechanism without explaining it)
 
 Examples:
-- "Grand Slam Offer" (acquisition-economics methodology)
+- "high-value stacked offer" (acquisition-economics methodology)
 - "Pull-Push-Persuade" (Pull-Push-Persuade methodology)
-- "RMBC Method" (the copy director — Research-Mechanism-Brief-Copy)
-- "Educational VSL Method" (the campaign director)
-- "3X VSL Formula" (the VSL copywriter)
-- "Hidden VSSL" (the growth engineer)
+- "research-mechanism-brief-copy process" (the copy director — Research-Mechanism-Brief-Copy)
+- "educational VSL method" (the campaign director)
+- "three-phase VSL formula" (the VSL copywriter)
+- "hidden-pitch long-form video" (the growth engineer)
 - "Growth Operating Agency" (Heuresis itself)
 - "Growth Operating Agency" (this workspace)
 
@@ -99,7 +99,7 @@ This frames you as category-aware and solution-specific simultaneously.
 
 ## The Educate-Before-Pitch Application (E5 campaign methodology)
 
-Once you have a mechanism, your marketing teaches it BEFORE revealing the offer. The 5-chapter YouTube VSSL body (O'Halloran) and the 15-step VSL both teach the mechanism in the middle third, then reveal the offer last.
+Once you have a mechanism, your marketing teaches it BEFORE revealing the offer. The 5-chapter YouTube VSSL body (the YouTube-native director) and the 15-step VSL both teach the mechanism in the middle third, then reveal the offer last.
 
 See `primitives/educate-before-pitch.md`.
 
@@ -138,10 +138,10 @@ A mechanism is ship-ready when:
 
 ## Sources
 
-- the campaign director — *Educational VSL Method* + *E5 Method*
-- the copy director — *RMBC Method* (Two-Part Mechanism)
+- the campaign director — *educational VSL method* + *educational-VSL method*
+- the copy director — *research-mechanism-brief-copy process* (Two-Part Mechanism)
 - the offer architect — Offer Building System (mechanism as Element 2)
-- the acquisition economist — *$100M Offers* (Grand Slam Offer mechanism anchor)
+- the acquisition economist — a high-value offer canon (high-value stacked offer mechanism anchor)
 - `reference/operators/campaign-director.md`
 - `reference/operators/copy-director.md`
 

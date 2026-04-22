@@ -2,7 +2,7 @@
 
 ## Authorship
 
-Growth Operating Agency is a workspace template authored by **Heuresis**. Syed Hussain is the principal architect.
+Growth Operating Agency is a workspace template authored by **Heuresis**. 
 
 The template encodes a specific thesis: that a go-to-market operation for a high-ticket creator business can be expressed as a runtime-agnostic workspace — files on disk, composed of skills and agents — and that any sufficiently capable LLM can execute that workspace as long as it reads markdown and YAML.
 
@@ -18,7 +18,7 @@ Signal Theory is the quality substrate. Every output produced by this workspace 
 
 ### 2. Encoded Founder methodology
 
-Hussain, Syed. *Encoded Founder* (V4). encodedfounder.com.
+
 
 Encoded Founder is the methodology for translating tacit creator judgment into machine-readable workspace content. The 11-compartment Creator Context Profile (`ENCODING.md`), the three-layer knowledge architecture (Decision Logic / Structured Knowledge / Technology Interface), and the Encoding Flywheel all derive from Encoded Founder. The M-formula (`M = T × S × K × A × E × I × L`) referenced across the workspace is the Encoded Founder measure of fit between an encoded workspace and its creator.
 

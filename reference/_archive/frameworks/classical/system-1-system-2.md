@@ -6,7 +6,7 @@
 
 - cognitive-bias research, *Thinking, Fast and Slow* (2011)
 - cognitive-bias research & Tversky, *Prospect Theory* (1979) — the loss-aversion foundation
-- Field translation to sales by the acquisition economist (*$100M Offers*), Chris Voss (*Never Split the Difference*), the campaign director
+- Field translation to sales by the acquisition economist (a high-value offer canon), a hostage-negotiation-school author (a hostage-negotiation text), the campaign director
 
 ## The Two Systems
 

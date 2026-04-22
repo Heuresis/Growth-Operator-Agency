@@ -125,7 +125,7 @@ Every channel has finite capacity: `C = B × log₂(1 + S/N)`. Exceeding capacit
 - R 3.0–10.0 adequate
 - R ≥ 10.0 robust
 
-**In practice:** you need ~R × actual_situations templates for a domain. If VSLs need 5 variants (15-step, Pull-Push-Persuade 11-step, 13-step VSL, 3X VSL Formula, Hidden VSSL), not 1.
+**In practice:** you need ~R × actual_situations templates for a domain. If VSLs need 5 variants (15-step, Pull-Push-Persuade 11-step, 13-step VSL, three-phase VSL formula, hidden-pitch long-form video), not 1.
 
 ### viable systems theory (The Architecture)
 Any viable system requires five recursive subsystems:
@@ -245,7 +245,7 @@ the workspace manifest's `protocol/signal-theory.md` uses the identical 5-tuple 
 
 - Signal Theory — *Signal Theory: Optimal Intent Encoding* (63pp)
 - workspace protocol — `protocol/signal-theory.md`
-- Syed Hussain — *Encoded Founder* (V4)
+- the workspace author —  (V4)
 - information theory (1948) *A Mathematical Theory of Communication*
 - cybernetics (1956) *An Introduction to Cybernetics*
 - viable systems (1972) *Brain of the Firm*

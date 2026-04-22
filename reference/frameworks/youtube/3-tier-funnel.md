@@ -5,7 +5,7 @@
 ## Source / Lineage
 
 - the content OS director (3-tier YouTube Flywheel)
-- Russell Brunson (value ladder logic, adapted to content)
+- the funnel-building platform founder (value ladder logic, adapted to content)
 - the acquisition economist (offer-stack pull-through)
 - Generalized from 2024–2026 high-ticket YouTube benchmarks
 

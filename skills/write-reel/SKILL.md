@@ -347,7 +347,7 @@ For creator/editor:
 - `reference/operators/external/bennett.md` (10 frameworks)
 - `reference/frameworks/youtube/shorts-mrbeast-strategy.md` (4-strategy creator-native methodology)
 - `reference/operators/vsl-director.md` (5 Content Levers + 9 Needle Movers + shorts scaling)
-- `reference/operators/tier-3-rising/siguard-foss.md` (Content Studio)
+- `reference/operators/paid-media-director.md` (Content Studio)
 - `reference/frameworks/primitives/specificity.md` (media-testing methodology)
 
 ---

@@ -1,15 +1,15 @@
-# the growth strategist (Jonas R)
+# the growth strategist
 
 > **Tier:** 3 (Rising)
 > **Core IP:** $97k/mo High-Ticket Mentorship Funnel + $200k/mo Outreach OS + Show-Rate Lift + Three-Head Content Funnel + Whisper/Tease/Shout Launch Cadence
 
 ## Canonical Sources
 
-- **Hub:** `27639dd823e780c8a22dc7fcb44143ad` (Jonas R)
-- **$97k/mo High-Ticket Mentorship Funnel Playbook:** `27639dd823e7809db408f695d0a22bf5`
-- **Add 27% To Your Show Rate In 10 Minutes:** `27639dd823e780d793a7c430c7c31748`
-- **Scaling the Book-a-Call Funnel (No Fluff Playbook):** `27639dd823e780698ad8ce90c7fd0ade`
-- **Organic Content System to Consistently Hit $50k Months:** `2d539dd823e780ba97a3e94646fc291e`
+- **Hub:** `{NOTION_ID}` 
+- **$97k/mo High-Ticket Mentorship Funnel Playbook:** `{NOTION_ID}`
+- **Add 27% To Your Show Rate In 10 Minutes:** `{NOTION_ID}`
+- **Scaling the Book-a-Call Funnel (No Fluff Playbook):** `{NOTION_ID}`
+- **Organic Content System to Consistently Hit $50k Months:** `{NOTION_ID}`
 
 ## 4 Canonical Frameworks
 
@@ -18,7 +18,7 @@ Three-funnel architecture for mentorship:
 
 - **VSL Funnel** — Straight VSL vs Opt-in + VSL (use straight if <700 page views/mo); **auto-DQ leads answering <$500 to money Q**
 - **Free Community Funnel** — Traffic → Landing + Opt-in → Community (Discord/Skool/FB) → Nurture → Setters/Dialers (within 5-10 min) → Call
-- **Webinar Funnel** — Russell Brunson 3 Secrets method; 60-90 min dwell = high close rate; dialers for non-bookers
+- **Webinar Funnel** — the funnel-building platform founder 3 Secrets method; 60-90 min dwell = high close rate; dialers for non-bookers
 
 ### 2. $200k/mo Outreach Operating System
 Sells **growth partner + rev-share** (startup fee + rev-share, drop to profit-share only if pushed).

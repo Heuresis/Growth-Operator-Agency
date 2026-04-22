@@ -1,6 +1,6 @@
 # Value Equation - the acquisition economist Operator Version
 
-> **Source:** the acquisition economist, *$100M Offers* + *$100M Offers Implementation Guide* (21-day build)
+> **Source:** the acquisition economist, a high-value offer canon + *a high-value offer canon Implementation Guide* (21-day build)
 > **Companion:** `reference/frameworks/primitives/value-equation.md` (operator-agnostic primitive)
 
 This file is the the acquisition economist-specific encoding. The primitive file covers the equation as a general tool; this file covers how the acquisition economist *operates* on each variable, including the Implementation Guide's specific dial-settings.
@@ -74,7 +74,7 @@ Score each variable 1-10. Multiply.
 | 150-500 | Grand Slam threshold. Scale hard. |
 | >500 | Category-defining. Rare. |
 
-The Grand Slam Offer definition requires ≥150. The Implementation Guide Step 12 pricing rule aligns: "Price should be 10-20% of total value stack."
+The high-value stacked offer definition requires ≥150. The Implementation Guide Step 12 pricing rule aligns: "Price should be 10-20% of total value stack."
 
 ## the acquisition economist-Specific Repositioning Protocol
 
@@ -115,8 +115,8 @@ This is the inverse of how most operators intuitively work. The Implementation G
 
 ## Source
 
-- the acquisition economist, *$100M Offers Implementation Guide* - Phase 2 Steps 3-5 (Dream Outcome, Problems List, Solutions), Phase 4 Steps 8-11 (Guarantee, Scarcity, Bonuses, Naming), Phase 5 Step 12 (Pricing).
-- the acquisition economist, *$100M Offers* (book, 2021).
+- the acquisition economist, *a high-value offer canon Implementation Guide* - Phase 2 Steps 3-5 (Dream Outcome, Problems List, Solutions), Phase 4 Steps 8-11 (Guarantee, Scarcity, Bonuses, Naming), Phase 5 Step 12 (Pricing).
+- the acquisition economist, a high-value offer canon (book, 2021).
 - `reference/frameworks/primitives/value-equation.md` - generic primitive.
 - `reference/frameworks/offer-architecture/hormozi-grand-slam-offer.md` - how the equation assembles into a full offer.
 

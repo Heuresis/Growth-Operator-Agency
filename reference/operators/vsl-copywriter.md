@@ -1,12 +1,12 @@
 # the VSL copywriter — Canonical Operator Playbook
 
-**URL:** https://jonbenson.com/ · podcast interview: *I Love Marketing* Ep. 122 · course doc circulated as *"The 3X VSL Close Formula"* (PDF).
-**Business:** Copywriter / AI copywriting software pioneer. Credited as the **inventor of the Video Sales Letter (VSL)**. Claims **$1 Billion in customer sales** generated with his VSL techniques.
-**Core IP:** The **3X VSL Formula** — the canonical structure for long-form video sales letters that sell high-consideration info products, supplements, and coaching offers.
+**URL:** https:/// · podcast interview: *a classic marketing podcast* Ep. 122 · course doc circulated as *"The three-phase VSL close formula"* (PDF).
+**Business:** Copywriter / AI copywriting software pioneer. Credited as the **inventor of the Video Sales Letter (VSL)**. Claims **$1B+ attributed customer sales** generated with his VSL techniques.
+**Core IP:** The **three-phase VSL formula** — the canonical structure for long-form video sales letters that sell high-consideration info products, supplements, and coaching offers.
 
-## Canonical framework — 3X VSL Formula
+## Canonical framework — three-phase VSL formula
 
-Structural building blocks (from *The 3X VSL Close Formula* document + I Love Marketing Ep. 122):
+Structural building blocks (from *The three-phase VSL close formula* document + an early marketing-podcast interview):
 
 ### The 1-2-3 Formula (body spine)
 1. **Nightmare Story** — dramatize the prospect's current state; evoke the cost of inaction.
@@ -37,9 +37,9 @@ Jon's own framing: "My 5-Step VSL Process is found within the world's most profi
 
 ## Signature framing
 > "The Exact Formula I Used To Close 6-Figure Hangouts, Webinars, And Product Launch Funnels."
-> — *The 3X VSL Close Formula*
+> — *The three-phase VSL close formula*
 >
-> "$1 Billion In Customer Sales" — the VSL copywriter self-positioning across jonbenson.com and course materials.
+> "$1B+ attributed customer sales" — the VSL copywriter self-positioning across  and course materials.
 
 ## Growth Operating Agency skill bindings
 - `/3x-vsl-formula` → Nightmare → Dream → 3 Tips → 4 Comparisons (VSL copywriting)
@@ -47,4 +47,4 @@ Jon's own framing: "My 5-Step VSL Process is found within the world's most profi
 - `/5-step-vsl-process` → Underlying VSL operating system (Copy architecture)
 - `/dramatic-visual-story` → Story engine (Copywriting craft)
 
-**Encoding status:** COMPLETE for the structural surface of the 3X VSL Formula. The document (*3X VSL Close Formula* PDF) and I Love Marketing Ep. 122 are the public canonical. the VSL copywriter's AI copywriting software (jonbenson.com) is the current commercial wrapper.
+**Encoding status:** COMPLETE for the structural surface of the three-phase VSL formula. The document (*three-phase VSL close formula* PDF) and an early marketing-podcast interview are the public canonical. the VSL copywriter's AI copywriting software () is the current commercial wrapper.

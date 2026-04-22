@@ -506,7 +506,7 @@ Reallocation recommendation: [specific]
 ### If backend LTV < 2x first-purchase
 - Build or fix continuity layer
 - Build ascension offer
-- Email sequence audit (backend compounding layer per CFR #777)
+- Email sequence audit (backend compounding layer per a funnel-building platform podcast #777)
 
 ## 10. Hiring-Threshold Check (the operations director Rule 1)
 | Role | Trigger | Current | Distance | Status |
@@ -589,7 +589,7 @@ After `/revenue-report` delivers the report:
 ## References
 
 - `reference/frameworks/backend-economics/unit-economics-benchmarks.md` (the 4-metric scorecard — RPL, cohort LTV, LTV:CAC by source, contribution margin per call)
-- `reference/operators/backend-economist.md` (unit-economics discipline, backend-pays-the-company thesis, EP83 + CFR #777 lineage)
+- `reference/operators/backend-economist.md` (unit-economics discipline, backend-pays-the-company thesis, EP83 + a funnel-building platform podcast #777 lineage)
 - `reference/frameworks/economics-engine.md` (LTV/CAC mechanics, upsell architecture, continuity-model economics)
 - `reference/frameworks/growth-operating-process/60-30-10-revenue-mix.md` (the operations director mix discipline, drift diagnosis, reallocation decision tree)
 - `reference/frameworks/growth-operating-process/3-operational-rules.md` (the operations director Rule 1 hiring-threshold, Rule 2 single-source-of-truth, Rule 3 weekly operating rhythm)

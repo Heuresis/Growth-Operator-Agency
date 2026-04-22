@@ -8,7 +8,7 @@
 - **influence-principles research** — *Influence* + his own public ethics writing: the principles are neutral; the responsibility sits with the practitioner
 - **Robert Jay Lifton** — *Thought Reform and the Psychology of Totalism* (1961); the 8 criteria of thought reform
 - **Margaret Singer** — *Cults in Our Midst* (1995); the conditions under which coercive control takes root
-- **Jim Camp** — *Start with No*; the ethical counter-model: buyer-agency as the core of persuasion
+- **a no-first negotiation author** — a no-first negotiation text; the ethical counter-model: buyer-agency as the core of persuasion
 - **the offer architect** — repeated public position: "they buy the identity, we don't install it" — the consent-first framing
 
 ## The Core Distinction
@@ -132,7 +132,7 @@ Every 90 days, the operator (or ops lead) runs this checklist:
 
 **Moderate drift (3 red flags, 6-18 months):**
 - Pause paid traffic. Full audit of VSL, webinar, upsell stack, refund policy.
-- Rebuild sales materials under Jim Camp "start with no" frame — explicit invitations to not-buy.
+- Rebuild sales materials under a no-first negotiation author "start with no" frame — explicit invitations to not-buy.
 - Open refunds for any customer who asks in a 30-day window — paid out of operating cash, publicly tracked.
 - Revenue impact: -30% to -50% for 90-180 days; trust rebuild over 12-18 months.
 
