@@ -49,7 +49,7 @@ If `$ARGUMENTS` is provided, focus the ICP on that specific offer. Otherwise tar
 ## Quality gates
 
 Before writing the artifact to `output/`:
-- Run `reference/_archive/spec/QUALITY.md` triple-layer verification (formal 40% + semantic 35% + information-theoretic 25%)
+- Run `reference/canonical/spec/QUALITY.md` triple-layer verification (formal 40% + semantic 35% + information-theoretic 25%)
 - Check `spec/BANNED-VOCABULARY.md` — reject if any banned phrases
 - Confirm every `evidence_gate` condition is satisfied
 - Completeness Score >= 80

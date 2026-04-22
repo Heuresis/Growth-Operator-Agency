@@ -1,6 +1,6 @@
 # Blind Output Test — /referral-program
 
-> Per `reference/_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Referral Program Specification**. Classification: **external** (published and read by real customers) — requires **2/3 evaluator pass**.
+> Per `reference/canonical/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Referral Program Specification**. Classification: **external** (published and read by real customers) — requires **2/3 evaluator pass**.
 
 ## Test Date(s)
 

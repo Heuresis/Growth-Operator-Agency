@@ -46,7 +46,7 @@ If `$ARGUMENTS` includes `--role=<role>`, select that specific role. Otherwise, 
 ## Quality gates
 
 Before writing the brief to `output/`:
-- Run `reference/_archive/spec/QUALITY.md` triple-layer verification (formal 40% + semantic 35% + information-theoretic 25%)
+- Run `reference/canonical/spec/QUALITY.md` triple-layer verification (formal 40% + semantic 35% + information-theoretic 25%)
 - Check `spec/BANNED-VOCABULARY.md` — reject if any banned phrases
 - Confirm every evidence_gate condition (role_selected, scorecard_5_plus_competencies, ideal_profile_specific, outreach_script_provided, interview_questions_5_plus_rounds, 30_60_90_plan_present, revenue_threshold_aligned)
 - Signal Score ≥ 0.8

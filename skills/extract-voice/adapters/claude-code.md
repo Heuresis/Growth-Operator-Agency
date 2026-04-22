@@ -50,7 +50,7 @@ If `$ARGUMENTS` is provided, prioritize that channel's samples (e.g., "podcast" 
 ## Quality gates
 
 Before writing the artifact to `output/`:
-- Run `reference/_archive/spec/QUALITY.md` triple-layer verification
+- Run `reference/canonical/spec/QUALITY.md` triple-layer verification
 - Check `spec/BANNED-VOCABULARY.md` — reject if any banned phrases leak through
 - Confirm every `evidence_gate` condition: all 10 sections, phrases_to_use ≥ 15 verbatim, phrases_to_avoid ≥ 10, language_patterns ≥ 5, voice_samples_annotated ≥ 5
 - Signal Score ≥ 0.8

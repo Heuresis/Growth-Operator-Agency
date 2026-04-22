@@ -48,7 +48,7 @@ If `$ARGUMENTS` contains `--role=R1|R2|R3`, force that role archetype. Otherwise
 ## Quality gates
 
 Before writing the artifact to `output/`:
-- Run `reference/_archive/spec/QUALITY.md` triple-layer verification
+- Run `reference/canonical/spec/QUALITY.md` triple-layer verification
 - Check `spec/BANNED-VOCABULARY.md` — full regex sweep (INV-7)
 - Truth Gate on every claim (INV-5) — 30-second screenshot test per cited result / testimonial / guarantee term / price
 - No Fabrication (INV-6) — case studies real, numbers real, guarantee language real

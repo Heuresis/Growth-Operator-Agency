@@ -49,7 +49,7 @@ If `$ARGUMENTS` is provided, use it as the target month or day count. Otherwise 
 ## Quality gates
 
 Before writing the artifact to `output/`:
-- Run `reference/_archive/spec/QUALITY.md` triple-layer verification
+- Run `reference/canonical/spec/QUALITY.md` triple-layer verification
 - Check `spec/BANNED-VOCABULARY.md` — sweep all brief language
 - Confirm every `evidence_gate` condition: 30-day calendar complete, 40/30/20/10 pillar ratio enforced weekly + monthly, content-to-conversion bridge 50/35/15 distributed, Core Four channel mix applied, per-post brief for every slot, platform-specific cadence respected (the VSL director Shorts Rule, LinkedIn 3-4/week NOT daily)
 - Big Enemy appears at least weekly

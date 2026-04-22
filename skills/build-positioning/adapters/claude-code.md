@@ -49,7 +49,7 @@ If `$ARGUMENTS` is provided, focus positioning on that offer. Otherwise target t
 ## Quality gates
 
 Before writing the artifact to `output/`:
-- Run `reference/_archive/spec/QUALITY.md` triple-layer verification
+- Run `reference/canonical/spec/QUALITY.md` triple-layer verification
 - Check `spec/BANNED-VOCABULARY.md` — reject if any banned phrases
 - Confirm every `evidence_gate` condition: all 7 sections, mechanism named + differentiated, Core Belief passes 3am Test, narrative passes Isomorphic check, market sophistication matched
 - Signal Score ≥ 0.8

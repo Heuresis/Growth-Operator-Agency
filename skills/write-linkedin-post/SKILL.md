@@ -424,8 +424,8 @@ Select primary + 2 alts for A/B.
 - `reference/frameworks/primitives/specificity.md`
 - `reference/operators/growth-engineer.md` (hidden-pitch long-form video applied to LinkedIn)
 - `reference/operators/external/outreach-director.md` (Hook-Loop-CTA + $100K blueprint)
-- `reference/_archive/frameworks/cult-methodology/README.md` (Big Enemy positioning)
-- `reference/_archive/spec/INTEGRATIONS.md` (LinkedIn API + OAuth scopes)
+- `reference/canonical/frameworks/cult-methodology/README.md` (Big Enemy positioning)
+- `reference/canonical/spec/INTEGRATIONS.md` (LinkedIn API + OAuth scopes)
 - **NOT referenced here** (INV-8 scope guard): full LinkedIn Operator Academy curriculum, 50-template hook library, DM outreach playbooks — those live in the LinkedIn Agency workspace template
 
 ---

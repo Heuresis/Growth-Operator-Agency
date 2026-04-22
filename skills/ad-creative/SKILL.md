@@ -389,8 +389,8 @@ Final deliverable:
 - `reference/operators/growth-engineer.md` (Pixel Conditioning + Creative Family Micro Tests)
 - `reference/operators/operations-director.md` (Post-Andromeda scaling)
 - `reference/operators/paid-media-director.md` (IG ad stack)
-- `reference/_archive/frameworks/cult-methodology/README.md` (authority positioning in ad hooks)
-- `reference/_archive/spec/INTEGRATIONS.md` (Meta Ads API + CAPI + Figma + Drive)
+- `reference/canonical/frameworks/cult-methodology/README.md` (authority positioning in ad hooks)
+- `reference/canonical/spec/INTEGRATIONS.md` (Meta Ads API + CAPI + Figma + Drive)
 
 ---
 

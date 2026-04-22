@@ -1,6 +1,6 @@
 # Blind Output Test — /content-calendar
 
-> Per `reference/_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **30-Day Content Calendar**. Classification: **external** — requires **2/3 evaluator pass**. The calendar briefs every downstream writing skill — if the pillar allocation or conversion bridge is wrong, 30 days of downstream content inherits the failure.
+> Per `reference/canonical/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **30-Day Content Calendar**. Classification: **external** — requires **2/3 evaluator pass**. The calendar briefs every downstream writing skill — if the pillar allocation or conversion bridge is wrong, 30 days of downstream content inherits the failure.
 
 ## Test Date(s)
 

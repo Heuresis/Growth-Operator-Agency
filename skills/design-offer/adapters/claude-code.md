@@ -49,7 +49,7 @@ If `$ARGUMENTS` is provided, use it as the working offer name or price anchor. O
 ## Quality gates
 
 Before writing the artifact to `output/`:
-- Run `reference/_archive/spec/QUALITY.md` triple-layer verification
+- Run `reference/canonical/spec/QUALITY.md` triple-layer verification
 - Check `spec/BANNED-VOCABULARY.md` — reject "unlock," "supercharge," "transform" as verb, "revolutionary" et al
 - Confirm every `evidence_gate` condition: all 12 sections, Value Equation ≥ 150, LTV:CAC ≥ 3, limiting belief aligned to transformation type, 5+ bonuses objection-mapped, ROI-positive guarantee
 - Signal Score ≥ 0.8

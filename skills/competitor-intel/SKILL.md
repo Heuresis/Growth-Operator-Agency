@@ -239,9 +239,9 @@ Before starting, read:
 - `output/research/` — latest Market Research Brief (Section 8 seeds the competitor list)
 - `output/icp/` — latest ICP Doc (ICP-named "considered alternatives" if captured)
 - `output/positioning/` — existing Positioning Doc, if any (existing mechanism claim)
-- `reference/_archive/frameworks/classical/market-hierarchy.md` — awareness-spectrum research × the VSL director 25-cell matrix
+- `reference/canonical/frameworks/classical/market-hierarchy.md` — awareness-spectrum research × the VSL director 25-cell matrix
 - `reference/frameworks/market-sophistication-overview.md` — the VSL director 4-stage application
-- `reference/_archive/frameworks/classical/schwartz-awareness-spectrum.md` — 5 awareness levels
+- `reference/canonical/frameworks/classical/schwartz-awareness-spectrum.md` — 5 awareness levels
 - `reference/frameworks/primitives/unique-mechanism.md` — two-part mechanism primitive
 - `company.yaml` — Compartments 2 (Audience) + 3 (Offer)
 
@@ -467,16 +467,16 @@ After `/competitor-intel` delivers the Whitespace Map:
 
 ## References
 
-- `reference/_archive/frameworks/classical/market-hierarchy.md` (awareness-spectrum research × the VSL director 25-cell matrix)
+- `reference/canonical/frameworks/classical/market-hierarchy.md` (awareness-spectrum research × the VSL director 25-cell matrix)
 - `reference/frameworks/market-sophistication-overview.md` (the VSL director 4-stage)
-- `reference/_archive/frameworks/classical/schwartz-awareness-spectrum.md` (5 awareness levels)
+- `reference/canonical/frameworks/classical/schwartz-awareness-spectrum.md` (5 awareness levels)
 - `reference/frameworks/primitives/unique-mechanism.md` (two-part mechanism — Part 1 + Part 2)
-- `reference/_archive/frameworks/classical/pampa-market-sophistication.md`
+- `reference/canonical/frameworks/classical/pampa-market-sophistication.md`
 - `reference/operators/campaign-director.md` (category-failure framing, educational-VSL method, big idea)
 - `reference/operators/copy-director.md` (research-mechanism-brief-copy method, two-part mechanism, competitor-copy teardown discipline)
 - `reference/operators/offer-architect.md` (positioning-as-mechanism lineage)
 - `spec/BANNED-VOCABULARY.md` (anti-slop filter)
-- `reference/_archive/spec/QUALITY.md` (triple-layer verification requirements)
+- `reference/canonical/spec/QUALITY.md` (triple-layer verification requirements)
 
 ---
 

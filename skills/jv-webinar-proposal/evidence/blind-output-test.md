@@ -1,6 +1,6 @@
 # Blind Output Test — /jv-webinar-proposal
 
-> Per `reference/_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **JV Webinar Proposal** (direct outreach to a potential partner). Classification: **external** — requires **2/3 evaluator pass** before sending to any real JV prospect. Unique to this skill: **evaluators must include real JV partners the creator has worked with** — no peer substitute will catch the nuance of "would I actually respond to this from a stranger."
+> Per `reference/canonical/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **JV Webinar Proposal** (direct outreach to a potential partner). Classification: **external** — requires **2/3 evaluator pass** before sending to any real JV prospect. Unique to this skill: **evaluators must include real JV partners the creator has worked with** — no peer substitute will catch the nuance of "would I actually respond to this from a stranger."
 
 ## Test Date(s)
 

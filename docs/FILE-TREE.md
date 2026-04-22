@@ -85,7 +85,7 @@ growth-operating/
 │   ├── playbooks/           → worked case-studies at scale
 │   ├── examples/            → golden outputs (calibration targets for quality)
 │   ├── knowledge/           → department-level shared knowledge
-│   └── _archive/            → deeper specs (signal theory, agent architecture, blind-output test)
+│   └── canonical/           → canonical specs + theory (signal, quality, blind-output-test, agent bible)
 │
 ├── workflows/           ── how work moves across the org
 │   ├── divisions/           → 7 pipeline FSMs (foundations → marketing → … → partnerships)

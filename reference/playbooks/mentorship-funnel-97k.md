@@ -212,7 +212,7 @@ Every call will hit at least one. Memorize responses.
 - `reference/operators/external/outreach-director.md` — outbound-first operator profile (contrarian take)
 - `reference/frameworks/offer-system.md` — offer-construction methodology
 - `reference/frameworks/foundations-methodology.md` — ICP + positioning foundation (pre-requisite)
-- `reference/_archive/frameworks/signal-theory/` — post-generation + content-pillar theory
+- `reference/canonical/frameworks/signal-theory/` — post-generation + content-pillar theory
 - `reference/frameworks/sales/` — call frameworks and objection library
 
 ---

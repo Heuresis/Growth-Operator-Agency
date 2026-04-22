@@ -1,6 +1,6 @@
 # Blind Output Test — /write-linkedin-post
 
-> Per `reference/_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **LinkedIn Post (operator-own-offer scope, INV-8)**. Classification: **external** — requires **2/3 evaluator pass** before posting to creator's production feed.
+> Per `reference/canonical/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **LinkedIn Post (operator-own-offer scope, INV-8)**. Classification: **external** — requires **2/3 evaluator pass** before posting to creator's production feed.
 
 ## Test Date(s)
 
