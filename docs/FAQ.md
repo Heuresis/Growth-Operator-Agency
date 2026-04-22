@@ -29,7 +29,7 @@ You can. But chat without an encoded workspace is stateless and un-calibrated. E
 - **slash-command runtime** — primary v1 target. Full slash command bindings at `.claude/commands/`.
 - **workspace manifests** — primary v1 target. Adapter per skill at `skills/{slug}/adapters/manifest.yaml`.
 - **Codex, Cursor, OpenClaw** — v2 targets, adapter scaffolding.
-- **HTTP / OpenAPI** — v1.1 target, contract at `reference/_archive/spec/HTTP-OPENAPI-ADAPTER.md`.
+- **HTTP / OpenAPI** — v1.1 target, contract at `reference/canonical/spec/HTTP-OPENAPI-ADAPTER.md`.
 - **Any generic LLM** — always available. Paste `SYSTEM.md` as system prompt, paste relevant `company.yaml` compartments as context, invoke a skill by pasting its `SKILL.md`.
 
 ### What if a runtime I use is not supported?
@@ -97,8 +97,8 @@ Yes. Several do — `email-copywriter` owns `email-sequence` and `post-booking-n
 Three gates:
 
 1. Banned vocabulary list at [`spec/BANNED-VOCABULARY.md`](../spec/BANNED-VOCABULARY.md). Hard reject.
-2. Triple-layer verification (formal 40% + semantic 35% + info-theoretic 25%) per [`reference/_archive/spec/QUALITY.md`](../reference/_archive/spec/QUALITY.md).
-3. Blind Output Test for ship-worthy outputs per [`reference/_archive/spec/BLIND-OUTPUT-TEST.md`](../reference/_archive/spec/BLIND-OUTPUT-TEST.md).
+2. Triple-layer verification (formal 40% + semantic 35% + info-theoretic 25%) per [`reference/canonical/spec/QUALITY.md`](../reference/canonical/spec/QUALITY.md).
+3. Blind Output Test for ship-worthy outputs per [`reference/canonical/spec/BLIND-OUTPUT-TEST.md`](../reference/canonical/spec/BLIND-OUTPUT-TEST.md).
 
 ### What is the Blind Output Test?
 

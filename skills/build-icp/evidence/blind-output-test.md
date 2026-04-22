@@ -1,6 +1,6 @@
 # Blind Output Test — /build-icp
 
-> Per `reference/_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces an **ICP Document**. Classification: **internal** — requires **1/3 evaluator pass** before the artifact is used as audience ground truth for downstream external-facing skills.
+> Per `reference/canonical/spec/BLIND-OUTPUT-TEST.md`. This skill produces an **ICP Document**. Classification: **internal** — requires **1/3 evaluator pass** before the artifact is used as audience ground truth for downstream external-facing skills.
 
 ## Test Date(s)
 

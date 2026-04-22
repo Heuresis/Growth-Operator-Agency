@@ -14,7 +14,7 @@ Growth Operating Agency rests on three load-bearing sources, each with its own a
 
 Signal Theory, Roberto. *Signal Theory: Optimal Intent Encoding.* 63pp.
 
-Signal Theory is the quality substrate. Every output produced by this workspace is a Signal encoded as a 5-tuple `(Mode, Genre, Type, Format, Structure)`. The S/N quality gate, the Blind Output Test, and the triple-layer verification protocol all derive from Signal Theory. See `reference/_archive/spec/SIGNAL.md`.
+Signal Theory is the quality substrate. Every output produced by this workspace is a Signal encoded as a 5-tuple `(Mode, Genre, Type, Format, Structure)`. The S/N quality gate, the Blind Output Test, and the triple-layer verification protocol all derive from Signal Theory. See `reference/canonical/spec/SIGNAL.md`.
 
 ### 2. Encoded Founder methodology
 
@@ -41,7 +41,7 @@ No operator in the activation list is a partner, endorser, or collaborator of He
 - The 29 SKILL.md bodies with their Decision Logic, Tacit Principles, Process, and Output Format sections.
 - The 41-agent roster structure and reporting chain.
 - The cross-referenced reference library design.
-- The agent architecture (the 82KB bible at `reference/_archive/AGENT-ARCHITECTURE.md`).
+- The agent architecture (the 82KB bible at `reference/canonical/AGENT-ARCHITECTURE.md`).
 
 ## What Heuresis does not own
 

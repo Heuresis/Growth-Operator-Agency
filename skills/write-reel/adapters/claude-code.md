@@ -46,7 +46,7 @@ If `$ARGUMENTS` contains `--framework=N`, force that the short-form-frameworks a
 ## Quality gates
 
 Before writing the artifact to `output/`:
-- Run `reference/_archive/spec/QUALITY.md` triple-layer verification
+- Run `reference/canonical/spec/QUALITY.md` triple-layer verification
 - Check `spec/BANNED-VOCABULARY.md` — reject if any banned phrases
 - No income guarantees, no health claims without backing
 - Confirm every `evidence_gate` condition: framework variant selected, 60s timing grid complete (hard cap — never exceed), Hook Specificity ≥ 8, Loop OR CTA present (not both), voice-matched (3+ phrases_to_use), platform adaptations for all target platforms

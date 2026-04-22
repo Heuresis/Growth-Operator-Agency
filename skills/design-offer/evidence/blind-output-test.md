@@ -1,6 +1,6 @@
 # Blind Output Test — /design-offer
 
-> Per `reference/_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces an **Offer Document**. Classification: **sacred-format** — requires **3/3 evaluator pass** before paid traffic or launch. The $10K Cycle 1 hero deliverable — if this fails blind test, every downstream sales asset inherits the failure.
+> Per `reference/canonical/spec/BLIND-OUTPUT-TEST.md`. This skill produces an **Offer Document**. Classification: **sacred-format** — requires **3/3 evaluator pass** before paid traffic or launch. The $10K Cycle 1 hero deliverable — if this fails blind test, every downstream sales asset inherits the failure.
 
 ## Test Date(s)
 

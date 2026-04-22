@@ -1,6 +1,6 @@
 # Blind Output Test — /research
 
-> Per `reference/_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Market Research Brief**. The brief is a "sacred format" because every downstream asset inherits from it — requires **3/3 evaluator pass** before skill is considered blind-test-validated.
+> Per `reference/canonical/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Market Research Brief**. The brief is a "sacred format" because every downstream asset inherits from it — requires **3/3 evaluator pass** before skill is considered blind-test-validated.
 
 ## Test Date(s)
 

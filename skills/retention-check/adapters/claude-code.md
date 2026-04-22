@@ -46,7 +46,7 @@ If `$ARGUMENTS` includes `--period=<range>`, score over that period. Otherwise d
 ## Quality gates
 
 Before writing the report to `output/`:
-- Run `reference/_archive/spec/QUALITY.md` triple-layer verification (formal 40% + semantic 35% + information-theoretic 25%)
+- Run `reference/canonical/spec/QUALITY.md` triple-layer verification (formal 40% + semantic 35% + information-theoretic 25%)
 - Check `spec/BANNED-VOCABULARY.md` — reject if any banned phrases
 - Confirm every evidence_gate condition (health_score_rubric_defined, per_client_scored, churn_risk_classified, intervention_playbook_present)
 - Signal Score ≥ 0.8

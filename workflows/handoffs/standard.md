@@ -29,7 +29,7 @@ File paths + completeness scores. Format:
 - `reference/icp.md` — completeness 90/100
 
 ### 4. Quality score (Signal Theory 5-tuple)
-S = (M, G, T, F, W). Each dimension scored 0.0-1.0. Composite S/N must exceed threshold per `reference/_archive/spec/QUALITY.md`.
+S = (M, G, T, F, W). Each dimension scored 0.0-1.0. Composite S/N must exceed threshold per `reference/canonical/spec/QUALITY.md`.
 
 ### 5. Context for next agent
 Key findings, VOC phrases, framework outputs the downstream skill needs. Lift specific sentences verbatim if downstream will re-use.
@@ -84,8 +84,8 @@ Carry forward:
 
 - `quality-revision.md` — use when the handoff fails a quality gate and revision is required
 - `skill-to-skill.md` — use when one skill programmatically invokes another (no human in the loop)
-- `../reference/_archive/spec/QUALITY.md` — triple-layer verification spec
-- `../reference/_archive/spec/SIGNAL.md` — Signal Theory 5-tuple encoding
+- `../reference/canonical/spec/QUALITY.md` — triple-layer verification spec
+- `../reference/canonical/spec/SIGNAL.md` — Signal Theory 5-tuple encoding
 
 ---
 *Workspace: Growth Operating Agency v1.0 — handoff contract per `protocol/skill-and-agent-system.md`*

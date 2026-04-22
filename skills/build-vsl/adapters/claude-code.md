@@ -49,7 +49,7 @@ If `$ARGUMENTS` contains `--variant=A|B|C|D|E`, force that variant. Otherwise ap
 ## Quality gates
 
 Before writing the artifact to `output/`:
-- Run `reference/_archive/spec/QUALITY.md` triple-layer verification
+- Run `reference/canonical/spec/QUALITY.md` triple-layer verification
 - Check `spec/BANNED-VOCABULARY.md` — full regex sweep (INV-7)
 - Truth Gate on every claim (INV-5) — 30-second screenshot test
 - No Fabrication (INV-6) — no invented case studies, numbers, or testimonials

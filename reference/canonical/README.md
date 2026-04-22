@@ -1,6 +1,6 @@
-# reference/_archive/
+# reference/canonical/
 
-Dense / academic / future reference content, moved out of the main workspace to keep Growth Operating Agency focused on day-to-day use.
+Canonical specs + foundational theory. Referenced directly by SYSTEM.md boot sequence + INVARIANTS. to keep Growth Operating Agency focused on day-to-day use.
 
 ## What's here
 
@@ -14,7 +14,7 @@ Dense / academic / future reference content, moved out of the main workspace to 
 - `spec/INTEGRATIONS.md` — MCPs + API contracts (advanced integrations)
 - `spec/HTTP-OPENAPI-ADAPTER.md` — REST adapter contract (future v1.1 target)
 
-## Why it's archived
+## Why it is separated
 
 These files are:
 1. **Academic** — foundational theory that the workspace rests on, but not needed for any creator who just wants to ship a VSL or design an offer.

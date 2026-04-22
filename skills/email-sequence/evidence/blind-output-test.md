@@ -1,6 +1,6 @@
 # Blind Output Test — /email-sequence
 
-> Per `reference/_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces an **Email Sequence** (one of 8 types). Classification: **external** — requires **2/3 evaluator pass** before sending to creator's production list.
+> Per `reference/canonical/spec/BLIND-OUTPUT-TEST.md`. This skill produces an **Email Sequence** (one of 8 types). Classification: **external** — requires **2/3 evaluator pass** before sending to creator's production list.
 
 ## Test Date(s)
 

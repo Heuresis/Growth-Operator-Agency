@@ -46,7 +46,7 @@ If `$ARGUMENTS` contains `--type=N|VSSL`, force that video type. Otherwise selec
 ## Quality gates
 
 Before writing the artifact to `output/`:
-- Run `reference/_archive/spec/QUALITY.md` triple-layer verification
+- Run `reference/canonical/spec/QUALITY.md` triple-layer verification
 - Check `spec/BANNED-VOCABULARY.md` — full sweep
 - Truth Gate (30-second screenshot test per claim)
 - No income guarantees, no health claims without backing, FTC disclosure if testimonials referenced

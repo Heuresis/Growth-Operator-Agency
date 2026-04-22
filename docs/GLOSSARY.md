@@ -10,7 +10,7 @@ A thin binding file inside `skills/{slug}/adapters/` that translates a runtime-a
 
 ## Blind Output Test
 
-The encoding-completeness protocol. Three evaluators who know the creator's work see the output and answer: *did the creator produce this, or the system?* If at least one says "creator" or "can't tell," encoding passed. If zero do, the encoding is wrong — revise. Spec at [`reference/_archive/spec/BLIND-OUTPUT-TEST.md`](../reference/_archive/spec/BLIND-OUTPUT-TEST.md).
+The encoding-completeness protocol. Three evaluators who know the creator's work see the output and answer: *did the creator produce this, or the system?* If at least one says "creator" or "can't tell," encoding passed. If zero do, the encoding is wrong — revise. Spec at [`reference/canonical/spec/BLIND-OUTPUT-TEST.md`](../reference/canonical/spec/BLIND-OUTPUT-TEST.md).
 
 ## workspace protocol
 
@@ -42,7 +42,7 @@ The methodology for translating tacit creator judgment into machine-readable wor
 
 ## Growth Operating Agency
 
-The predecessor / research workspace that Growth Operating Agency is extracted from. The 82KB agent architecture bible lives at [`reference/_archive/AGENT-ARCHITECTURE.md`](../reference/_archive/AGENT-ARCHITECTURE.md). Growth Operating Agency is Growth Operating Agency generalized and productized as a template.
+The predecessor / research workspace that Growth Operating Agency is extracted from. The 82KB agent architecture bible lives at [`reference/canonical/AGENT-ARCHITECTURE.md`](../reference/canonical/AGENT-ARCHITECTURE.md). Growth Operating Agency is Growth Operating Agency generalized and productized as a template.
 
 ## Impact Distribution Principle
 
@@ -74,11 +74,11 @@ The strictest skill tier — 3/3 Blind Output Test pass required. Applies to the
 
 ## Signal
 
-An output of a skill, encoded as a 5-tuple `(Mode, Genre, Type, Format, Structure)`. Unresolved dimensions equal noise. Per the Signal Theory author's Signal Theory. See [`reference/_archive/spec/SIGNAL.md`](../reference/_archive/spec/SIGNAL.md).
+An output of a skill, encoded as a 5-tuple `(Mode, Genre, Type, Format, Structure)`. Unresolved dimensions equal noise. Per the Signal Theory author's Signal Theory. See [`reference/canonical/spec/SIGNAL.md`](../reference/canonical/spec/SIGNAL.md).
 
 ## Signal Theory
 
-Signal Theory's methodology for intent encoding. The quality substrate Growth Operating Agency rests on. Spec at [`reference/_archive/spec/SIGNAL.md`](../reference/_archive/spec/SIGNAL.md).
+Signal Theory's methodology for intent encoding. The quality substrate Growth Operating Agency rests on. Spec at [`reference/canonical/spec/SIGNAL.md`](../reference/canonical/spec/SIGNAL.md).
 
 ## S/N
 
@@ -90,7 +90,7 @@ A deterministic procedure that produces a specific asset. Lives as a folder `ski
 
 ## Triple-Layer Verification
 
-The output gate: 40% formal + 35% semantic + 25% information-theoretic. All three layers must pass before ship. Spec at [`reference/_archive/spec/QUALITY.md`](../reference/_archive/spec/QUALITY.md).
+The output gate: 40% formal + 35% semantic + 25% information-theoretic. All three layers must pass before ship. Spec at [`reference/canonical/spec/QUALITY.md`](../reference/canonical/spec/QUALITY.md).
 
 ## Voice of Customer (VOC)
 

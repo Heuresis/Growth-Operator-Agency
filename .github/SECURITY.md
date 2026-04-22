@@ -41,7 +41,7 @@ Do not open a public issue for security reports. Internal triage happens first.
 
 - This template has no runtime dependencies. It is markdown and YAML.
 - When a runtime (slash-command runtime, the workspace manifest, Codex, Cursor, OpenClaw, custom HTTP adapter) loads the workspace, the runtime's own security posture applies on top.
-- MCP servers referenced in `reference/_archive/spec/INTEGRATIONS.md` should be audited before production use. Heuresis does not own or guarantee third-party MCPs.
+- MCP servers referenced in `reference/canonical/spec/INTEGRATIONS.md` should be audited before production use. Heuresis does not own or guarantee third-party MCPs.
 
 ---
 

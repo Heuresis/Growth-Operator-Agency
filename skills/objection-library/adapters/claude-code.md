@@ -49,7 +49,7 @@ If `$ARGUMENTS` contains `--min=N`, force minimum objection count. If `--refresh
 ## Quality gates
 
 Before writing the artifact to `output/`:
-- Run `reference/_archive/spec/QUALITY.md` triple-layer verification
+- Run `reference/canonical/spec/QUALITY.md` triple-layer verification
 - Check `spec/BANNED-VOCABULARY.md` — full regex sweep (INV-7)
 - Truth Gate on every cited case study / number / guarantee term (INV-5)
 - No Fabrication (INV-6) — every case study real, every number sourced

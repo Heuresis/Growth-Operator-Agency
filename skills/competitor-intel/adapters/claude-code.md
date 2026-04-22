@@ -49,7 +49,7 @@ If `$ARGUMENTS` names competitors or a market slug, target that list. Otherwise 
 ## Quality gates
 
 Before writing the report to `output/`:
-- Run `reference/_archive/spec/QUALITY.md` triple-layer verification (formal 40% + semantic 35% + information-theoretic 25%)
+- Run `reference/canonical/spec/QUALITY.md` triple-layer verification (formal 40% + semantic 35% + information-theoretic 25%)
 - Check `spec/BANNED-VOCABULARY.md` — reject if any banned phrases
 - Confirm every evidence_gate condition (3_tier_matrix_complete, min_3_direct_competitors, whitespace_identified)
 - Signal Score ≥ 0.8

@@ -124,7 +124,7 @@ Every asset should declare which primitives it uses in the Output Format's metad
 - `agents/scale-head.md` — SOPs, hiring, finance, retention, case studies
 - `agents/partnerships-head.md` — JV, affiliate, influencer, strategic alliances
 
-**Specialists (33):** See `agents/` — one flat .md file per agent. Full roster in `agents/_INDEX.md` and `reference/_archive/AGENT-ARCHITECTURE.md`.
+**Specialists (33):** See `agents/` — one flat .md file per agent. Full roster in `agents/_INDEX.md` and `reference/canonical/AGENT-ARCHITECTURE.md`.
 
 **Routing rule:** The user says what they need → you check which skill produces that output → you read that skill's SKILL.md → you execute with the mapped agent's persona overlay. Never invent a skill. Never skip the skill.
 
@@ -229,7 +229,7 @@ User intent
 
 ## AGENT ROSTER
 
-41 agents (1 director + 7 department heads + 33 specialists). See `agents/_INDEX.md` and `reference/_archive/AGENT-ARCHITECTURE.md` for full registry.
+41 agents (1 director + 7 department heads + 33 specialists). See `agents/_INDEX.md` and `reference/canonical/AGENT-ARCHITECTURE.md` for full registry.
 
 ## REFERENCE INDEX
 
@@ -240,18 +240,18 @@ User intent
 - `reference/templates/` — output document structures
 - `reference/examples/` — golden outputs (calibration targets)
 - `reference/knowledge/` — department-level shared knowledge
-- `reference/_archive/AGENT-ARCHITECTURE.md` — the 82KB bible
+- `reference/canonical/AGENT-ARCHITECTURE.md` — the 82KB bible
 
 ## SPEC (Sacred Invariants + Quality Gates)
 
-- `reference/_archive/spec/SIGNAL.md` — Signal Theory 5-tuple encoding
-- `reference/_archive/spec/QUALITY.md` — triple-layer verification (40/35/25)
+- `reference/canonical/spec/SIGNAL.md` — Signal Theory 5-tuple encoding
+- `reference/canonical/spec/QUALITY.md` — triple-layer verification (40/35/25)
 - `spec/CONTEXT-THRESHOLDS.md` — agent unlock gates per department
 - `spec/BANNED-VOCABULARY.md` — anti-slop filter
-- `reference/_archive/spec/BLIND-OUTPUT-TEST.md` — the creator-vs-AI verification protocol
+- `reference/canonical/spec/BLIND-OUTPUT-TEST.md` — the creator-vs-AI verification protocol
 - `spec/RUNTIMES.md` — adapter contract per runtime
-- `reference/_archive/spec/HTTP-OPENAPI-ADAPTER.md` — REST binding contract (v3 target)
-- `reference/_archive/spec/INTEGRATIONS.md` — tech stack, MCPs, and API contract
+- `reference/canonical/spec/HTTP-OPENAPI-ADAPTER.md` — REST binding contract (v3 target)
+- `reference/canonical/spec/INTEGRATIONS.md` — tech stack, MCPs, and API contract
 
 FSM definitions live in `workflows/divisions/` (one mermaid state diagram per department). Action/query bindings are expressed through each skill's `adapters/` files and the Process section of its SKILL.md.
 

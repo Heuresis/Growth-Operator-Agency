@@ -1,6 +1,6 @@
 # Blind Output Test — /story-sequence
 
-> Per `reference/_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **7-day IG Story Sequence**. Classification: **external** — requires **2/3 evaluator pass** before the creator publishes a full week-run on their main IG or Close Friends list.
+> Per `reference/canonical/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **7-day IG Story Sequence**. Classification: **external** — requires **2/3 evaluator pass** before the creator publishes a full week-run on their main IG or Close Friends list.
 
 ## Test Date(s)
 

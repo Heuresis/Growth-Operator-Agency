@@ -293,7 +293,7 @@ Single action. No stack of asks.
 
 - Marketing department Department (7 thread types)
 - `reference/frameworks/primitives/specificity.md`
-- `reference/_archive/spec/INTEGRATIONS.md` (Twitter API)
+- `reference/canonical/spec/INTEGRATIONS.md` (Twitter API)
 
 ---
 

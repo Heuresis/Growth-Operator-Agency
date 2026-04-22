@@ -50,7 +50,7 @@ If `$ARGUMENTS` contains `--archetype=T1-T7`, force that archetype. Otherwise ap
 ## Quality gates
 
 Before writing the artifact:
-- Run `reference/_archive/spec/QUALITY.md` triple-layer verification
+- Run `reference/canonical/spec/QUALITY.md` triple-layer verification
 - Check `spec/BANNED-VOCABULARY.md` (INV-7)
 - Truth Gate (INV-5) — every cited conversion / ascension / LTV number survives 30-sec fact-check
 - No Fabrication (INV-6) — every case study / number real

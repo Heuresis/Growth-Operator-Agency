@@ -1,6 +1,6 @@
 # Blind Output Test — /ad-creative
 
-> Per `reference/_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces an **Ad Creative Brief**. Classification: **external** — requires **2/3 evaluator pass** before live paid traffic. Ads are the public face of the offer — broken creative burns ad spend + pollutes the pixel.
+> Per `reference/canonical/spec/BLIND-OUTPUT-TEST.md`. This skill produces an **Ad Creative Brief**. Classification: **external** — requires **2/3 evaluator pass** before live paid traffic. Ads are the public face of the offer — broken creative burns ad spend + pollutes the pixel.
 
 ## Test Date(s)
 

@@ -379,7 +379,7 @@ Index: `variants/_INDEX.md`.
 - `reference/operators/external/alex-hormozi.md` (a lead-generation canon email)
 - `reference/frameworks/sales/8-required-beliefs.md` (the VSL director — Nurture sequences install these)
 - `reference/operators/growth-strategist.md` (Whisper/Tease/Shout launch cadence)
-- `reference/_archive/spec/INTEGRATIONS.md` (email platforms)
+- `reference/canonical/spec/INTEGRATIONS.md` (email platforms)
 
 ---
 *v1.0 — 2026-04-19. Cycle 4 Educate.*

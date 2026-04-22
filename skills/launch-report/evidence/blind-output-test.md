@@ -1,6 +1,6 @@
 # Blind Output Test — /launch-report
 
-> Per `reference/_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Launch Report** (internal retrospective — not buyer-facing, not published externally). Classification: **internal** — requires **1/3 evaluator pass** for internal-use validity.
+> Per `reference/canonical/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Launch Report** (internal retrospective — not buyer-facing, not published externally). Classification: **internal** — requires **1/3 evaluator pass** for internal-use validity.
 
 ## Test Date(s)
 

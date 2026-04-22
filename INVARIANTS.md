@@ -62,10 +62,10 @@ Every output passes the S/N gate before delivery:
 - **≥ 0.5** for internal/draft output (usable, may need revision)
 - **< 0.5** = REJECT + revise
 
-Measured via: Action Completion Rate, Re-encoding Frequency, Time-to-Decode, Signal Bounce Rate, Genre Recognition Rate, Feedback Loop Closure. See `reference/_archive/spec/QUALITY.md`.
+Measured via: Action Completion Rate, Re-encoding Frequency, Time-to-Decode, Signal Bounce Rate, Genre Recognition Rate, Feedback Loop Closure. See `reference/canonical/spec/QUALITY.md`.
 
 ### INV-14 — Blind Output Test
-Every ship-worthy output passes the Blind Output Test: **show to 3 evaluators who know the creator's work, ask "Did the creator produce this, or the system?"** If ≥ 1 says "creator" → pass. If 0 say "creator" → encoding is wrong, revise. See `reference/_archive/spec/BLIND-OUTPUT-TEST.md`. *(the operational test of whether encoding is complete)*
+Every ship-worthy output passes the Blind Output Test: **show to 3 evaluators who know the creator's work, ask "Did the creator produce this, or the system?"** If ≥ 1 says "creator" → pass. If 0 say "creator" → encoding is wrong, revise. See `reference/canonical/spec/BLIND-OUTPUT-TEST.md`. *(the operational test of whether encoding is complete)*
 
 ---
 
@@ -113,8 +113,8 @@ Every agent must never:
 
 ## Enforcement
 
-- `reference/_archive/spec/QUALITY.md` defines the automated gates that check these invariants at skill-execution time
-- `reference/_archive/spec/BLIND-OUTPUT-TEST.md` defines the human verification protocol for ship-worthy outputs
+- `reference/canonical/spec/QUALITY.md` defines the automated gates that check these invariants at skill-execution time
+- `reference/canonical/spec/BLIND-OUTPUT-TEST.md` defines the human verification protocol for ship-worthy outputs
 - `workflows/handoffs/quality-revision.md` defines the 2-attempt revision loop
 - When any invariant fails, the skill must: **(a)** log the failure, **(b)** attempt one revision if reasonable, **(c)** escalate to creator if revision fails
 

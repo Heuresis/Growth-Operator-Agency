@@ -161,7 +161,7 @@ The narrative structure is Isomorphic Story compliant (7-phase offer methodology
 - Read ICP Document (Completeness >= 80 required)
 - Read Market Research Brief (for Market Sophistication diagnosis)
 - Read `reference/frameworks/primitives/unique-mechanism.md`
-- Read `reference/_archive/frameworks/classical/pampa-market-sophistication.md`
+- Read `reference/canonical/frameworks/classical/pampa-market-sophistication.md`
 - Read `reference/frameworks/primitives/specificity.md`
 - Read `reference/operators/campaign-director.md` (educational-VSL method + big idea + educational VSL)
 - Read `reference/operators/copy-director.md` (two-part mechanism)
@@ -343,8 +343,8 @@ Validate: Isomorphic Story check — would this story fit 3+ real customer cases
 ## References
 
 - `reference/frameworks/primitives/unique-mechanism.md`
-- `reference/_archive/frameworks/classical/pampa-market-sophistication.md`
-- `reference/_archive/frameworks/classical/schwartz-awareness-spectrum.md`
+- `reference/canonical/frameworks/classical/pampa-market-sophistication.md`
+- `reference/canonical/frameworks/classical/schwartz-awareness-spectrum.md`
 - `reference/operators/campaign-director.md` (educational-VSL method + educational VSL)
 - `reference/operators/copy-director.md` (Two-Part Mechanism)
 
