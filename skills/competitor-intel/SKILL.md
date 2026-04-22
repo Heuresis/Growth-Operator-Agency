@@ -10,7 +10,7 @@ signal:
   receiver: creator + marketing lead
   receiver_capacity: medium
 department: scale
-agent_affinity: [scale-head, competitor]
+agent_affinity: [scale-head, competitor-analyst]
 required_compartments:
   audience_intelligence_system: 50
   offer_architecture: 40

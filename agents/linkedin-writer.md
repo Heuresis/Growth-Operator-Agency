@@ -12,8 +12,6 @@ signal: "S=(linguistic, linkedin-post, inform, markdown, linkedin-post)"
 tools: [Read, Write, Edit, Grep, Glob]
 skills: [write-linkedin-post]
 context_tier: l1
-team: null
-department: marketing
 department: marketing
 ---
 

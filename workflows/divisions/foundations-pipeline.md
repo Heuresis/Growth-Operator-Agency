@@ -107,7 +107,7 @@ Foundations artifacts complete. Sales department can start (`/build-vsl`).
 ## Cross-references
 - Knowledge: `reference/knowledge/foundations.md`
 - Skills: `skills/research/`, `skills/build-icp/`, `skills/build-positioning/`, `skills/extract-voice/`, `skills/design-offer/`
-- Downstream pipeline: `workflows/departments/sales-pipeline.md`
+- Downstream pipeline: `workflows/divisions/sales-pipeline.md`
 - Onboarding: `workflows/client-onboarding/week-1.md`
 
 ---

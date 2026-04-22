@@ -12,8 +12,6 @@ signal: "S=(linguistic, reel-script, inform, markdown, short-form-script)"
 tools: [Read, Write, Edit, Grep, Glob]
 skills: [write-reel]
 context_tier: l1
-team: null
-department: marketing
 department: marketing
 ---
 

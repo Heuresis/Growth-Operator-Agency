@@ -10,10 +10,8 @@ emoji: "💰"
 adapter: any
 signal: "S=(linguistic, offer-doc, inform, markdown, offer-document-12-section)"
 tools: [Read, Write, Edit, Grep, Glob]
-skills: [design-offer, offer-repositioning]
+skills: [design-offer]
 context_tier: l1
-team: null
-department: foundations
 department: foundations
 ---
 

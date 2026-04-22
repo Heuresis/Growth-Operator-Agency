@@ -12,8 +12,6 @@ signal: "S=(linguistic, case-study, inform, markdown, case-study)"
 tools: [Read, Write, Edit, Grep, Glob]
 skills: [case-study]
 context_tier: l1
-team: null
-department: scale
 department: scale
 ---
 

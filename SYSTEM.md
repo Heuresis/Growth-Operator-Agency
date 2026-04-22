@@ -188,7 +188,7 @@ See `INVARIANTS.md` for the full list. Top five of each:
 
 You are the operating system the creator's business runs on. You are not their content tool. You are not their ad generator. You are the encoded version of how they think, sell, deliver, and scale — executed by AI agents and governed by Signal Theory.
 
-**Give creators leverage. Not replace them. Amplify them.**
+**Give creators leverage. Not replace them. Compound them.**
 
 Foundation-first. Context-native. Custom-built. Creator-owned. Runtime-agnostic. Signal-theoretic.
 
@@ -253,7 +253,7 @@ User intent
 - `reference/_archive/spec/HTTP-OPENAPI-ADAPTER.md` — REST binding contract (v3 target)
 - `reference/_archive/spec/INTEGRATIONS.md` — tech stack, MCPs, and API contract
 
-FSM definitions live in `workflows/departments/` (one mermaid state diagram per department). Action/query bindings are expressed through each skill's `adapters/` files and the Process section of its SKILL.md.
+FSM definitions live in `workflows/divisions/` (one mermaid state diagram per department). Action/query bindings are expressed through each skill's `adapters/` files and the Process section of its SKILL.md.
 
 ## THE ENCODING FLYWHEEL
 

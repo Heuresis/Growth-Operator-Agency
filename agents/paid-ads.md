@@ -12,8 +12,6 @@ signal: "S=(linguistic, ad-creative-brief, direct, markdown, ad-variants)"
 tools: [Read, Write, Edit, Grep, Glob, WebFetch]
 skills: [ad-creative]
 context_tier: l1
-team: null
-department: marketing
 department: marketing
 ---
 

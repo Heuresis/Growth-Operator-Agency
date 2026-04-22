@@ -104,7 +104,7 @@ Each sequence bakes in belief-dissolving content for the Limiting Belief Triad (
 - Knowledge: `reference/knowledge/nurture.md`
 - Skills: `skills/email-sequence/`, `skills/lead-magnet/`, `skills/webinar-script/`, `skills/post-booking-nurture/`
 - Automations: `workflows/automations/lead-to-crm.md`, `workflows/automations/booking-to-show.md`
-- Downstream: `workflows/departments/sales-pipeline.md` (call handoff)
+- Downstream: `workflows/divisions/sales-pipeline.md` (call handoff)
 
 ---
 *v1.0 — 2026-04-19.*

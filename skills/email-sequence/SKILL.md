@@ -10,7 +10,7 @@ signal:
   receiver: subscriber
   receiver_capacity: low-to-medium
 department: nurture
-agent_affinity: [nurture-head, email-sequence]
+agent_affinity: [nurture-head, email-copywriter]
 required_compartments:
   audience_intelligence_system: 60
   offer_architecture: 50

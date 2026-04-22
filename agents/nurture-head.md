@@ -12,8 +12,6 @@ signal: "S=(linguistic, sequence, inform, markdown, nurture-assets)"
 tools: [Read, Write, Edit, Grep, Glob]
 skills: [email-sequence, lead-magnet, webinar-script, post-booking-nurture]
 context_tier: l1
-team: null
-department: nurture
 department: nurture
 ---
 

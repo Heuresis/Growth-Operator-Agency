@@ -91,9 +91,9 @@ Active funnel with enough data to measure. Iteration window.
 ## Cross-references
 - Knowledge: `reference/knowledge/sales.md`, `reference/knowledge/foundations.md`
 - Skills: `skills/build-vsl/`, `skills/build-funnel/`
-- Upstream: `workflows/departments/foundations-pipeline.md`
-- Downstream: `workflows/departments/launch-pipeline.md`, `workflows/departments/scale-pipeline.md`
-- Nurture integration: `workflows/departments/nurture-pipeline.md`
+- Upstream: `workflows/divisions/foundations-pipeline.md`
+- Downstream: `workflows/divisions/launch-pipeline.md`, `workflows/divisions/scale-pipeline.md`
+- Nurture integration: `workflows/divisions/nurture-pipeline.md`
 
 ---
 *v1.0 — 2026-04-19.*

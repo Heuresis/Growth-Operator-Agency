@@ -10,7 +10,7 @@ signal:
   receiver: IG followers + story viewers
   receiver_capacity: low
 department: marketing
-agent_affinity: [marketing-head, stories]
+agent_affinity: [marketing-head, stories-producer]
 required_compartments:
   audience_intelligence_system: 50
   offer_architecture: 40

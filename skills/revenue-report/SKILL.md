@@ -10,7 +10,7 @@ signal:
   receiver: creator + finance + scale lead
   receiver_capacity: high
 department: scale
-agent_affinity: [scale-head, financial]
+agent_affinity: [scale-head, financial-modeler]
 required_compartments:
   offer_architecture: 70
   lifecycle_optimization: 30

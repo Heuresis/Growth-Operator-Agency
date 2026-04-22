@@ -63,7 +63,7 @@ next_skill_routing:
     - condition: "funnel_not_built"
       recommend: build-funnel
     - condition: "value_equation_50_to_150"
-      recommend: offer-repositioning
+      recommend: offer-repositioning # v1.1
   on_fail:
     escalate_to: foundations-head
 

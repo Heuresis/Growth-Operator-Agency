@@ -16,6 +16,7 @@ required_compartments:
   audience_intelligence_system: 0
   offer_architecture: 0
   creator_identity_matrix: 10
+upstream_dependency: null
 execution_mode: interactive
 tier: structured_ai
 temperature_gate: warm

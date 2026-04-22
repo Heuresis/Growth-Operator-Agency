@@ -78,7 +78,7 @@ Guardrail: if churn > 5%/mo, shift to 40/50/10 until stabilized.
 - Frameworks: `reference/frameworks/pampa-thresholds.md`, `reference/frameworks/slings-60-30-10.md`
 - Knowledge: `reference/knowledge/foundations.md` (ICP for hiring), `reference/knowledge/nurture.md` (retention sequences)
 - Agents: `agents/scale/ops-director.md`, `agents/scale/cs-lead.md`, `agents/scale/finance-analyst.md`
-- Pipeline: `workflows/departments/scale-pipeline.md`
+- Pipeline: `workflows/divisions/scale-pipeline.md`
 
 ---
 *v1.0 — 2026-04-19.*

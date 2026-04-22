@@ -10,7 +10,7 @@ signal:
   receiver: creator + marketing + sales + launch
   receiver_capacity: high
 department: sales
-agent_affinity: [sales-head, funnel-assets]
+agent_affinity: [sales-head, funnel-architect]
 required_compartments:
   audience_intelligence_system: 60
   offer_architecture: 70

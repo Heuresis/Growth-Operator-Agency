@@ -77,7 +77,7 @@ Shared context for every lifecycle / middle-of-funnel skill. Nurture converts ca
 - Skills: `skills/email-sequence/SKILL.md`, `skills/lead-magnet/SKILL.md`, `skills/webinar-script/SKILL.md`, `skills/post-booking-nurture/SKILL.md`
 - Frameworks: `reference/frameworks/perfect-webinar.md`, `reference/frameworks/8-required-beliefs.md`
 - Automations: `workflows/automations/booking-to-show.md`
-- Pipeline: `workflows/departments/nurture-pipeline.md`
+- Pipeline: `workflows/divisions/nurture-pipeline.md`
 
 ---
 *v1.0 — 2026-04-19.*

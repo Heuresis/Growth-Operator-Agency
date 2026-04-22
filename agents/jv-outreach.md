@@ -12,8 +12,6 @@ signal: "S=(linguistic, jv-proposal, direct, markdown, jv-proposal)"
 tools: [Read, Write, Edit, Grep, Glob, WebFetch, WebSearch]
 skills: [jv-webinar-proposal]
 context_tier: l1
-team: null
-department: partnerships
 department: partnerships
 ---
 

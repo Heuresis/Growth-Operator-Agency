@@ -12,8 +12,6 @@ signal: "S=(linguistic, lead-magnet-brief, inform, markdown, lead-magnet-asset)"
 tools: [Read, Write, Edit, Grep, Glob]
 skills: [lead-magnet]
 context_tier: l1
-team: null
-department: nurture
 department: nurture
 ---
 

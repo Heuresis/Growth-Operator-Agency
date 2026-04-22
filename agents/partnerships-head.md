@@ -12,8 +12,6 @@ signal: "S=(linguistic, proposal, direct, markdown, partnership-assets)"
 tools: [Read, Write, Edit, Grep, Glob, WebFetch, WebSearch]
 skills: [jv-webinar-proposal, affiliate-program, referral-program]
 context_tier: l1
-team: null
-department: partnerships
 department: partnerships
 ---
 

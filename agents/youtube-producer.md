@@ -12,8 +12,6 @@ signal: "S=(linguistic, youtube-script, inform, markdown, youtube-long-form)"
 tools: [Read, Write, Edit, Grep, Glob, WebSearch]
 skills: [write-youtube]
 context_tier: l1
-team: null
-department: marketing
 department: marketing
 ---
 

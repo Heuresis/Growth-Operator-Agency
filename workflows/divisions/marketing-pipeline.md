@@ -91,7 +91,7 @@ Post-performance window closed. Engagement, reach, conversion tagged. Winners fl
 ## Cross-references
 - Knowledge: `reference/knowledge/marketing.md`, `reference/knowledge/foundations.md` (voice)
 - Skills: `skills/content-calendar/`, `skills/write-reel/`, `skills/write-youtube/`, `skills/write-linkedin-post/`, `skills/write-x-thread/`, `skills/story-sequence/`, `skills/ad-creative/`
-- Downstream: `workflows/departments/nurture-pipeline.md` (lead capture feeds nurture), `workflows/departments/sales-pipeline.md` (ads feed VSL)
+- Downstream: `workflows/divisions/nurture-pipeline.md` (lead capture feeds nurture), `workflows/divisions/sales-pipeline.md` (ads feed VSL)
 
 ---
 *v1.0 — 2026-04-19.*

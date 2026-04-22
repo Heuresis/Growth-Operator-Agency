@@ -108,7 +108,7 @@ Pick based on: offer price, audience size, operational capacity, traffic source.
 - Knowledge: `reference/knowledge/sales.md` (funnel + VSL), `reference/knowledge/marketing.md` (creative), `reference/knowledge/nurture.md` (email sequences)
 - Frameworks: `reference/frameworks/launch-5-phase.md`, `reference/frameworks/product-launch-formula.md`
 - Agents: `agents/launch/launch-director.md`, `agents/launch/launch-analyst.md`
-- Pipeline: `workflows/departments/launch-pipeline.md`
+- Pipeline: `workflows/divisions/launch-pipeline.md`
 
 ---
 *v1.0 — 2026-04-19.*

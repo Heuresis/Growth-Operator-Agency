@@ -12,8 +12,6 @@ signal: "S=(linguistic, brand-voice-doc, inform, markdown, voice-document-10-sec
 tools: [Read, Write, Edit, Grep, Glob, WebFetch]
 skills: [extract-voice]
 context_tier: l1
-team: null
-department: foundations
 department: foundations
 ---
 

@@ -10,7 +10,7 @@ signal:
   receiver: LinkedIn audience + algorithm
   receiver_capacity: medium
 department: marketing
-agent_affinity: [marketing-head, linkedin]
+agent_affinity: [marketing-head, linkedin-writer]
 required_compartments:
   audience_intelligence_system: 60
   offer_architecture: 40

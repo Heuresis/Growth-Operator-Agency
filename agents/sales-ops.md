@@ -10,10 +10,8 @@ emoji: "📋"
 adapter: any
 signal: "S=(linguistic, sales-ops, inform, markdown, operational-sales-assets)"
 tools: [Read, Write, Edit, Grep, Glob]
-skills: [call-prep, proposal, guarantee-copy, application-form, landing-page]
+skills: []
 context_tier: l1
-team: null
-department: sales
 department: sales
 ---
 

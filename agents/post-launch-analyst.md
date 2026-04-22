@@ -12,8 +12,6 @@ signal: "S=(linguistic, launch-report, inform, markdown, launch-analysis)"
 tools: [Read, Write, Edit, Grep, Glob]
 skills: [launch-report]
 context_tier: l1
-team: null
-department: launch
 department: launch
 ---
 

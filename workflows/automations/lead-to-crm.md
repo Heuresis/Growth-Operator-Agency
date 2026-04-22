@@ -154,7 +154,7 @@ routing:
 - First-touch delivery rate (target: ≥ 98%)
 
 ## Cross-references
-- Pipeline: `workflows/departments/nurture-pipeline.md`
+- Pipeline: `workflows/divisions/nurture-pipeline.md`
 - Next: `workflows/automations/booking-to-show.md`
 - Knowledge: `reference/knowledge/nurture.md`
 

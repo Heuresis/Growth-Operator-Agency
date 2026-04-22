@@ -127,7 +127,7 @@ Script is written once; Platform Adaptations section specifies the platform-spec
 
 3. **Specificity is the entire game.** "$7,500 in 2 hours" beats "significant income." "38-year-old agency founder" beats "busy entrepreneur."
 
-4. **Loop the ending when possible.** Seamless loop = 2-3x view count on re-watches. Only works for Story Time / Weird Workflow / Money Reveal typically.
+4. **Loop the ending when possible.** Clean loop = 2-3x view count on re-watches. Only works for Story Time / Weird Workflow / Money Reveal typically.
 
 5. **Platform audio matters** (TikTok especially). Check trending audio before finalizing — some frameworks bend to fit trend music.
 
@@ -179,7 +179,7 @@ Lesson / synthesis / realization.
 ### Phase 6 — CTA or Loop (55-60s)
 One of:
 - **CTA** — "follow for more" / "comment X" / "link in bio"
-- **Loop** — seamless callback that re-starts the viewer
+- **Loop** — clean callback that re-starts the viewer
 
 ### Phase 7 — Platform Adaptations
 For each target platform (IG / TikTok / YT Shorts):

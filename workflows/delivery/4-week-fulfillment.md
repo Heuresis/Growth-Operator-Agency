@@ -139,7 +139,7 @@ Capture what worked into SOPs, fix what didn't, hand off a running system.
 
 ## Cross-references
 - Onboarding: `workflows/client-onboarding/week-1.md`, `workflows/client-onboarding/90-day.md`
-- Department pipelines: all 7 in `workflows/departments/`
+- Department pipelines: all 7 in `workflows/divisions/`
 - Templates: all 7 in `workflows/execution-templates/`
 - Automations: all 5 in `workflows/automations/`
 

@@ -146,7 +146,7 @@ Growth Operating Agency produces the specific artifacts a high-ticket creator bu
 
 <div align="center">
 
-<img alt="The 7 departments" src="docs/assets/departments-light.svg" width="100%">
+<img alt="The 7 departments" src="docs/assets/divisions-light.svg" width="100%">
 
 </div>
 
@@ -234,7 +234,7 @@ Every skill self-gates on compartment completeness. Below threshold, the skill r
 Full A-Z structure. Every file in the template.
 
 <details>
-<summary><strong>Expand full tree — 701 entries</strong></summary>
+<summary><strong>Expand full tree — 684 entries</strong></summary>
 
 ```
 .
@@ -327,8 +327,8 @@ Full A-Z structure. Every file in the template.
 │   ├── assets/
 │   │   ├── architecture-dark.svg
 │   │   ├── architecture-light.svg
-│   │   ├── departments-dark.svg
-│   │   ├── departments-light.svg
+│   │   ├── divisions-dark.svg
+│   │   ├── divisions-light.svg
 │   │   ├── flywheel-dark.svg
 │   │   ├── flywheel-light.svg
 │   │   ├── github-social-dark.svg
@@ -881,7 +881,7 @@ Full A-Z structure. Every file in the template.
 │   │   └── week-1.md
 │   ├── delivery/
 │   │   └── 4-week-fulfillment.md
-│   ├── departments/
+│   ├── divisions/
 │   │   ├── foundations-pipeline.md
 │   │   ├── launch-pipeline.md
 │   │   ├── marketing-pipeline.md
@@ -975,7 +975,7 @@ Full data contract in [**SECURITY.md**](.github/SECURITY.md).
 
 ## Status
 
-v1.0.0 — initial public release — 2026-04-22.
+v1.0.0 — initial public release — 2026-04-21.
 
 Growth Operating Agency is the first workspace template shipping under the Heuresis brand. See [CHANGELOG.md](CHANGELOG.md) for the full v1.0.0 scope and planned next releases.
 

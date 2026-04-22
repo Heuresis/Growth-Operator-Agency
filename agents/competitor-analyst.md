@@ -12,8 +12,6 @@ signal: "S=(linguistic, competitor-intel, inform, markdown, competitor-intel)"
 tools: [Read, Write, Edit, Grep, Glob, WebFetch, WebSearch]
 skills: [competitor-intel]
 context_tier: l1
-team: null
-department: scale
 department: scale
 ---
 

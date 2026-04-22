@@ -12,8 +12,6 @@ signal: "S=(linguistic, referral-program-spec, inform, markdown, referral-mechan
 tools: [Read, Write, Edit, Grep, Glob]
 skills: [referral-program]
 context_tier: l1
-team: null
-department: partnerships
 department: partnerships
 ---
 
