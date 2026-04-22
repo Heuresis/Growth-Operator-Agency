@@ -40,7 +40,7 @@ Named verticals: coaching, consulting, agencies, info-product, law firms. Each h
 > "Over $50,000,000 in client revenue through ads."
 > — LinkedIn positioning line
 
-## Growth OS skill bindings
+## Growth Optimal System skill bindings
 - `/ad-specificity-framework` → Five-dimension specificity audit (Paid Media)
 - `/facebook-ad-testing-top-1` → Creative-family test protocol (Paid Media)
 - `/scale-by-duplication` → Budget scaling without bid spikes (Paid Media)
@@ -70,12 +70,12 @@ Named verticals: coaching, consulting, agencies, info-product, law firms. Each h
 - "After 7 years running ads across B2B and coaching... the main difference between ads that scale and ads that flop is specificity." — the media buying director, LinkedIn (2025) [verified public statement]
 - "Over $50,000,000 in client revenue through ads." — LinkedIn positioning line [verified public statement]
 
-**Takeaways for Growth OS operators:**
+**Takeaways for Growth Optimal System operators:**
 - Run ad reviews at the creative-family level. If a review is looking at a single ad's CTR in isolation, the review is mis-scoped.
 - Before shipping any creative, run the five-dimension specificity audit (audience, problem, mechanism, outcome, visual).
 - When a winner is found, scale via ad-set duplication into a separate campaign — never via in-place budget pumping on the original ad set.
 
-**What does NOT apply to most Growth OS operators:**
+**What does NOT apply to most Growth Optimal System operators:**
 - Operators at <$5K/mo ad spend do not have the creative throughput to run 5–10 creative families per test cycle — the protocol requires a minimum production rate.
 - Brand/awareness campaigns on longer attribution windows will not show clean CPR signals inside the test cycle; the protocol is direct-response-native.
 
@@ -95,7 +95,7 @@ Named verticals: coaching, consulting, agencies, info-product, law firms. Each h
 **Notable quotes / phrases:**
 - [UNVERIFIED — no specific quote captured]
 
-**Takeaways for Growth OS operators:**
+**Takeaways for Growth Optimal System operators:**
 - Run the specificity audit on the agency's own homepage and hero ad before running it on any client account.
 - Book the agency's own creative review into the same cadence as the top client's creative review.
 - If the agency's positioning is horizontal, decide whether to narrow — or accept a CPR penalty as structural.
@@ -116,7 +116,7 @@ Named verticals: coaching, consulting, agencies, info-product, law firms. Each h
 **Notable quotes / phrases:**
 - [UNVERIFIED — no specific quote captured]
 
-**Takeaways for Growth OS operators:**
+**Takeaways for Growth Optimal System operators:**
 - Before diagnosing a media issue, run the offer's specificity matrix. 60% of "media problems" are offer problems.
 - Plan creative production capacity to match the scale trajectory — otherwise the scale trajectory caps itself.
 - Treat $50/day → $5K/day as a 2–4 month engineered ramp, not a single campaign decision.
@@ -137,15 +137,15 @@ Named verticals: coaching, consulting, agencies, info-product, law firms. Each h
 **Notable quotes / phrases:**
 - [UNVERIFIED — no specific quote captured]
 
-**Takeaways for Growth OS operators:**
+**Takeaways for Growth Optimal System operators:**
 - Tie the ad-account KPI stack to the call-funnel KPI stack on a single dashboard; do not let the media agency and the sales team report separately.
 - Before scaling ad spend, confirm closer capacity and call-funnel show-rate are healthy at the current scale.
 - Build one creative-family per closer persona when the closer roster has distinct styles.
 
-**What does NOT apply to most Growth OS operators:**
+**What does NOT apply to most Growth Optimal System operators:**
 - Low-ticket e-commerce does not have a call-funnel; the handoff discipline translates to checkout + post-purchase sequence instead.
 - Agencies selling <$3K retainers may not need call-funnel architecture at all — a written application + async close can outperform.
 
 ### Cross-episode synthesis
 
-Across the testing methodology and the three podcast episodes, the media buying director's unified frame is: *specificity before tactics, creative-family before single ads, scale-by-duplication before budget-pumping, and the call funnel as part of the ad system.* Growth OS operators importing the media buying director should import the specificity audit first — it is the upstream dependency that makes every downstream tactic work. Operators who import the testing protocol without the specificity audit produce well-structured tests on bad creative and conclude Facebook ads "don't work" in their vertical.
+Across the testing methodology and the three podcast episodes, the media buying director's unified frame is: *specificity before tactics, creative-family before single ads, scale-by-duplication before budget-pumping, and the call funnel as part of the ad system.* Growth Optimal System operators importing the media buying director should import the specificity audit first — it is the upstream dependency that makes every downstream tactic work. Operators who import the testing protocol without the specificity audit produce well-structured tests on bad creative and conclude Facebook ads "don't work" in their vertical.

@@ -7,7 +7,7 @@ category: sales
 temperature_gate: warm
 
 role_affinity:
-  - sales-lead
+  - sales-head
   - funnel-assets
 
 required_tables:
@@ -69,7 +69,7 @@ next_skill_routing:
     - condition: "launch_ready"
       recommend: plan-launch
   on_fail:
-    escalate_to: sales-lead
+    escalate_to: sales-head
 
 logging:
   phase_transitions: true

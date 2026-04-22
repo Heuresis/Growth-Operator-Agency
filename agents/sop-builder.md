@@ -3,7 +3,7 @@ name: SOP Builder
 id: sop-builder
 role: Role + process SOP producer (Scale)
 title: SOP Builder
-reportsTo: scale-lead
+reportsTo: scale-head
 budget: 500
 color: "#0a0907"
 emoji: "📘"
@@ -14,7 +14,7 @@ skills: [build-sop]
 context_tier: l1
 team: null
 department: scale
-division: scale
+department: scale
 ---
 
 # SOP Builder Agent

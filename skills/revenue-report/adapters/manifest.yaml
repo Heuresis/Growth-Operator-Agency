@@ -7,7 +7,7 @@ category: scale
 temperature_gate: warm
 
 role_affinity:
-  - scale-lead
+  - scale-head
   - financial
 
 required_tables:
@@ -59,7 +59,7 @@ next_skill_routing:
     - condition: "churn_high"
       recommend: retention-check
   on_fail:
-    escalate_to: scale-lead
+    escalate_to: scale-head
 
 logging:
   phase_transitions: true

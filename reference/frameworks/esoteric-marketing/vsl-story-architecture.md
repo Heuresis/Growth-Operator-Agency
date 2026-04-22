@@ -278,7 +278,7 @@ Minute-by-minute:
 
 6/6 = fully stacked emotional arc. 4-5/6 = functional but leaking. <4 = structurally broken; rewrite the missing beats before retrying traffic.
 
-## How this applies in Growth OS
+## How this applies in Growth Optimal System
 
 - **Skill(s) that consume this:** `/build-vsl`, `/webinar-script`, `/audit-vsl`, `/email-sequence`, `/sales-page-copy`
 - **Agent(s) that use it:** copywriter, vsl-architect, video-director, buyer-psychology-analyst

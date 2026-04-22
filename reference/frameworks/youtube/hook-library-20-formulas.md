@@ -205,7 +205,7 @@ Examples:
 
 ---
 
-## How this applies in Growth OS
+## How this applies in Growth Optimal System
 
 - Skill that consumes this: `/write-youtube-hook`, `/write-youtube`
 - Agent that uses it: `youtube-producer`, `hook-writer`

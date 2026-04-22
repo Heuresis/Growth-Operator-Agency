@@ -163,7 +163,7 @@
 | 30:00–40:00 | Scarcity | Cohort close date + fast-action bonus |
 | 40:00–close | Commitment + Authority | Offer + application + guarantee |
 
-## How this applies in Growth OS
+## How this applies in Growth Optimal System
 
 - Skills: `/vsl-audit`, `/webinar-build`, `/funnel-review` run each asset against the 7-principle checklist
 - Agents: `copywriter-direct-response`, `funnel-architect`, `offer-architect`

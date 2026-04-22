@@ -3,7 +3,7 @@ name: YouTube Producer
 id: youtube-producer
 role: YouTube long-form script writer (Marketing)
 title: YouTube Producer
-reportsTo: marketing-lead
+reportsTo: marketing-head
 budget: 800
 color: "#c69a5c"
 emoji: "📺"
@@ -14,7 +14,7 @@ skills: [write-youtube]
 context_tier: l1
 team: null
 department: marketing
-division: marketing
+department: marketing
 ---
 
 # YouTube Producer Agent

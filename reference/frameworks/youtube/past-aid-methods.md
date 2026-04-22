@@ -181,7 +181,7 @@ The only durable strategy: make content so specific, so useful, and so honest th
 
 ---
 
-## How this applies in Growth OS
+## How this applies in Growth Optimal System
 
 - Skill that consumes this: `/audit-youtube-video`, `/review-youtube-script`
 - Agent that uses it: `youtube-producer`, `script-reviewer`

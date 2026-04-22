@@ -14,7 +14,7 @@ The canonical name as the author uses it.
 
 - [ ] `reference/frameworks/{name}/` — methodology framework
 - [ ] `reference/operators/{slug}.md` — operator playbook
-- [ ] `reference/knowledge/` — division-level shared knowledge
+- [ ] `reference/knowledge/` — department-level shared knowledge
 - [ ] `reference/swipe-file/` — hooks, headlines, case studies
 - [ ] `reference/templates/` — output document structures
 - [ ] `reference/platforms/` — platform-specific playbook

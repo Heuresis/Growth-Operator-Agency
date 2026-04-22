@@ -121,7 +121,7 @@ Nurture sequences **move the subscriber through awareness levels over time** —
 ## Sources
 
 - the awareness-spectrum author, *Breakthrough Advertising* (1966)
-- the VSL director references in Growth OS MODULE 4
+- the VSL director references in Growth Optimal System MODULE 4
 - the offer architect — market sophistication paired with awareness level (see `classical/pampa-market-sophistication.md`)
 
 ---

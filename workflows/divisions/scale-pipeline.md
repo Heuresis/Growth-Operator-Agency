@@ -1,7 +1,7 @@
 # Scale Pipeline — FSM
 
 ## Purpose
-State machine governing the Scale division's operational loop. Each state's entry is a the VSL director-revenue-threshold-gated trigger. Scale is a loop — not linear — because SOPs, hires, retention, case studies, competitor intel, and revenue reports iterate continuously.
+State machine governing the Scale department's operational loop. Each state's entry is a the VSL director-revenue-threshold-gated trigger. Scale is a loop — not linear — because SOPs, hires, retention, case studies, competitor intel, and revenue reports iterate continuously.
 
 ## State Diagram
 

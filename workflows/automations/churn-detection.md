@@ -149,7 +149,7 @@ outcome_window_days: 14
 | Failure | Detection | Response |
 |---|---|---|
 | Health-score job fails | Cron alert | Retry; escalate if 2 consecutive failures |
-| Intervention SLA missed | 48h check | Escalate to division lead |
+| Intervention SLA missed | 48h check | Escalate to department heads |
 | Too many simultaneous triggers | CS queue overflow | Ops rebalances; add headcount if structural |
 | False positive (score drop but customer healthy) | Outcome check | Tune weights; log for review |
 | Churn without prior health-drop signal | Pattern | Critical — root-cause the missed signal, add indicator |
@@ -169,7 +169,7 @@ outcome_window_days: 14
 
 ## Cross-references
 - Skill: `skills/retention-check/`
-- Pipeline: `workflows/divisions/scale-pipeline.md`
+- Pipeline: `workflows/departments/scale-pipeline.md`
 - Knowledge: `reference/knowledge/scale.md` (the operations director 60/30/10)
 - Related: `workflows/automations/purchase-to-onboarding.md` (onboarding quality affects this)
 

@@ -1,6 +1,6 @@
 ---
 name: case-study
-description: Convert a client win into a publishable case study per the Growth OS 6-Level Social Proof Hierarchy + the offer architect Isomorphic Story principle. Produces one full written case study (800-1500 words), one VSL insert (60-90s), one ad variant (30s), one LinkedIn post, one X thread, one email broadcast, plus FTC disclosure and client-approval record. Target output: Level 5 or Level 6 proof only. Lower-level testimonials are routed to aggregate-proof channels, not hero case studies.
+description: Convert a client win into a publishable case study per the Growth Optimal System 6-Level Social Proof Hierarchy + the offer architect Isomorphic Story principle. Produces one full written case study (800-1500 words), one VSL insert (60-90s), one ad variant (30s), one LinkedIn post, one X thread, one email broadcast, plus FTC disclosure and client-approval record. Target output: Level 5 or Level 6 proof only. Lower-level testimonials are routed to aggregate-proof channels, not hero case studies.
 signal:
   mode: linguistic
   genre: case-study
@@ -9,8 +9,8 @@ signal:
   structure: w-case-study
   receiver: prospects + marketing assets
   receiver_capacity: medium
-division: scale
-agent_affinity: [scale-lead, case-study]
+department: scale
+agent_affinity: [scale-head, case-study]
 required_compartments:
   audience_intelligence_system: 50
   copy_messaging: 40
@@ -51,15 +51,15 @@ Run after `/retention-check` identifies a Thriving client. Input: client name + 
 
 ## What It Does
 
-Converts a client win into a proof stack: one long-form written asset and five derivative formats, all sourced from a single 30-60 min unscripted interview. Grades the asset on the Growth OS 6-Level Social Proof Hierarchy and isomorphic fit against the ICP. Refuses to publish anything below Level 5. Refuses to publish a non-isomorphic case study in a hero slot, even if the numbers are larger, because a non-isomorphic case study converts worse than no case study at all.
+Converts a client win into a proof stack: one long-form written asset and five derivative formats, all sourced from a single 30-60 min unscripted interview. Grades the asset on the Growth Optimal System 6-Level Social Proof Hierarchy and isomorphic fit against the ICP. Refuses to publish anything below Level 5. Refuses to publish a non-isomorphic case study in a hero slot, even if the numbers are larger, because a non-isomorphic case study converts worse than no case study at all.
 
 ## Role (Lineage)
 
-Growth OS 6-Level Social Proof Hierarchy (canonical source for proof grading). the offer architect Isomorphic Story Principle (starting-situation + outcome + process must all map to prospect). the growth engineer Offer Proof Flywheel (case studies feed offer strength, not the other way around). the content OS director 1-2 Hour Consumption Rule (case study is consumption content, not pitch content). the backend economist EP83 One-Funnel Compounding Model (case studies reinforce the single funnel's proof base — no kitchen-sink cases).
+Growth Optimal System 6-Level Social Proof Hierarchy (canonical source for proof grading). the offer architect Isomorphic Story Principle (starting-situation + outcome + process must all map to prospect). the growth engineer Offer Proof Flywheel (case studies feed offer strength, not the other way around). the content OS director 1-2 Hour Consumption Rule (case study is consumption content, not pitch content). the backend economist EP83 One-Funnel Compounding Model (case studies reinforce the single funnel's proof base — no kitchen-sink cases).
 
 ## Agent
 
-`@scale-lead` + `@case-study` sub-agent. Interviewer discipline is sub-agent's job. Isomorphic fit check is `@scale-lead`'s ship gate.
+`@scale-head` + `@case-study` sub-agent. Interviewer discipline is sub-agent's job. Isomorphic fit check is `@scale-head`'s ship gate.
 
 ## Destination
 
@@ -74,7 +74,7 @@ Growth OS 6-Level Social Proof Hierarchy (canonical source for proof grading). t
 - FTC disclosure template approved by legal
 - Client verbal pre-consent before the interview is booked
 
-## The 6-Level Social Proof Hierarchy (Growth OS canonical)
+## The 6-Level Social Proof Hierarchy (Growth Optimal System canonical)
 
 | Level | Type | Trust | Asset Use |
 |---|---|---|---|
@@ -103,7 +103,7 @@ Non-isomorphic case study = impressive-but-trust-leaky. A "closed $1M in 90 days
 - Thriving client record from `/retention-check`
 - ICP Doc (for isomorphic fit check — specifically the 4-layer pain, demographic profile, and buying-triggers sections)
 - Offer Doc (mechanism name + sub-steps)
-- Growth OS 8 Required Beliefs (the case study will install beliefs 3, 6, 7, 8 — verify alignment before interview)
+- Growth Optimal System 8 Required Beliefs (the case study will install beliefs 3, 6, 7, 8 — verify alignment before interview)
 
 ### Phase 1 — Client Qualification Gate
 - Thriving status confirmed in last 30 days
@@ -372,7 +372,7 @@ Case studies that leak these read as agency-written, not client-lived. One insta
 
 ## References
 
-- Growth OS 6-Level Social Proof Hierarchy (canonical grading source)
+- Growth Optimal System 6-Level Social Proof Hierarchy (canonical grading source)
 - the offer architect Isomorphic Story Principle (`reference/operators/offer-architect.md`)
 - the growth engineer Offer Proof Flywheel (`reference/operators/growth-engineer.md`)
 - the backend economist benchmarking + specificity discipline (`reference/operators/backend-economist.md`)

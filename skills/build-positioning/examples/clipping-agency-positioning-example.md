@@ -87,4 +87,4 @@ The creator stopped thinking of themselves as a "clipper" and started thinking o
 - `reference/frameworks/esoteric-offer-architecture/7-phase-offer-architecture.md` - Phase 2.2 mechanism identification
 
 ---
-*Encoded 2026-04-19. Content is [VERBATIM] from the Clipping Agency positioning document produced by the Phase-3 instantiation of the Growth OS foundations pipeline. All evidence figures (Fujiwara $7.7M, ClipFlow 16,300 members, Bloomberg source) are pulled from the signal report's primary sources.*
+*Encoded 2026-04-19. Content is [VERBATIM] from the Clipping Agency positioning document produced by the Phase-3 instantiation of the Growth Optimal System foundations pipeline. All evidence figures (Fujiwara $7.7M, ClipFlow 16,300 members, Bloomberg source) are pulled from the signal report's primary sources.*

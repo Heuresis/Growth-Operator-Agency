@@ -3,7 +3,7 @@ name: Referral Designer
 id: referral-designer
 role: Customer referral mechanics (Partnerships)
 title: Referral Designer
-reportsTo: partnerships-lead
+reportsTo: partnerships-head
 budget: 300
 color: "#c69a5c"
 emoji: "♻️"
@@ -14,7 +14,7 @@ skills: [referral-program]
 context_tier: l1
 team: null
 department: partnerships
-division: partnerships
+department: partnerships
 ---
 
 # Referral Designer Agent

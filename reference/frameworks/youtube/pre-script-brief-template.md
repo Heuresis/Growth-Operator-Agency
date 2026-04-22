@@ -184,7 +184,7 @@ A good brief means the script practically writes itself. A bad brief means the s
 
 ---
 
-## How this applies in Growth OS
+## How this applies in Growth Optimal System
 
 - Skill that consumes this: `/brief-youtube-video`, `/write-youtube`
 - Agent that uses it: `youtube-producer` (creates brief), `script-writer` (consumes brief)

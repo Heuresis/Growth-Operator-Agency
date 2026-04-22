@@ -1,7 +1,7 @@
-# Growth OS Offer Building System
+# Growth Optimal System Offer Building System
 
-> Growth OS domain knowledge — used by Foundation agents for market research,
-> ICP building, and offer architecture. All methodology is Growth OS-branded.
+> Growth Optimal System domain knowledge — used by Foundation agents for market research,
+> ICP building, and offer architecture. All methodology is Growth Optimal System-branded.
 
 ---
 
@@ -9,7 +9,7 @@
 {
   \"framework_name\": \"THE ALEN SULTANIC OFFER BUILDING SYSTEM\",
   \"version\": \"COMPLETE_v1.0\",
-  \"description\": \"The exact, systematic framework Growth OS uses to build offers from A-Z. Sequential, diagnostic, decision-tree based. Works across all industries, funnel types, and market conditions.\",
+  \"description\": \"The exact, systematic framework Growth Optimal System uses to build offers from A-Z. Sequential, diagnostic, decision-tree based. Works across all industries, funnel types, and market conditions.\",
   
   \"foundational_truth\": \"We don't launch offers, we launch PROBLEMS. We don't scale offers, we scale PROBLEMS. The 40/40/20 rule: Audience (40%), Offer (40%), Copy (20%). Most focus on copy. Winners focus on audience and offer first.\",
   

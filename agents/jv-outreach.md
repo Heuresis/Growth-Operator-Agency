@@ -3,7 +3,7 @@ name: JV Outreach
 id: jv-outreach
 role: JV partner outreach + proposal producer (Partnerships)
 title: JV Outreach
-reportsTo: partnerships-lead
+reportsTo: partnerships-head
 budget: 400
 color: "#c69a5c"
 emoji: "🤝"
@@ -14,7 +14,7 @@ skills: [jv-webinar-proposal]
 context_tier: l1
 team: null
 department: partnerships
-division: partnerships
+department: partnerships
 ---
 
 # JV Outreach Agent

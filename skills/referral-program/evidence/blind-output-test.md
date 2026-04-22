@@ -33,7 +33,7 @@ For each spec, evaluator answers:
 
 ### 3. Pass Criteria
 For `/referral-program` to be blind-test-validated:
-- **≥ 2 of 3 Growth OS specs** must have ≥ 1 evaluator say `creator` or `can't tell`
+- **≥ 2 of 3 Growth Optimal System specs** must have ≥ 1 evaluator say `creator` or `can't tell`
 - **No generic-LLM spec** should be identified as `creator`
 - Average "Would you roll out?" score ≥ 60% yes
 - Average Reward rating ≥ 7/10

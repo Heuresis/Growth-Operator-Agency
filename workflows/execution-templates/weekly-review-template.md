@@ -1,13 +1,13 @@
 # Weekly Review Template (60 min)
 
 ## Purpose
-60-minute weekly rhythm to review leading + lagging metrics, validate whether the right work is happening, and plan the next week. One per division + one rollup.
+60-minute weekly rhythm to review leading + lagging metrics, validate whether the right work is happening, and plan the next week. One per department + one rollup.
 
 ## Cadence
 - **When**: Friday afternoon OR Monday morning (pick one and hold it)
 - **Duration**: 60 min, hard stop
 - **Format**: video call with shared doc, or async write-up + 15-min discussion
-- **Owner**: division lead; rollup owned by founder or ops director
+- **Owner**: department heads; rollup owned by founder or ops director
 
 ## Agenda
 1. **Metrics Review** (15 min) — leading + lagging side-by-side
@@ -65,7 +65,7 @@
 
 ## Fillable Weekly Template
 ```
-Weekly Review — Week of {YYYY-MM-DD} — {division}
+Weekly Review — Week of {YYYY-MM-DD} — {department}
 
 METRICS: (see tables above, fill in)
 
@@ -95,7 +95,7 @@ OPEN ITEMS (stuck blockers)
 
 ## Sample Filled Weekly Review
 ```
-Weekly Review — Week of 2026-04-14 — Sales Division
+Weekly Review — Week of 2026-04-14 — Sales Department
 
 METRICS
 - Cold → lead: 28% (last: 24%) — target 25% — GREEN

@@ -183,7 +183,7 @@ Too many links, too many playlists, too much cross-referencing. Overwhelming. Fi
 
 ---
 
-## How this applies in Growth OS
+## How this applies in Growth Optimal System
 
 - Skill that consumes this: `/plan-youtube-binge-loop`, `/audit-youtube-channel`
 - Agent that uses it: `youtube-producer`, `content-strategist`

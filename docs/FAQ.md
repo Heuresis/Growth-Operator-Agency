@@ -4,7 +4,7 @@ Common questions. Read [QUICKSTART](QUICKSTART.md) first if you have not yet run
 
 ---
 
-## What is Growth OS?
+## What is Growth Optimal System?
 
 A workspace template that encodes the go-to-market operation of a high-ticket creator business as runtime-agnostic files — markdown, YAML, and a specific folder contract. Any LLM that reads markdown and YAML can execute it.
 
@@ -18,7 +18,7 @@ Creators, coaches, consultants, and founders running high-ticket offers ($2K+) w
 
 ## Why not just use ChatGPT or Claude directly?
 
-You can. But chat without an encoded workspace is stateless and un-calibrated. Every conversation starts from zero. Growth OS gives the LLM a real substrate — your positioning, your ICP, your offer, your voice — before it writes a single word. That is what makes the output land.
+You can. But chat without an encoded workspace is stateless and un-calibrated. Every conversation starts from zero. Growth Optimal System gives the LLM a real substrate — your positioning, your ICP, your offer, your voice — before it writes a single word. That is what makes the output land.
 
 ---
 
@@ -86,7 +86,7 @@ Earlier drafts assumed 1 director + 7 leads + 28 specialists. Reality hired 33 s
 
 ### Can an agent own multiple skills?
 
-Yes. Several do — `email-copywriter` owns `email-sequence` and `post-booking-nurture`. `lead-magnet-designer` dual-reports to `marketing-lead` and `nurture-lead`. See [`agents/_INDEX.md`](../agents/_INDEX.md) for the routing.
+Yes. Several do — `email-copywriter` owns `email-sequence` and `post-booking-nurture`. `lead-magnet-designer` dual-reports to `marketing-head` and `nurture-head`. See [`agents/_INDEX.md`](../agents/_INDEX.md) for the routing.
 
 ---
 
@@ -114,7 +114,7 @@ Watch the S/N score over time. Watch compartment completeness. Watch blind-test 
 
 ### What is Heuresis?
 
-The studio that built Growth OS. Principal architect is Syed Hussain. Heuresis builds encoded workspaces as the deliverable product — not consulting engagements, not a SaaS platform. See [PROVENANCE.md](../PROVENANCE.md).
+The studio that built Growth Optimal System. Principal architect is Syed Hussain. Heuresis builds encoded workspaces as the deliverable product — not consulting engagements, not a SaaS platform. See [PROVENANCE.md](../PROVENANCE.md).
 
 ### Why is this private?
 
@@ -146,4 +146,4 @@ It should not have. The triple-layer gate catches banned vocabulary. If one land
 
 ---
 
-*Growth OS — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*
+*Growth Optimal System — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*

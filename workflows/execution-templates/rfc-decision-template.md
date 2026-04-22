@@ -1,11 +1,11 @@
 # RFC Decision Template
 
 ## Purpose
-Request for Comments / decision document. Used when a decision is: (a) expensive to reverse, (b) affects multiple divisions, or (c) introduces a new pattern. Forces written thinking before commitment and creates a durable record.
+Request for Comments / decision document. Used when a decision is: (a) expensive to reverse, (b) affects multiple departments, or (c) introduces a new pattern. Forces written thinking before commitment and creates a durable record.
 
 ## When to Use
 - Pricing change (any SKU)
-- New division, team, or hire ≥ senior
+- New department, team, or hire ≥ senior
 - New tech stack component (CRM, ESP, landing page, analytics)
 - Positioning or category shift
 - Major offer architecture change

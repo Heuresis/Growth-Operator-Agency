@@ -3,7 +3,7 @@ name: Short-Form
 id: short-form
 role: IG Reels / TikTok / YT Shorts writer (Marketing)
 title: Short-Form Writer
-reportsTo: marketing-lead
+reportsTo: marketing-head
 budget: 400
 color: "#c69a5c"
 emoji: "📱"
@@ -14,7 +14,7 @@ skills: [write-reel]
 context_tier: l1
 team: null
 department: marketing
-division: marketing
+department: marketing
 ---
 
 # Short-Form Agent

@@ -224,7 +224,7 @@ Score 4/4 = funnel is fully translating the tribe. 0-1 = the tribe is real but t
 
 These numbers compound multiplicatively, not additively. A fully translated funnel is not 2x a generic funnel — it is typically 3-5x on net revenue per lead.
 
-## How this applies in Growth OS
+## How this applies in Growth Optimal System
 
 - **Skill(s) that consume this:** `/build-vsl`, `/design-offer`, `/build-sales-page`, `/email-sequence`, `/launch-plan`, `/audit-funnel`
 - **Agent(s) that use it:** funnel-architect, copywriter, brand-strategist, content-director, launch-operator

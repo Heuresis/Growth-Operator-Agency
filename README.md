@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Growth OS — a Heuresis workspace template" src="docs/assets/hero-banner-light.svg" width="100%">
+<img alt="Growth Optimal System — a Heuresis workspace template" src="docs/assets/hero-banner-light.svg" width="100%">
 
 <br/>
 
@@ -26,7 +26,7 @@ Everything a high-ticket creator business runs on — encoded, versioned, yours 
 
 ## What you ship
 
-Growth OS produces the specific artifacts a high-ticket creator business runs on. No abstractions — concrete deliverables.
+Growth Optimal System produces the specific artifacts a high-ticket creator business runs on. No abstractions — concrete deliverables.
 
 | Week | Output | Spec |
 |---|---|---|
@@ -146,7 +146,7 @@ Growth OS produces the specific artifacts a high-ticket creator business runs on
 
 <div align="center">
 
-<img alt="The 7 divisions" src="docs/assets/divisions-light.svg" width="100%">
+<img alt="The 7 departments" src="docs/assets/departments-light.svg" width="100%">
 
 </div>
 
@@ -290,29 +290,29 @@ Full A-Z structure. Every file in the template.
 │   ├── content-strategist.md
 │   ├── email-copywriter.md
 │   ├── financial-modeler.md
-│   ├── foundations-lead.md
+│   ├── foundations-head.md
 │   ├── funnel-architect.md
-│   ├── growth-director.md
+│   ├── growth-ceo.md
 │   ├── icp-builder.md
 │   ├── jv-outreach.md
-│   ├── launch-lead.md
+│   ├── launch-head.md
 │   ├── launch-manager.md
 │   ├── lead-magnet-designer.md
 │   ├── linkedin-writer.md
-│   ├── marketing-lead.md
+│   ├── marketing-head.md
 │   ├── niche-architect.md
-│   ├── nurture-lead.md
+│   ├── nurture-head.md
 │   ├── offer-architect.md
 │   ├── paid-ads.md
-│   ├── partnerships-lead.md
+│   ├── partnerships-head.md
 │   ├── post-launch-analyst.md
 │   ├── referral-designer.md
 │   ├── researcher.md
 │   ├── revenue-analyst.md
-│   ├── sales-lead.md
+│   ├── sales-head.md
 │   ├── sales-ops.md
 │   ├── sales-scripter.md
-│   ├── scale-lead.md
+│   ├── scale-head.md
 │   ├── short-form.md
 │   ├── show-rate-ops.md
 │   ├── sop-builder.md
@@ -327,8 +327,8 @@ Full A-Z structure. Every file in the template.
 │   ├── assets/
 │   │   ├── architecture-dark.svg
 │   │   ├── architecture-light.svg
-│   │   ├── divisions-dark.svg
-│   │   ├── divisions-light.svg
+│   │   ├── departments-dark.svg
+│   │   ├── departments-light.svg
 │   │   ├── flywheel-dark.svg
 │   │   ├── flywheel-light.svg
 │   │   ├── github-social-dark.svg
@@ -886,7 +886,7 @@ Full A-Z structure. Every file in the template.
 │   │   └── week-1.md
 │   ├── delivery/
 │   │   └── 4-week-fulfillment.md
-│   ├── divisions/
+│   ├── departments/
 │   │   ├── foundations-pipeline.md
 │   │   ├── launch-pipeline.md
 │   │   ├── marketing-pipeline.md
@@ -982,7 +982,7 @@ Full data contract in [**SECURITY.md**](.github/SECURITY.md).
 
 v1.0.0 — initial public release — 2026-04-22.
 
-Growth OS is the first workspace template shipping under the Heuresis brand. See [CHANGELOG.md](CHANGELOG.md) for the full v1.0.0 scope and planned next releases.
+Growth Optimal System is the first workspace template shipping under the Heuresis brand. See [CHANGELOG.md](CHANGELOG.md) for the full v1.0.0 scope and planned next releases.
 
 <br/>
 

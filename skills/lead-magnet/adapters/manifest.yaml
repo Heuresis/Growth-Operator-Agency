@@ -7,7 +7,7 @@ category: nurture
 temperature_gate: warm
 
 role_affinity:
-  - nurture-lead
+  - nurture-head
   - lead-magnet
 
 required_tables:
@@ -62,7 +62,7 @@ next_skill_routing:
     - condition: "traffic_needed"
       recommend: ad-creative
   on_fail:
-    escalate_to: nurture-lead
+    escalate_to: nurture-head
 
 logging:
   phase_transitions: true

@@ -82,9 +82,9 @@ Triad. Architecture = structural offer design. Math = pricing floor/ceiling from
 > "We don't believe in get-rich-quick programs or short cuts. We believe in hard work, adding value and serving others."
 > — jeremyhaynes.com
 
-## Growth OS skill bindings
-- `/hidden-vssl-framework` → Hidden VSSL (Marketing division, Content)
-- `/call-funnel-blueprint` → Call Funnel Blueprint (Sales division)
+## Growth Optimal System skill bindings
+- `/hidden-vssl-framework` → Hidden VSSL (Marketing department, Content)
+- `/call-funnel-blueprint` → Call Funnel Blueprint (Sales department)
 - `/fix-revenue-plateau` → Fix Revenue Plateau (Strategy/Ops diagnostic)
 - `/ai-first-visibility` → AI First Visibility (Marketing/Brand)
 - `/scale-100k-to-1m` → Scale 100K To 1M (Growth architecture)
@@ -92,9 +92,9 @@ Triad. Architecture = structural offer design. Math = pricing floor/ceiling from
 - `/operator-mindset` → Operator Mindset (Founder-OS)
 - `/operating-cadence` → Operating Cadence (Ops)
 - `/pixel-conditioning` + `/stabilize-cac-scaling` → Paid-media stack
-- `/recruit-top-closers` + `/hiring-roadmap-coaches` → People division
+- `/recruit-top-closers` + `/hiring-roadmap-coaches` → People department
 - `/pipeline-triage-desk` + `/pipeline-accuracy-challenge` → RevOps
-- `/customer-lifetime-value` + `/coaching-delivery-model` → Delivery division
+- `/customer-lifetime-value` + `/coaching-delivery-model` → Delivery department
 - `/free-community-pipeline` + `/partner-webinar-system` → Partnerships
 
-**Encoding status:** COMPLETE — 38-skill catalog verified, 6 canonical frameworks mapped, Growth OS bindings drafted for all core skills.
+**Encoding status:** COMPLETE — 38-skill catalog verified, 6 canonical frameworks mapped, Growth Optimal System bindings drafted for all core skills.

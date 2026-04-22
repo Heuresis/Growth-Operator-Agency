@@ -9,8 +9,8 @@ signal:
   structure: w-x-thread-7-type
   receiver: X audience + algorithm
   receiver_capacity: low-to-medium
-division: marketing
-agent_affinity: [marketing-lead, twitter]
+department: marketing
+agent_affinity: [marketing-head, twitter]
 required_compartments:
   audience_intelligence_system: 50
   offer_architecture: 30
@@ -47,7 +47,7 @@ version: 1.0
 
 ## Role
 
-Produce X/Twitter threads in 7 canonical types. Lineage: Marketing division (7 thread types), direct-response X operators, content-to-conversion bridge applied to async-skim platform.
+Produce X/Twitter threads in 7 canonical types. Lineage: Marketing department (7 thread types), direct-response X operators, content-to-conversion bridge applied to async-skim platform.
 
 ## The 7 Thread Types
 
@@ -291,7 +291,7 @@ Single action. No stack of asks.
 
 ## References
 
-- Marketing division Division (7 thread types)
+- Marketing department Department (7 thread types)
 - `reference/frameworks/primitives/specificity.md`
 - `reference/_archive/spec/INTEGRATIONS.md` (Twitter API)
 

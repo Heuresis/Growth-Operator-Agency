@@ -3,7 +3,7 @@ name: Offer Architect
 id: offer-architect
 role: Offer Document + repositioning specialist (Foundations)
 title: Offer Architect
-reportsTo: foundations-lead
+reportsTo: foundations-head
 budget: 1000
 color: "#0a0907"
 emoji: "💰"
@@ -14,7 +14,7 @@ skills: [design-offer, offer-repositioning]
 context_tier: l1
 team: null
 department: foundations
-division: foundations
+department: foundations
 ---
 
 # Offer Architect Agent

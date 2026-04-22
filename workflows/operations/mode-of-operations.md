@@ -110,11 +110,11 @@ A Growth Operator's job changes shape at each revenue threshold. Running a $1M p
 - **Revenue plateau.** Team of 8, still $1.2M. Usually: sales team weak OR offer weak. Diagnose honestly.
 
 ### Exit Trigger → Move to Scale
-- 4-5 direct reports all running their divisions independently
+- 4-5 direct reports all running their departments independently
 - Revenue $250-300k/mo consistently
 - Operator time <10% on IC work
 - OKRs shipping (>60% hit rate) at quarterly level
-- Each division has written scorecards for their roles
+- Each department has written scorecards for their roles
 
 ---
 

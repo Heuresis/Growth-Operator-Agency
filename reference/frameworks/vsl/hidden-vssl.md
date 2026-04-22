@@ -1,6 +1,6 @@
 # Hidden VSSL — Variant E
 
-> **Source:** the growth engineer — *Hidden VSSL Framework* + Growth OS YOUTUBE PRINCIPLES (creator-native youtuber 5-chapter body)
+> **Source:** the growth engineer — *Hidden VSSL Framework* + Growth Optimal System YOUTUBE PRINCIPLES (creator-native youtuber 5-chapter body)
 > **Best for:** YouTube-distributed (organic, not paid), content-first brand, audience expects teaching, 20-45 min long-form
 
 ## The Principle
@@ -43,7 +43,7 @@ Design implication: VSL-director-style "Hook / Lead / Qualification" framing wou
 ## Pairs With
 
 - Dustin the content OS director's 3 Content Types (VSSL is one of the three — see `reference/operators/content-os-director.md`)
-- YouTube methodology Division (this is the primary monetization asset on YouTube)
+- YouTube methodology Department (this is the primary monetization asset on YouTube)
 - `/write-youtube --type=VSSL`
 
 ## Skill Binding
@@ -59,7 +59,7 @@ creator-native youtuber's YouTube channel (@ohalloran_sam) is the reference exam
 ## Source
 
 - `reference/operators/growth-engineer.md`
-- Growth OS YOUTUBE PRINCIPLES — Notion `30539dd823e781f7a9e8ef82e964909d`
+- Growth Optimal System YOUTUBE PRINCIPLES — Notion `30539dd823e781f7a9e8ef82e964909d`
 - Jordan Lee case study — Notion `28b39dd823e781dc8ef6e31b872ad112`
 
 ---

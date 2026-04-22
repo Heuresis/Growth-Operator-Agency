@@ -12,7 +12,7 @@ Naming: `#[type]-[scope]`. Lowercase, dash-separated. One convention, no excepti
 | Prefix | Purpose | Example |
 |---|---|---|
 | #team- | Team-wide, low signal | #team-general, #team-daily, #team-random |
-| #div- | Division-specific working channel | #div-sales, #div-marketing, #div-content, #div-cs, #div-ops |
+| #div- | Department-specific working channel | #div-sales, #div-marketing, #div-content, #div-cs, #div-ops |
 | #proj- | Time-bounded project | #proj-q2-launch, #proj-website-redesign |
 | #alerts- | Automated alerts only | #alerts-ops, #alerts-sales, #alerts-finance |
 | #cs-escalations | Customer escalations (restricted) | — |
@@ -51,7 +51,7 @@ Default notification settings for every team member — enforced via a pinned po
 | All new messages | Off (at workspace level) |
 | Direct messages | On |
 | @mentions | On |
-| Channel-specific: #leadership, #alerts-*, division channels | All messages |
+| Channel-specific: #leadership, #alerts-*, department channels | All messages |
 | All other channels | Mentions only |
 | Do Not Disturb | Auto-schedule outside working hours (in profile) |
 | Keywords (highlight) | Your name, 1-2 topics you care about |
@@ -65,7 +65,7 @@ Strict. Misuse wastes 20 people's time.
 | Tag | When to Use | Never |
 |---|---|---|
 | @everyone | Organization-wide urgent (outage, leadership announcement) | 1-2 times per quarter max |
-| @channel | Channel-wide urgent (whole division needs to know now) | Social / fun items |
+| @channel | Channel-wide urgent (whole department needs to know now) | Social / fun items |
 | @here | Active members, non-urgent, FYI | Routine status |
 | @[name] | Specific person | Spam DMs |
 
@@ -86,7 +86,7 @@ Abuse triggers a tap on the shoulder from the Operator or Ops Mgr.
 | DM to you, business-hours, not tagged urgent | Same business day |
 | DM to you, off-hours | Next business day |
 | #leadership mention | 4 business hours |
-| Division channel mention | Same business day |
+| Department channel mention | Same business day |
 | #alerts-ops (on-call) | 15 min |
 | #cs-escalations | 1 business hour |
 | External shared channel (client) | 4 business hours max, ideally 1 |

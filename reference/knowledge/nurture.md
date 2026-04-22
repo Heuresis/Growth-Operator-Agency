@@ -3,7 +3,7 @@
 ## Purpose
 Shared context for every lifecycle / middle-of-funnel skill. Nurture converts captured attention into booked calls and retained customers via sequenced email, lead magnets, and webinars.
 
-## Division Skills (4)
+## Department Skills (4)
 - `/email-sequence` — multi-touch email sequences (welcome, indoctrination, re-engagement, sales)
 - `/lead-magnet` — tripwire / opt-in asset (PDF, swipe file, mini-course, checklist)
 - `/webinar-script` — live / evergreen webinar (perfect-webinar pattern)
@@ -77,7 +77,7 @@ Shared context for every lifecycle / middle-of-funnel skill. Nurture converts ca
 - Skills: `skills/email-sequence/SKILL.md`, `skills/lead-magnet/SKILL.md`, `skills/webinar-script/SKILL.md`, `skills/post-booking-nurture/SKILL.md`
 - Frameworks: `reference/frameworks/perfect-webinar.md`, `reference/frameworks/8-required-beliefs.md`
 - Automations: `workflows/automations/booking-to-show.md`
-- Pipeline: `workflows/divisions/nurture-pipeline.md`
+- Pipeline: `workflows/departments/nurture-pipeline.md`
 
 ---
 *v1.0 — 2026-04-19.*

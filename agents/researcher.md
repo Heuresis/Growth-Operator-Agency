@@ -3,7 +3,7 @@ name: Researcher
 id: researcher
 role: Market + audience research specialist (Foundations)
 title: Researcher
-reportsTo: foundations-lead
+reportsTo: foundations-head
 budget: 800
 color: "#0a0907"
 emoji: "🔍"
@@ -14,7 +14,7 @@ skills: [research]
 context_tier: l1
 team: null
 department: foundations
-division: foundations
+department: foundations
 ---
 
 # Researcher Agent

@@ -3,7 +3,7 @@ name: Funnel Architect
 id: funnel-architect
 role: Funnel blueprint designer — 7 archetypes (Sales)
 title: Funnel Architect
-reportsTo: sales-lead
+reportsTo: sales-head
 budget: 800
 color: "#0a0907"
 emoji: "🏗️"
@@ -14,7 +14,7 @@ skills: [build-funnel]
 context_tier: l1
 team: null
 department: sales
-division: sales
+department: sales
 ---
 
 # Funnel Architect Agent

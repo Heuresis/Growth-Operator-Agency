@@ -5,7 +5,7 @@ Notion is the team's long-term memory: SOPs, playbooks, decisions, meeting notes
 
 ## Workspace Structure
 
-Top-level pages (one per area). Mirrors the Growth OS divisions + operating needs.
+Top-level pages (one per area). Mirrors the Growth Optimal System departments + operating needs.
 
 ```
 / Home
@@ -17,7 +17,7 @@ Top-level pages (one per area). Mirrors the Growth OS divisions + operating need
 │   └── FAQ (for new hires)
 │
 ├── 02 — Operations
-│   ├── SOPs (by division)
+│   ├── SOPs (by department)
 │   ├── Meeting Notes (by cadence)
 │   ├── Decisions Log
 │   ├── Incidents (crisis post-mortems)
@@ -200,7 +200,7 @@ Guest access (contractors, clients): limited to specific pages, never top-level 
 Notion databases (SOPs, Decisions, Meeting Notes, Content) use consistent tags for search.
 
 ### Universal tags
-- Division: sales / marketing / content / cs / ops / finance / people / exec
+- Department: sales / marketing / content / cs / ops / finance / people / exec
 - Status: draft / active / stale / archived
 - Confidentiality: public / internal / restricted
 
@@ -254,7 +254,7 @@ Notion's template feature: every database has a template. Creators click "+ New 
 | Decisions logged | Within 24h of decision | Decider or Ops Mgr |
 | SOPs reviewed | Per SOP's cadence (set on the SOP itself) | SOP owner |
 | Workspace audit | Quarterly | Ops Mgr |
-| New hire: read through Company + their division | Day 1-2 | New hire |
+| New hire: read through Company + their department | Day 1-2 | New hire |
 
 ## Integrations
 

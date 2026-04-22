@@ -115,7 +115,7 @@ Feeds `/post-booking-nurture` skill.
 - IG managers who think "branding" = no CTA
 - IG without YouTube/email/LinkedIn to back it up — caps at nurture depth
 
-## Growth OS Skill Bindings
+## Growth Optimal System Skill Bindings
 
 | Skill | Binds to |
 |---|---|
@@ -126,7 +126,7 @@ Feeds `/post-booking-nurture` skill.
 | `/post-booking-nurture` | Show-Rate Stack (PRIMARY) |
 | `/dm-sequence` | Infomatic Setting Flow |
 
-## Growth OS Pillar Assignment
+## Growth Optimal System Pillar Assignment
 
 - **Pillar 2 — Marketing Block** — primary contributor (Instagram + ads)
 - **Pillar 4 — Sales Block** — secondary (show-rate stack)

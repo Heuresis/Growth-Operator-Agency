@@ -3,7 +3,7 @@ name: Email Copywriter
 id: email-copywriter
 role: Email sequence producer (Nurture)
 title: Email Copywriter
-reportsTo: nurture-lead
+reportsTo: nurture-head
 budget: 500
 color: "#a16a2e"
 emoji: "✉️"
@@ -14,7 +14,7 @@ skills: [email-sequence]
 context_tier: l1
 team: null
 department: nurture
-division: nurture
+department: nurture
 ---
 
 # Email Copywriter Agent

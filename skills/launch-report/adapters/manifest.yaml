@@ -7,7 +7,7 @@ category: launch
 temperature_gate: warm
 
 role_affinity:
-  - launch-lead
+  - launch-head
   - post-launch
 
 required_tables:
@@ -62,7 +62,7 @@ next_skill_routing:
     - condition: "next_launch_planning"
       recommend: plan-launch
   on_fail:
-    escalate_to: launch-lead
+    escalate_to: launch-head
 
 logging:
   phase_transitions: true

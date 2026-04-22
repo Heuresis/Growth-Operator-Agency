@@ -1,9 +1,9 @@
 # Launch — Shared Knowledge
 
 ## Purpose
-Shared vocabulary, 5-phase SOP, launch variants, and tech checklist inherited by every skill in the Launch division. Launch compresses 6 months of marketing into a defined window — a concerted push with inventoried assets, a measured runway, and a post-mortem that feeds the next cycle.
+Shared vocabulary, 5-phase SOP, launch variants, and tech checklist inherited by every skill in the Launch department. Launch compresses 6 months of marketing into a defined window — a concerted push with inventoried assets, a measured runway, and a post-mortem that feeds the next cycle.
 
-## Division Skills (2)
+## Department Skills (2)
 - `/plan-launch` — build a full launch plan across the 5 phases
 - `/launch-report` — post-launch debrief + attribution + learnings
 
@@ -89,7 +89,7 @@ Pick based on: offer price, audience size, operational capacity, traffic source.
 - [ ] Rollback plan for every critical page
 
 ## Handoff Patterns
-1. Offer + VSL + Funnel ready (from sales division) → `/plan-launch` consumes them. **Gate:** all 5 Phase-1 prep items complete.
+1. Offer + VSL + Funnel ready (from sales department) → `/plan-launch` consumes them. **Gate:** all 5 Phase-1 prep items complete.
 2. `/plan-launch` produces `launch-plan.md` — 5-phase calendar, asset inventory, team responsibilities. **Gate:** tech checklist at 100%.
 3. Launch executes — metrics captured daily.
 4. `/launch-report` consumes analytics → produces `launch-report.md` with attribution, CVR, lessons, next-cycle inputs.
@@ -108,7 +108,7 @@ Pick based on: offer price, audience size, operational capacity, traffic source.
 - Knowledge: `reference/knowledge/sales.md` (funnel + VSL), `reference/knowledge/marketing.md` (creative), `reference/knowledge/nurture.md` (email sequences)
 - Frameworks: `reference/frameworks/launch-5-phase.md`, `reference/frameworks/product-launch-formula.md`
 - Agents: `agents/launch/launch-director.md`, `agents/launch/launch-analyst.md`
-- Pipeline: `workflows/divisions/launch-pipeline.md`
+- Pipeline: `workflows/departments/launch-pipeline.md`
 
 ---
 *v1.0 — 2026-04-19.*

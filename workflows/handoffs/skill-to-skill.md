@@ -86,7 +86,7 @@ expected_output:
 
 failure_handling:
   soft_fail: log + continue with warning
-  hard_fail: abort parent, escalate to sales-lead agent
+  hard_fail: abort parent, escalate to sales-head agent
   quality_gate: route to quality-revision, max 2 retries
 
 budget:
@@ -102,4 +102,4 @@ budget:
 - `../INVARIANTS.md` — INV-13 revision limit
 
 ---
-*Workspace: Growth OS v1.0 — skill chain protocol*
+*Workspace: Growth Optimal System v1.0 — skill chain protocol*

@@ -7,7 +7,7 @@
 
 ## Context
 
-This is the research output for the Clipping Agency instantiation of the Growth OS foundations pipeline. It is the reference example for what a Phase 1 signal report looks like when the market is Aware, the education gap is a blue ocean, and the economics back into high-ticket viability. The report synthesizes TAM/SAM/SOM math, market-maturity diagnosis, competitor analysis, and VOC-language capture into a single executive artifact that drives the downstream ICP and Positioning documents. This is the full signal report in compressed form - the original runs 64,500 words with 100+ source citations.
+This is the research output for the Clipping Agency instantiation of the Growth Optimal System foundations pipeline. It is the reference example for what a Phase 1 signal report looks like when the market is Aware, the education gap is a blue ocean, and the economics back into high-ticket viability. The report synthesizes TAM/SAM/SOM math, market-maturity diagnosis, competitor analysis, and VOC-language capture into a single executive artifact that drives the downstream ICP and Positioning documents. This is the full signal report in compressed form - the original runs 64,500 words with 100+ source citations.
 
 ## The Encoded Signal Report
 

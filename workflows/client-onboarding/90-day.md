@@ -34,7 +34,7 @@ A tangible, visible, client-owned result within 30 days. Never a "we set up the 
 ### Day-30 Gate
 - Client confirms Early Win in writing (email or signed doc)
 - CSAT ≥ 4.5/5
-- If gate fails → immediate escalation to division lead + replan
+- If gate fails → immediate escalation to department heads + replan
 
 ## Milestone 2 — Day 60 Mid-Review
 
@@ -107,17 +107,17 @@ Formal business review. Scoped outcomes delivered, measured, documented. Decisio
 - `{renewal_decision}` — renew / pause / off-board
 - `{expansion_sku}` — if applicable
 
-## Sample Filled (Month 3 of Growth OS engagement)
+## Sample Filled (Month 3 of Growth Optimal System engagement)
 - `{client_name}`: {CLIENT_NAME} / Alex
 - `{day_30_win}`: Positioning + ICP shipped; first 3 cold-sourced demos booked using new "only-we" statement
 - `{day_60_pace_status}`: On-track — funnel live, VSL live, 7 of planned 10 demos booked
 - `{day_90_outcome}`: $45K in booked engagements from cold funnel + 12 case-study-worthy wins
 - `{csat_90}`: 4.8 — "Worth every dollar and then some"
-- `{renewal_decision}`: Renew annual + add Scale division engagement
-- `{expansion_sku}`: Growth OS Annual + Scale Add-on
+- `{renewal_decision}`: Renew annual + add Scale department engagement
+- `{expansion_sku}`: Growth Optimal System Annual + Scale Add-on
 
 ## Escalation Triggers
-- CSAT < 4.0 at any milestone → division lead owns recovery
+- CSAT < 4.0 at any milestone → department heads owns recovery
 - 2 consecutive missed deliverable dates → founder engaged
 - Client unresponsive > 10 days → contract review + outreach sequence
 - Original goal drifting > 25% off → replan required

@@ -57,7 +57,7 @@ Before writing the brief to `output/`:
 If skill fails verification, follow `workflows/handoffs/quality-revision.md`:
 - Attempt 1: auto-revise addressing the specific failure mode
 - Attempt 2: surface the gap to creator with targeted question (often MRR/team data missing)
-- If both fail: escalate to scale-lead, log to `skills/hiring-brief/evidence/failure-modes.md`
+- If both fail: escalate to scale-head, log to `skills/hiring-brief/evidence/failure-modes.md`
 
 ## Cross-skill routing
 

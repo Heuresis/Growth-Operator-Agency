@@ -1,9 +1,9 @@
 # Sales — Shared Knowledge
 
 ## Purpose
-Shared vocabulary, funnel archetypes, VSL variants, and conversion mechanics inherited by every skill in the Sales division. Sales turns the foundations-ready offer into a revenue-producing machine — VSLs that sell, funnels that convert, and crossroads closes that move prospects off the fence.
+Shared vocabulary, funnel archetypes, VSL variants, and conversion mechanics inherited by every skill in the Sales department. Sales turns the foundations-ready offer into a revenue-producing machine — VSLs that sell, funnels that convert, and crossroads closes that move prospects off the fence.
 
-## Division Skills (2)
+## Department Skills (2)
 - `/build-vsl` — author a Video Sales Letter in one of 5 canonical variants
 - `/build-funnel` — architect a conversion funnel from 7 archetypes
 
@@ -76,7 +76,7 @@ If any bucket has < 3 elements, the VSL is not shippable.
 1. Foundations ships `offer.md` (Value Equation ≥ 150) → `/build-vsl` consumes it. **Gate:** offer must name mechanism + limiting belief.
 2. `/build-vsl` produces `vsl-script.md` — Sacred-Format 3/3 passed, mechanism-threading verified. **Gate:** 12+ threads, 3/3 blocks present, crossroads at 65–75%.
 3. `/build-funnel` consumes VSL + offer → produces `funnel-map.md` with pages, emails, automations. **Gate:** matches archetype to offer price band.
-4. Funnel Live → marketing division traffic turns on (ad-creative, story-sequence). Nurture takes over post-optin.
+4. Funnel Live → marketing department traffic turns on (ad-creative, story-sequence). Nurture takes over post-optin.
 
 ## Anti-patterns (block these)
 - VSL with < 12 mechanism threads (audience never retains the mechanism)
@@ -91,7 +91,7 @@ If any bucket has < 3 elements, the VSL is not shippable.
 - Frameworks: `reference/frameworks/value-equation.md`, `reference/frameworks/vsl-sacred-format.md`, `reference/frameworks/crossroads-close.md`
 - Knowledge: `reference/knowledge/foundations.md` (offer + voice prerequisites), `reference/knowledge/nurture.md` (email follow-up)
 - Agents: `agents/sales/vsl-writer.md`, `agents/sales/funnel-architect.md`
-- Pipeline: `workflows/divisions/sales-pipeline.md`
+- Pipeline: `workflows/departments/sales-pipeline.md`
 
 ---
 *v1.0 — 2026-04-19.*

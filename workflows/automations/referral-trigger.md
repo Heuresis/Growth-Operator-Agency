@@ -197,7 +197,7 @@ while the launch is fresh.
 ## Cross-references
 - Skill: `skills/referral-program/`
 - Knowledge: `reference/knowledge/partnerships.md`
-- Pipeline: `workflows/divisions/partnerships-pipeline.md`
+- Pipeline: `workflows/departments/partnerships-pipeline.md`
 - Automations: `workflows/automations/purchase-to-onboarding.md` (referred-lead entry), `workflows/automations/lead-to-crm.md` (attribution)
 
 ---

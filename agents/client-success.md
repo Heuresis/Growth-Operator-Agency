@@ -3,7 +3,7 @@ name: Client Success
 id: client-success
 role: Retention scoring + churn prevention (Scale)
 title: Client Success
-reportsTo: scale-lead
+reportsTo: scale-head
 budget: 400
 color: "#0a0907"
 emoji: "💚"
@@ -14,7 +14,7 @@ skills: [retention-check]
 context_tier: l1
 team: null
 department: scale
-division: scale
+department: scale
 ---
 
 # Client Success Agent

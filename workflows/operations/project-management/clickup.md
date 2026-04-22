@@ -47,7 +47,7 @@ Workspace: [Company Name]
 └── Space: 07 — Personal Tasks (private per user)
 ```
 
-One space per division, matching the Growth OS division model. Cross-division work lives in the "owning" space; dependencies get linked tasks, not duplicates.
+One space per department, matching the Growth Optimal System department model. Cross-department work lives in the "owning" space; dependencies get linked tasks, not duplicates.
 
 ## List Templates — Standard Fields
 
@@ -79,7 +79,7 @@ Every list uses these common custom fields, plus list-specific extras.
 
 ### OKRs — extras
 - Quarter (Q1 2026, etc.)
-- Division
+- Department
 - KR type (growth / quality / efficiency)
 - Confidence (1-10, updated weekly)
 - Progress % (0-100, updated weekly)
@@ -111,7 +111,7 @@ Set up in ClickUp's built-in automation engine. Naming convention: `[space] — 
 3. **Creative — Status → Approved — Post to #content channel with link.** Public visibility on ship.
 4. **Hiring — Status → Offer — Notify Operator + CFO.** Comp approval gate.
 5. **SOPs — Last updated >180 days — Auto-tag "Stale" and notify owner.** Fights SOP rot.
-6. **OKR — Confidence <7 — Notify division lead + Operator.** Early warning for off-track.
+6. **OKR — Confidence <7 — Notify department heads + Operator.** Early warning for off-track.
 7. **Any task — Blocked > 5 days — Notify Operator.** Hunt zombies.
 8. **Any task — Overdue + not started — Notify assignee + their manager.** Accountability.
 9. **Task created in #slack-[channel] — Create ClickUp task in [list].** Slack → CU bridge.
@@ -120,13 +120,13 @@ Set up in ClickUp's built-in automation engine. Naming convention: `[space] — 
 
 ### Exec Dashboard (Operator)
 - Pipeline total ($ in each stage)
-- OKR progress (% per division)
+- OKR progress (% per department)
 - Open roles + stage
 - Decisions this quarter (count)
 - Stale SOPs count
 - Overdue tasks count (org-wide)
 
-### Division Dashboard (each division lead)
+### Department Dashboard (each department heads)
 - My team's tasks by status
 - My team's OKR progress
 - Overdue > 2 days
@@ -144,7 +144,7 @@ Set up in ClickUp's built-in automation engine. Naming convention: `[space] — 
 | Role | Access |
 |---|---|
 | Operator / CFO | All spaces (admin) |
-| Division leads | Their space (admin) + adjacent spaces (guest / read) |
+| Department leads | Their space (admin) + adjacent spaces (guest / read) |
 | Team members | Their space (member) |
 | Contractors | Guest access to specific lists only |
 | External (clients / vendors) | No ClickUp access (use shared Notion or portal instead) |
@@ -162,7 +162,7 @@ Day 1 of every new hire:
 
 | Report | Frequency | Viewer |
 |---|---|---|
-| Team-level velocity | Weekly | Division leads |
+| Team-level velocity | Weekly | Department leads |
 | OKR progress | Weekly → monthly → quarterly | Operator |
 | Pipeline movement | Weekly | Sales lead + Operator |
 | Automation audit | Quarterly | Ops Mgr |

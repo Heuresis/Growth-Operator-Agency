@@ -8,8 +8,8 @@ The playbook for the 6 crisis types a Growth business actually hits: refund stor
 | Tier | Definition | Owner | Response Window |
 |---|---|---|---|
 | T1 | Threatens survival (cash, legal, PR scale) | Operator | Within 2 hours |
-| T2 | Material impact (revenue, team, ops) | Division lead + Operator informed | Within 8 hours |
-| T3 | Contained incident | Division lead | Within 24 hours |
+| T2 | Material impact (revenue, team, ops) | Department lead + Operator informed | Within 8 hours |
+| T3 | Contained incident | Department lead | Within 24 hours |
 
 Call the tier early and loudly. Mis-tiering is the most common failure.
 

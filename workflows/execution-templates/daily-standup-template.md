@@ -46,7 +46,7 @@ Yesterday: ...
 
 ## Sample Filled Standup
 ```
-Standup — 2026-04-19 — Growth OS Delivery
+Standup — 2026-04-19 — Growth Optimal System Delivery
 
 METRICS
 - Leads today: 47 (7d avg: 42) ↑
@@ -67,7 +67,7 @@ Blockers: Need Stripe access from client by noon to finish tracking setup — pi
 
 ## Blocker Escalation
 - Blocker named today → owner acknowledges within 2h
-- Blocker open 48h → escalates to division lead automatically
+- Blocker open 48h → escalates to department heads automatically
 - Blocker open 96h → escalates to founder + re-scoped
 
 ## Anti-patterns (block these)

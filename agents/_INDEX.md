@@ -7,14 +7,14 @@
 ## The reporting chain
 
 ```
-growth-director (orchestrator)
-├── foundations-lead
+growth-ceo (orchestrator)
+├── foundations-head
 │   ├── researcher
 │   ├── niche-architect
 │   ├── icp-builder
 │   ├── offer-architect
 │   └── brand-voice
-├── marketing-lead
+├── marketing-head
 │   ├── content-strategist
 │   ├── youtube-producer
 │   ├── short-form
@@ -22,26 +22,26 @@ growth-director (orchestrator)
 │   ├── twitter-writer
 │   ├── linkedin-writer
 │   ├── paid-ads
-│   └── lead-magnet-designer (dual-report with nurture-lead)
-├── nurture-lead
+│   └── lead-magnet-designer (dual-report with nurture-head)
+├── nurture-head
 │   ├── email-copywriter
 │   ├── webinar-producer
 │   ├── show-rate-ops
-│   └── post-launch-analyst (dual-report with launch-lead)
-├── sales-lead
+│   └── post-launch-analyst (dual-report with launch-head)
+├── sales-head
 │   ├── vsl-builder (primary VSL architect, 5-variant selector)
 │   ├── vsl-writer (executes variant chosen by vsl-builder)
 │   ├── funnel-architect
 │   ├── sales-scripter
 │   ├── sales-ops
 │   └── competitor-analyst
-├── launch-lead
+├── launch-head
 │   └── launch-manager
-├── partnerships-lead
+├── partnerships-head
 │   ├── jv-outreach
 │   ├── affiliate-architect
 │   └── referral-designer
-└── scale-lead
+└── scale-head
     ├── sop-builder
     ├── talent-recruiter
     ├── client-success
@@ -50,80 +50,80 @@ growth-director (orchestrator)
     └── case-study-producer
 ```
 
-## Roster by division
+## Roster by department
 
 ### Orchestrator (1)
 | Agent | Skills | Tier |
 |---|---|---|
-| [`growth-director`](growth-director.md) | (delegates all) | L5 — top of chain |
+| [`growth-ceo`](growth-ceo.md) | (delegates all) | L5 — top of chain |
 
 ### Foundations (6)
 | Agent | Primary skill(s) | Reports to |
 |---|---|---|
-| [`foundations-lead`](foundations-lead.md) | (orchestrates 5 foundations skills) | growth-director |
-| [`researcher`](researcher.md) | `/research` | foundations-lead |
-| [`niche-architect`](niche-architect.md) | `/build-positioning` | foundations-lead |
-| [`icp-builder`](icp-builder.md) | `/build-icp` | foundations-lead |
-| [`offer-architect`](offer-architect.md) | `/design-offer` | foundations-lead |
-| [`brand-voice`](brand-voice.md) | `/extract-voice` | foundations-lead |
+| [`foundations-head`](foundations-head.md) | (orchestrates 5 foundations skills) | growth-ceo |
+| [`researcher`](researcher.md) | `/research` | foundations-head |
+| [`niche-architect`](niche-architect.md) | `/build-positioning` | foundations-head |
+| [`icp-builder`](icp-builder.md) | `/build-icp` | foundations-head |
+| [`offer-architect`](offer-architect.md) | `/design-offer` | foundations-head |
+| [`brand-voice`](brand-voice.md) | `/extract-voice` | foundations-head |
 
 ### Marketing (8)
 | Agent | Primary skill(s) | Reports to |
 |---|---|---|
-| [`marketing-lead`](marketing-lead.md) | (orchestrates marketing skills) | growth-director |
-| [`content-strategist`](content-strategist.md) | `/content-calendar` | marketing-lead |
-| [`youtube-producer`](youtube-producer.md) | `/write-youtube` | marketing-lead |
-| [`short-form`](short-form.md) | `/write-reel` | marketing-lead |
-| [`stories-producer`](stories-producer.md) | `/story-sequence` | marketing-lead |
-| [`twitter-writer`](twitter-writer.md) | `/write-x-thread` | marketing-lead |
-| [`linkedin-writer`](linkedin-writer.md) | `/write-linkedin-post` | marketing-lead |
-| [`paid-ads`](paid-ads.md) | `/ad-creative` | marketing-lead |
+| [`marketing-head`](marketing-head.md) | (orchestrates marketing skills) | growth-ceo |
+| [`content-strategist`](content-strategist.md) | `/content-calendar` | marketing-head |
+| [`youtube-producer`](youtube-producer.md) | `/write-youtube` | marketing-head |
+| [`short-form`](short-form.md) | `/write-reel` | marketing-head |
+| [`stories-producer`](stories-producer.md) | `/story-sequence` | marketing-head |
+| [`twitter-writer`](twitter-writer.md) | `/write-x-thread` | marketing-head |
+| [`linkedin-writer`](linkedin-writer.md) | `/write-linkedin-post` | marketing-head |
+| [`paid-ads`](paid-ads.md) | `/ad-creative` | marketing-head |
 
 ### Nurture (4)
 | Agent | Primary skill(s) | Reports to |
 |---|---|---|
-| [`nurture-lead`](nurture-lead.md) | (orchestrates nurture skills) | growth-director |
-| [`email-copywriter`](email-copywriter.md) | `/email-sequence`, `/post-booking-nurture` | nurture-lead |
-| [`webinar-producer`](webinar-producer.md) | `/webinar-script` | nurture-lead |
-| [`show-rate-ops`](show-rate-ops.md) | `/post-booking-nurture` | nurture-lead |
-| [`lead-magnet-designer`](lead-magnet-designer.md) | `/lead-magnet` | marketing-lead + nurture-lead |
+| [`nurture-head`](nurture-head.md) | (orchestrates nurture skills) | growth-ceo |
+| [`email-copywriter`](email-copywriter.md) | `/email-sequence`, `/post-booking-nurture` | nurture-head |
+| [`webinar-producer`](webinar-producer.md) | `/webinar-script` | nurture-head |
+| [`show-rate-ops`](show-rate-ops.md) | `/post-booking-nurture` | nurture-head |
+| [`lead-magnet-designer`](lead-magnet-designer.md) | `/lead-magnet` | marketing-head + nurture-head |
 
 ### Sales (6)
 | Agent | Primary skill(s) | Reports to |
 |---|---|---|
-| [`sales-lead`](sales-lead.md) | (orchestrates sales skills) | growth-director |
-| [`vsl-builder`](vsl-builder.md) | `/build-vsl` (architect) | sales-lead |
-| [`vsl-writer`](vsl-writer.md) | `/build-vsl` (writer — executes variant) | sales-lead |
-| [`funnel-architect`](funnel-architect.md) | `/build-funnel` | sales-lead |
-| [`sales-scripter`](sales-scripter.md) | (sales script skills) | sales-lead |
-| [`sales-ops`](sales-ops.md) | (sales operations skills) | sales-lead |
-| [`competitor-analyst`](competitor-analyst.md) | `/competitor-intel` | sales-lead |
+| [`sales-head`](sales-head.md) | (orchestrates sales skills) | growth-ceo |
+| [`vsl-builder`](vsl-builder.md) | `/build-vsl` (architect) | sales-head |
+| [`vsl-writer`](vsl-writer.md) | `/build-vsl` (writer — executes variant) | sales-head |
+| [`funnel-architect`](funnel-architect.md) | `/build-funnel` | sales-head |
+| [`sales-scripter`](sales-scripter.md) | (sales script skills) | sales-head |
+| [`sales-ops`](sales-ops.md) | (sales operations skills) | sales-head |
+| [`competitor-analyst`](competitor-analyst.md) | `/competitor-intel` | sales-head |
 
 ### Launch (2)
 | Agent | Primary skill(s) | Reports to |
 |---|---|---|
-| [`launch-lead`](launch-lead.md) | (orchestrates launch skills) | growth-director |
-| [`launch-manager`](launch-manager.md) | `/plan-launch` | launch-lead |
-| [`post-launch-analyst`](post-launch-analyst.md) | `/launch-report` | launch-lead + nurture-lead |
+| [`launch-head`](launch-head.md) | (orchestrates launch skills) | growth-ceo |
+| [`launch-manager`](launch-manager.md) | `/plan-launch` | launch-head |
+| [`post-launch-analyst`](post-launch-analyst.md) | `/launch-report` | launch-head + nurture-head |
 
 ### Partnerships (4)
 | Agent | Primary skill(s) | Reports to |
 |---|---|---|
-| [`partnerships-lead`](partnerships-lead.md) | (orchestrates partnerships skills) | growth-director |
-| [`jv-outreach`](jv-outreach.md) | `/jv-webinar-proposal` | partnerships-lead |
-| [`affiliate-architect`](affiliate-architect.md) | `/affiliate-program` | partnerships-lead |
-| [`referral-designer`](referral-designer.md) | `/referral-program` | partnerships-lead |
+| [`partnerships-head`](partnerships-head.md) | (orchestrates partnerships skills) | growth-ceo |
+| [`jv-outreach`](jv-outreach.md) | `/jv-webinar-proposal` | partnerships-head |
+| [`affiliate-architect`](affiliate-architect.md) | `/affiliate-program` | partnerships-head |
+| [`referral-designer`](referral-designer.md) | `/referral-program` | partnerships-head |
 
 ### Scale (6)
 | Agent | Primary skill(s) | Reports to |
 |---|---|---|
-| [`scale-lead`](scale-lead.md) | (orchestrates scale skills) | growth-director |
-| [`sop-builder`](sop-builder.md) | `/build-sop` | scale-lead |
-| [`talent-recruiter`](talent-recruiter.md) | `/hiring-brief` | scale-lead |
-| [`client-success`](client-success.md) | `/retention-check` | scale-lead |
-| [`revenue-analyst`](revenue-analyst.md) | `/revenue-report` | scale-lead |
-| [`financial-modeler`](financial-modeler.md) | (financial modeling) | scale-lead |
-| [`case-study-producer`](case-study-producer.md) | `/case-study` | scale-lead |
+| [`scale-head`](scale-head.md) | (orchestrates scale skills) | growth-ceo |
+| [`sop-builder`](sop-builder.md) | `/build-sop` | scale-head |
+| [`talent-recruiter`](talent-recruiter.md) | `/hiring-brief` | scale-head |
+| [`client-success`](client-success.md) | `/retention-check` | scale-head |
+| [`revenue-analyst`](revenue-analyst.md) | `/revenue-report` | scale-head |
+| [`financial-modeler`](financial-modeler.md) | (financial modeling) | scale-head |
+| [`case-study-producer`](case-study-producer.md) | `/case-study` | scale-head |
 
 ## Frontmatter schema
 
@@ -144,7 +144,7 @@ signal: S=(mode, genre, type, format, structure)
 tools: [read, write, search, delegate?]
 skills: [skill-slug, ...]
 context_tier: l0 | l1 | full
-division: foundations | marketing | nurture | sales | launch | partnerships | scale | null
+department: foundations | marketing | nurture | sales | launch | partnerships | scale | null
 ---
 ```
 
@@ -155,9 +155,9 @@ Body sections: Identity (Personality + Memory + Experience) → Core Mission →
 - `../skills/_INDEX.md` — skill catalog this roster invokes
 - `../SYSTEM.md` — routing logic + boot sequence
 - `../INVARIANTS.md` — the 14 sacred rules every agent inherits
-- `../reference/knowledge/` — division-level shared knowledge
+- `../reference/knowledge/` — department-level shared knowledge
 
 ---
-*v1.0.0 — 2026-04-21 — 41 agents (1 director + 7 division leads + 33 specialists).*
+*v1.0.0 — 2026-04-21 — 41 agents (1 director + 7 department heads + 33 specialists).*
 
-*Growth OS — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*
+*Growth Optimal System — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*

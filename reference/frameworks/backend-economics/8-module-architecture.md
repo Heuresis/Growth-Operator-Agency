@@ -153,7 +153,7 @@ The Blueprint's root file explicitly states: "Each module stands alone but stren
 
 ---
 
-## Binding into the Growth OS
+## Binding into the Growth Optimal System
 
 - **Operator onboarding:** 1 module per week for 8 weeks, with deliverables (concept bank, script pipeline, insight database).
 - **Weekly cadence:** modules 3-6 cycle weekly. Module 3 (concept bank), Module 4 (script), Module 5 (production), Module 6 (analytics review).

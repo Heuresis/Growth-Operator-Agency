@@ -7,7 +7,7 @@ category: partnerships
 temperature_gate: warm
 
 role_affinity:
-  - partnerships-lead
+  - partnerships-head
 
 required_tables:
   - creators
@@ -55,7 +55,7 @@ next_skill_routing:
     - condition: "affiliate_recruitment_planned"
       recommend: email-sequence
   on_fail:
-    escalate_to: partnerships-lead
+    escalate_to: partnerships-head
 
 logging:
   phase_transitions: true

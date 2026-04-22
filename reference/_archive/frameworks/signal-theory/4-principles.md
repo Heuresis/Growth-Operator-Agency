@@ -13,7 +13,7 @@ Every channel has finite capacity: `C = B × log₂(1 + S/N)`.
 
 **Law:** if rate R < C → arbitrarily low error rate possible. If R > C → reliable communication impossible.
 
-**Applied to Growth OS:**
+**Applied to Growth Optimal System:**
 - Context window is a finite channel
 - Output length has a ceiling
 - Exceeding ceiling = information theory violation = reliable understanding impossible
@@ -32,7 +32,7 @@ Every channel has finite capacity: `C = B × log₂(1 + S/N)`.
 - R 3.0-10.0 → adequate
 - R ≥ 10.0 → robust
 
-**Applied to Growth OS:**
+**Applied to Growth Optimal System:**
 - VSL needs 5 variant templates (the VSL director/the psychological copywriter/the 13-step VSL author/the VSL copywriter/the growth engineer) because buyer contexts have high variety
 - Email sequences need 8 types because situations vary
 - Funnels need 7 archetypes
@@ -49,7 +49,7 @@ Every viable system requires 5 recursive subsystems:
 - **System 4** — Intelligence (scan external environment)
 - **System 5** — Policy (define encoding standards + identity)
 
-**Applied to Growth OS:**
+**Applied to Growth Optimal System:**
 - Foundations = System 5 (Policy — ICP + offer + positioning set identity)
 - Marketing = Transmission Layer
 - Nurture = System 2 (Coordination — keeps buyer stages aligned)
@@ -71,7 +71,7 @@ See `signal-theory/vsm-mapping.md` for full mapping.
 - **Double-loop** — is our process producing good outputs?
 - **Triple-loop** — are our assumptions still valid?
 
-**Applied to Growth OS:**
+**Applied to Growth Optimal System:**
 - Every skill produces output AND expects a response (accepted / rejected / refined)
 - Blind Output Test = feedback mechanism (creator + evaluators provide signal)
 - Compartment updates after skill execution = loop closure
@@ -97,7 +97,7 @@ All 4 must be satisfied for a skill to ship.
 When something underperforms, diagnose WHICH principle failed:
 - Output too long / verbose → information theory
 - Doesn't match creator context → cybernetics theory (variety deficit)
-- Missing division output / blind to something → viable systems theory
+- Missing department output / blind to something → viable systems theory
 - No response / feedback → feedback-loop theory
 
 ## Sources

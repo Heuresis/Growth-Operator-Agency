@@ -227,7 +227,7 @@ After a draft offer exists, run each step through this audit:
 
 An offer scoring 6-7/7 converts structurally. An offer scoring 3-4/7 can be ad-spent into producing revenue but will leak refund and churn. An offer scoring 0-2/7 has a structural problem the market will punish.
 
-## How this applies in Growth OS
+## How this applies in Growth Optimal System
 
 - **Skill(s) that consume this:** `/design-offer`, `/offer-repositioning`, `/audit-offer`, `/build-vsl`, `/webinar-script`
 - **Agent(s) that use it:** offer-architect, copywriter, product-designer, buyer-psychology-analyst

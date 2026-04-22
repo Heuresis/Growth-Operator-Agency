@@ -269,7 +269,7 @@ Find the phase where it got stuck, and the fix is usually within that phase's me
 
 ---
 
-## How this applies in Growth OS
+## How this applies in Growth Optimal System
 
 - Skill that consumes this: `/audit-youtube-video`, `/diagnose-youtube-dropoff`
 - Agent that uses it: `youtube-producer`, `channel-analyst`

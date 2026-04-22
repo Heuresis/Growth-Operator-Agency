@@ -7,7 +7,7 @@ category: nurture
 temperature_gate: warm
 
 role_affinity:
-  - nurture-lead
+  - nurture-head
   - webinar
 
 required_tables:
@@ -68,7 +68,7 @@ next_skill_routing:
     - condition: "invite_content_needed"
       recommend: write-linkedin-post
   on_fail:
-    escalate_to: nurture-lead
+    escalate_to: nurture-head
 
 logging:
   phase_transitions: true

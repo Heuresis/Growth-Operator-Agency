@@ -7,7 +7,7 @@ category: marketing
 temperature_gate: warm
 
 role_affinity:
-  - marketing-lead
+  - marketing-head
   - short-form
 
 required_tables:
@@ -82,7 +82,7 @@ next_skill_routing:
     - condition: "stories_pending"
       recommend: story-sequence
   on_fail:
-    escalate_to: marketing-lead
+    escalate_to: marketing-head
 
 logging:
   phase_transitions: true

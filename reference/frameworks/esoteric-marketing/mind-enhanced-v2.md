@@ -269,7 +269,7 @@ Running a live asset through the stack:
 
 5/5 = fully stacked; close rate compounds with the archetype and translation layers. 3-4/5 = functional but with a soft spot — identify which layer is missing, usually Layer 3 sub-segment or Layer 5 identity. 0-2/5 = logical asset with no emotional arc — revenue will come from ad spend alone, not from the asset.
 
-## How this applies in Growth OS
+## How this applies in Growth Optimal System
 
 - **Skill(s) that consume this:** `/build-vsl`, `/webinar-script`, `/email-sequence`, `/sales-page-copy`, `/audit-persuasion-arc`
 - **Agent(s) that use it:** copywriter, vsl-architect, email-strategist, buyer-psychology-analyst

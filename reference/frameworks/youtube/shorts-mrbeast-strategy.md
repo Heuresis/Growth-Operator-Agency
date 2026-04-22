@@ -190,7 +190,7 @@ Every second is fighting for the next second.
 
 ---
 
-## How this applies in Growth OS
+## How this applies in Growth Optimal System
 
 - Skill that consumes this: `/write-youtube-short`, `/plan-youtube-shorts-series`
 - Agent that uses it: `youtube-producer`, `shorts-writer`

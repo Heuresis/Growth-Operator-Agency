@@ -82,8 +82,8 @@ One paragraph. The thing no one predicted. Insight quality often lives here.
 Binding decisions for the next launch cycle. Each with owner + date.
 - Decision: `{what}` — rationale: `{why}` — owner: `{name}` — implementation by: `{date}`
 
-## Section 8 — Route-To Downstream Divisions
-Which divisions receive which lessons:
+## Section 8 — Route-To Downstream Departments
+Which departments receive which lessons:
 - Foundations: `{offer/positioning refinement}`
 - Marketing: `{creative performance, top angle, top hook}`
 - Nurture: `{sequence CVR, which email drove bookings}`
@@ -93,7 +93,7 @@ Which divisions receive which lessons:
 
 ## Sample Filled Debrief (abbreviated)
 ```
-Launch Debrief — Q1-2026 Cohort Launch ({CLIENT_NAME} Growth OS)
+Launch Debrief — Q1-2026 Cohort Launch ({CLIENT_NAME} Growth Optimal System)
 
 HEADLINE
 - Total revenue: $142K (target $150K, -5%)
@@ -130,7 +130,7 @@ NEXT-CYCLE DECISIONS
 - Wins-only or misses-only report — both distort future decisions
 
 ## Cross-references
-- Pipeline: `workflows/divisions/launch-pipeline.md`
+- Pipeline: `workflows/departments/launch-pipeline.md`
 - Skill: `skills/launch-report/`
 - Templates: `workflows/execution-templates/post-mortem-template.md`
 

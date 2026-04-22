@@ -1,6 +1,6 @@
 # Architecture
 
-Growth OS encodes a specific thesis: a go-to-market operation for a high-ticket creator business can be expressed as a runtime-agnostic workspace that any capable LLM can execute. This document walks the layers, the invariants, and the flywheel.
+Growth Optimal System encodes a specific thesis: a go-to-market operation for a high-ticket creator business can be expressed as a runtime-agnostic workspace that any capable LLM can execute. This document walks the layers, the invariants, and the flywheel.
 
 <img alt="Workspace = ROM. Agent = RAM. Skills are stacked." src="assets/architecture-light.svg" width="100%">
 
@@ -35,7 +35,7 @@ This three-layer split is the **Encoded Founder** model in practice. Change the 
 
 ## The 11-compartment context profile
 
-Every output Growth OS produces is a function of the Creator Context Profile stored in `company.yaml`. The eleven compartments are weighted per the **Impact Distribution Principle** (40/40/20 — audience drives 40% of results, offer drives 40%, copy drives 20%):
+Every output Growth Optimal System produces is a function of the Creator Context Profile stored in `company.yaml`. The eleven compartments are weighted per the **Impact Distribution Principle** (40/40/20 — audience drives 40% of results, offer drives 40%, copy drives 20%):
 
 | # | Compartment | Weight | What it holds |
 |---|---|---|---|
@@ -105,7 +105,7 @@ Full list in [`INVARIANTS.md`](../INVARIANTS.md). Each invariant has a NEVER cla
 
 ## Signal Theory — the quality substrate
 
-Every output Growth OS produces is a **Signal** encoded as a 5-tuple:
+Every output Growth Optimal System produces is a **Signal** encoded as a 5-tuple:
 
 ```
 S = (Mode, Genre, Type, Format, Structure)
@@ -165,9 +165,9 @@ Every skill ships as a folder with one runtime-agnostic canonical (`SKILL.md`) a
 
 Agents are thin personas. Business logic lives in skills, not agents. The routing is:
 
-1. User intent arrives at `growth-director` (orchestrator).
-2. Director classifies to a division lead based on the target output.
-3. Division lead routes to the specialist that owns the relevant skill.
+1. User intent arrives at `growth-ceo` (orchestrator).
+2. Director classifies to a department heads based on the target output.
+3. Department lead routes to the specialist that owns the relevant skill.
 4. Specialist loads `skills/{slug}/SKILL.md`, checks context thresholds, executes.
 5. Output passes through the triple-layer gate.
 6. On pass, artifact ships. On fail, handoff per `workflows/handoffs/quality-revision.md` (max 2 attempts before creator escalation).
@@ -176,9 +176,9 @@ See [`agents/_INDEX.md`](../agents/_INDEX.md) for the full roster and reporting 
 
 ---
 
-## The 7 divisions
+## The 7 departments
 
-<img alt="7 divisions of Growth OS" src="assets/divisions-light.svg" width="100%">
+<img alt="7 departments of Growth Optimal System" src="assets/departments-light.svg" width="100%">
 
 ---
 
@@ -192,4 +192,4 @@ See [`agents/_INDEX.md`](../agents/_INDEX.md) for the full roster and reporting 
 
 ---
 
-*Growth OS — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*
+*Growth Optimal System — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*

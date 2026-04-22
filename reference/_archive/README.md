@@ -1,6 +1,6 @@
 # reference/_archive/
 
-Dense / academic / future reference content, moved out of the main workspace to keep Growth OS focused on day-to-day use.
+Dense / academic / future reference content, moved out of the main workspace to keep Growth Optimal System focused on day-to-day use.
 
 ## What's here
 
@@ -28,4 +28,4 @@ If you are reading this because something broke — check the main workspace fir
 
 ---
 
-*Growth OS — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*
+*Growth Optimal System — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*

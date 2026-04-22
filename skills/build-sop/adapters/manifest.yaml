@@ -7,7 +7,7 @@ category: scale
 temperature_gate: warm
 
 role_affinity:
-  - scale-lead
+  - scale-head
   - sop-builder
 
 required_tables:
@@ -61,7 +61,7 @@ next_skill_routing:
     - condition: "variant == reporting_sop"
       recommend: revenue-report
   on_fail:
-    escalate_to: scale-lead
+    escalate_to: scale-head
 
 logging:
   phase_transitions: true

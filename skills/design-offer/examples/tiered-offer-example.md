@@ -1,6 +1,6 @@
 # Clipping Agency - 3-Tier Offer Architecture
 
-> **Case:** Clipping Agency, a Phase-3 instantiation of the Growth OS foundations pipeline
+> **Case:** Clipping Agency, a Phase-3 instantiation of the Growth Optimal System foundations pipeline
 > **Built from:** Signal Report (85/100 viability) → ICP (90/100 completeness) → Positioning → Offer
 > **Framework applied:** the offer architect's Phase 2 Pricing Architecture (tiered default) + Value Equation scoring
 > **Outcome:** Offer validated with LTV:CAC 6.9:1, Value Equation 5.25, gross margin 63%

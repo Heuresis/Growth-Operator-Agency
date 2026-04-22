@@ -17,7 +17,7 @@ _v1.0 initial validation: pending (skill is freshly shipped)_
 ### 1. Output Set
 - 2 historical week-sequences the creator has actually run (pick weeks with DM + conversion traction, not just view-count)
 - 3 week-sequences produced by `/story-sequence` (different creator contexts or different weekly themes)
-- 1 generic-LLM sequence (control — no Growth OS context)
+- 1 generic-LLM sequence (control — no Growth Optimal System context)
 
 All outputs anonymized. Strip creator names, replace brand names with `[BRAND]`, randomize order. Reviewers see text scripts + visual concepts (not final designs — this tests copy + structure).
 
@@ -33,9 +33,9 @@ For each sequence, evaluator answers:
 
 ### 3. Pass Criteria
 For `/story-sequence` to be blind-test-validated:
-- **≥ 2 of 3 Growth OS sequences** must have ≥ 1 evaluator say `creator` or `can't tell`
+- **≥ 2 of 3 Growth Optimal System sequences** must have ≥ 1 evaluator say `creator` or `can't tell`
 - **No generic-LLM sequence** should be identified as `creator`
-- Average "Would you run this?" ≥ 60% yes for Growth OS sequences
+- Average "Would you run this?" ≥ 60% yes for Growth Optimal System sequences
 - Average orange/grey balance rating ≥ 7/10
 - Average Day 3 objection-break rating ≥ 7/10
 

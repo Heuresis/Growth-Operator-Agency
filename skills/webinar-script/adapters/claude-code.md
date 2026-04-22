@@ -59,7 +59,7 @@ Before writing to `output/`:
 
 ## Failure handling
 
-Per `workflows/handoffs/quality-revision.md`: auto-revise → surface gap → escalate to nurture-lead, log to `skills/webinar-script/evidence/failure-modes.md`. If 8-beliefs map incomplete, block shipping.
+Per `workflows/handoffs/quality-revision.md`: auto-revise → surface gap → escalate to nurture-head, log to `skills/webinar-script/evidence/failure-modes.md`. If 8-beliefs map incomplete, block shipping.
 
 ## Cross-skill routing
 

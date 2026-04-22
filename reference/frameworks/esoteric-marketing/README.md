@@ -9,7 +9,7 @@
 
 **Esoteric school:** understands WHY humans buy at the primal level — status, security, belonging, certainty — and designs offers that trigger those primal buyers before the prospect can rationalize.
 
-Both schools work. Growth OS uses both. Esoteric school lives here.
+Both schools work. Growth Optimal System uses both. Esoteric school lives here.
 
 ## The Four Core Concepts
 

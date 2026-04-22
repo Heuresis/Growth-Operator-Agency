@@ -7,7 +7,7 @@ category: foundations
 temperature_gate: warm
 
 role_affinity:
-  - foundations-lead
+  - foundations-head
   - offer-architect
 
 required_tables:
@@ -65,7 +65,7 @@ next_skill_routing:
     - condition: "value_equation_50_to_150"
       recommend: offer-repositioning
   on_fail:
-    escalate_to: foundations-lead
+    escalate_to: foundations-head
 
 logging:
   phase_transitions: true

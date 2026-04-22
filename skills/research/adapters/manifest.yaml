@@ -7,7 +7,7 @@ category: foundations
 temperature_gate: warm
 
 role_affinity:
-  - foundations-lead
+  - foundations-head
   - researcher
   - icp-builder
 
@@ -60,7 +60,7 @@ next_skill_routing:
     - condition: "economics_validation_failed"
       recommend: design-offer
   on_fail:
-    escalate_to: foundations-lead
+    escalate_to: foundations-head
 
 logging:
   phase_transitions: true

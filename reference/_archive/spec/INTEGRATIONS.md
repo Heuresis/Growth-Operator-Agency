@@ -59,7 +59,7 @@ scopes_required:           # OAuth scopes if relevant
 
 ## The 12 Integration Categories
 
-Every growth operator business uses services in 12 categories. Growth OS maps skill needs to categories; adapters bind category → concrete service per creator's actual stack.
+Every growth operator business uses services in 12 categories. Growth Optimal System maps skill needs to categories; adapters bind category → concrete service per creator's actual stack.
 
 ### 1. Ads Platforms
 - **Meta Ads API** — FB + IG ad management, Profile Funnel Ads, retargeting, creative upload
@@ -152,7 +152,7 @@ Every growth operator business uses services in 12 categories. Growth OS maps sk
 
 ## The MCP Server Catalog
 
-Model Context Protocol servers Growth OS skills can invoke:
+Model Context Protocol servers Growth Optimal System skills can invoke:
 
 | MCP Server | Purpose | Key tools |
 |---|---|---|
@@ -417,9 +417,9 @@ Most skills should prefer MCP where possible. Direct API only when MCP doesn't c
 
 - Anthropic Agent SDK + Claude Skills documentation
 - the workspace manifest `architecture/adapters.md`
-- Growth OS Context Profile Compartment 11 (Operational Intelligence — tech_stack)
+- Growth Optimal System Context Profile Compartment 11 (Operational Intelligence — tech_stack)
 - MCP specification — https://modelcontextprotocol.io
 
 ---
 
-*v1.0 — 2026-04-19. Growth OS skills remain runtime-agnostic. Adapters carry concrete-service bindings. Creators' stacks are configurable.*
+*v1.0 — 2026-04-19. Growth Optimal System skills remain runtime-agnostic. Adapters carry concrete-service bindings. Creators' stacks are configurable.*

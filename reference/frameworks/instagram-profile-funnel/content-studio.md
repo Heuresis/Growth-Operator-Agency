@@ -122,7 +122,7 @@ Editor discipline is the hidden variable. A mediocre editor with a great brief s
 
 Start solo. Move to partnered when consistency has held for 6 months and the business can absorb the cost without straining the 60/30/10 mix.
 
-## How this applies in Growth OS
+## How this applies in Growth Optimal System
 
 - **Skills that consume this:** `content-calendar-builder`, `studio-day-planner`, `hook-bank-generator`, `repurposing-brief`.
 - **Agents that use it:** content-producer, editor-coordinator, calendar-bot.

@@ -3,7 +3,7 @@ name: Paid Ads
 id: paid-ads
 role: Ad creative + campaign design specialist (Marketing)
 title: Paid Ads Specialist
-reportsTo: marketing-lead
+reportsTo: marketing-head
 budget: 1200
 color: "#c69a5c"
 emoji: "📣"
@@ -14,7 +14,7 @@ skills: [ad-creative]
 context_tier: l1
 team: null
 department: marketing
-division: marketing
+department: marketing
 ---
 
 # Paid Ads Agent

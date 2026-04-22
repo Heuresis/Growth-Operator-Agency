@@ -77,8 +77,8 @@ No artifact cycles more than 2 revisions in the system. Indefinite revision loop
 If revision limit exhausted:
 
 1. Agent writes escalation note to `.growth-os/event_log.jsonl`
-2. Routes to Growth Director (`agents/growth-director.md`)
-3. Growth Director summarizes to user with options
+2. Routes to Growth CEO (`agents/growth-ceo.md`)
+3. Growth CEO summarizes to user with options
 4. User decides: approve-with-exception / re-scope / abandon
 
 ## Cross-References
@@ -90,4 +90,4 @@ If revision limit exhausted:
 - `../reference/_archive/spec/BLIND-OUTPUT-TEST.md` — the gold-standard validation protocol
 
 ---
-*Workspace: Growth OS v1.0 — revision contract per `INVARIANTS.md` INV-13*
+*Workspace: Growth Optimal System v1.0 — revision contract per `INVARIANTS.md` INV-13*

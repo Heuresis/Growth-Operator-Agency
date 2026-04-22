@@ -25,7 +25,7 @@ Async is the default. Sync is a tax, and the tax must be justified.
 |---|---|---|
 | Slack DM | Urgent, personal, <24h decision needed | 2 working hours |
 | Slack channel (#team-general) | Team-wide info, non-urgent | Same day |
-| Slack channel (#division-*) | Division-specific work | Same day |
+| Slack channel (#department-*) | Department-specific work | Same day |
 | Slack channel (#alerts-*) | Automated alerts, on-call | 15 min on-call, 2h off |
 | Loom | Demos, walkthroughs, async feedback | 24h to watch + reply |
 | Notion doc comment | Structured feedback on deliverable | 48h |
@@ -77,7 +77,7 @@ RACI = Responsible, Accountable, Consulted, Informed. A=1 and only 1.
 | New service offer | Operator | Operator | Closer, CS Mgr, CFO | Full team |
 | Campaign launch | Marketing Mgr | Marketing Mgr | Operator | Team |
 | Paid ad budget change >20% | Ad Buyer | Marketing Mgr | CFO | Operator |
-| Roadmap priority change | Ops Mgr | Operator | Division leads | Full team |
+| Roadmap priority change | Ops Mgr | Operator | Department leads | Full team |
 
 Disagreements escalate to the Accountable. If Accountable disagrees with Consulted, Accountable decides and documents why.
 
@@ -106,7 +106,7 @@ Post in the destination channel (e.g., #sales-pipeline, #cs-onboarding), not DM.
 ## Documentation Standards
 
 - **Every process done 3x gets a written SOP.** See `skills/sop-writer/`.
-- **SOPs live in Notion**, organized by division (see `tool-sops-notion.md`).
+- **SOPs live in Notion**, organized by department (see `tool-sops-notion.md`).
 - **SOP format:** Purpose → Trigger → Inputs → Steps (numbered) → Outputs → Edge cases → Owner → Last updated.
 - **Review cadence:** each SOP owner reviews their SOPs every 90 days. Stale = older than 180 days, flagged in monthly business review.
 - **Loom-first documentation:** record the task while doing it; transcribe; edit into SOP. Much faster than writing from scratch — most SOPs ship in under 30 minutes this way.

@@ -3,7 +3,7 @@ name: Affiliate Architect
 id: affiliate-architect
 role: Affiliate program design (Partnerships)
 title: Affiliate Architect
-reportsTo: partnerships-lead
+reportsTo: partnerships-head
 budget: 400
 color: "#c69a5c"
 emoji: "🔗"
@@ -14,7 +14,7 @@ skills: [affiliate-program]
 context_tier: l1
 team: null
 department: partnerships
-division: partnerships
+department: partnerships
 ---
 
 # Affiliate Architect Agent

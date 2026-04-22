@@ -1,6 +1,6 @@
-# Skills Index — Growth OS
+# Skills Index — Growth Optimal System
 
-> **29 shipped skills**, organized by division. Each skill is a **folder**:
+> **29 shipped skills**, organized by department. Each skill is a **folder**:
 > `skills/{slug}/SKILL.md + reference/ + examples/ + evidence/ + adapters/`
 >
 > **Discovery pattern:** runtime scans `skills/*/SKILL.md` at boot (one level deep, flat).
@@ -11,7 +11,7 @@
 
 - ✅ Shipped — full SKILL.md + adapters + evidence scaffolding
 - 🟡 v1.1 target — skill reserved for next minor release
-- ⏳ v2.0 roadmap — future division expansion
+- ⏳ v2.0 roadmap — future department expansion
 
 ---
 

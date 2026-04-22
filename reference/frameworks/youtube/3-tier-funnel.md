@@ -219,7 +219,7 @@ Creator has 50K subscribers and no VSSL. Traffic exists but there's no conversio
 
 ---
 
-## How this applies in Growth OS
+## How this applies in Growth Optimal System
 
 - Skill that consumes this: `/plan-youtube-funnel`, `/audit-youtube-channel`
 - Agent that uses it: `youtube-producer`, `content-strategist`

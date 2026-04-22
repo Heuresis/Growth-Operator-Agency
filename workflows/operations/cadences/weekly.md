@@ -23,7 +23,7 @@ Fridays stay afternoon — keeps the team ending the week together. Mondays stay
 **Participants:** Operator + all direct reports (Ops Mgr, Marketing Mgr, CS Mgr, Content Mgr, Sales lead, CFO if applicable)
 **Agenda:**
 - 0:00-0:10 — Numbers review: revenue, cash, leads, pipeline, CAC, churn (live dashboard)
-- 0:10-0:25 — Division updates: each lead, 2 min each — what shipped, what ships this week, blocks
+- 0:10-0:25 — Department updates: each lead, 2 min each — what shipped, what ships this week, blocks
 - 0:25-0:45 — Top 3 decisions this week (pre-circulated, RACI assigned)
 - 0:45-0:55 — Operator priorities + asks of the room
 - 0:55-1:00 — Actions + owners + due dates
@@ -31,7 +31,7 @@ Fridays stay afternoon — keeps the team ending the week together. Mondays stay
 **Pre-read (sent by Sunday 6pm):**
 - Dashboard snapshot link
 - Decision docs for the 3 items to decide
-- Division leads' 2-bullet updates posted in #leadership channel
+- Department leads' 2-bullet updates posted in #leadership channel
 
 **Outputs:**
 - Meeting recap in #leadership within 2 hours (template in `team-collaboration.md`)
@@ -79,7 +79,7 @@ Fridays stay afternoon — keeps the team ending the week together. Mondays stay
 - 0:15-0:25 — Owned channels: email, organic, community — KPI + next week's plan
 - 0:25-0:35 — Creative pipeline: what's in production, review queue, publishing slate
 - 0:35-0:42 — Tests live and tests shipping — hypotheses + success criteria
-- 0:42-0:45 — Asks of Operator / other divisions
+- 0:42-0:45 — Asks of Operator / other departments
 
 **Metrics reviewed:**
 - CAC by channel + blended
@@ -128,7 +128,7 @@ Fridays stay afternoon — keeps the team ending the week together. Mondays stay
 - 0:15-0:25 — Video operations: YouTube plan, short-form cadence, turnaround time
 - 0:25-0:35 — Copy + email: sequences shipping, A/B tests, open/click rates
 - 0:35-0:42 — Top performer review: 1 piece that overperformed — why? Replicate pattern.
-- 0:42-0:45 — Asks / dependencies (creative briefs owed from other divisions)
+- 0:42-0:45 — Asks / dependencies (creative briefs owed from other departments)
 
 **Metrics reviewed:**
 - Publishing cadence vs plan
@@ -148,7 +148,7 @@ Fridays stay afternoon — keeps the team ending the week together. Mondays stay
 **Participants:** Full team
 **Agenda:**
 - 0:00-0:05 — Operator: numbers + 1 strategic message
-- 0:05-0:15 — Division round: each lead gives 1 win + 1 learn (1 min each)
+- 0:05-0:15 — Department round: each lead gives 1 win + 1 learn (1 min each)
 - 0:15-0:20 — Shoutouts: public recognition, peer-nominated
 - 0:20-0:25 — 1 demo / Loom of cool work this week
 - 0:25-0:30 — Questions → Operator (AMA, pre-submitted in Slack #all-hands)
@@ -176,7 +176,7 @@ Fridays stay afternoon — keeps the team ending the week together. Mondays stay
 ## Failure Modes
 - **Weekly becomes status.** Fix: enforce "decisions made" section; cancel meetings with 0 decisions 2 weeks running.
 - **Pre-read skipped, meeting re-briefs.** Fix: 5 min silent reading at top; rebrief-nobody-read is dead.
-- **Division weekly owned by Operator.** Fix: named division lead drives; Operator is a participant.
+- **Department weekly owned by Operator.** Fix: named department heads drives; Operator is a participant.
 - **All-hands goes negative.** Fix: bad news in leadership; all-hands is deliberately forward-looking.
 - **Friday all-hands competes with end-of-week work.** Fix: hard-keep 3pm slot; protect it.
 

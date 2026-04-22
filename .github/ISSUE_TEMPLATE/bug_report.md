@@ -35,7 +35,7 @@ Runtime version / model:
 
 ## Workspace version
 
-Growth OS version from `CHANGELOG.md` or the `README.md` header:
+Growth Optimal System version from `CHANGELOG.md` or the `README.md` header:
 
 ## Relevant files
 

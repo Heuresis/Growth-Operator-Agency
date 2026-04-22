@@ -33,7 +33,7 @@ governance:
     - guarantee_change
   immutable_log: true
   escalation_chain:
-    - growth-director
+    - growth-ceo
     - creator
   signal_threshold: 0.8                   # S/N gate for external-facing output
   signal_threshold_internal: 0.5
@@ -174,7 +174,7 @@ copy_messaging:
 content_strategy:
   content_pillars: []
   platform_strategies:
-    # Growth OS scope: minimal platform strategy. Full platform ops = vertical workspaces.
+    # Growth Optimal System scope: minimal platform strategy. Full platform ops = vertical workspaces.
     youtube:
       active: false
       content_types: []

@@ -147,7 +147,7 @@ End-screen strategy: ONE video recommendation (not two), highly related to curre
 
 **You cannot skip stages.** Click without Consume = high CTR with retention collapse = algorithm punishes the channel. Consume without Convert = audience with no business. Convert without Click = no top-of-funnel for Convert to act on.
 
-## Binding into the Growth OS
+## Binding into the Growth Optimal System
 
 - Growth-content calendar: every video upload runs the full 3 C's audit pre-publish.
 - Analytics cadence: weekly review benchmarks CTR / APV / non-sub watch time by view-count cohort.

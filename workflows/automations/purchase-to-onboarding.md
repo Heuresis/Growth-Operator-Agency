@@ -126,14 +126,14 @@ refund_window_days: 14
 upsell_trigger_day: 14
 ```
 
-## Sample Filled (Growth OS Quarterly $25K)
+## Sample Filled (Growth Optimal System Quarterly $25K)
 ```yaml
 processor: stripe
 portal: notion
 slack_workspace_invite: true
 welcome_email:
   send_within_seconds: 60
-  subject_template: 'Welcome to Growth OS, {first_name} — let us get started'
+  subject_template: 'Welcome to Growth Optimal System, {first_name} — let us get started'
 personal_note:
   assigned_to: ops@example.com
   deadline_hours: 24

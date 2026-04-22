@@ -4,9 +4,9 @@
 
 ## Purpose
 
-The HTTP/OpenAPI adapter is **the generic REST interface** to any Growth OS skill. It is the binding that lets a skill be called by:
+The HTTP/OpenAPI adapter is **the generic REST interface** to any Growth Optimal System skill. It is the binding that lets a skill be called by:
 
-- **Growth OS predecessor Next.js** front-end (the creator-facing app calling `/skills/design-offer/execute` from the browser)
+- **Growth Optimal System predecessor Next.js** front-end (the creator-facing app calling `/skills/design-offer/execute` from the browser)
 - **Arbitrary backends** (Node, Go, Python, PHP — anything that speaks HTTP)
 - **Zapier / Make / n8n** bridges when a creator wants a skill wired into their existing automation stack
 - **Any future runtime** that has no purpose-built adapter — HTTP is the universal fallback

@@ -166,7 +166,7 @@ Good setters share five traits:
 
 Compensation: $1k–$3k/month base + $25–75 per booked-and-held call. Avoid commission on closes — misaligns setter with closer.
 
-## How this applies in Growth OS
+## How this applies in Growth Optimal System
 
 - **Skills that consume this:** `setter-daily-checklist`, `dm-triage`, `call-confirmation-sequence`, `handoff-note-builder`.
 - **Agents that use it:** setter-assistant, inbox-triage-bot, closer-coordinator.

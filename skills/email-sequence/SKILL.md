@@ -9,8 +9,8 @@ signal:
   structure: variant-dependent-w-email-sequence
   receiver: subscriber
   receiver_capacity: low-to-medium
-division: nurture
-agent_affinity: [nurture-lead, email-sequence]
+department: nurture
+agent_affinity: [nurture-head, email-sequence]
 required_compartments:
   audience_intelligence_system: 60
   offer_architecture: 50

@@ -59,7 +59,7 @@ Before writing the spec to `output/`:
 If skill fails verification, follow `workflows/handoffs/quality-revision.md`:
 - Attempt 1: auto-revise addressing the specific failure mode
 - Attempt 2: surface the gap to creator with targeted question (often trigger cadence undecided)
-- If both fail: escalate to partnerships-lead, log to `skills/referral-program/evidence/failure-modes.md`
+- If both fail: escalate to partnerships-head, log to `skills/referral-program/evidence/failure-modes.md`
 
 ## Cross-skill routing
 

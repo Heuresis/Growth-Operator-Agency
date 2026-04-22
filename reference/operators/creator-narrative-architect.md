@@ -16,7 +16,7 @@ Public web surface yields:
 
 1. **Name/spelling variant.** Possibilities to verify: *the creator-narrative architect*, *Scazighino*, *Scazzero*, *Scazafabo*, *Scaziano*, *Scazzi*, *Scazer*. Need Syed to confirm correct spelling or social handle.
 2. **Sub-community operator.** May be Skool-, Discord-, or private-community-only (no public SEO surface). Common for operators under 25 who sell only into a single mastermind.
-3. **Internal Growth OS reference.** May be someone in Syed's personal network, not a public operator. Encoding would then draw from direct interview/transcripts, not the web.
+3. **Internal Growth Optimal System reference.** May be someone in Syed's personal network, not a public operator. Encoding would then draw from direct interview/transcripts, not the web.
 4. **Alias / first-name-only handle.** "Nick" is a high-collision name. Without handle (e.g. @nickscaz on X/IG) the entity is not resolvable.
 
 ## Recommended next step
@@ -28,7 +28,7 @@ Syed to provide:
 
 Then re-run encoding. Without a resolvable handle, this operator cannot be canonically encoded from external sources.
 
-## Growth OS skill bindings
+## Growth Optimal System skill bindings
 None until public surface is resolved.
 
 **Encoding status:** DEFERRED — unresolved identity. Not a YouTube-only gap; a *no-public-surface* gap. Requires operator handle or direct source from Syed before Phase J.
@@ -37,7 +37,7 @@ None until public surface is resolved.
 
 > **[IDENTITY-RESOLUTION PENDING — this section captures the the creator-narrative architect *archetype* pattern only. Verify specific operator identity before relying on this profile. Do not cite this section as the creator-narrative architect's actual teaching until the handle / URL / framework name is confirmed.]**
 >
-> Added 2026-04-19 — Phase J external encoding. Since the operator's public surface is unresolved, this section maps the likely archetype ("the creator-narrative architect" naming pattern suggests a high-ticket closer / sales trainer / outbound operator archetype common in 2023–2025 cohort) and what Growth OS operators can import from that archetype, not from the creator-narrative architect specifically.
+> Added 2026-04-19 — Phase J external encoding. Since the operator's public surface is unresolved, this section maps the likely archetype ("the creator-narrative architect" naming pattern suggests a high-ticket closer / sales trainer / outbound operator archetype common in 2023–2025 cohort) and what Growth Optimal System operators can import from that archetype, not from the creator-narrative architect specifically.
 
 ### Archetype pattern — High-ticket closer / outbound sales trainer
 
@@ -55,19 +55,19 @@ None until public surface is resolved.
 **Notable quotes / phrases:**
 - [UNVERIFIED — no specific quote captured; operator identity unresolved, and fabricating archetype-level quotes is not acceptable]
 
-**Takeaways for Growth OS operators (from the archetype, not from the creator-narrative architect specifically):**
+**Takeaways for Growth Optimal System operators (from the archetype, not from the creator-narrative architect specifically):**
 - If the founder is still on >50% of sales calls at $100K/mo, the next hire is a trained closer, not a marketer.
 - Separate setter-pay from closer-pay structurally — blurring the line collapses both roles.
 - Build the call script and CRM-follow-up cadence as explicit artifacts, not folklore.
 
-**What does NOT apply to most Growth OS operators:**
+**What does NOT apply to most Growth Optimal System operators:**
 - Low-ticket operators do not need a closer hire; the archetype is high-ticket-only.
 - Operators whose ICP converts via application + async close do not need a setter-closer split.
 - Enterprise B2B with 3–9 month sales cycles cannot compress to 1-call close; the archetype assumes coaching/agency-style deal velocity.
 
 ### Cross-archetype notes
 
-Because the creator-narrative architect's identity is unresolved, the above content is explicitly labeled archetype-level. Growth OS operators should treat this section as *"what an operator in this archetype likely teaches"* rather than *"what the creator-narrative architect teaches."* Two failure modes to avoid:
+Because the creator-narrative architect's identity is unresolved, the above content is explicitly labeled archetype-level. Growth Optimal System operators should treat this section as *"what an operator in this archetype likely teaches"* rather than *"what the creator-narrative architect teaches."* Two failure modes to avoid:
 
 1. **Citing the creator-narrative architect as source** for any claim in this section until identity is resolved.
 2. **Assuming the creator-narrative architect matches the archetype.** The name pattern suggests the archetype, but the operator may be in a different category entirely (e.g., personal brand, fitness, e-com). Identity resolution is the unblocking step.

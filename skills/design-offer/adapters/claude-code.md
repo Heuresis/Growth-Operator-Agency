@@ -61,7 +61,7 @@ Before writing the artifact to `output/`:
 If the skill fails verification, follow `workflows/handoffs/quality-revision.md`:
 - Attempt 1: auto-revise addressing the specific failure mode (usually economics fix-path or bonus re-mapping)
 - Attempt 2: surface the gap to creator with a targeted question
-- If both fail: escalate to foundations-lead, log to `skills/design-offer/evidence/failure-modes.md`
+- If both fail: escalate to foundations-head, log to `skills/design-offer/evidence/failure-modes.md`
 
 ## Cross-skill routing
 

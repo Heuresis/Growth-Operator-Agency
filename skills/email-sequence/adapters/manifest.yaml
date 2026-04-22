@@ -7,7 +7,7 @@ category: nurture
 temperature_gate: warm
 
 role_affinity:
-  - nurture-lead
+  - nurture-head
   - email-sequence
 
 required_tables:
@@ -64,7 +64,7 @@ next_skill_routing:
     - condition: "call_funnel_context"
       recommend: post-booking-nurture
   on_fail:
-    escalate_to: nurture-lead
+    escalate_to: nurture-head
 
 logging:
   phase_transitions: true

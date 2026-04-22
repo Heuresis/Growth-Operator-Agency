@@ -147,7 +147,7 @@ Session-starter tries to close the sale directly. Viewer bounces because the con
 
 ---
 
-## How this applies in Growth OS
+## How this applies in Growth Optimal System
 
 - Skill that consumes this: `/plan-youtube-session-starter`, `/write-youtube`
 - Agent that uses it: `youtube-producer`, `content-strategist`

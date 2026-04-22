@@ -33,14 +33,14 @@ All quarterly cadences wrap by end of Q-start week 1. No lingering. Q2 shouldn't
 - 1:00-2:00 — State of the business: revenue, cash, team, market position (CFO + Operator)
 - 2:00-3:00 — Strategic objectives for the quarter (3 max, Operator drives)
 - 3:00-4:00 — LUNCH
-- 4:00-5:30 — OKR drafting per division (breakouts, 2 people per breakout)
+- 4:00-5:30 — OKR drafting per department (breakouts, 2 people per breakout)
 - 5:30-6:30 — OKR shareback + alignment + conflicts resolved
 - 6:30-7:30 — Big bets: 1-2 multi-quarter plays, what they need this quarter
 - 7:30-8:00 — Commitments: each leader states their OKRs aloud, in front of peers
 
 **OKR template:**
 ```
-Division: _______
+Department: _______
 Objective (qualitative, ambitious): _______
 Key Results (3 max, measurable):
   KR1: from [X] to [Y] by [date]
@@ -52,13 +52,13 @@ Owner: _______
 ```
 
 **Rules:**
-- 3 objectives max per division. OKRs sprawl is the #1 quarterly failure.
+- 3 objectives max per department. OKRs sprawl is the #1 quarterly failure.
 - KRs must be outcomes, not activities. "Ship 3 campaigns" is an activity. "Get CAC below $X" is an outcome.
 - Confidence <7 at plan = re-scope the KR before committing.
 
 **Outputs:**
 - Q-plan doc in Notion `/quarterly-plans/YYYY-QX/`
-- Each leader's OKRs posted in their division channel
+- Each leader's OKRs posted in their department channel
 - Tasks created in ClickUp for Q1 milestones of big bets
 
 ---
@@ -173,7 +173,7 @@ Owner: _______
 
 ## Metrics / Success Criteria
 - All 5 quarterly cadences completed within the 2-week window each quarter
-- OKRs per division ≤3 (not 5+)
+- OKRs per department ≤3 (not 5+)
 - 70%+ OKR hit rate at quarter end (targets are ambitious; 100% = too easy)
 - Team reviews completed for 100% of direct reports
 - Hiring plan from capacity planning executes within 60 days for 80% of roles

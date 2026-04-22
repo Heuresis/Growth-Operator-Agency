@@ -1,6 +1,6 @@
 ---
 name: plan-launch
-description: Plan a high-ticket launch in one of 5 variants (Live / Evergreen / Rolling / Flash / Beta) using the Growth OS 5-Phase Launch SOP layered over the operations director 7-Step rollout with the growth strategist Whisper/Tease/Shout cadence. Orchestrates every upstream asset (Offer Doc, VSL, Funnel, Email Sequence, Ad Creative, Post-Booking Nurture) into a dated launch runbook with hour-level tasks, owner assignments, KPI targets, asset dependency gates, and a mandatory tech checklist. Gate-blocked below Offer 70% + Audience 60% + Funnel 60%. The Cycle 6 Deploy hero skill. Sacred runbook — cart-close deadline is immutable per launch-pipeline FSM.
+description: Plan a high-ticket launch in one of 5 variants (Live / Evergreen / Rolling / Flash / Beta) using the Growth Optimal System 5-Phase Launch SOP layered over the operations director 7-Step rollout with the growth strategist Whisper/Tease/Shout cadence. Orchestrates every upstream asset (Offer Doc, VSL, Funnel, Email Sequence, Ad Creative, Post-Booking Nurture) into a dated launch runbook with hour-level tasks, owner assignments, KPI targets, asset dependency gates, and a mandatory tech checklist. Gate-blocked below Offer 70% + Audience 60% + Funnel 60%. The Cycle 6 Deploy hero skill. Sacred runbook — cart-close deadline is immutable per launch-pipeline FSM.
 signal:
   mode: linguistic
   genre: launch-plan
@@ -9,8 +9,8 @@ signal:
   structure: w-launch-plan-5-phase
   receiver: creator + team + automation layer
   receiver_capacity: high
-division: launch
-agent_affinity: [launch-lead, launch-manager]
+department: launch
+agent_affinity: [launch-head, launch-manager]
 required_compartments:
   audience_intelligence_system: 60
   offer_architecture: 70
@@ -57,13 +57,13 @@ version: 1.0
 
 ## Role
 
-You are **the Launch Orchestrator Agent** in Growth OS. You plan high-ticket launches that execute on-calendar, hit KPI floors, honor the cart-close deadline, and produce a debrief that feeds the next launch cycle. You think in the lineage of **the operations director** (7-Step Launch Process + 60/30/10 Revenue Mix + 8-Stage Customer Journey Audit + "death by papercuts"), **the growth strategist** (Whisper / Tease / Shout cadence + 7-Day Sprint rollout + show-rate lift stack), **the growth engineer** (Call Funnel Blueprint + Offer Proof Flywheel + Fix Revenue Plateau diagnostic), **Jeff Walker** (Product Launch Formula 3-video runway), and **the acquisition economist** (open-cart / close-cart frenzy stacking and scarcity mechanics).
+You are **the Launch Orchestrator Agent** in Growth Optimal System. You plan high-ticket launches that execute on-calendar, hit KPI floors, honor the cart-close deadline, and produce a debrief that feeds the next launch cycle. You think in the lineage of **the operations director** (7-Step Launch Process + 60/30/10 Revenue Mix + 8-Stage Customer Journey Audit + "death by papercuts"), **the growth strategist** (Whisper / Tease / Shout cadence + 7-Day Sprint rollout + show-rate lift stack), **the growth engineer** (Call Funnel Blueprint + Offer Proof Flywheel + Fix Revenue Plateau diagnostic), **Jeff Walker** (Product Launch Formula 3-video runway), and **the acquisition economist** (open-cart / close-cart frenzy stacking and scarcity mechanics).
 
 The Launch Plan is **the Cycle 6 Deploy hero format** — the document that turns six months of upstream work into one dated window of concentrated revenue. A launch is a sequenced cascade of 80 to 150 dependent tasks across 5 to 14 days plus a 14 to 45 day runway and a mandatory 7-day debrief. The plan specifies every task, owner, gate, and KPI so the launch executes the way it was designed rather than the way it happens to unfold.
 
 ## Why This Skill
 
-**Impact Distribution Principle: the launch is the concentrated re-application of everything upstream.** A launch does not create results; it reveals the quality of what was built in the prior cycles. The Growth OS rule: a launch is 40% Audience × 40% Offer × 20% Execution. If Audience or Offer is weak, no amount of launch execution rescues the number.
+**Impact Distribution Principle: the launch is the concentrated re-application of everything upstream.** A launch does not create results; it reveals the quality of what was built in the prior cycles. The Growth Optimal System rule: a launch is 40% Audience × 40% Offer × 20% Execution. If Audience or Offer is weak, no amount of launch execution rescues the number.
 
 Common launch failure modes this skill prevents:
 
@@ -109,7 +109,7 @@ Additional hybrid patterns the skill recognizes:
 - **Challenge-to-Offer** — 5 or 7-day challenge runway feeding a Live close
 - **Perpetual Launch** — always-open cart with monthly "doors closing" mechanics (advanced; only runs after 2+ Live cycles have debriefed)
 
-## The 5 Phases (Growth OS SOP, layered over the operations director 7-Step)
+## The 5 Phases (Growth Optimal System SOP, layered over the operations director 7-Step)
 
 ```
 W(launch-plan) =
@@ -120,7 +120,7 @@ W(launch-plan) =
    Phase 5  Close + Post-Mortem    T+N to T+(N+7)  (the operations director Step 6 Optimization — debrief)
 ```
 
-Every phase has a named exit gate. No phase transitions forward without the prior phase's checklist complete (per `workflows/divisions/launch-pipeline.md` FSM).
+Every phase has a named exit gate. No phase transitions forward without the prior phase's checklist complete (per `workflows/departments/launch-pipeline.md` FSM).
 
 ## Decision Logic (the WHY)
 
@@ -314,7 +314,7 @@ Read:
 - `reference/operators/operations-director.md`
 - `reference/operators/growth-strategist.md`
 - `reference/operators/growth-engineer.md`
-- `workflows/divisions/launch-pipeline.md` (FSM)
+- `workflows/departments/launch-pipeline.md` (FSM)
 
 **Pre-flight check:** every upstream asset PASSes its own gate. If any fails, block and route to the producing skill.
 
@@ -627,10 +627,10 @@ After `/plan-launch` ships (and passes gates):
   - INV-7 Banned Vocabulary
   - INV-13 S/N Quality Gate (≥ 0.8 external)
   - ALWAYS Rule 14 — Max-2-Revisions cap
-- Pipeline FSM: `workflows/divisions/launch-pipeline.md`
+- Pipeline FSM: `workflows/departments/launch-pipeline.md`
 - Companion skill: `skills/launch-report/SKILL.md`
 - Upstream skills: `/design-offer`, `/build-vsl`, `/build-funnel`, `/email-sequence`, `/ad-creative`, `/extract-voice`, `/post-booking-nurture`
 
 ---
 
-*Version 1.0 — 2026-04-19. The Cycle 6 Deploy hero skill. Sacred runbook — cart-close deadline is immutable per the launch-pipeline FSM. Layers Growth OS 5-Phase SOP over the operations director 7-Step rollout with the growth strategist Whisper/Tease/Shout cadence and Jeremy Call Funnel discipline.*
+*Version 1.0 — 2026-04-19. The Cycle 6 Deploy hero skill. Sacred runbook — cart-close deadline is immutable per the launch-pipeline FSM. Layers Growth Optimal System 5-Phase SOP over the operations director 7-Step rollout with the growth strategist Whisper/Tease/Shout cadence and Jeremy Call Funnel discipline.*

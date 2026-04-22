@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640" role="img" aria-label="Growth OS — a Heuresis workspace template">
-  <title>Growth OS — a Heuresis workspace template</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640" role="img" aria-label="Growth — a Heuresis workspace template">
+  <title>Growth — a Heuresis workspace template</title>
 
   <defs>
     <radialGradient id="gs-core-d" cx="38%" cy="35%" r="68%" fx="33%" fy="30%">
@@ -42,7 +42,7 @@
   <g transform="translate(80 0)">
     <text class="gs-label" x="0" y="344" font-size="14">A  HEURESIS  WORKSPACE</text>
 
-    <text class="gs-title" x="0" y="450" font-size="116">Growth OS</text>
+    <text class="gs-title" x="0" y="450" font-size="116">Growth</text>
 
     <text class="gs-subtitle" x="0" y="500" font-size="24">The encoded workspace template for high-ticket operators.</text>
 

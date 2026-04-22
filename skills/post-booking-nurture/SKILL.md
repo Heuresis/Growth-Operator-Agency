@@ -9,8 +9,8 @@ signal:
   structure: w-post-booking-stack
   receiver: booked prospect
   receiver_capacity: medium
-division: nurture
-agent_affinity: [nurture-lead, email-sequence, sms]
+department: nurture
+agent_affinity: [nurture-head, email-sequence, sms]
 required_compartments:
   audience_intelligence_system: 60
   offer_architecture: 50
@@ -383,7 +383,7 @@ Per offer price + funnel archetype, decide which components (confirmation page +
 
 - `reference/operators/tier-3-rising/siguard-foss.md` (Infomatic Setting Flow + Show Rate stack)
 - `reference/operators/growth-engineer.md` (Confirmation Page That Converts — 5-function)
-- Growth OS `Show Rates - VSL Call Funnel` canonical source
+- Growth Optimal System `Show Rates - VSL Call Funnel` canonical source
 - `reference/_archive/spec/INTEGRATIONS.md` (Twilio + Cal.com + GHL)
 
 ---

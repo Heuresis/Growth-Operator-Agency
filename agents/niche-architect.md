@@ -3,7 +3,7 @@ name: Niche Architect
 id: niche-architect
 role: Positioning + mechanism-naming specialist (Foundations)
 title: Niche Architect
-reportsTo: foundations-lead
+reportsTo: foundations-head
 budget: 800
 color: "#0a0907"
 emoji: "🧭"
@@ -14,7 +14,7 @@ skills: [build-positioning, name-mechanism]
 context_tier: l1
 team: null
 department: foundations
-division: foundations
+department: foundations
 ---
 
 # Niche Architect Agent

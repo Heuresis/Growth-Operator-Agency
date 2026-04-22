@@ -1,6 +1,6 @@
 # 9-Area ICP Deep-Dive
 
-> **Source / Lineage:** the content OS director (Growth OS ICP Deep Dive framework). The 9-area structure is the depth-forcing interrogation used when building a high-ticket info-product avatar. It is the canonical reference for `skills/build-icp` and the primary upstream dependency for every copy, funnel, VSSL, and ad asset produced by the Growth OS.
+> **Source / Lineage:** the content OS director (Growth Optimal System ICP Deep Dive framework). The 9-area structure is the depth-forcing interrogation used when building a high-ticket info-product avatar. It is the canonical reference for `skills/build-icp` and the primary upstream dependency for every copy, funnel, VSSL, and ad asset produced by the Growth Optimal System.
 
 ## Why This Matters
 
@@ -173,7 +173,7 @@ If the document falls short on any of these, the downstream copy will generalize
 
 ## Cross-references
 
-- `reference/frameworks/icp-deep-dive.md` (Growth OS canonical source of the 9 areas)
+- `reference/frameworks/icp-deep-dive.md` (Growth Optimal System canonical source of the 9 areas)
 - `skills/build-icp/SKILL.md` (13-section ICP Document format that consumes this framework)
 - `agents/icp-builder.md` (agent that runs the 9-area interrogation)
 - `reference/_archive/frameworks/classical/4-belief-layers.md` (belief-depth companion)

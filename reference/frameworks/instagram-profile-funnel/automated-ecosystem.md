@@ -169,7 +169,7 @@ Do not over-stack. A coach at $500k–$1M usually runs: ManyChat + Framer + Cale
 5. Week 5: layer in attribution tagging (which pillar is producing which lead).
 6. Week 6+: iterate on the weakest pillar quarterly.
 
-## How this applies in Growth OS
+## How this applies in Growth Optimal System
 
 - **Skills that consume this:** `ig-audit`, `content-calendar-builder`, `dm-automation-setup`, `funnel-build`.
 - **Agents that use it:** ig-growth-operator, content-producer, setter-assistant.
