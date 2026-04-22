@@ -17,7 +17,7 @@ required_compartments:
   creator_identity_matrix: 40
 upstream_dependency: build-icp        # ICP Document required; /build-positioning recommended
 execution_mode: interactive
-sorx_tier: reasoning_ai
+tier: reasoning_ai
 temperature_gate: warm
 evidence_gate:
   - all_12_sections_complete

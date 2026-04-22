@@ -4,16 +4,16 @@ argument-hint: [optional: offer name or topic to focus the research]
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash, WebFetch, WebSearch
 ---
 
-# /research — Claude Code Runtime Binding
+# /research — slash-command runtime Runtime Binding
 
 Load and execute `skills/research/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/research/SKILL.md` (full body)
-   - `Read` `skills/research/reference/` (all files)
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/research/SKILL.md` (full body)
+   - read `skills/research/reference/` (all files)
 
 2. **Pre-flight check:** Verify Compartment 1 basic_info is populated in `company.yaml`. If not, enter Compartment 1 Interview Mode first.
 
@@ -35,13 +35,13 @@ Load and execute `skills/research/SKILL.md` in the current workspace.
    - If any section fails cross-validation, mark `[GAP: section N]` and continue
 
 5. **Update company.yaml:**
-   - `Edit` `company.yaml` to populate:
+   - edit `company.yaml` to populate:
      - Compartment 2 (audience_intelligence_system) from Phases 4-7
      - Compartment 3 (offer_architecture.economics_validation) from Phase 8
    - Never overwrite existing values without confirmation
 
 6. **Post-ship:**
-   - `Write` `skills/research/evidence/runs/{YYYY-MM-DD}-run.md` with source list + confidence tags
+   - write `skills/research/evidence/runs/{YYYY-MM-DD}-run.md` with source list + confidence tags
    - Output next-skill recommendation at the end (usually `/build-icp`)
 
 ## Arguments
@@ -81,4 +81,4 @@ After the brief ships, output routing should recommend the next skill:
 - If economics failed (LTV:CAC < 3:1): recommend `/design-offer` with repositioning emphasis
 
 ---
-*Claude Code adapter v1.0 — binds to skills/research/SKILL.md*
+*the slash-command adapter v1.0 — binds to skills/research/SKILL.md*

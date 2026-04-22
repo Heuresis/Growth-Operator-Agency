@@ -7,15 +7,12 @@
 [![Version](https://img.shields.io/badge/version-1.0.0-09090b?style=flat-square&labelColor=09090b&color=52525b)](CHANGELOG.md)
 [![License](https://img.shields.io/badge/license-MIT-09090b?style=flat-square&labelColor=09090b&color=52525b)](LICENSE)
 [![Runtime](https://img.shields.io/badge/runtime-agnostic-b45309?style=flat-square&labelColor=09090b&color=b45309)](spec/RUNTIMES.md)
-[![Skills](https://img.shields.io/badge/skills-29-09090b?style=flat-square&labelColor=09090b&color=52525b)](skills/_INDEX.md)
-[![Agents](https://img.shields.io/badge/agents-41-09090b?style=flat-square&labelColor=09090b&color=52525b)](agents/_INDEX.md)
-[![Canopy](https://img.shields.io/badge/canopy-v1.0-09090b?style=flat-square&labelColor=09090b&color=52525b)](PROVENANCE.md)
 
 <br/>
 
 **Ship a complete high-ticket go-to-market operation in weeks, not quarters.**
 
-29 skills. 41 agents. 7 divisions. One workspace — yours forever.
+Everything a high-ticket creator business runs on — encoded, versioned, yours forever.
 
 <br/>
 
@@ -61,7 +58,7 @@ Growth OS produces the specific artifacts a high-ticket creator business runs on
 ## The 29 features
 
 <details open>
-<summary><strong>Foundations — 5 skills · Positioning OS</strong></summary>
+<summary><strong>Foundations Block</strong></summary>
 
 | Feature | Produces |
 |---|---|
@@ -74,7 +71,7 @@ Growth OS produces the specific artifacts a high-ticket creator business runs on
 </details>
 
 <details>
-<summary><strong>Marketing — 7 skills · Traffic OS</strong></summary>
+<summary><strong>Marketing Block</strong></summary>
 
 | Feature | Produces |
 |---|---|
@@ -89,7 +86,7 @@ Growth OS produces the specific artifacts a high-ticket creator business runs on
 </details>
 
 <details>
-<summary><strong>Nurture — 4 skills · Education OS</strong></summary>
+<summary><strong>Nurture Block</strong></summary>
 
 | Feature | Produces |
 |---|---|
@@ -101,7 +98,7 @@ Growth OS produces the specific artifacts a high-ticket creator business runs on
 </details>
 
 <details>
-<summary><strong>Sales — 3 skills · Conversion OS</strong></summary>
+<summary><strong>Sales Block</strong></summary>
 
 | Feature | Produces |
 |---|---|
@@ -112,7 +109,7 @@ Growth OS produces the specific artifacts a high-ticket creator business runs on
 </details>
 
 <details>
-<summary><strong>Launch — 2 skills</strong></summary>
+<summary><strong>Launch Block</strong></summary>
 
 | Feature | Produces |
 |---|---|
@@ -122,7 +119,7 @@ Growth OS produces the specific artifacts a high-ticket creator business runs on
 </details>
 
 <details>
-<summary><strong>Scale — 5 skills</strong></summary>
+<summary><strong>Scale Block</strong></summary>
 
 | Feature | Produces |
 |---|---|
@@ -135,7 +132,7 @@ Growth OS produces the specific artifacts a high-ticket creator business runs on
 </details>
 
 <details>
-<summary><strong>Partnerships — 3 skills</strong></summary>
+<summary><strong>Partnerships Block</strong></summary>
 
 | Feature | Produces |
 |---|---|
@@ -186,8 +183,8 @@ One workspace. Five runtimes. Zero lock-in.
 
 | Runtime | Status | Install |
 |---|---|---|
-| **Claude Code** | primary | `git clone` → open → 29 slash commands exposed |
-| **Canopy / SORX** | primary | `canopy boot ./` — native protocol compliance |
+| **slash-command runtime** | primary | `git clone` → open → the slash commands exposed |
+| **workspace manifests** | primary | `manifest boot ./` — native protocol compliance |
 | **Generic LLM** (ChatGPT · Claude web · Perplexity · Ollama) | always available | Paste `SYSTEM.md` as system prompt + relevant `company.yaml` compartments |
 | **HTTP / OpenAPI** | v1.1 | REST contract at `spec/HTTP-OPENAPI-ADAPTER.md` |
 | **Codex · Cursor · OpenClaw** | v2.0 | Adapter scaffolding prepared |
@@ -217,7 +214,7 @@ Every cycle through the workspace produces the next cycle cheaper, faster, and c
 ```bash
 git clone <your-private-remote>/growth-os.git your-creator-workspace
 cd your-creator-workspace
-# Open in Claude Code — 29 slash commands appear automatically.
+# Open in a slash-command runtime — the slash commands appear automatically.
 ```
 
 Run the Foundations chain first:
@@ -610,7 +607,7 @@ Full A-Z structure. Every file in the template.
 ├── skills/
 │   ├── ad-creative/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   └── claude-code.md
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
@@ -619,7 +616,7 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── affiliate-program/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   └── claude-code.md
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
@@ -628,7 +625,7 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── build-funnel/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   └── claude-code.md
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
@@ -637,7 +634,7 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── build-icp/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   └── claude-code.md
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
@@ -646,21 +643,21 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── build-positioning/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   ├── claude-code.md
 │   │   │   └── http.openapi.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
-│   │   │   ├── aryan-hnwi-positioning.md
-│   │   │   ├── clipscale-academy-positioning.md
-│   │   │   ├── fitness-coaching-tech-founders-positioning.md
+│   │   │   ├── hnwi-client-positioning.md
+│   │   │   ├── clipping-agency-positioning.md
+│   │   │   ├── fitness-coaching-positioning.md
 │   │   │   └── mechanism-positioning-example.md
 │   │   ├── reference/
 │   │   └── SKILL.md
 │   ├── build-sop/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   └── claude-code.md
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
@@ -669,7 +666,7 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── build-vsl/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   ├── claude-code.md
 │   │   │   └── http.openapi.yaml
 │   │   ├── evidence/
@@ -683,7 +680,7 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── case-study/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   ├── claude-code.md
 │   │   │   └── http.openapi.yaml
 │   │   ├── evidence/
@@ -693,7 +690,7 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── competitor-intel/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   └── claude-code.md
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
@@ -702,7 +699,7 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── content-calendar/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   └── claude-code.md
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
@@ -711,22 +708,22 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── design-offer/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   ├── claude-code.md
 │   │   │   └── http.openapi.yaml
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
 │   │   │   ├── 7-phase-offer-walkthrough-example.md
-│   │   │   ├── clipscale-academy-tiered-offer.md
-│   │   │   ├── fitness-coaching-tech-founders.md
+│   │   │   ├── clipping-agency-tiered-offer.md
+│   │   │   ├── fitness-coaching.md
 │   │   │   ├── grand-slam-gym-launch-example.md
 │   │   │   └── high-ticket-offer-example.md
 │   │   ├── reference/
 │   │   └── SKILL.md
 │   ├── email-sequence/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   └── claude-code.md
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
@@ -735,7 +732,7 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── extract-voice/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   ├── claude-code.md
 │   │   │   └── http.openapi.yaml
 │   │   ├── evidence/
@@ -745,7 +742,7 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── hiring-brief/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   └── claude-code.md
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
@@ -754,7 +751,7 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── jv-webinar-proposal/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   └── claude-code.md
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
@@ -763,7 +760,7 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── launch-report/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   └── claude-code.md
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
@@ -772,7 +769,7 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── lead-magnet/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   └── claude-code.md
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
@@ -781,7 +778,7 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── plan-launch/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   ├── claude-code.md
 │   │   │   └── http.openapi.yaml
 │   │   ├── evidence/
@@ -791,7 +788,7 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── post-booking-nurture/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   └── claude-code.md
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
@@ -800,7 +797,7 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── referral-program/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   └── claude-code.md
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
@@ -809,20 +806,20 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── research/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   └── claude-code.md
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
 │   │   ├── examples/
-│   │   │   ├── agency-accelerants-market-research.md
-│   │   │   ├── clipscale-academy-signal-report.md
-│   │   │   ├── fitness-coaching-tech-founders-signal.md
+│   │   │   ├── agency-market-research.md
+│   │   │   ├── clipping-agency-signal-report.md
+│   │   │   ├── fitness-coaching-signal.md
 │   │   │   └── market-sophistication-applied-example.md
 │   │   ├── reference/
 │   │   └── SKILL.md
 │   ├── retention-check/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   └── claude-code.md
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
@@ -831,7 +828,7 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── revenue-report/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   └── claude-code.md
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
@@ -840,7 +837,7 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── story-sequence/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   └── claude-code.md
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
@@ -849,7 +846,7 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── webinar-script/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   ├── claude-code.md
 │   │   │   └── http.openapi.yaml
 │   │   ├── evidence/
@@ -859,7 +856,7 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── write-linkedin-post/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   └── claude-code.md
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
@@ -868,7 +865,7 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── write-reel/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   └── claude-code.md
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
@@ -877,7 +874,7 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── write-x-thread/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   └── claude-code.md
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md
@@ -886,7 +883,7 @@ Full A-Z structure. Every file in the template.
 │   │   └── SKILL.md
 │   ├── write-youtube/
 │   │   ├── adapters/
-│   │   │   ├── canopy.yaml
+│   │   │   ├── manifest.yaml
 │   │   │   └── claude-code.md
 │   │   ├── evidence/
 │   │   │   └── blind-output-test.md

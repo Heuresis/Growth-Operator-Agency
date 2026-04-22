@@ -16,7 +16,7 @@ required_compartments:
   offer_architecture: 40
 upstream_dependency: research
 execution_mode: interactive
-sorx_tier: structured_ai
+tier: structured_ai
 temperature_gate: warm
 required_tools: [web_search, web_fetch, file_read, file_write]
 required_mcps: [filesystem, brave-search, firecrawl]

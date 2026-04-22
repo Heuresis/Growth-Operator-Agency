@@ -4,16 +4,16 @@ argument-hint: [optional: --variant=1-6]
 allowed-tools: Read, Write, Edit, Grep, Glob
 ---
 
-# /webinar-script — Claude Code Runtime Binding
+# /webinar-script — slash-command runtime Runtime Binding
 
 Load and execute `skills/webinar-script/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/webinar-script/SKILL.md` (full body)
-   - `Read` `skills/webinar-script/reference/` if present
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/webinar-script/SKILL.md` (full body)
+   - read `skills/webinar-script/reference/` if present
    - `Read` upstream: `output/design-offer/latest.md` (value stack, bonuses, guarantee, mechanism), `output/build-icp/` (objections, VOC, limiting belief), `output/build-positioning/` (core belief, Big Enemy), `output/extract-voice/`
 
 2. **Pre-flight check:** Verify `required_compartments` — audience_intelligence_system ≥ 70, offer_architecture ≥ 70, copy_messaging ≥ 50, education_nurture ≥ 30. This is a sacred skill — thresholds are strict.
@@ -26,7 +26,7 @@ Load and execute `skills/webinar-script/SKILL.md` in the current workspace.
    - Structure per SKILL.md Output Format — 5 sections with time targets, 8 Beliefs Installation Map, Bonus → Objection Map, Isomorphic Case Studies, Production Notes
 
 5. **Post-ship:**
-   - `Write` `skills/webinar-script/evidence/runs/{YYYY-MM-DD}-run.md`
+   - write `skills/webinar-script/evidence/runs/{YYYY-MM-DD}-run.md`
    - Recommend next skill: `/email-sequence` type 4 Webinar (promo sequence), `/post-booking-nurture` (if routes to calls), `/write-linkedin-post` (invite content)
 
 ## Arguments
@@ -68,4 +68,4 @@ Per `handoffs/quality-revision.md`: auto-revise → surface gap → escalate to 
 - **On sacred-format completion: 3/3 Blind Output Test required before any paid-registrant delivery**
 
 ---
-*Claude Code adapter v1.0 — binds to skills/webinar-script/SKILL.md. Sacred format — 3/3 Blind Output Test mandatory.*
+*the slash-command adapter v1.0 — binds to skills/webinar-script/SKILL.md. Sacred format — 3/3 Blind Output Test mandatory.*

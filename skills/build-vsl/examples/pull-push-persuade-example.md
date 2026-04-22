@@ -3,11 +3,11 @@
 > **Framework:** the psychological copywriter's Pull-Push-Persuade 11-Step - `reference/frameworks/vsl/hogendoorn-11-step.md`
 > **Runtime target:** 10-12 minutes (within the 8-12 min window)
 > **Best for:** Faceless / no-camera / paid-traffic cold audience
-> **Applied to:** ClipScale Academy - Clipping Agency Accelerator, Meta Ads → VSL page (no creator face)
+> **Applied to:** Clipping Agency - Clipping Agency Accelerator, Meta Ads → VSL page (no creator face)
 
 ## Context
 
-The the psychological copywriter 11-Step is the paid-traffic VSL framework optimized for faceless, text-and-slides execution. Across 50+ funnels each generating $1M+ in pipeline, the psychological copywriter's rule set holds: specificity beats creativity, every sentence earns the next, PULL earns attention before PUSH creates pressure, and the sale doesn't begin before Step 9. The runtime is much shorter than the 15-step (8-12 min vs 20-45 min) because paid cold traffic has a ~1,800-word tolerance window before bounce. Every word pays rent. This example applies the framework to a faceless variant of ClipScale Academy - Meta Ads → VSL page → application funnel, no creator face, voice-over and screen recordings only.
+The the psychological copywriter 11-Step is the paid-traffic VSL framework optimized for faceless, text-and-slides execution. Across 50+ funnels each generating $1M+ in pipeline, the psychological copywriter's rule set holds: specificity beats creativity, every sentence earns the next, PULL earns attention before PUSH creates pressure, and the sale doesn't begin before Step 9. The runtime is much shorter than the 15-step (8-12 min vs 20-45 min) because paid cold traffic has a ~1,800-word tolerance window before bounce. Every word pays rent. This example applies the framework to a faceless variant of Clipping Agency - Meta Ads → VSL page → application funnel, no creator face, voice-over and screen recordings only.
 
 ## The Encoded 11-Step VSL (10-11 minutes, ~1,800 words)
 
@@ -33,7 +33,7 @@ Market proof, aggregate proof, pattern proof.
 
 #### Step 4 - Presence
 
-"I'm the founder of ClipScale Academy. 4 years in the streaming space, first as a $15-clip clipper, then an agency running 7 accounts. 200+ members onboarded. This is what I do."
+"I'm the founder of Clipping Agency. 4 years in the streaming space, first as a $15-clip clipper, then an agency running 7 accounts. 200+ members onboarded. This is what I do."
 
 ### Phase 2: PUSH (Steps 5-8, ~5 min / 50% of runtime)
 
@@ -95,7 +95,7 @@ Marcus, 19, college student, zero experience. Week 5 first client at $1,800/mont
 
 - `reference/frameworks/vsl/hogendoorn-11-step.md` - framework structure
 - `reference/operators/external/lucas-hogendoorn.md` - the psychological copywriter lineage
-- `operations/clipscale-academy/output/foundations/offer-document.md` - the offer this VSL sells
+- `operations/clipping-agency/output/foundations/offer-document.md` - the offer this VSL sells
 
 ---
-*Encoded 2026-04-19. [SYNTHESIZED] application of the psychological copywriter's 11-step framework [VERBATIM] to the ClipScale Academy offer. Framework structure (3 phases, 11 steps, 8 invariants, 5-layer close) is pulled from source. Case testimonials (Jalen, Priya, Marcus) and cohort revenue figure are composite illustrative examples calibrated to the ICP document.*
+*Encoded 2026-04-19. [SYNTHESIZED] application of the psychological copywriter's 11-step framework [VERBATIM] to the Clipping Agency offer. Framework structure (3 phases, 11 steps, 8 invariants, 5-layer close) is pulled from source. Case testimonials (Jalen, Priya, Marcus) and cohort revenue figure are composite illustrative examples calibrated to the ICP document.*

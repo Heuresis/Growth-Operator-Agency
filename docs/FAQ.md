@@ -26,8 +26,8 @@ You can. But chat without an encoded workspace is stateless and un-calibrated. E
 
 ### What runtimes does it support?
 
-- **Claude Code** — primary v1 target. Full slash command bindings at `.claude/commands/`.
-- **Canopy / SORX** — primary v1 target. Adapter per skill at `skills/{slug}/adapters/canopy.yaml`.
+- **slash-command runtime** — primary v1 target. Full slash command bindings at `.claude/commands/`.
+- **workspace manifests** — primary v1 target. Adapter per skill at `skills/{slug}/adapters/manifest.yaml`.
 - **Codex, Cursor, OpenClaw** — v2 targets, adapter scaffolding.
 - **HTTP / OpenAPI** — v1.1 target, contract at `spec/HTTP-OPENAPI-ADAPTER.md`.
 - **Any generic LLM** — always available. Paste `SYSTEM.md` as system prompt, paste relevant `company.yaml` compartments as context, invoke a skill by pasting its `SKILL.md`.
@@ -36,7 +36,7 @@ You can. But chat without an encoded workspace is stateless and un-calibrated. E
 
 Write a new adapter. The pattern is documented in [SKILL_AUTHORING.md](SKILL_AUTHORING.md). Runtime-specific concerns never touch `SKILL.md`.
 
-### What if Claude Code is deprecated tomorrow?
+### What if the slash-command runtime is deprecated tomorrow?
 
 The workspace still runs. Swap the runtime. Layer 3 rebuilds; Layer 1 and Layer 2 are untouched. This is the runtime-agnostic guarantee in [INV-10](../INVARIANTS.md).
 

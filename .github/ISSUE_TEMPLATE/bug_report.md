@@ -24,8 +24,8 @@ Minimal steps to reproduce. Include the skill slug, runtime, and any relevant co
 
 ## Runtime
 
-- [ ] Claude Code
-- [ ] Canopy / SORX
+- [ ] slash-command runtime
+- [ ] workspace manifests
 - [ ] Codex
 - [ ] Cursor
 - [ ] OpenClaw

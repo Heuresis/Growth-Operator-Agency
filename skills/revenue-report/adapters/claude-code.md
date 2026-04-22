@@ -4,16 +4,16 @@ argument-hint: "[optional: --period=weekly|monthly|quarterly]"
 allowed-tools: Read, Write, Edit, Grep, Glob
 ---
 
-# /revenue-report — Claude Code Runtime Binding
+# /revenue-report — slash-command runtime Runtime Binding
 
 Load and execute `skills/revenue-report/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/revenue-report/SKILL.md` (full body)
-   - `Read` `skills/revenue-report/reference/` (all files, if present)
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/revenue-report/SKILL.md` (full body)
+   - read `skills/revenue-report/reference/` (all files, if present)
    - `Read` upstream dependency output: `output/design-offer/latest.md` (offer economics baseline)
    - `Read` any Stripe / GA4 / GHL exports previously staged in `data/finance/`
 
@@ -29,7 +29,7 @@ Load and execute `skills/revenue-report/SKILL.md` in the current workspace.
 5. **Update company.yaml:** `Edit` compartment 3 (offer_architecture.economics_validation) + compartment 11 (operational_intelligence) — append period metrics + LTV:CAC verdict. Never overwrite existing values without confirmation.
 
 6. **Post-ship:**
-   - `Write` `skills/revenue-report/evidence/runs/{YYYY-MM-DD}-run.md` with phase log + confidence tags + source breakdown per metric
+   - write `skills/revenue-report/evidence/runs/{YYYY-MM-DD}-run.md` with phase log + confidence tags + source breakdown per metric
    - Output next-skill recommendation per gap (e.g., `/design-offer` if LTV:CAC < 3:1, `/retention-check` if churn high)
 
 ## Arguments
@@ -69,4 +69,4 @@ After report ships:
 - If revenue mix off 60/30/10 → recommend the underperforming channel's skill
 
 ---
-*Claude Code adapter v1.0 — binds to skills/revenue-report/SKILL.md*
+*the slash-command adapter v1.0 — binds to skills/revenue-report/SKILL.md*

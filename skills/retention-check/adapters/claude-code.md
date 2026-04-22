@@ -4,16 +4,16 @@ argument-hint: "[optional: --period=last-30-days]"
 allowed-tools: Read, Write, Edit, Grep, Glob
 ---
 
-# /retention-check — Claude Code Runtime Binding
+# /retention-check — slash-command runtime Runtime Binding
 
 Load and execute `skills/retention-check/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/retention-check/SKILL.md` (full body)
-   - `Read` `skills/retention-check/reference/` (all files, if present)
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/retention-check/SKILL.md` (full body)
+   - read `skills/retention-check/reference/` (all files, if present)
    - `Read` upstream dependency output: `output/build-sop/latest-cs.md` (CS SOP baselines intervention cadence)
 
 2. **Pre-flight check:** Verify `company.yaml` thresholds — lifecycle_optimization ≥ 40, operational_intelligence ≥ 30. If below, recommend running `/build-sop` for CS first or enter Compartment 10 Interview Mode.
@@ -28,7 +28,7 @@ Load and execute `skills/retention-check/SKILL.md` in the current workspace.
 5. **Update company.yaml:** `Edit` compartment 10 (lifecycle_optimization) — append health-score rubric + last-run date. Never overwrite existing values without confirmation.
 
 6. **Post-ship:**
-   - `Write` `skills/retention-check/evidence/runs/{YYYY-MM-DD}-run.md` with phase log + confidence tags + client count + churn-risk distribution
+   - write `skills/retention-check/evidence/runs/{YYYY-MM-DD}-run.md` with phase log + confidence tags + client count + churn-risk distribution
    - Output next-skill recommendation (usually `/case-study` for Thriving clients)
 
 ## Arguments
@@ -67,4 +67,4 @@ After report ships:
 - For At-Risk clients, recommend `/email-sequence` (re-engagement)
 
 ---
-*Claude Code adapter v1.0 — binds to skills/retention-check/SKILL.md*
+*the slash-command adapter v1.0 — binds to skills/retention-check/SKILL.md*

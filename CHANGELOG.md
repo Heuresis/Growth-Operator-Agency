@@ -20,8 +20,8 @@ Initial private release of the Growth OS workspace template.
 - **Workflows** — divisions (7 mermaid FSMs), client-onboarding (week-1 + 90-day), delivery (4-week fulfillment), execution-templates (7), automations (5 playbooks).
 - **Operations** — team leadership, collaboration, hiring, cadences (daily / weekly / monthly / quarterly), finance schema, dashboards, crisis management, tool SOPs, mode-of-operations.
 - **Handoffs** — skill-to-skill, standard, quality-revision.
-- **.claude/commands/** — 29 Claude Code slash command bindings (1:1 with skills).
-- **Adapters** — Claude Code (`.md`) + Canopy (`.yaml`) shipped for every skill.
+- **.claude/commands/** — 29 slash-command bindings (1:1 with skills).
+- **Adapters** — slash-command runtime (`.md`) + the workspace manifest (`.yaml`) shipped for every skill.
 
 ### Repository hygiene
 

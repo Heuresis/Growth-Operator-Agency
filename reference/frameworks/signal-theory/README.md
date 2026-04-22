@@ -1,6 +1,6 @@
 # Signal Theory — Reference Files Index
 
-> **Source lineage:** Signal Theory — *Signal Theory: Optimal Intent Encoding* (63pp) + Canopy protocol `protocol/signal-theory.md`
+> **Source lineage:** Signal Theory — *Signal Theory: Optimal Intent Encoding* (63pp) + workspace protocol `protocol/signal-theory.md`
 > **Status:** The quality substrate. Every skill output is verified against Signal Theory.
 > **Spec lives at:** `spec/SIGNAL.md` (runtime enforcement) + this folder (reference methodology)
 
@@ -25,7 +25,7 @@ Skill outputs that fail Signal Theory verification = noise. Noise doesn't conver
 ## Sources
 
 - Signal Theory — *Signal Theory: Optimal Intent Encoding* (63pp)
-- Canopy Protocol — `protocol/signal-theory.md`
+- workspace protocol — `protocol/signal-theory.md`
 - Growth OS — `spec/SIGNAL.md` (this workspace)
 
 ---

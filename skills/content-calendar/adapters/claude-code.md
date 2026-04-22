@@ -4,17 +4,17 @@ argument-hint: [optional: target month, e.g. "2026-05" or number of days to plan
 allowed-tools: Read, Write, Edit, Grep, Glob, WebSearch
 ---
 
-# /content-calendar — Claude Code Runtime Binding
+# /content-calendar — slash-command runtime Runtime Binding
 
 Load and execute `skills/content-calendar/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/content-calendar/SKILL.md` (full body)
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/content-calendar/SKILL.md` (full body)
    - `Read` upstream: `output/build-icp/` (VOC + objections + buying triggers), `output/build-positioning/` (Big Enemy + mechanism + core belief), `output/design-offer/` (bonuses, guarantee — for decision content), `output/extract-voice/` (phrases_to_use)
-   - `Read` `reference/frameworks/primitives/core-four.md` + the content OS director / the VSL director / the stories director operator files
+   - read `reference/frameworks/primitives/core-four.md` + the content OS director / the VSL director / the stories director operator files
 
 2. **Pre-flight check:** Verify `audience_intelligence_system >= 60`, `offer_architecture >= 50`, `copy_messaging >= 30`, `content_strategy >= 20` in `company.yaml`. Verify Compartment 6 `platform_strategies` has at least 1 active: true channel. If < 1 active channel, enter Compartment 6 interview mode first.
 
@@ -26,11 +26,11 @@ Load and execute `skills/content-calendar/SKILL.md` in the current workspace.
    - Each calendar slot includes post ID, platform, format, pillar, stage, topic, skill routing, voice samples
 
 5. **Update company.yaml:**
-   - `Edit` `company.yaml` Compartment 6 (content_strategy) with pillar allocation + channel cadence + anchor-to-derivative repurpose chain
+   - edit `company.yaml` Compartment 6 (content_strategy) with pillar allocation + channel cadence + anchor-to-derivative repurpose chain
    - Never overwrite existing calendar references without confirmation
 
 6. **Post-ship:**
-   - `Write` `skills/content-calendar/evidence/runs/{YYYY-MM-DD}-run.md` with pillar ratio audit + topic pool inventory + conversion stage distribution
+   - write `skills/content-calendar/evidence/runs/{YYYY-MM-DD}-run.md` with pillar ratio audit + topic pool inventory + conversion stage distribution
    - Output next-skill recommendations per calendar slot (routes to `/write-youtube`, `/write-reel`, `/write-linkedin-post`, `/write-x-thread`, `/story-sequence`, `/email-sequence`)
 
 ## Arguments
@@ -77,4 +77,4 @@ After the calendar ships:
 - Weekly metrics review drives adjustments; monthly regenerate for next cycle
 
 ---
-*Claude Code adapter v1.0 — binds to skills/content-calendar/SKILL.md*
+*the slash-command adapter v1.0 — binds to skills/content-calendar/SKILL.md*

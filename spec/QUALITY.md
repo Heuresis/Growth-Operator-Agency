@@ -142,7 +142,7 @@ Quality gates operationalize INV-5 (Truth), INV-6 (No Fabrication), INV-7 (Banne
 
 - Signal Theory p.41 (Triple-Layer Verification formula)
 - Growth OS Master Prompt Section 7 (5 Internal Quality Tests)
-- Canopy `protocol/verification.md`
+- the workspace manifest `protocol/verification.md`
 
 ---
 *v1.0 — 2026-04-19*

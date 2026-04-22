@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Growth OS architecture: Workspace equals ROM, Agent equals RAM, Skills are stacked">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Growth OS architecture: Three-layer encoded operation">
   <title>Growth OS — architecture</title>
 
   <defs>
@@ -13,7 +13,7 @@
   <rect width="1200" height="900" fill="#ffffff"/>
 
   <text class="a-label" x="600" y="56" font-size="12" fill="#71717a" text-anchor="middle">Growth OS  ·  architecture</text>
-  <text class="a-title" x="600" y="96" font-size="34" fill="#09090b" text-anchor="middle">Workspace = ROM. Agent = RAM. Skills are stacked.</text>
+  <text class="a-title" x="600" y="96" font-size="34" fill="#09090b" text-anchor="middle">Three layers. One encoded operation.</text>
 
   <g transform="translate(100 160)">
     <rect x="0" y="0" width="1000" height="180" fill="#fafafa" stroke="#e4e4e7" stroke-width="1" rx="12"/>
@@ -51,7 +51,7 @@
     <text class="a-label" x="32" y="38" font-size="11" fill="#b45309">LAYER 2  ·  RAM</text>
     <text class="a-title" x="32" y="80" font-size="28" fill="#09090b">Agent</text>
     <text class="a-sub" x="32" y="112" font-size="16" fill="#52525b">Stateless. Generic. Replaceable. Any LLM that reads markdown and YAML becomes a specialist.</text>
-    <text class="a-code" x="32" y="148" font-size="13" fill="#71717a">Claude Code  ·  Canopy  ·  Codex  ·  Cursor  ·  OpenClaw  ·  ChatGPT  ·  Ollama  ·  any future runtime</text>
+    <text class="a-code" x="32" y="148" font-size="13" fill="#71717a">any LLM that reads markdown + YAML  ·  runtime-agnostic  ·  yours forever</text>
 
     <g transform="translate(800 40)">
       <rect x="0" y="0" width="120" height="72" fill="#ffffff" stroke="#09090b" stroke-width="1.5" rx="4"/>
@@ -108,7 +108,7 @@
         <rect x="730" y="0" width="96" height="26" fill="#ffffff" stroke="#d4d4d8" stroke-width="1" rx="4"/>
         <text x="778" y="17" text-anchor="middle">/ad-creative</text>
         <rect x="832" y="0" width="100" height="26" fill="#ffffff" stroke="#b45309" stroke-width="1" rx="4"/>
-        <text x="882" y="17" text-anchor="middle" fill="#b45309">+ 21 more</text>
+        <text x="882" y="17" text-anchor="middle" fill="#b45309">+ more skills</text>
       </g>
     </g>
   </g>

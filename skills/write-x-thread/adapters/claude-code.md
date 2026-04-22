@@ -4,18 +4,18 @@ argument-hint: [optional: --type=1-7]
 allowed-tools: Read, Write, Edit, Grep, Glob
 ---
 
-# /write-x-thread — Claude Code Runtime Binding
+# /write-x-thread — slash-command runtime Runtime Binding
 
 Load and execute `skills/write-x-thread/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/write-x-thread/SKILL.md` (full body)
-   - `Read` `skills/write-x-thread/reference/` if present
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/write-x-thread/SKILL.md` (full body)
+   - read `skills/write-x-thread/reference/` if present
    - `Read` upstream: `output/content-calendar/latest.md` for calendar brief
-   - `Read` `output/extract-voice/` for phrases_to_use + sentence rhythm
+   - read `output/extract-voice/` for phrases_to_use + sentence rhythm
 
 2. **Pre-flight check:** Verify `required_compartments` — audience_intelligence_system ≥ 50, offer_architecture ≥ 30, copy_messaging ≥ 30. If below, recommend upstream skills first.
 
@@ -28,7 +28,7 @@ Load and execute `skills/write-x-thread/SKILL.md` in the current workspace.
    - Include hook variants, full thread, reply-to-thread, quote-tweet plan
 
 5. **Post-ship:**
-   - `Write` `skills/write-x-thread/evidence/runs/{YYYY-MM-DD}-run.md`
+   - write `skills/write-x-thread/evidence/runs/{YYYY-MM-DD}-run.md`
    - Recommend next skill: `/write-linkedin-post` for cross-platform or `/email-sequence` for broadcast
 
 ## Arguments
@@ -67,4 +67,4 @@ Per `handoffs/quality-revision.md`: auto-revise → surface gap → escalate to 
 - On external-tier completion: Blind Output Test 2/3 queued
 
 ---
-*Claude Code adapter v1.0 — binds to skills/write-x-thread/SKILL.md*
+*the slash-command adapter v1.0 — binds to skills/write-x-thread/SKILL.md*

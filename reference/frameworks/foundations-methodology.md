@@ -49,12 +49,12 @@ You already have most of this in Notion. The job is to **convert and sharpen**, 
 ### Golden Examples (from your Notion — these are YOUR real deliverables):
 | Document Type | Example | Location |
 |---|---|---|
-| ICP Document | Agency Accelerants ICP — full Worthless/Helpless/Hopeless framework | Notion: `41539dd8...` |
+| ICP Document | Agency ICP — full Worthless/Helpless/Hopeless framework | Notion: `41539dd8...` |
 | ICP Document | Drysdale "Customer Bubble" — 5-component closer study guide | Notion: `5e039dd8...` |
-| ICP Document | Aryan Multi-Segment — 8 segments, JSON structure, LTV estimates | Notion: `30539dd8...` |
-| Market Research | Agency Accelerants 30-section deep dive — competitive positioning, 5 moats, 10-year timeline | Notion: `de639dd8...` |
-| Offer Document | Agency Accelerants 3-tier ($5.8K/$10.8K/$24.8K) — full value stack + timelines | Notion: `54139dd8...` |
-| Positioning Doc | Aryan HNWI Framework — 8-section BCG-style positioning | Notion: `30539dd8...` |
+| ICP Document | the HNWI client Multi-Segment — 8 segments, JSON structure, LTV estimates | Notion: `30539dd8...` |
+| Market Research | Agency 30-section deep dive — competitive positioning, 5 moats, 10-year timeline | Notion: `de639dd8...` |
+| Offer Document | Agency 3-tier ($5.8K/$10.8K/$24.8K) — full value stack + timelines | Notion: `54139dd8...` |
+| Positioning Doc | HNWI client Framework — 8-section BCG-style positioning | Notion: `30539dd8...` |
 | Competitor Analysis | Spencer Donaldson AEO — 5 competitors with SWOT | Notion: `30539dd8...` |
 | Competitor Analysis | Agastya AI Video — 5 competitors with action plan | Notion: `30539dd8...` |
 
@@ -65,9 +65,9 @@ You already have most of this in Notion. The job is to **convert and sharpen**, 
 
 ## What Needs to Be Built
 
-### Step 1: Convert Agent Definitions to Canopy Format
+### Step 1: Convert Agent Definitions to the workspace manifest Format
 
-Take your existing 8 Notion files and convert them to Canopy's workspace structure:
+Take your existing 8 Notion files and convert them to the workspace manifest's workspace structure:
 
 ```
 growth-os-foundations/
@@ -107,11 +107,11 @@ growth-os-foundations/
 │   │   └── competitor-battlecard.md       ← NEW: Output template
 │   │
 │   ├── examples/
-│   │   ├── icp-agency-accelerants.md      ← COPY from Notion (your real work)
+│   │   ├── icp-agency.md      ← COPY from Notion (your real work)
 │   │   ├── icp-drysdale-bubble.md         ← COPY from Notion (your real work)
 │   │   ├── market-research-aa.md          ← COPY from Notion (your real work)
-│   │   ├── offer-agency-accelerants.md    ← COPY from Notion (your real work)
-│   │   └── positioning-aryan-hnwi.md      ← COPY from Notion (your real work)
+│   │   ├── offer-agency.md    ← COPY from Notion (your real work)
+│   │   └── positioning-hnwi-client.md      ← COPY from Notion (your real work)
 │   │
 │   ├── data-sources/
 │   │   └── research-sources.md            ← NEW: Data source registry
@@ -227,7 +227,7 @@ A finding in only 1 source is noise until corroborated.
 
 ### Step 3: Build the ICP Document Template
 
-Based on your best existing examples (Agency Accelerants + Drysdale Customer Bubble):
+Based on your best existing examples (Agency + Drysdale Customer Bubble):
 
 ```
 ICP DOCUMENT
@@ -315,7 +315,7 @@ ICP DOCUMENT
 
 ### Step 4: Build the Offer Document Template
 
-Based on your existing Offer Architecture Builder + Agency Accelerants 3-tier offer:
+Based on your existing Offer Architecture Builder + Agency 3-tier offer:
 
 ```
 OFFER DOCUMENT
@@ -521,7 +521,7 @@ This file tells the Market Research agent WHERE to look:
 ### Week 1: Convert & Structure
 ```
 Day 1-2: Create workspace structure (directories, SYSTEM.md, company.yaml)
-Day 3-4: Convert 3 agent definitions from Notion → Canopy format
+Day 3-4: Convert 3 agent definitions from Notion → the workspace manifest format
 Day 5:   Extract 8 frameworks from KNOWLEDGE.md → individual reference files
 ```
 
@@ -562,7 +562,7 @@ Day 5:   Lock foundations, begin Phase 2 (VSL + Sales stack)
 
 **The technical decisions they need to make:**
 
-1. **Runtime:** Claude Code terminal? Custom app via API? Both?
+1. **Runtime:** slash-command runtime terminal? Custom app via API? Both?
 2. **Context Engine:** Does `company.yaml` + `reference/*.md` files suffice, or do you need a database-backed context store?
 3. **Sub-agent delegation:** Single agent that loads different KNOWLEDGE.md per task (simpler), or actual multi-agent delegation via filesystem (architecturally correct)?
 4. **MCP servers:** Which ones to wire in from day 1? (I recommend: Reddit Research MCP + Google Trends MCP + Firecrawl MCP as minimum)

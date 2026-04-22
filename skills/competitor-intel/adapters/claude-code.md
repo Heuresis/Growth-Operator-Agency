@@ -4,18 +4,18 @@ argument-hint: "[optional: competitor list or market slug]"
 allowed-tools: Read, Write, Edit, Grep, Glob, WebSearch, WebFetch
 ---
 
-# /competitor-intel — Claude Code Runtime Binding
+# /competitor-intel — slash-command runtime Runtime Binding
 
 Load and execute `skills/competitor-intel/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/competitor-intel/SKILL.md` (full body)
-   - `Read` `skills/competitor-intel/reference/` (all files, if present)
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/competitor-intel/SKILL.md` (full body)
+   - read `skills/competitor-intel/reference/` (all files, if present)
    - `Read` upstream dependency output: `output/research/latest-market-research-brief.md` (target market + initial competitor list)
-   - `Read` `output/build-positioning/latest.md` if present (for whitespace implications)
+   - read `output/build-positioning/latest.md` if present (for whitespace implications)
 
 2. **Pre-flight check:** Verify `company.yaml` thresholds — audience_intelligence_system ≥ 50, offer_architecture ≥ 40. If below, recommend running `/research` first.
 
@@ -29,7 +29,7 @@ Load and execute `skills/competitor-intel/SKILL.md` in the current workspace.
 5. **Update company.yaml:** `Edit` compartment 2 (audience_intelligence_system) — append competitor roster + whitespace opportunities. Never overwrite existing values without confirmation.
 
 6. **Post-ship:**
-   - `Write` `skills/competitor-intel/evidence/runs/{YYYY-MM-DD}-run.md` with phase log + confidence tags + competitor count per tier + source URLs
+   - write `skills/competitor-intel/evidence/runs/{YYYY-MM-DD}-run.md` with phase log + confidence tags + competitor count per tier + source URLs
    - Output next-skill recommendation (usually `/build-positioning` if whitespace reshapes positioning)
 
 ## Arguments
@@ -70,4 +70,4 @@ After report ships:
 - Recommend `/write-linkedin-post` for contrarian content using whitespace
 
 ---
-*Claude Code adapter v1.0 — binds to skills/competitor-intel/SKILL.md*
+*the slash-command adapter v1.0 — binds to skills/competitor-intel/SKILL.md*

@@ -17,7 +17,7 @@ required_compartments:
   operational_intelligence: 20
 upstream_dependency: design-offer
 execution_mode: interactive
-sorx_tier: reasoning_ai
+tier: reasoning_ai
 temperature_gate: warm
 required_tools: [file_read, file_write]
 required_mcps: [filesystem]

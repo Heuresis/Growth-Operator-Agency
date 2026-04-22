@@ -1,4 +1,4 @@
-# Education OS — 4-Phase Lifecycle Model
+# Nurture Block — 4-Phase Lifecycle Model
 
 > **Source / Lineage:** the content OS director (Growth OS Education pillar). The 4-phase lifecycle structures every buyer-journey asset a high-ticket info creator ships — video, email, short-form, community event, pinned post. This is the canonical sequencing reference for `skills/email-sequence` and `skills/content-calendar`.
 
@@ -112,4 +112,4 @@ The phases are not arbitrary. They map to the 1-2 hour consumption rule: Indoctr
 - Skill consumers: `skills/email-sequence`, `skills/content-calendar`, `skills/retention-check`
 
 ---
-*v1.0 — 2026-04-19 — Education OS methodology canonical.*
+*v1.0 — 2026-04-19 — nurture-block methodology canonical.*

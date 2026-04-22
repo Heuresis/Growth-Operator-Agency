@@ -4,17 +4,17 @@ argument-hint: [optional: "--archetype=1-7" to force; else auto-select]
 allowed-tools: Read, Write, Edit, Grep, Glob, WebSearch, WebFetch
 ---
 
-# /build-funnel — Claude Code Runtime Binding
+# /build-funnel — slash-command runtime Runtime Binding
 
 Load and execute `skills/build-funnel/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/build-funnel/SKILL.md` (full body)
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/build-funnel/SKILL.md` (full body)
    - `Read` upstream: `output/design-offer/` (Offer Doc — gate-passed required), `output/build-positioning/`, `output/build-icp/`, `output/build-vsl/` if exists
-   - `Read` `reference/frameworks/primitives/call-funnel.md`, `core-four.md`, `value-equation.md` + the growth engineer / the operations director / the paid media director / the VSL director operator files
+   - read `reference/frameworks/primitives/call-funnel.md`, `core-four.md`, `value-equation.md` + the growth engineer / the operations director / the paid media director / the VSL director operator files
 
 2. **Pre-flight check:** Verify `audience_intelligence_system >= 60`, `offer_architecture >= 70`, `funnel_systems >= 10` in `company.yaml`. If Archetype 1/2 (VSL/Webinar) selected, confirm VSL exists at `output/build-vsl/`.
 
@@ -26,11 +26,11 @@ Load and execute `skills/build-funnel/SKILL.md` in the current workspace.
    - If economics cross-check fails, HOLD and reconcile against Offer Doc LTV:CAC
 
 5. **Update company.yaml:**
-   - `Edit` `company.yaml` Compartment 4 (funnel_systems) to 70%+ with archetype + traffic mix + dependency status
+   - edit `company.yaml` Compartment 4 (funnel_systems) to 70%+ with archetype + traffic mix + dependency status
    - Never overwrite existing values without confirmation
 
 6. **Post-ship:**
-   - `Write` `skills/build-funnel/evidence/runs/{YYYY-MM-DD}-run.md` with archetype rationale + economics cross-check + dependency inventory
+   - write `skills/build-funnel/evidence/runs/{YYYY-MM-DD}-run.md` with archetype rationale + economics cross-check + dependency inventory
    - Output next-skill recommendations (usually `/ad-creative` or `/landing-page`; `/post-booking-nurture` + `/sales-script` for call funnels)
 
 ## Arguments
@@ -76,4 +76,4 @@ After the Funnel Blueprint ships:
 - Weekly the operations director 8-stage audit post-launch (owned by sales-lead)
 
 ---
-*Claude Code adapter v1.0 — binds to skills/build-funnel/SKILL.md*
+*the slash-command adapter v1.0 — binds to skills/build-funnel/SKILL.md*

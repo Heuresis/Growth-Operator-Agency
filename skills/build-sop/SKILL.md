@@ -18,7 +18,7 @@ required_compartments:
   operational_intelligence: 30
 upstream_dependency: design-offer
 execution_mode: interactive
-sorx_tier: structured_ai
+tier: structured_ai
 temperature_gate: warm
 required_tools: [file_read, file_write]
 required_mcps: [filesystem, notion]
@@ -47,7 +47,7 @@ version: 1.0
 
 ## Role
 
-Produce deterministic SOPs for roles and processes. Lineage: **the operations director** (straight growth operating process), **Scale division Division** (14 SOP variants), Agency Accelerants Execution OS.
+Produce deterministic SOPs for roles and processes. Lineage: **the operations director** (straight growth operating process), **Scale division Division** (14 SOP variants), Agency Execution OS.
 
 ## The 14 Variants
 

@@ -1,4 +1,4 @@
-# the VSL director Case-Study VSL Variant - Fitness Coaching for Tech Founders
+# the VSL director Case-Study VSL Variant - Fitness Coaching
 
 > **Framework:** 15-step VSL restructured into case-study format - a real founder's journey carries the full VSL arc
 > **Runtime target:** 28-34 minutes
@@ -7,7 +7,7 @@
 
 ## Context
 
-The case-study VSL is a variant of the 15-step structure where the Hero Story (Step 5) is expanded into the central spine of the entire VSL - a specific client's 90-day transformation becomes the primary narrative thread, and the 15 framework beats weave through that story rather than running as a separate sequence. This variant works best when the audience is Solution Aware and already skeptical of direct VSL patterns. This example applies the variant to the Fitness Coaching for Tech Founders offer, using an illustrative client ("Marcus, Series B SaaS CEO") as the case-study spine.
+The case-study VSL is a variant of the 15-step structure where the Hero Story (Step 5) is expanded into the central spine of the entire VSL - a specific client's 90-day transformation becomes the primary narrative thread, and the 15 framework beats weave through that story rather than running as a separate sequence. This variant works best when the audience is Solution Aware and already skeptical of direct VSL patterns. This example applies the variant to the Fitness Coaching offer, using an illustrative client ("Marcus, Series B SaaS CEO") as the case-study spine.
 
 ## The Encoded Case-Study VSL
 

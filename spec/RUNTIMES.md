@@ -6,8 +6,8 @@
 
 | Runtime | Adapter status | Purpose |
 |---|---|---|
-| **Claude Code** | ✅ v1 primary | Slash commands via `.claude/commands/` |
-| **Canopy / SORX** | ✅ v1 primary | Native Canopy protocol compliance |
+| **slash-command runtime** | ✅ v1 primary | Slash commands via `.claude/commands/` |
+| **workspace manifests** | ✅ v1 primary | Native workspace protocol compliance |
 | **Codex (OpenAI)** | 🟡 v2 | Bulk code generation |
 | **Cursor** | 🟡 v2 | Editor-embedded |
 | **OpenClaw** | 🟡 v2 | Multi-channel gateway |
@@ -24,8 +24,8 @@ skills/{skill-slug}/
 ├── examples/                    ← calibration outputs
 ├── evidence/                    ← blind-output-test + failure-modes
 └── adapters/
-    ├── claude-code.md           ← Claude Code runtime binding
-    ├── canopy.yaml              ← Canopy/SORX binding
+    ├── claude-code.md           ← the slash-command runtime binding
+    ├── manifest.yaml              ← workspace manifests binding
     ├── codex.md                 ← (future)
     ├── cursor.md                ← (future)
     ├── openclaw.yaml            ← (future)
@@ -36,10 +36,10 @@ skills/{skill-slug}/
 
 An adapter is a **thin binding file** that translates the runtime-agnostic SKILL.md into something a specific runtime can execute. It should be **≤25 lines** in most cases. If your adapter exceeds 50 lines, the skill logic has leaked into the adapter — pull it back into SKILL.md.
 
-## Claude Code Adapter (`adapters/claude-code.md`)
+## slash-command runtime Adapter (`adapters/claude-code.md`)
 
 ### Format
-Claude Code reads slash commands from `.claude/commands/{command-name}.md`. The adapter points to SKILL.md and injects runtime-specific instructions.
+slash-command runtime reads slash commands from `.claude/commands/{command-name}.md`. The adapter points to SKILL.md and injects runtime-specific instructions.
 
 ### Template
 ```markdown
@@ -66,16 +66,16 @@ $ARGUMENTS
 ### Example: `/research` command
 Located at `.claude/commands/research.md` — binds to `skills/research/SKILL.md`.
 
-## Canopy / SORX Adapter (`adapters/canopy.yaml`)
+## workspace manifests Adapter (`adapters/manifest.yaml`)
 
 ### Format
-Canopy discovers skills via `skills/*/SKILL.md` pattern. The adapter is a YAML file declaring SORX runtime metadata.
+the workspace manifest discovers skills via `skills/*/SKILL.md` pattern. The adapter is a YAML file declaring runtime metadata.
 
 ### Template
 ```yaml
 skill_id: "{skill-slug}"
 skill_path: "skills/{skill-slug}/SKILL.md"
-sorx_tier: structured_ai       # deterministic | structured_ai | reasoning_ai | generative_ai
+tier: structured_ai       # deterministic | structured_ai | reasoning_ai | generative_ai
 category: "foundations"        # matches division
 temperature_gate: warm         # cold (requires approval) | warm (standard) | hot (autonomous)
 required_tables: []            # database tables this skill reads/writes
@@ -87,7 +87,7 @@ evidence_gate:
 ```
 
 ### Fields explained
-- `sorx_tier` — The reliability tier mapping. `deterministic` = pure code, `structured_ai` = AI with schema output, `reasoning_ai` = AI with step-by-step reasoning, `generative_ai` = open-ended.
+- `tier` — The reliability tier mapping. `deterministic` = pure code, `structured_ai` = AI with schema output, `reasoning_ai` = AI with step-by-step reasoning, `generative_ai` = open-ended.
 - `temperature_gate` — Governance binding. `cold` requires human approval per execution.
 - `evidence_gate` — Conditions that must be true before output is considered "done".
 
@@ -139,13 +139,13 @@ To add a new runtime (e.g., Perplexity Agents or a future platform):
 
 ## The Cost-Everlasting Principle
 
-**Runtime concerns change. Methodology doesn't.** The the offer architect 7-Phase Offer Building System will be valid in 2035. The Claude Code slash command API may not be. By forcing methodology into SKILL.md and runtime concerns into adapters, this workspace outlives any specific runtime.
+**Runtime concerns change. Methodology doesn't.** The the offer architect 7-Phase Offer Building System will be valid in 2035. The slash-command API may not be. By forcing methodology into SKILL.md and runtime concerns into adapters, this workspace outlives any specific runtime.
 
 This is operationalized INV-10. Runtime-agnosticism is how the workspace outlives every specific runtime it runs on.
 
 ## Sources
 
-- Canopy `architecture/adapters.md`
+- the workspace manifest `architecture/adapters.md`
 - Signal Theory — the 3-Layer Encoding Model (Layer 3 Technology Interface = adapters)
 - Hussain Encoded Founder — "The encoded expertise is the asset. The runtime is disposable infrastructure."
 

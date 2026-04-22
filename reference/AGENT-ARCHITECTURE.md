@@ -6,12 +6,12 @@
 
 # Growth OS GrowthOS — Complete Agent Architecture
 
-> The most optimal way to build an AI growth operating system using the Canopy
+> The most optimal way to build an AI growth operating system using the the workspace manifest
 > workspace protocol, Signal Theory quality encoding, and proven growth operator
 > methodologies.
 
 **Author:** Roberto H Signal Theory (MIOSA Research)
-**Protocol:** Canopy Workspace Protocol v1
+**Protocol:** the workspace manifest Workspace Protocol v1
 **Theory:** Signal Theory — Optimal Intent Encoding (Signal Theory, 2026)
 **Generated:** 2026-03-20
 
@@ -137,9 +137,9 @@ All three are required for optimal encoding.
 | **Partnerships** | 1 | 2 | 4 |
 | **TOTAL** | **36** | **42** | **152** |
 
-### Reusable from Canopy Library
+### Reusable from the workspace manifest Library
 
-14 of these 36 agents can be **adapted from existing Canopy library agents**
+14 of these 36 agents can be **adapted from existing the workspace manifest library agents**
 rather than built from scratch. 60+ skills can be imported directly. See
 Section 4 for which agents map to which library files.
 
@@ -2050,7 +2050,7 @@ Milestone: Agents push output to live platforms
 | **Scope** | High-ticket only | DM only | CRM + funnels | ALL growth ops A-Z |
 | **Coordination** | "Missions" (basic) | None | Workflows (manual) | Spec layer: FSMs + DAG + handoffs |
 | **Knowledge** | Generic | None | None | Operator playbooks + swipe files |
-| **Portability** | Locked SaaS | Locked SaaS | Locked SaaS | Canopy protocol (any runtime) |
+| **Portability** | Locked SaaS | Locked SaaS | Locked SaaS | workspace protocol (any runtime) |
 | **Examples** | None visible | None | Templates | 2-3 golden examples per template |
 | **Feedback Loop** | Basic | Sentence-level DM | Funnel analytics | feedback-loop theory-compliant across ALL channels |
 
@@ -2072,7 +2072,7 @@ These questions must be answered to complete the architecture:
 ### Product Questions
 1. **User #1 profile:** Coach with $5K offer? Agency owner? Growth operator?
 2. **Entry point:** $97/mo research-only (like Cook.ai)? Or full access from day 1?
-3. **Interface:** Terminal (Claude Code) MVP? Or GUI (OSA/MIOSA) from launch?
+3. **Interface:** Terminal (slash-command runtime) MVP? Or GUI (OSA/MIOSA) from launch?
 4. **Distribution:** Self-hosted (git clone)? Managed SaaS? Both?
 
 ### Technical Questions
@@ -2147,9 +2147,9 @@ These tasks were identified as gaps and are now assigned to existing agents:
 | Platform-specific SEO | YouTube, Short-Form, Podcast agents | Add SEO optimization step to each agent's process |
 | Quiz/assessment funnels | Lead Magnet Agent | Already in template list; add dedicated `/quiz-funnel` skill |
 
-### Canopy Library Import Map
+### the workspace manifest Library Import Map
 
-These agents should be **forked from the Canopy library** and customized:
+These agents should be **forked from the the workspace manifest library** and customized:
 
 ```
 # Copy and customize these agents:
@@ -2181,7 +2181,7 @@ cp -r library/skills/ai-patterns/   skills/ai-patterns/
 
 This gives you **18 paid-media skills**, **7 coordination skills**, **6 learning
 skills**, **14 AI reasoning patterns**, **4 strategy skills**, and **5 content
-skills** — all production-ready from the Canopy library. That's **54 skills
+skills** — all production-ready from the the workspace manifest library. That's **54 skills
 for free** before you build a single custom one.
 
 ---

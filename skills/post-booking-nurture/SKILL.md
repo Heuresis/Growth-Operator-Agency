@@ -18,7 +18,7 @@ required_compartments:
   conversion_sales: 30
 upstream_dependency: build-funnel
 execution_mode: interactive
-sorx_tier: structured_ai
+tier: structured_ai
 temperature_gate: warm
 required_tools: [file_read, file_write]
 required_mcps: [filesystem]

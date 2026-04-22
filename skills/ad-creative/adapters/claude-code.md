@@ -4,17 +4,17 @@ argument-hint: [optional: "--type=1-8" to force; else auto-select by audience + 
 allowed-tools: Read, Write, Edit, Grep, Glob, WebSearch, WebFetch
 ---
 
-# /ad-creative — Claude Code Runtime Binding
+# /ad-creative — slash-command runtime Runtime Binding
 
 Load and execute `skills/ad-creative/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/ad-creative/SKILL.md` (full body)
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/ad-creative/SKILL.md` (full body)
    - `Read` upstream: `output/design-offer/`, `output/build-icp/` (VOC Section 9 is critical), `output/build-positioning/` (mechanism), `output/extract-voice/` (phrases_to_use)
-   - `Read` `reference/frameworks/primitives/specificity.md` (media-testing methodology), `reference/frameworks/instagram-profile-funnel/README.md` (Instagram profile-funnel methodology), the growth engineer + the operations director operator files
+   - read `reference/frameworks/primitives/specificity.md` (media-testing methodology), `reference/frameworks/instagram-profile-funnel/README.md` (Instagram profile-funnel methodology), the growth engineer + the operations director operator files
 
 2. **Pre-flight check:** Verify `audience_intelligence_system >= 70`, `offer_architecture >= 50`, `copy_messaging >= 40`, `traffic_acquisition >= 20` in `company.yaml`. Confirm Meta pixel + CAPI are wired before any live-traffic recommendation.
 
@@ -26,11 +26,11 @@ Load and execute `skills/ad-creative/SKILL.md` in the current workspace.
    - Per variant: hook + body copy + CTA + visual brief + platform adaptations
 
 5. **Update company.yaml:**
-   - `Edit` `company.yaml` Compartment 7 (traffic_acquisition) to reference creative brief + campaign structure
+   - edit `company.yaml` Compartment 7 (traffic_acquisition) to reference creative brief + campaign structure
    - Never overwrite existing creative references without confirmation
 
 6. **Post-ship:**
-   - `Write` `skills/ad-creative/evidence/runs/{YYYY-MM-DD}-run.md` with ad type rationale + specificity scores + voice-match audit
+   - write `skills/ad-creative/evidence/runs/{YYYY-MM-DD}-run.md` with ad type rationale + specificity scores + voice-match audit
    - Output next-skill recommendations (`/landing-page` to match promise, `/post-booking-nurture` if call funnel, `/content-calendar` for organic lift, `/ig-profile-funnel` if Type 1 selected)
 
 ## Arguments
@@ -74,4 +74,4 @@ After the creative brief ships:
 - Scale via the growth engineer Creative Family Micro Tests — duplicate winner at 2× budget, never bid-increase
 
 ---
-*Claude Code adapter v1.0 — binds to skills/ad-creative/SKILL.md*
+*the slash-command adapter v1.0 — binds to skills/ad-creative/SKILL.md*

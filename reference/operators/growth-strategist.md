@@ -84,8 +84,8 @@ Applied in `/email-sequence` Type 3 (Launch).
 
 ## Growth OS Pillar Assignment
 
-- **Pillar 4 — Conversion OS** — primary (call funnels)
-- **Pillar 2 — Traffic OS** — secondary (Three-Head Content Funnel)
+- **Pillar 4 — Sales Block** — primary (call funnels)
+- **Pillar 2 — Marketing Block** — secondary (Three-Head Content Funnel)
 
 ---
 *v1.0 — 2026-04-19. Tier 3 rising operator — primary source for Whisper/Tease/Shout + Three-Head Content Funnel.*

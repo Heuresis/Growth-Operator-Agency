@@ -4,16 +4,16 @@ argument-hint: [optional: --variant=1-5 | launch window date range]
 allowed-tools: Read, Write, Edit, Grep, Glob
 ---
 
-# /plan-launch — Claude Code Runtime Binding
+# /plan-launch — slash-command runtime Runtime Binding
 
 Load and execute `skills/plan-launch/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/plan-launch/SKILL.md` (full body)
-   - `Read` `skills/plan-launch/reference/` if present
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/plan-launch/SKILL.md` (full body)
+   - read `skills/plan-launch/reference/` if present
    - `Read` ALL upstream: `output/design-offer/`, `output/build-funnel/`, `output/build-vsl/`, `output/content-calendar/`, `output/email-sequence/`, `output/ad-creative/`, `output/post-booking-nurture/`
 
 2. **Pre-flight check:** Verify `required_compartments` — audience_intelligence_system ≥ 60, offer_architecture ≥ 70, funnel_systems ≥ 60, content_strategy ≥ 40. Sacred skill — thresholds strict. All upstream assets must exist or be flagged as gaps.
@@ -26,7 +26,7 @@ Load and execute `skills/plan-launch/SKILL.md` in the current workspace.
    - Structure per SKILL.md Output Format — 5 phases × daily runbook, dependency check, team grid, tech checklist, KPI targets
 
 5. **Post-ship:**
-   - `Write` `skills/plan-launch/evidence/runs/{YYYY-MM-DD}-run.md`
+   - write `skills/plan-launch/evidence/runs/{YYYY-MM-DD}-run.md`
    - Recommend next skill: `/launch-report` (post-launch analysis after window closes)
 
 ## Arguments
@@ -65,4 +65,4 @@ Per `handoffs/quality-revision.md`: auto-revise → surface gap → escalate to 
 - **On sacred-format completion: 3/3 Blind Output Test required before paid-traffic spend on launch window**
 
 ---
-*Claude Code adapter v1.0 — binds to skills/plan-launch/SKILL.md. Sacred format — 3/3 Blind Output Test mandatory.*
+*the slash-command adapter v1.0 — binds to skills/plan-launch/SKILL.md. Sacred format — 3/3 Blind Output Test mandatory.*

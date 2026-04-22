@@ -1,6 +1,6 @@
 # Quickstart
 
-Get Growth OS running against a real creator in under 30 minutes. This guide assumes Claude Code. For other runtimes, see [RUNTIMES](../spec/RUNTIMES.md).
+Get Growth OS running against a real creator in under 30 minutes. This guide assumes slash-command runtime. For other runtimes, see [RUNTIMES](../spec/RUNTIMES.md).
 
 <img alt="Growth OS architecture" src="assets/architecture-light.svg" width="100%">
 
@@ -8,7 +8,7 @@ Get Growth OS running against a real creator in under 30 minutes. This guide ass
 
 ## Prerequisites
 
-- A working install of [Claude Code](https://docs.claude.com/en/docs/claude-code) or the [Canopy runtime](https://canopy.dev).
+- A working install of [slash-command runtime](https://docs.claude.com/en/docs/claude-code) or the [workspace-manifest runtime](https://manifest.dev).
 - Git.
 - A creator whose business you are about to encode (yourself, a client, or a research subject).
 
@@ -37,23 +37,23 @@ ls
 # workflows/
 ```
 
-You should see 29 skill folders under `skills/`, 41 agent files under `agents/`, and 29 Claude Code command bindings under `.claude/commands/`.
+You should see 29 skill folders under `skills/`, 41 agent files under `agents/`, and 29 slash-command runtime command bindings under `.claude/commands/`.
 
 ---
 
 ## Step 2 — Boot the workspace
 
-### If you are using Claude Code
+### If you are using slash-command runtime
 
-Open the workspace directory in Claude Code. The harness reads `.claude/commands/*.md` automatically and exposes 29 slash commands to the palette. The first agent to enter the workspace reads `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, and `company.yaml` before it does anything else — this is the boot sequence.
+Open the workspace directory in a slash-command runtime. The harness reads `.claude/commands/*.md` automatically and exposes the slash commands to the palette. The first agent to enter the workspace reads `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, and `company.yaml` before it does anything else — this is the boot sequence.
 
-### If you are using Canopy
+### If you are using the workspace manifest
 
 ```bash
-canopy boot ./
+manifest boot ./
 ```
 
-Canopy discovers skills by scanning `skills/*/SKILL.md` and agents by scanning `agents/*.md`. The adapters in `skills/{slug}/adapters/canopy.yaml` handle runtime bindings automatically.
+the workspace manifest discovers skills by scanning `skills/*/SKILL.md` and agents by scanning `agents/*.md`. The adapters in `skills/{slug}/adapters/manifest.yaml` handle runtime bindings automatically.
 
 ### If you are using a generic LLM
 

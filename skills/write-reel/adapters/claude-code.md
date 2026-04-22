@@ -4,17 +4,17 @@ argument-hint: [optional: "--framework=1-10" to force; else select by pillar + s
 allowed-tools: Read, Write, Edit, Grep, Glob
 ---
 
-# /write-reel — Claude Code Runtime Binding
+# /write-reel — slash-command runtime Runtime Binding
 
 Load and execute `skills/write-reel/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/write-reel/SKILL.md` (full body)
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/write-reel/SKILL.md` (full body)
    - `Read` upstream: calendar brief from `output/content-calendar/` (identifies which slot this reel fills), `output/extract-voice/` (phrases_to_use), `output/build-positioning/` (mechanism thread)
-   - `Read` `reference/frameworks/youtube/hook-library-20-formulas.md`, `reference/operators/external/bennett.md` (10 frameworks)
+   - read `reference/frameworks/youtube/hook-library-20-formulas.md`, `reference/operators/external/bennett.md` (10 frameworks)
 
 2. **Pre-flight check:** Verify `audience_intelligence_system >= 60`, `offer_architecture >= 40`, `copy_messaging >= 30` in `company.yaml`. Confirm calendar brief ID + pillar + conversion stage are specified (if invoked standalone without brief, prompt for these).
 
@@ -28,7 +28,7 @@ Load and execute `skills/write-reel/SKILL.md` in the current workspace.
 5. **Update company.yaml:** No compartment writes for per-asset skills — log artifact reference only.
 
 6. **Post-ship:**
-   - `Write` `skills/write-reel/evidence/runs/{YYYY-MM-DD}-run.md` with framework rationale + specificity scores + voice-match audit
+   - write `skills/write-reel/evidence/runs/{YYYY-MM-DD}-run.md` with framework rationale + specificity scores + voice-match audit
    - Output next-skill recommendations (`/write-linkedin-post` for repurpose, `/write-x-thread` to expand thesis, `/story-sequence` for IG Stories usage)
 
 ## Arguments
@@ -70,4 +70,4 @@ After the reel ships:
 - Engagement feedback (after 48h + 7d) feeds framework performance data back to `/content-calendar` for next-cycle adjustments
 
 ---
-*Claude Code adapter v1.0 — binds to skills/write-reel/SKILL.md*
+*the slash-command adapter v1.0 — binds to skills/write-reel/SKILL.md*

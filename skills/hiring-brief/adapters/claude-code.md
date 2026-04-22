@@ -4,16 +4,16 @@ argument-hint: "[optional: --role=setter|closer|sdr|content-mgr|editor|cs|va|mar
 allowed-tools: Read, Write, Edit, Grep, Glob
 ---
 
-# /hiring-brief — Claude Code Runtime Binding
+# /hiring-brief — slash-command runtime Runtime Binding
 
 Load and execute `skills/hiring-brief/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/hiring-brief/SKILL.md` (full body)
-   - `Read` `skills/hiring-brief/reference/` (all files, if present)
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/hiring-brief/SKILL.md` (full body)
+   - read `skills/hiring-brief/reference/` (all files, if present)
    - `Read` upstream dependency output: `output/build-sop/latest-{role}.md` (SOP defines the role before the brief)
 
 2. **Pre-flight check:** Verify `company.yaml` thresholds — offer_architecture ≥ 50, operational_intelligence ≥ 30. If below, recommend running `/build-sop` for the role first. Also cross-check creator's MRR against the VSL director's Revenue-Threshold Team Model.
@@ -28,7 +28,7 @@ Load and execute `skills/hiring-brief/SKILL.md` in the current workspace.
 5. **Update company.yaml:** `Edit` compartment 11 (operational_intelligence) — append open-role reference + hiring timeline. Never overwrite existing values without confirmation.
 
 6. **Post-ship:**
-   - `Write` `skills/hiring-brief/evidence/runs/{YYYY-MM-DD}-run.md` with phase log + confidence tags + role selected
+   - write `skills/hiring-brief/evidence/runs/{YYYY-MM-DD}-run.md` with phase log + confidence tags + role selected
    - Output next-skill recommendation (usually `/build-sop` if SOP missing, else skill for the role's function)
 
 ## Arguments
@@ -67,4 +67,4 @@ After brief ships:
 - Recommend `/revenue-report` to re-forecast P&L impact of the hire
 
 ---
-*Claude Code adapter v1.0 — binds to skills/hiring-brief/SKILL.md*
+*the slash-command adapter v1.0 — binds to skills/hiring-brief/SKILL.md*

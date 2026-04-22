@@ -1,4 +1,4 @@
-# ICP Document: Fitness Coaching for Tech Founders
+# ICP Document: Fitness Coaching
 
 > Signal: `S=(data, spec, commit, markdown, icp-profile)`
 > Built from: Market Research Brief (Viability Score: 78/100)

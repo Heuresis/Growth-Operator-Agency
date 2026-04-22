@@ -4,16 +4,16 @@ argument-hint: [optional: weekly theme hint]
 allowed-tools: Read, Write, Edit, Grep, Glob
 ---
 
-# /story-sequence — Claude Code Runtime Binding
+# /story-sequence — slash-command runtime Runtime Binding
 
 Load and execute `skills/story-sequence/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/story-sequence/SKILL.md` (full body)
-   - `Read` `skills/story-sequence/reference/` if present
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/story-sequence/SKILL.md` (full body)
+   - read `skills/story-sequence/reference/` if present
    - `Read` upstream: `output/content-calendar/latest.md`, `output/build-icp/` (Section 10 Objection Library), `output/design-offer/` (Social Proof), `output/extract-voice/`
 
 2. **Pre-flight check:** Verify `required_compartments` — audience_intelligence_system ≥ 50, offer_architecture ≥ 40, copy_messaging ≥ 30, content_strategy ≥ 20. Specifically: ICP objection library must be populated (Day 3 depends on it).
@@ -26,7 +26,7 @@ Load and execute `skills/story-sequence/SKILL.md` in the current workspace.
    - Structure per SKILL.md Output Format — 7 days, 2-4 stories each, 4-layer anatomy per story, Highlights save plan, Close Friends variant if applicable
 
 5. **Post-ship:**
-   - `Write` `skills/story-sequence/evidence/runs/{YYYY-MM-DD}-run.md`
+   - write `skills/story-sequence/evidence/runs/{YYYY-MM-DD}-run.md`
    - Recommend next skill: `/write-reel` (weekly highlights reel), `/email-sequence` (broadcast referencing stories), or `/content-calendar` (next week)
 
 ## Arguments
@@ -65,4 +65,4 @@ Per `handoffs/quality-revision.md`: auto-revise → surface gap → escalate to 
 - On external-tier completion: Blind Output Test 2/3 queued before CF publishing
 
 ---
-*Claude Code adapter v1.0 — binds to skills/story-sequence/SKILL.md*
+*the slash-command adapter v1.0 — binds to skills/story-sequence/SKILL.md*

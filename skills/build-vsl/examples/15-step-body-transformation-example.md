@@ -1,13 +1,13 @@
 # the VSL director 15-Step VSL - Elite Body Transformation for Tech Founders
 
-> **Framework:** Eli the VSL director's 15-Step VSL (Variant A) applied to the Fitness Coaching for Tech Founders offer
+> **Framework:** Eli the VSL director's 15-Step VSL (Variant A) applied to the Fitness Coaching offer
 > **Runtime:** 32-38 min (high-ticket, high-sophistication audience)
 > **Target conversion:** 10%+ (the VSL director's invariant)
 > **Price point:** $3,997/quarter core tier (FFOS Group Coaching)
 
 ## Context
 
-This example walks the 15-Step VSL sequence through the canonical Fitness Coaching for Tech Founders offer, calibrated for a high-sophistication audience. Because the audience is sophisticated and the price is $3,997+, the Hero Story runs 2-4 minutes (not the 5-8 min low-sophistication variant), Price Anchoring uses specific cost-of-inaction math, and Future Pace stays grounded and data-driven rather than lifestyle-fantasy. Copy invariant honored: no selling before Step 9.
+This example walks the 15-Step VSL sequence through the canonical Fitness Coaching offer, calibrated for a high-sophistication audience. Because the audience is sophisticated and the price is $3,997+, the Hero Story runs 2-4 minutes (not the 5-8 min low-sophistication variant), Price Anchoring uses specific cost-of-inaction math, and Future Pace stays grounded and data-driven rather than lifestyle-fantasy. Copy invariant honored: no selling before Step 9.
 
 ## The Encoded VSL (15 Steps)
 
@@ -96,4 +96,4 @@ Isomorphic testimonials matched to the prospect. Video of a founder who lost 22 
 - `reference/examples/foundations/offer-document.md`
 
 ---
-*Encoded 2026-04-19. [SYNTHESIZED] composition applying 15-step framework [VERBATIM] to the canonical Fitness Coaching for Tech Founders offer. All framework structure, belief-installation mapping, and copy invariants are pulled from source. Specific script segments are [SYNTHESIZED] illustrative text calibrated to audience sophistication rules.*
+*Encoded 2026-04-19. [SYNTHESIZED] composition applying 15-step framework [VERBATIM] to the canonical Fitness Coaching offer. All framework structure, belief-installation mapping, and copy invariants are pulled from source. Specific script segments are [SYNTHESIZED] illustrative text calibrated to audience sophistication rules.*

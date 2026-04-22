@@ -17,7 +17,7 @@ required_compartments:
   offer_architecture: 70
 upstream_dependency: plan-launch
 execution_mode: interactive
-sorx_tier: reasoning_ai
+tier: reasoning_ai
 temperature_gate: warm
 required_tools: [file_read, file_write]
 required_mcps: [filesystem]

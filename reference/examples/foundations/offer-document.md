@@ -1,4 +1,4 @@
-# Offer Document: Fitness Coaching for Tech Founders
+# Offer Document: Fitness Coaching
 
 > Signal: `S=(linguistic, spec, commit, markdown, offer-stack)`
 > Built from: ICP (90/100) + Positioning Document

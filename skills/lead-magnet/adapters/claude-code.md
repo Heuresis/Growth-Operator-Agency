@@ -4,16 +4,16 @@ argument-hint: [optional: --type=1-9 or describe desired magnet]
 allowed-tools: Read, Write, Edit, Grep, Glob
 ---
 
-# /lead-magnet — Claude Code Runtime Binding
+# /lead-magnet — slash-command runtime Runtime Binding
 
 Load and execute `skills/lead-magnet/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/lead-magnet/SKILL.md` (full body)
-   - `Read` `skills/lead-magnet/reference/` if present
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/lead-magnet/SKILL.md` (full body)
+   - read `skills/lead-magnet/reference/` if present
    - `Read` upstream: `output/design-offer/latest.md` (mechanism + value stack), `output/build-icp/` (pain + desire + buying triggers), `output/build-positioning/` (Core Belief + Vehicle Switch)
 
 2. **Pre-flight check:** Verify `required_compartments` — audience_intelligence_system ≥ 60, offer_architecture ≥ 50, copy_messaging ≥ 30.
@@ -26,7 +26,7 @@ Load and execute `skills/lead-magnet/SKILL.md` in the current workspace.
    - Structure per SKILL.md Output Format — title variants, opt-in page copy, asset outline, bridge-to-offer, delivery automation spec, design brief
 
 5. **Post-ship:**
-   - `Write` `skills/lead-magnet/evidence/runs/{YYYY-MM-DD}-run.md`
+   - write `skills/lead-magnet/evidence/runs/{YYYY-MM-DD}-run.md`
    - Recommend next skill: `/email-sequence` type 1 Welcome (triggered post-opt-in), `/landing-page`, `/ad-creative`
 
 ## Arguments
@@ -64,4 +64,4 @@ Per `handoffs/quality-revision.md`: auto-revise → surface gap → escalate to 
 - On external-tier completion: Blind Output Test 2/3 queued before paid-traffic spend
 
 ---
-*Claude Code adapter v1.0 — binds to skills/lead-magnet/SKILL.md*
+*the slash-command adapter v1.0 — binds to skills/lead-magnet/SKILL.md*

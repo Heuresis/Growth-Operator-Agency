@@ -128,8 +128,8 @@ Feeds `/post-booking-nurture` skill.
 
 ## Growth OS Pillar Assignment
 
-- **Pillar 2 — Traffic OS** — primary contributor (Instagram + ads)
-- **Pillar 4 — Conversion OS** — secondary (show-rate stack)
+- **Pillar 2 — Marketing Block** — primary contributor (Instagram + ads)
+- **Pillar 4 — Sales Block** — secondary (show-rate stack)
 
 ## Framework Folder Reference
 

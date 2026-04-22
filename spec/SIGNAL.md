@@ -2,7 +2,7 @@
 
 > **The quality substrate.** Every output this workspace produces is a Signal. This spec defines what counts as a Signal, how it's encoded, how it's measured, and when it fails.
 >
-> **Foundational sources:** Signal Theory, *Signal Theory: Optimal Intent Encoding* (63pp); Canopy protocol `protocol/signal-theory.md`; information theory (1948), cybernetics (1956), viable systems (1972), feedback-loop theory (1948).
+> **Foundational sources:** Signal Theory, *Signal Theory: Optimal Intent Encoding* (63pp); workspace protocol `protocol/signal-theory.md`; information theory (1948), cybernetics (1956), viable systems (1972), feedback-loop theory (1948).
 
 ---
 
@@ -233,9 +233,9 @@ When a Signal fails the gate:
 3. **Attempt one revision** if the fix is clear
 4. **If revision fails:** escalate to creator with the specific gap flagged
 
-## 11. Alignment with Canopy Protocol
+## 11. Alignment with workspace protocol
 
-Canopy's `protocol/signal-theory.md` uses the identical 5-tuple and 4 principles. Growth OS extends this with:
+the workspace manifest's `protocol/signal-theory.md` uses the identical 5-tuple and 4 principles. Growth OS extends this with:
 - Signal Theory's 7-Layer Optimal System mapping (L1 Network → L7 Governance)
 - Encoded Founder's M = T × S × K × A × E × I × L formula
 - Impact Distribution Principle (40/40/20) as the applied cybernetics theory ratio for growth businesses
@@ -244,7 +244,7 @@ Canopy's `protocol/signal-theory.md` uses the identical 5-tuple and 4 principles
 ## 12. Sources
 
 - Signal Theory — *Signal Theory: Optimal Intent Encoding* (63pp)
-- Canopy Protocol — `protocol/signal-theory.md`
+- workspace protocol — `protocol/signal-theory.md`
 - Syed Hussain — *Encoded Founder* (V4)
 - information theory (1948) *A Mathematical Theory of Communication*
 - cybernetics (1956) *An Introduction to Cybernetics*

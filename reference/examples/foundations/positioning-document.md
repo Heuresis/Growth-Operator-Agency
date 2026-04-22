@@ -1,4 +1,4 @@
-# Positioning Document: Fitness Coaching for Tech Founders
+# Positioning Document: Fitness Coaching
 
 > Signal: `S=(linguistic, spec, commit, markdown, positioning-document)`
 > Built from: ICP Document (Completeness Score: 90/100)

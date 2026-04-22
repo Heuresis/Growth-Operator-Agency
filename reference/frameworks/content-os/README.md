@@ -2,7 +2,7 @@
 
 > **Status:** deep-encoded. Five canonical frameworks live in this directory, plus cross-references to YouTube-shared frameworks in `../youtube/`.
 
-the content OS director is the Tier-1 GOAT operator encoded as the primary YouTube-native growth operator in the Growth OS lineage. His unique contributions are the *Education OS 4-phase model* (Indoctrination → Value → Conversion → Retention), the *9-area ICP deep-dive* for info-product avatar building, the *YouTube Flywheel Funnel architecture*, and the *business-partner operating model* that distinguishes his engagements from agency-client norms.
+the content OS director is the Tier-1 GOAT operator encoded as the primary YouTube-native growth operator in the Growth OS lineage. His unique contributions are the *Nurture Block 4-phase model* (Indoctrination → Value → Conversion → Retention), the *9-area ICP deep-dive* for info-product avatar building, the *YouTube Flywheel Funnel architecture*, and the *business-partner operating model* that distinguishes his engagements from agency-client norms.
 
 ## Canonical Frameworks (in this directory)
 

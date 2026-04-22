@@ -12,9 +12,9 @@ A thin binding file inside `skills/{slug}/adapters/` that translates a runtime-a
 
 The encoding-completeness protocol. Three evaluators who know the creator's work see the output and answer: *did the creator produce this, or the system?* If at least one says "creator" or "can't tell," encoding passed. If zero do, the encoding is wrong — revise. Spec at [`spec/BLIND-OUTPUT-TEST.md`](../spec/BLIND-OUTPUT-TEST.md).
 
-## Canopy Protocol
+## workspace protocol
 
-The workspace file contract: `SYSTEM.md` + `SKILL.md` + two-layer structure + external skill references with provenance. Growth OS is Canopy-compliant. Canopy is the format the workspace speaks in.
+The workspace file contract: `SYSTEM.md` + `SKILL.md` + two-layer structure + external skill references with provenance. Growth OS is manifest-compliant. the workspace manifest is the format the workspace speaks in.
 
 ## Compartment
 
@@ -66,7 +66,7 @@ The core thesis. Workspace = ROM (persistent, files on disk, yours forever). Age
 
 ## Runtime
 
-The LLM host that reads the workspace and executes skills. Growth OS supports Claude Code (primary), Canopy/SORX (primary), Codex, Cursor, OpenClaw, and any future runtime that reads markdown + YAML. Runtime-specific concerns live in `adapters/`.
+The LLM host that reads the workspace and executes skills. Growth OS supports slash-command runtime, workspace manifests (primary), Codex, Cursor, OpenClaw, and any future runtime that reads markdown + YAML. Runtime-specific concerns live in `adapters/`.
 
 ## Sacred-format
 

@@ -78,7 +78,7 @@ Invariants:
 
 ## Growth OS Pillar Assignment
 
-- **Pillar 2 — Traffic OS / Marketing** — secondary contributor
+- **Pillar 2 — Marketing Block / Marketing** — secondary contributor
 - Cross-cutting — IG Stories touch nurture + marketing + sales
 
 ---

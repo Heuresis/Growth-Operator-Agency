@@ -4,17 +4,17 @@ argument-hint: [optional: offer name or price anchor]
 allowed-tools: Read, Write, Edit, Grep, Glob, WebSearch, WebFetch
 ---
 
-# /design-offer — Claude Code Runtime Binding
+# /design-offer — slash-command runtime Runtime Binding
 
 Load and execute `skills/design-offer/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/design-offer/SKILL.md` (full body)
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/design-offer/SKILL.md` (full body)
    - `Read` upstream: `output/build-icp/` (ICP Completeness >= 80 required) + `output/build-positioning/` if exists
-   - `Read` `skills/design-offer/reference/` + value-equation / unique-mechanism / 8-required-beliefs primitives + the acquisition economist + the VSL director operator references
+   - read `skills/design-offer/reference/` + value-equation / unique-mechanism / 8-required-beliefs primitives + the acquisition economist + the VSL director operator references
 
 2. **Pre-flight check:** Verify `audience_intelligence_system >= 70`, `offer_architecture >= 20`, `creator_identity_matrix >= 40` in `company.yaml`. If ICP Document missing or Completeness < 80, BLOCK and route to `/build-icp`.
 
@@ -26,11 +26,11 @@ Load and execute `skills/design-offer/SKILL.md` in the current workspace.
    - If economics fail the 3:1 gate, HOLD with fix-path recommendations (raise price / reduce CAC / add continuity / add upsells)
 
 5. **Update company.yaml:**
-   - `Edit` `company.yaml` to populate Compartment 3 (offer_architecture) — core_offer, mechanism_name, price, guarantee, bonuses, economics — to 70%+
+   - edit `company.yaml` to populate Compartment 3 (offer_architecture) — core_offer, mechanism_name, price, guarantee, bonuses, economics — to 70%+
    - Require creator sign-off on pricing + guarantee copy per governance (pricing_change requires board approval per INV-11)
 
 6. **Post-ship:**
-   - `Write` `skills/design-offer/evidence/runs/{YYYY-MM-DD}-run.md` with Value Equation scoring + LTV:CAC math + confidence tags
+   - write `skills/design-offer/evidence/runs/{YYYY-MM-DD}-run.md` with Value Equation scoring + LTV:CAC math + confidence tags
    - Output next-skill recommendation (usually `/build-vsl`; `/extract-voice` in parallel if not done)
 
 ## Arguments
@@ -73,4 +73,4 @@ After the Offer Document ships + passes gate:
 - On sacred-format completion: ensure Blind Output Test 3/3 is queued before paid traffic
 
 ---
-*Claude Code adapter v1.0 — binds to skills/design-offer/SKILL.md*
+*the slash-command adapter v1.0 — binds to skills/design-offer/SKILL.md*

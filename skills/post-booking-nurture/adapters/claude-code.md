@@ -4,16 +4,16 @@ argument-hint: [optional: offer price tier hint for stack depth]
 allowed-tools: Read, Write, Edit, Grep, Glob
 ---
 
-# /post-booking-nurture — Claude Code Runtime Binding
+# /post-booking-nurture — slash-command runtime Runtime Binding
 
 Load and execute `skills/post-booking-nurture/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/post-booking-nurture/SKILL.md` (full body)
-   - `Read` `skills/post-booking-nurture/reference/` if present
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/post-booking-nurture/SKILL.md` (full body)
+   - read `skills/post-booking-nurture/reference/` if present
    - `Read` upstream: `output/build-funnel/latest.md` (archetype — must be 3 Application or 4 Book-a-Call), `output/design-offer/` (price tier, call structure), `output/build-icp/` (objections), `output/extract-voice/`
 
 2. **Pre-flight check:** Verify `required_compartments` — audience_intelligence_system ≥ 60, offer_architecture ≥ 50, copy_messaging ≥ 40, conversion_sales ≥ 30. Verify funnel archetype is 3 (Application) or 4 (Book-a-Call) — Archetype 2 (Webinar) routes to `/email-sequence` type 4 instead.
@@ -26,7 +26,7 @@ Load and execute `skills/post-booking-nurture/SKILL.md` in the current workspace
    - Structure per SKILL.md Output Format — confirmation page spec, 4-email cadence, 5-SMS cadence, phone triage script (if applicable), automation triggers
 
 5. **Post-ship:**
-   - `Write` `skills/post-booking-nurture/evidence/runs/{YYYY-MM-DD}-run.md`
+   - write `skills/post-booking-nurture/evidence/runs/{YYYY-MM-DD}-run.md`
    - Recommend next skill: `/sales-script` (closer script), `/call-prep` (closer briefing), `/email-sequence` type 7 Post-Purchase
 
 ## Arguments
@@ -68,4 +68,4 @@ Per `handoffs/quality-revision.md`: auto-revise → surface gap → escalate to 
 - On external-tier completion: Blind Output Test 2/3 queued before stack activation
 
 ---
-*Claude Code adapter v1.0 — binds to skills/post-booking-nurture/SKILL.md*
+*the slash-command adapter v1.0 — binds to skills/post-booking-nurture/SKILL.md*

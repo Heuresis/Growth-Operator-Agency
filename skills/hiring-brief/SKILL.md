@@ -16,7 +16,7 @@ required_compartments:
   operational_intelligence: 30
 upstream_dependency: build-sop
 execution_mode: interactive
-sorx_tier: structured_ai
+tier: structured_ai
 temperature_gate: warm
 required_tools: [file_read, file_write]
 required_mcps: [filesystem]

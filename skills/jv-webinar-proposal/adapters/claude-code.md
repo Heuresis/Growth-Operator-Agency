@@ -4,16 +4,16 @@ argument-hint: [optional: partner name or domain to target]
 allowed-tools: Read, Write, Edit, Grep, Glob, WebSearch, WebFetch
 ---
 
-# /jv-webinar-proposal — Claude Code Runtime Binding
+# /jv-webinar-proposal — slash-command runtime Runtime Binding
 
 Load and execute `skills/jv-webinar-proposal/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/jv-webinar-proposal/SKILL.md` (full body)
-   - `Read` `skills/jv-webinar-proposal/reference/` if present
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/jv-webinar-proposal/SKILL.md` (full body)
+   - read `skills/jv-webinar-proposal/reference/` if present
    - `Read` upstream: `output/design-offer/latest.md` (offer details + AOV + close rate), `output/build-icp/` (ICP for audience overlap analysis), `output/competitor-intel/` if present (adjacent-tier partner candidates)
 
 2. **Pre-flight check:** Verify `required_compartments` — audience_intelligence_system ≥ 50, offer_architecture ≥ 60.
@@ -26,7 +26,7 @@ Load and execute `skills/jv-webinar-proposal/SKILL.md` in the current workspace.
    - Structure per SKILL.md Output Format — partner brief, personalized opener, audience overlap, webinar proposal, rev split, logistics, expected economics, social proof, CTA, follow-up plan
 
 5. **Post-ship:**
-   - `Write` `skills/jv-webinar-proposal/evidence/runs/{YYYY-MM-DD}-run.md`
+   - write `skills/jv-webinar-proposal/evidence/runs/{YYYY-MM-DD}-run.md`
    - Recommend next skill: `/webinar-script` (the JV webinar itself), `/email-sequence` (post-JV follow-up to attendees)
 
 ## Arguments
@@ -65,4 +65,4 @@ Per `handoffs/quality-revision.md`: auto-revise → surface gap → escalate to 
 - On external-tier completion: Blind Output Test 2/3 queued before sending to any real JV prospect
 
 ---
-*Claude Code adapter v1.0 — binds to skills/jv-webinar-proposal/SKILL.md*
+*the slash-command adapter v1.0 — binds to skills/jv-webinar-proposal/SKILL.md*

@@ -17,7 +17,7 @@ required_compartments:
   offer_architecture: 0
   creator_identity_matrix: 10
 execution_mode: interactive
-sorx_tier: structured_ai
+tier: structured_ai
 temperature_gate: warm
 evidence_gate:
   - all_9_sections_complete

@@ -18,8 +18,8 @@ skills/{slug}/
 │   ├── failure-modes.md        ← what can go wrong
 │   └── runs/                   ← run-by-run log
 └── adapters/
-    ├── claude-code.md          ← Claude Code runtime binding
-    ├── canopy.yaml             ← Canopy / SORX binding
+    ├── claude-code.md          ← the slash-command runtime binding
+    ├── manifest.yaml             ← workspace manifests binding
     └── http.openapi.yaml       ← HTTP / OpenAPI binding (v1.1 target)
 ```
 
@@ -90,16 +90,16 @@ argument-hint: "[optional: offer name or product]"
 allowed-tools: Read, Write, Edit, Grep, Glob
 ---
 
-# /design-offer — Claude Code runtime binding
+# /design-offer — the slash-command runtime binding
 
 Load and execute `skills/design-offer/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. Read context:
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/design-offer/SKILL.md` (full body)
-   - `Read` `skills/design-offer/reference/` (all files)
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/design-offer/SKILL.md` (full body)
+   - read `skills/design-offer/reference/` (all files)
    - `Read` upstream: `output/build-icp/latest.md`, `output/build-positioning/latest.md`
 
 2. Pre-flight check: verify required_compartments thresholds in `company.yaml`. If below threshold, enter Compartment Interview Mode.
@@ -131,14 +131,14 @@ Adapter files should be ≤ 50 lines. If they exceed 50, decision logic has leak
 
 ---
 
-## `adapters/canopy.yaml`
+## `adapters/manifest.yaml`
 
 ```yaml
 skill_id: design-offer
 skill_path: skills/design-offer/SKILL.md
 skill_name: "Design Offer"
 
-sorx_tier: reasoning_ai
+tier: reasoning_ai
 category: foundations
 temperature_gate: warm
 
@@ -220,10 +220,10 @@ The `evidence/blind-output-test.md` file scaffolds evaluator roster, test protoc
 2. Create the folder `skills/{slug}/` with the five subdirectories above.
 3. Write `SKILL.md` first. Get Decision Logic and Process right before any adapter work.
 4. Run the skill manually against a test creator to validate the Process section.
-5. Once Process is proven, write the Claude Code adapter. Keep it thin.
-6. Write the Canopy adapter in parallel.
+5. Once Process is proven, write the the slash-command adapter. Keep it thin.
+6. Write the manifest adapter in parallel.
 7. Scaffold `evidence/blind-output-test.md` with the right tier classification.
-8. Add a `.claude/commands/{slug}.md` that points at the Claude Code adapter.
+8. Add a `.claude/commands/{slug}.md` that points at the the slash-command adapter.
 9. Add the entry to `skills/_INDEX.md`.
 10. Update `CHANGELOG.md`.
 

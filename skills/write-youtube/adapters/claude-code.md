@@ -4,17 +4,17 @@ argument-hint: [optional: "--type=1-7|VSSL" to force; else select by pillar + st
 allowed-tools: Read, Write, Edit, Grep, Glob, WebSearch
 ---
 
-# /write-youtube — Claude Code Runtime Binding
+# /write-youtube — slash-command runtime Runtime Binding
 
 Load and execute `skills/write-youtube/SKILL.md` in the current workspace.
 
 ## Runtime behavior
 
 1. **Read context:**
-   - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
-   - `Read` `skills/write-youtube/SKILL.md` (full body)
+   - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
+   - read `skills/write-youtube/SKILL.md` (full body)
    - `Read` upstream: calendar brief from `output/content-calendar/`, `output/build-icp/`, `output/build-positioning/`, `output/design-offer/`, `output/extract-voice/`
-   - `Read` `reference/frameworks/youtube/` (7-video-types, hook library, VSSL, title/thumbnail, session starter, binge loop, algo-phase) + the content OS director / the VSL director / the short-form-frameworks author operator files
+   - read `reference/frameworks/youtube/` (7-video-types, hook library, VSSL, title/thumbnail, session starter, binge loop, algo-phase) + the content OS director / the VSL director / the short-form-frameworks author operator files
 
 2. **Pre-flight check:** Verify `audience_intelligence_system >= 60`, `offer_architecture >= 50`, `copy_messaging >= 40` in `company.yaml`. Confirm calendar brief ID + pillar + conversion stage specified (prompt if standalone).
 
@@ -27,7 +27,7 @@ Load and execute `skills/write-youtube/SKILL.md` in the current workspace.
 5. **Update company.yaml:** No compartment writes; log artifact + repurpose chain in content_strategy.published_assets.
 
 6. **Post-ship:**
-   - `Write` `skills/write-youtube/evidence/runs/{YYYY-MM-DD}-run.md` with video type rationale + title/thumbnail complementary check + loop map + voice-match audit
+   - write `skills/write-youtube/evidence/runs/{YYYY-MM-DD}-run.md` with video type rationale + title/thumbnail complementary check + loop map + voice-match audit
    - Output next-skill recommendations — repurpose chain: `/write-reel` (3 reels), `/write-linkedin-post` (1 post), `/write-x-thread` (1 thread), `/email-sequence` (1 broadcast), orchestrated by `/repurpose`
 
 ## Arguments
@@ -74,4 +74,4 @@ After the script ships:
 - Post-publish: CTR at 24h < 3% → thumbnail swap (Tacit Principle 4)
 
 ---
-*Claude Code adapter v1.0 — binds to skills/write-youtube/SKILL.md*
+*the slash-command adapter v1.0 — binds to skills/write-youtube/SKILL.md*
