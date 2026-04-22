@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/hero-banner-dark.svg">
-  <img alt="Growth OS — a Heuresis workspace template" src="docs/assets/hero-banner-light.svg" width="100%">
-</picture>
+<img alt="Growth OS — a Heuresis workspace template" src="docs/assets/hero-banner-light.svg" width="100%">
 
 <br/>
 
@@ -152,10 +149,7 @@ Growth OS produces the specific artifacts a high-ticket creator business runs on
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/divisions-dark.svg">
-  <img alt="The 7 divisions" src="docs/assets/divisions-light.svg" width="100%">
-</picture>
+<img alt="The 7 divisions" src="docs/assets/divisions-light.svg" width="100%">
 
 </div>
 
@@ -208,10 +202,7 @@ A skill written today runs unchanged on any runtime that reads markdown and YAML
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/flywheel-dark.svg">
-  <img alt="Encoding flywheel" src="docs/assets/flywheel-light.svg" width="100%">
-</picture>
+<img alt="Encoding flywheel" src="docs/assets/flywheel-light.svg" width="100%">
 
 </div>
 
@@ -236,6 +227,725 @@ Run the Foundations chain first:
 ```
 
 Every skill self-gates on compartment completeness. Below threshold, the skill refuses to produce and asks you to run the upstream skill first. Full walkthrough in [**docs/QUICKSTART.md**](docs/QUICKSTART.md).
+
+<br/>
+
+---
+
+## Repository tree
+
+Full A-Z structure. Every file in the template.
+
+<details>
+<summary><strong>Expand full tree — 703 entries</strong></summary>
+
+```
+.
+├── .claude/
+│   └── commands/
+│       ├── ad-creative.md
+│       ├── affiliate-program.md
+│       ├── build-funnel.md
+│       ├── build-icp.md
+│       ├── build-positioning.md
+│       ├── build-sop.md
+│       ├── build-vsl.md
+│       ├── case-study.md
+│       ├── competitor-intel.md
+│       ├── content-calendar.md
+│       ├── design-offer.md
+│       ├── email-sequence.md
+│       ├── extract-voice.md
+│       ├── hiring-brief.md
+│       ├── jv-webinar-proposal.md
+│       ├── launch-report.md
+│       ├── lead-magnet.md
+│       ├── plan-launch.md
+│       ├── post-booking-nurture.md
+│       ├── referral-program.md
+│       ├── research.md
+│       ├── retention-check.md
+│       ├── revenue-report.md
+│       ├── story-sequence.md
+│       ├── webinar-script.md
+│       ├── write-linkedin-post.md
+│       ├── write-reel.md
+│       ├── write-x-thread.md
+│       └── write-youtube.md
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.md
+│   │   ├── config.yml
+│   │   ├── framework_addition.md
+│   │   ├── question.md
+│   │   └── skill_request.md
+│   ├── CODEOWNERS
+│   └── PULL_REQUEST_TEMPLATE.md
+├── _excluded/
+│   └── .gitkeep
+├── _private/
+│   └── .gitkeep
+├── agents/
+│   ├── _INDEX.md
+│   ├── affiliate-architect.md
+│   ├── brand-voice.md
+│   ├── case-study-producer.md
+│   ├── client-success.md
+│   ├── competitor-analyst.md
+│   ├── content-strategist.md
+│   ├── email-copywriter.md
+│   ├── financial-modeler.md
+│   ├── foundations-lead.md
+│   ├── funnel-architect.md
+│   ├── growth-director.md
+│   ├── icp-builder.md
+│   ├── jv-outreach.md
+│   ├── launch-lead.md
+│   ├── launch-manager.md
+│   ├── lead-magnet-designer.md
+│   ├── linkedin-writer.md
+│   ├── marketing-lead.md
+│   ├── niche-architect.md
+│   ├── nurture-lead.md
+│   ├── offer-architect.md
+│   ├── paid-ads.md
+│   ├── partnerships-lead.md
+│   ├── post-launch-analyst.md
+│   ├── referral-designer.md
+│   ├── researcher.md
+│   ├── revenue-analyst.md
+│   ├── sales-lead.md
+│   ├── sales-ops.md
+│   ├── sales-scripter.md
+│   ├── scale-lead.md
+│   ├── short-form.md
+│   ├── show-rate-ops.md
+│   ├── sop-builder.md
+│   ├── stories-producer.md
+│   ├── talent-recruiter.md
+│   ├── twitter-writer.md
+│   ├── vsl-builder.md
+│   ├── vsl-writer.md
+│   ├── webinar-producer.md
+│   └── youtube-producer.md
+├── docs/
+│   ├── assets/
+│   │   ├── architecture-dark.svg
+│   │   ├── architecture-light.svg
+│   │   ├── divisions-dark.svg
+│   │   ├── divisions-light.svg
+│   │   ├── flywheel-dark.svg
+│   │   ├── flywheel-light.svg
+│   │   ├── github-social-dark.svg
+│   │   ├── github-social-light.svg
+│   │   ├── hero-banner-dark.svg
+│   │   ├── hero-banner-light.svg
+│   │   ├── heuresis-mark-dark.svg
+│   │   ├── heuresis-mark-light.svg
+│   │   ├── heuresis-wordmark-dark.svg
+│   │   ├── heuresis-wordmark-light.svg
+│   │   ├── skill-anatomy-dark.svg
+│   │   └── skill-anatomy-light.svg
+│   ├── ARCHITECTURE.md
+│   ├── FAQ.md
+│   ├── GLOSSARY.md
+│   ├── QUICKSTART.md
+│   └── SKILL_AUTHORING.md
+├── handoffs/
+│   ├── quality-revision.md
+│   ├── skill-to-skill.md
+│   └── standard.md
+├── operations/
+│   ├── cadences/
+│   │   ├── daily.md
+│   │   ├── monthly.md
+│   │   ├── quarterly.md
+│   │   └── weekly.md
+│   ├── finance/
+│   │   └── tracker-schema.md
+│   ├── project-management/
+│   │   └── clickup.md
+│   ├── tool-sops/
+│   │   ├── ghl.md
+│   │   ├── loom.md
+│   │   ├── notion.md
+│   │   └── slack.md
+│   ├── _INDEX.md
+│   ├── competitive-intel-ops.md
+│   ├── crisis-management.md
+│   ├── daily-dashboard.md
+│   ├── hiring-roles.md
+│   ├── mode-of-operations.md
+│   ├── team-collaboration.md
+│   └── team-leadership.md
+├── output/
+│   └── .gitkeep
+├── reference/
+│   ├── competitors/
+│   │   └── README.md
+│   ├── data-sources/
+│   │   └── README.md
+│   ├── examples/
+│   │   └── foundations/
+│   │       ├── INDEX.md
+│   │       ├── icp-document.md
+│   │       ├── offer-document.md
+│   │       ├── positioning-document.md
+│   │       └── signal-report.md
+│   ├── frameworks/
+│   │   ├── acquisition-economics/
+│   │   │   ├── README.md
+│   │   │   ├── closing-playbook.md
+│   │   │   ├── core-four.md
+│   │   │   ├── grand-slam-offer.md
+│   │   │   ├── hooks-playbook.md
+│   │   │   ├── lead-nurture-system.md
+│   │   │   ├── marketing-machine.md
+│   │   │   └── value-equation.md
+│   │   ├── backend-economics/
+│   │   │   ├── 3-cs-system.md
+│   │   │   ├── 4-competencies.md
+│   │   │   ├── 8-module-architecture.md
+│   │   │   ├── README.md
+│   │   │   ├── scientific-method-content.md
+│   │   │   └── unit-economics-benchmarks.md
+│   │   ├── classical/
+│   │   │   ├── 4-belief-layers.md
+│   │   │   ├── 6-principles-of-influence.md
+│   │   │   ├── awareness-spectrum-5-levels.md
+│   │   │   ├── direct-response-copy-principles.md
+│   │   │   ├── impact-distribution.md
+│   │   │   ├── limiting-belief-triad.md
+│   │   │   ├── market-hierarchy.md
+│   │   │   ├── market-sophistication-4-stages.md
+│   │   │   └── system-1-system-2.md
+│   │   ├── content-os/
+│   │   │   ├── 9-area-icp-deep-dive.md
+│   │   │   ├── README.md
+│   │   │   ├── business-partner-model.md
+│   │   │   ├── education-os-4-phase.md
+│   │   │   ├── linkedin-cross-post-system.md
+│   │   │   └── youtube-flywheel-architecture.md
+│   │   ├── cult-methodology/
+│   │   │   ├── 4-cult-markers.md
+│   │   │   ├── README.md
+│   │   │   ├── authority-provocation-archetype.md
+│   │   │   ├── cult-to-customer-translation.md
+│   │   │   └── ethical-guardrails.md
+│   │   ├── encoded-founder/
+│   │   │   ├── 3-layer-encoding-model.md
+│   │   │   ├── README.md
+│   │   │   ├── encoded-founder-thesis.md
+│   │   │   └── encoding-flywheel.md
+│   │   ├── esoteric-marketing/
+│   │   │   ├── README.md
+│   │   │   ├── engineering-economics-offer.md
+│   │   │   ├── funnel-format-arch.md
+│   │   │   ├── market-psychology-foundations.md
+│   │   │   ├── mind-enhanced-v2.md
+│   │   │   ├── offer-building-system.md
+│   │   │   └── vsl-story-architecture.md
+│   │   ├── esoteric-offer-architecture/
+│   │   │   ├── 7-phase-offer-architecture.md
+│   │   │   ├── README.md
+│   │   │   ├── advanced-psychological-mechanisms.md
+│   │   │   ├── copy-messaging-mastery.md
+│   │   │   ├── first-principles-sequence.md
+│   │   │   ├── math-psychology-framework.md
+│   │   │   ├── power-with-cognitive-os.md
+│   │   │   └── strategic-foundations.md
+│   │   ├── growth-operating-process/
+│   │   │   ├── 3-operational-rules.md
+│   │   │   ├── 60-30-10-revenue-mix.md
+│   │   │   ├── 7-step-launch-sop.md
+│   │   │   ├── 8-stage-customer-journey-audit.md
+│   │   │   └── README.md
+│   │   ├── instagram-profile-funnel/
+│   │   │   ├── README.md
+│   │   │   ├── automated-ecosystem.md
+│   │   │   ├── client-portal.md
+│   │   │   ├── content-studio.md
+│   │   │   ├── dm-setter-playbook.md
+│   │   │   └── youtube-planner.md
+│   │   ├── offer-architecture/
+│   │   │   ├── 7-phase-offer-building-system.md
+│   │   │   └── grand-slam-offer.md
+│   │   ├── primitives/
+│   │   │   ├── README.md
+│   │   │   ├── call-funnel.md
+│   │   │   ├── core-four.md
+│   │   │   ├── educate-before-pitch.md
+│   │   │   ├── specificity.md
+│   │   │   ├── unique-mechanism.md
+│   │   │   └── value-equation.md
+│   │   ├── sales/
+│   │   │   ├── 8-required-beliefs.md
+│   │   │   ├── crossroads-close.md
+│   │   │   ├── full-stack-sales-call-8-stage.md
+│   │   │   └── value-stack-architecture.md
+│   │   ├── signal-theory/
+│   │   │   ├── 4-principles.md
+│   │   │   ├── 5-tuple-encoding.md
+│   │   │   ├── README.md
+│   │   │   ├── triple-layer-verification.md
+│   │   │   └── vsm-mapping.md
+│   │   ├── vsl/
+│   │   │   ├── 13-step-vsl.md
+│   │   │   ├── 15-step-vsl.md
+│   │   │   ├── 3x-vsl-formula.md
+│   │   │   ├── README.md
+│   │   │   ├── hidden-vssl.md
+│   │   │   └── pull-push-persuade-11-step.md
+│   │   ├── vsl-director/
+│   │   │   ├── 15-step-vsl-deep.md
+│   │   │   ├── 4-funnel-archetypes.md
+│   │   │   ├── 6-blockage-diagnostic.md
+│   │   │   ├── 8-required-beliefs-deep.md
+│   │   │   ├── README.md
+│   │   │   ├── hero-story-architecture.md
+│   │   │   └── price-anchoring-mechanics.md
+│   │   ├── youtube/
+│   │   │   ├── 3-tier-funnel.md
+│   │   │   ├── 4-pillar-content-mix.md
+│   │   │   ├── 5-phase-psychology.md
+│   │   │   ├── 7-video-types.md
+│   │   │   ├── algorithm-phase-logic.md
+│   │   │   ├── binge-loop-mechanic.md
+│   │   │   ├── hook-library-20-formulas.md
+│   │   │   ├── length-calibration.md
+│   │   │   ├── past-aid-methods.md
+│   │   │   ├── pre-script-brief-template.md
+│   │   │   ├── session-starter-strategy.md
+│   │   │   ├── shorts-mrbeast-strategy.md
+│   │   │   ├── title-thumbnail-patterns.md
+│   │   │   ├── vssl-15-step.md
+│   │   │   └── vssl-5-chapter-youtube.md
+│   │   ├── README.md
+│   │   ├── avatar-beliefs.md
+│   │   ├── awareness-spectrum.md
+│   │   ├── belief-depth-model.md
+│   │   ├── branding-backstory.md
+│   │   ├── economics-engine.md
+│   │   ├── foundations-methodology.md
+│   │   ├── icp-deep-dive.md
+│   │   ├── impact-distribution.md
+│   │   ├── limiting-belief-triad.md
+│   │   ├── market-hierarchy.md
+│   │   ├── market-maturity.md
+│   │   ├── market-research-method.md
+│   │   ├── market-sophistication-overview.md
+│   │   ├── new-opportunity.md
+│   │   ├── offer-architecture-overview.md
+│   │   ├── offer-messaging.md
+│   │   ├── offer-system.md
+│   │   ├── offer-value-equation.md
+│   │   ├── positioning-overview.md
+│   │   ├── sequential-dependency.md
+│   │   ├── transformation-principle.md
+│   │   └── usp-sop.md
+│   ├── integrations/
+│   │   └── README.md
+│   ├── knowledge/
+│   │   ├── foundations.md
+│   │   ├── launch.md
+│   │   ├── marketing.md
+│   │   ├── nurture.md
+│   │   ├── partnerships.md
+│   │   ├── sales.md
+│   │   └── scale.md
+│   ├── operator-research/
+│   │   └── README.md
+│   ├── operators/
+│   │   ├── external/
+│   │   │   ├── README.md
+│   │   │   └── outreach-director.md
+│   │   ├── README.md
+│   │   ├── acquisition-economist.md
+│   │   ├── agency-director.md
+│   │   ├── backend-economist.md
+│   │   ├── campaign-director.md
+│   │   ├── content-os-director.md
+│   │   ├── copy-director.md
+│   │   ├── creator-narrative-architect.md
+│   │   ├── growth-engineer.md
+│   │   ├── growth-strategist.md
+│   │   ├── media-buying-director.md
+│   │   ├── offer-architect.md
+│   │   ├── operations-director.md
+│   │   ├── paid-media-director.md
+│   │   ├── stories-director.md
+│   │   ├── vsl-copywriter.md
+│   │   ├── vsl-director.md
+│   │   └── youtube-native-director.md
+│   ├── platforms/
+│   │   ├── instagram/
+│   │   │   └── README.md
+│   │   ├── linkedin/
+│   │   │   └── README.md
+│   │   ├── meta-ads/
+│   │   │   └── README.md
+│   │   ├── tiktok/
+│   │   │   └── README.md
+│   │   └── twitter-x/
+│   │       └── README.md
+│   ├── playbooks/
+│   │   ├── mentorship-funnel-97k.md
+│   │   └── outreach-os-200k.md
+│   ├── swipe-file/
+│   │   ├── case-studies/
+│   │   │   └── README.md
+│   │   ├── hooks/
+│   │   │   └── README.md
+│   │   ├── posts-linkedin/
+│   │   │   └── README.md
+│   │   ├── stories-instagram/
+│   │   │   └── README.md
+│   │   ├── testimonials/
+│   │   │   └── README.md
+│   │   └── threads-twitter/
+│   │       └── README.md
+│   ├── templates/
+│   │   └── README.md
+│   └── AGENT-ARCHITECTURE.md
+├── skills/
+│   ├── ad-creative/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   └── claude-code.md
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   ├── affiliate-program/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   └── claude-code.md
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   ├── build-funnel/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   └── claude-code.md
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   ├── build-icp/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   └── claude-code.md
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   ├── build-positioning/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   ├── claude-code.md
+│   │   │   └── http.openapi.yaml
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   │   ├── aryan-hnwi-positioning.md
+│   │   │   ├── clipscale-academy-positioning.md
+│   │   │   ├── fitness-coaching-tech-founders-positioning.md
+│   │   │   └── mechanism-positioning-example.md
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   ├── build-sop/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   └── claude-code.md
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   ├── build-vsl/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   ├── claude-code.md
+│   │   │   └── http.openapi.yaml
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   │   ├── 15-step-body-transformation-example.md
+│   │   │   ├── case-study-vsl-example.md
+│   │   │   ├── hidden-vssl-youtube-example.md
+│   │   │   └── pull-push-persuade-example.md
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   ├── case-study/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   ├── claude-code.md
+│   │   │   └── http.openapi.yaml
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   ├── competitor-intel/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   └── claude-code.md
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   ├── content-calendar/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   └── claude-code.md
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   ├── design-offer/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   ├── claude-code.md
+│   │   │   └── http.openapi.yaml
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   │   ├── 7-phase-offer-walkthrough-example.md
+│   │   │   ├── clipscale-academy-tiered-offer.md
+│   │   │   ├── fitness-coaching-tech-founders.md
+│   │   │   ├── grand-slam-gym-launch-example.md
+│   │   │   └── high-ticket-offer-example.md
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   ├── email-sequence/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   └── claude-code.md
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   ├── extract-voice/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   ├── claude-code.md
+│   │   │   └── http.openapi.yaml
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   ├── hiring-brief/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   └── claude-code.md
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   ├── jv-webinar-proposal/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   └── claude-code.md
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   ├── launch-report/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   └── claude-code.md
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   ├── lead-magnet/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   └── claude-code.md
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   ├── plan-launch/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   ├── claude-code.md
+│   │   │   └── http.openapi.yaml
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   ├── post-booking-nurture/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   └── claude-code.md
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   ├── referral-program/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   └── claude-code.md
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   ├── research/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   └── claude-code.md
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   │   ├── agency-accelerants-market-research.md
+│   │   │   ├── clipscale-academy-signal-report.md
+│   │   │   ├── fitness-coaching-tech-founders-signal.md
+│   │   │   └── market-sophistication-applied-example.md
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   ├── retention-check/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   └── claude-code.md
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   ├── revenue-report/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   └── claude-code.md
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   ├── story-sequence/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   └── claude-code.md
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   ├── webinar-script/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   ├── claude-code.md
+│   │   │   └── http.openapi.yaml
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   ├── write-linkedin-post/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   └── claude-code.md
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   ├── write-reel/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   └── claude-code.md
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   ├── write-x-thread/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   └── claude-code.md
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   ├── write-youtube/
+│   │   ├── adapters/
+│   │   │   ├── canopy.yaml
+│   │   │   └── claude-code.md
+│   │   ├── evidence/
+│   │   │   └── blind-output-test.md
+│   │   ├── examples/
+│   │   ├── reference/
+│   │   └── SKILL.md
+│   └── _INDEX.md
+├── spec/
+│   ├── BANNED-VOCABULARY.md
+│   ├── BLIND-OUTPUT-TEST.md
+│   ├── CONTEXT-THRESHOLDS.md
+│   ├── HTTP-OPENAPI-ADAPTER.md
+│   ├── INTEGRATIONS.md
+│   ├── QUALITY.md
+│   ├── RUNTIMES.md
+│   └── SIGNAL.md
+├── workflows/
+│   ├── automations/
+│   │   ├── booking-to-show.md
+│   │   ├── churn-detection.md
+│   │   ├── lead-to-crm.md
+│   │   ├── purchase-to-onboarding.md
+│   │   └── referral-trigger.md
+│   ├── client-onboarding/
+│   │   ├── 90-day.md
+│   │   └── week-1.md
+│   ├── delivery/
+│   │   └── 4-week-fulfillment.md
+│   ├── divisions/
+│   │   ├── foundations-pipeline.md
+│   │   ├── launch-pipeline.md
+│   │   ├── marketing-pipeline.md
+│   │   ├── nurture-pipeline.md
+│   │   ├── partnerships-pipeline.md
+│   │   ├── sales-pipeline.md
+│   │   └── scale-pipeline.md
+│   └── execution-templates/
+│       ├── client-qbr-template.md
+│       ├── daily-standup-template.md
+│       ├── launch-debrief-template.md
+│       ├── post-mortem-template.md
+│       ├── rfc-decision-template.md
+│       ├── runbook-template.md
+│       └── weekly-review-template.md
+├── .env.template
+├── .gitignore
+├── CHANGELOG.md
+├── CONTRIBUTING.md
+├── ENCODING.md
+├── INVARIANTS.md
+├── LICENSE
+├── PROVENANCE.md
+├── README.md
+├── SECURITY.md
+├── SYSTEM.md
+└── company.yaml
+```
+
+</details>
 
 <br/>
 
@@ -291,10 +1001,7 @@ Private. All rights reserved. See [LICENSE](LICENSE).
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/heuresis-mark-dark.svg">
-  <img alt="Heuresis" src="docs/assets/heuresis-mark-light.svg" width="48" height="48">
-</picture>
+<img alt="Heuresis" src="docs/assets/heuresis-mark-light.svg" width="48" height="48">
 
 <br/>
 <br/>

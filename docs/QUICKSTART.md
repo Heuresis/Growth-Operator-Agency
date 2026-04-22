@@ -2,10 +2,7 @@
 
 Get Growth OS running against a real creator in under 30 minutes. This guide assumes Claude Code. For other runtimes, see [RUNTIMES](../spec/RUNTIMES.md).
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/architecture-dark.svg">
-  <img alt="Growth OS architecture" src="assets/architecture-light.svg" width="100%">
-</picture>
+<img alt="Growth OS architecture" src="assets/architecture-light.svg" width="100%">
 
 ---
 

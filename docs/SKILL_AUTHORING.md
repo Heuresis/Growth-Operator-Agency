@@ -2,10 +2,7 @@
 
 Every skill is a folder. Every skill has the same shape. A skill written today works unchanged on any runtime that reads markdown and YAML — that is [INV-10](../INVARIANTS.md).
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/skill-anatomy-dark.svg">
-  <img alt="Skill anatomy" src="assets/skill-anatomy-light.svg" width="100%">
-</picture>
+<img alt="Skill anatomy" src="assets/skill-anatomy-light.svg" width="100%">
 
 ---
 
