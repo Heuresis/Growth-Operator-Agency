@@ -11,7 +11,7 @@ security: [ { GrowthOSKey: [] } ]
 paths:
   /skills/build-vsl/execute:
     post:
-      summary: Execute build-vsl (VSL script — 5 variants A/B/C/D/E — 15-step, Pull-Push-Persuade 11-step, 13-step VSL, 3X VSL Formula, Hidden VSSL)
+      summary: Execute build-vsl (VSL script — 5 variants A/B/C/D/E — 15-step, pull-push-persuade 11-step, 13-step VSL, three-phase VSL formula, hidden-pitch long-form video)
       x-evidence-gate: [variant_selected_with_reasoning, all_framework_beats_complete, 8_required_beliefs_installed, mechanism_threaded_through, voice_match_verified, crossroads_or_equivalent_close_present, signal_score_gte_0_8, blind_output_test_3_of_3]
       x-streaming: supported
       requestBody: { required: true, content: { application/json: { schema: { $ref: '#/components/schemas/Input' } } } }

@@ -1,4 +1,4 @@
-# the psychological copywriter 11-Step Pull-Push-Persuade VSL — Variant B
+# the psychological copywriter 11-Step pull-push-persuade VSL — Variant B
 
 > **Source:** the psychological copywriter — *The 5,280-Word VSL Conversion Framework* · 50+ funnels, $1M+ pipeline each
 > **Target runtime:** 8-12 min
@@ -32,7 +32,7 @@
 | 10 | **The Close** | 5-layer: Core Deliverable → Value Stack → Price Anchor → Guarantee → CTA |
 | 11 | **Postscript** | Quiet close, final reminder |
 
-## The 8 Invariants (Pull-Push-Persuade methodology)
+## The 8 Invariants (pull-push-persuade methodology)
 
 1. One viewer, one problem, one solution
 2. Write how people talk, not how marketers write

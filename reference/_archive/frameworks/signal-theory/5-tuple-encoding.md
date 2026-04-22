@@ -64,7 +64,7 @@ Type is **the independent axis** — any Type can ride any Genre/Mode/Format.
 Structure is a function of Genre: **W(G)**. Each genre has a canonical internal skeleton.
 
 Examples:
-- `W(vsl-script)` = 15-step (15-step VSL methodology) or 11-step (Pull-Push-Persuade methodology) or 13-step (the 13-step VSL author) or 3X (3X VSL methodology) or 5-chapter (the growth engineer VSSL)
+- `W(vsl-script)` = 15-step (15-step VSL methodology) or 11-step (pull-push-persuade methodology) or 13-step (the 13-step VSL author) or 3X (3X VSL methodology) or 5-chapter (the growth engineer VSSL)
 - `W(icp-doc)` = 13 sections (Demographics / Firmographics / Psychographics / Behavioral / Market Sophistication / VOC / Limiting Belief / ...)
 - `W(offer-doc)` = 12 sections (Transformation / Mechanism / Capability Removal / Value Stack / Bonuses / Pricing / Guarantee / Upsell / Economics / Beliefs / Invariants)
 

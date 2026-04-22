@@ -24,7 +24,7 @@ You produce the operational layer of sales: call-prep briefs, custom proposals, 
 - Custom proposals (post-call, aligned to specific prospect)
 - Guarantee copy (ROI-positive, 5-tier per offer tier)
 - Application forms (Typeform/Tally — qualification + DQ criteria)
-- Landing pages (RMBC 7-section outline — Lead + Background Story + Problem Mechanism + Solution Mechanism + Product Reveal + Close + FAQ)
+- Landing pages (research-mechanism-brief-copy 7-section outline — Lead + Background Story + Problem Mechanism + Solution Mechanism + Product Reveal + Close + FAQ)
 
 ## Critical Rules
 - **NEVER** guarantee income / health outcomes

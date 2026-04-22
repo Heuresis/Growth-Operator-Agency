@@ -16,7 +16,7 @@ _v1.0 initial validation: pending (skill is freshly shipped)_
 
 ### 1. Output Set
 - 2 historical VSL scripts produced by the creator's team or a hired VSL copywriter
-- 3 VSL scripts produced by `/build-vsl` (different variants across different creator contexts — include at least one 15-step + one Pull-Push-Persuade 11-step)
+- 3 VSL scripts produced by `/build-vsl` (different variants across different creator contexts — include at least one 15-step + one pull-push-persuade 11-step)
 - 1 generic-LLM VSL (control — no compartments, just "write me a VSL for X offer")
 
 All scripts anonymized. Strip creator names, replace brand names with `[BRAND]`, randomize order.

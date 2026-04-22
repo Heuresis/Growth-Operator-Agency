@@ -144,7 +144,7 @@ In a VSL or webinar pitch, reveal in this exact order:
 - the acquisition economist, a high-value offer canon — high-value stacked offer, Value Equation, Bonus Stacking
 - the VSL director — 15-step VSL (Sections 7-10)
 - the offer architect — Engineering Economics Offer (pricing as identity)
-- the psychological copywriter — Pull-Push-Persuade Step 10 (5-layer close)
+- the psychological copywriter — pull-push-persuade Step 10 (5-layer close)
 - `reference/operators/external/alex-hormozi.md`
 - `reference/operators/vsl-director.md`
 

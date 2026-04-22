@@ -20,7 +20,7 @@ The WHY. Judgment, tradeoffs, principles, sacred rules. This layer survives ever
 The HOW. SOPs, decision trees, templates, pricing matrices, named frameworks. Durable across years, not platforms.
 
 - Lives in: `reference/frameworks/`, `reference/operators/`, `reference/knowledge/`, `reference/templates/`, `reference/swipe-file/`.
-- Example: The 15-step VSL structure. The Value Equation. The Pull-Push-Persuade framework.
+- Example: The 15-step VSL structure. The Value Equation. The pull-push-persuade framework.
 
 ### Layer 3 — Technology Interface (ephemeral)
 

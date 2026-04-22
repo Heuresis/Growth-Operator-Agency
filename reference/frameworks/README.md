@@ -42,7 +42,7 @@ YouTube methodology master stack — 7 video types, 20-hook library, VSSL constr
 Used by: marketing (YouTube + Shorts)
 
 ### 8. VSL Variants (`vsl/`)
-5 VSL framework variants — the VSL director (15-step), the psychological copywriter (11-step Pull-Push-Persuade), the 13-step VSL author (13-step slides), the VSL copywriter (3X), the growth engineer (hidden-pitch long-form video).
+5 VSL framework variants — the VSL director (15-step), the psychological copywriter (11-step pull-push-persuade), the 13-step VSL author (13-step slides), the VSL copywriter (3X), the growth engineer (hidden-pitch long-form video).
 Used by: sales (/build-vsl skill has 5 variants to pick from)
 
 ### 9. Classical Persuasion (`classical/`)

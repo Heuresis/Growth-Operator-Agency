@@ -59,7 +59,7 @@
 | 23 | `call-prep` | 1-page pre-call brief via 15-minute routine — archetype match, pain anchors, objection pre-empts | ✅ |
 | 24 | `proposal` | 1-page post-call proposal ($3K-$50K programs) — scope / timeline / payment / risk reversal | ✅ |
 | 25 | `application-form` | High-ticket qualifying application (3 archetypes) with DQ logic and Call Brief signal handoff | ✅ |
-| 26 | `landing-page` | 4-page stack (opt-in / offer / thank-you / checkout) with 4 variants per page, RMBC 7-section | ✅ |
+| 26 | `landing-page` | 4-page stack (opt-in / offer / thank-you / checkout) with 4 variants per page, research-mechanism-brief-copy 7-section | ✅ |
 
 ## Launch (2)
 

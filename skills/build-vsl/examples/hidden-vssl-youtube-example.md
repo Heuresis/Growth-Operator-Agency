@@ -7,7 +7,7 @@
 
 ## Context
 
-The hidden-pitch long-form video is the the growth engineer framework optimized for YouTube-native organic distribution. Unlike paid-traffic VSLs (15-step, Pull-Push-Persuade 11-step) where the viewer arrived expecting sales, the hidden-pitch long-form video lives inside a creator's YouTube content ecosystem - the viewer arrived expecting teaching. The offer reveal emerges naturally from the teaching, not as a hard pivot. The 80/20 rule governs: 80% story/problem/mechanism teaching, 20% mechanism/solution/offer. Violate the ratio and the "selling" tell activates. This example applies the framework to Clipping Agency, where the audience of aspiring clippers watches YouTube to learn clipping - so the hidden-pitch long-form video teaches clipping-as-a-business and the offer appears as the "proven system" option.
+The hidden-pitch long-form video is the the growth engineer framework optimized for YouTube-native organic distribution. Unlike paid-traffic VSLs (15-step, pull-push-persuade 11-step) where the viewer arrived expecting sales, the hidden-pitch long-form video lives inside a creator's YouTube content ecosystem - the viewer arrived expecting teaching. The offer reveal emerges naturally from the teaching, not as a hard pivot. The 80/20 rule governs: 80% story/problem/mechanism teaching, 20% mechanism/solution/offer. Violate the ratio and the "selling" tell activates. This example applies the framework to Clipping Agency, where the audience of aspiring clippers watches YouTube to learn clipping - so the hidden-pitch long-form video teaches clipping-as-a-business and the offer appears as the "proven system" option.
 
 ## The Encoded hidden-pitch long-form video (5 Chapters)
 

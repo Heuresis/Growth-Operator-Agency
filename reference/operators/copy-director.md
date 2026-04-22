@@ -63,7 +63,7 @@ Stefan's full outline is 53 bullets underneath these seven headers.
 - FAQ is not an afterthought — it's a conversion lever.
 
 ## Signature framing
-> "RMBC stands for Research, Mechanism, Brief, and Copy. A four-step process to consistently write better-converting sales copy in less time."
+> "The process stands for Research, Mechanism, Brief, and Copy. A four-step process to consistently write better-converting sales copy in less time."
 > — /research-mechanism-brief-copy process
 >
 > "Replicable, modular, and templatized" — Stefan's self-descriptor for the method.
@@ -75,4 +75,4 @@ Stefan's full outline is 53 bullets underneath these seven headers.
 - `/rmbc-7-section-copy-outline` → Lead → Story → Problem Mech → Solution Mech → Build-up → Close → FAQ (Copy structure)
 - `/copy-velocity-12-per-month` → Operator-level output cadence (Copy ops)
 
-**Encoding status:** COMPLETE — the 4 phases, 7-section copy outline, and two-part mechanism captured verbatim from . The 53-bullet full outline sits behind the RMBC course paywall; not a web-encoding gap.
+**Encoding status:** COMPLETE — the 4 phases, 7-section copy outline, and two-part mechanism captured verbatim from . The 53-bullet full outline sits behind the the paid copy-method course paywall; not a web-encoding gap.

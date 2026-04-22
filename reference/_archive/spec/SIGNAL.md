@@ -125,7 +125,7 @@ Every channel has finite capacity: `C = B × log₂(1 + S/N)`. Exceeding capacit
 - R 3.0–10.0 adequate
 - R ≥ 10.0 robust
 
-**In practice:** you need ~R × actual_situations templates for a domain. If VSLs need 5 variants (15-step, Pull-Push-Persuade 11-step, 13-step VSL, three-phase VSL formula, hidden-pitch long-form video), not 1.
+**In practice:** you need ~R × actual_situations templates for a domain. If VSLs need 5 variants (15-step, pull-push-persuade 11-step, 13-step VSL, three-phase VSL formula, hidden-pitch long-form video), not 1.
 
 ### viable systems theory (The Architecture)
 Any viable system requires five recursive subsystems:
