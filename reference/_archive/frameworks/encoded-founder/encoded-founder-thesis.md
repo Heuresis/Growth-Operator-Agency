@@ -123,7 +123,7 @@ From Chapter V Step 5 of the 5-step Encoding Process: *"Show system output to 3 
 
 From the Appendix F diagnostic: *"Score high if it passes the Blind Output Test: at least one of three people who know the expert's work cannot distinguish the system's output."*
 
-This is the paper's validation gate. It is directly instantiated in Growth Optimal System INVARIANTS as the 3/3 Blind Output Test for sacred formats (Offer Document, VSL, Webinar, Sales Script, Landing Page). *"If you score above 30 on every audit in this paper"* is the falsifiability standard.
+This is the paper's validation gate. It is directly instantiated in Growth Operating Agency INVARIANTS as the 3/3 Blind Output Test for sacred formats (Offer Document, VSL, Webinar, Sales Script, Landing Page). *"If you score above 30 on every audit in this paper"* is the falsifiability standard.
 
 ## The 1,000-Hour Canyon
 
@@ -145,9 +145,9 @@ From the model section: *"Ninety-five percent of businesses report zero value fr
 
 PwC survey of 4,454 CEOs: 56% reported zero financial benefit from AI. McKinsey's 25-predictive-attribute test found one variable separating winners: *"workflow redesign. Companies that redesigned before they deployed were 2.8 times more likely to report significant earnings impact."*
 
-## How This Thesis Binds to Growth Optimal System
+## How This Thesis Binds to Growth Operating Agency
 
-The paper's central claim — that expertise must be extracted into a system that carries it, encoded into two channels, mapped against the Jagged Frontier, and validated via the Blind Output Test — is operationalized across Growth Optimal System skills:
+The paper's central claim — that expertise must be extracted into a system that carries it, encoded into two channels, mapped against the Jagged Frontier, and validated via the Blind Output Test — is operationalized across Growth Operating Agency skills:
 
 - **/research, /build-icp, /build-positioning, /design-offer, /extract-voice** — the 30-Minute Expert Download applied to five specific domains (market, audience, positioning, offer, voice).
 - **/build-vsl, /build-funnel, /sales-script, /landing-page** — sacred-format assets that enforce the Blind Output Test (3/3 pass before paid traffic).

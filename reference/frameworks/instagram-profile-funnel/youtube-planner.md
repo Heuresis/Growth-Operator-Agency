@@ -155,7 +155,7 @@ The YouTube drop anchors the week. IG orbits around it.
 - **Start when:** IG audience has crossed 10k engaged followers AND there's a defined offer that's converting AND the operator can commit to 6 months of weekly uploads.
 - **Do not start when:** IG is still in the "figuring out the offer" phase. YouTube doesn't save a weak offer; it amplifies whatever exists.
 
-## How this applies in Growth Optimal System
+## How this applies in Growth Operating Agency
 
 - **Skills that consume this:** `youtube-planner`, `cross-platform-calendar`, `video-brief-builder`, `thumbnail-review`.
 - **Agents that use it:** youtube-producer, content-strategist, editor-coordinator.

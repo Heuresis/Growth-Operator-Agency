@@ -1,6 +1,6 @@
 # FOUNDATIONS Build Plan — Canonical Methodology
 
-> Imported from Growth Optimal System predecessor project 2026-04-19. Growth Optimal System Audience + Offer departments reference this as the FOUNDATIONS methodology source-of-truth.
+> Imported from Growth Operating Agency predecessor project 2026-04-19. Growth Operating Agency Audience + Offer departments reference this as the FOUNDATIONS methodology source-of-truth.
 
 ---
 

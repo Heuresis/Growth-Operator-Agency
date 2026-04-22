@@ -180,7 +180,7 @@ Don't do:
 
 ---
 
-## How this applies in Growth Optimal System
+## How this applies in Growth Operating Agency
 
 - Skill that consumes this: `/design-youtube-thumbnail`, `/write-youtube-title`
 - Agent that uses it: `youtube-producer`, `thumbnail-designer`

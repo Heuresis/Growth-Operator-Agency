@@ -107,14 +107,14 @@ Formal business review. Scoped outcomes delivered, measured, documented. Decisio
 - `{renewal_decision}` — renew / pause / off-board
 - `{expansion_sku}` — if applicable
 
-## Sample Filled (Month 3 of Growth Optimal System engagement)
+## Sample Filled (Month 3 of Growth Operating Agency engagement)
 - `{client_name}`: {CLIENT_NAME} / Alex
 - `{day_30_win}`: Positioning + ICP shipped; first 3 cold-sourced demos booked using new "only-we" statement
 - `{day_60_pace_status}`: On-track — funnel live, VSL live, 7 of planned 10 demos booked
 - `{day_90_outcome}`: $45K in booked engagements from cold funnel + 12 case-study-worthy wins
 - `{csat_90}`: 4.8 — "Worth every dollar and then some"
 - `{renewal_decision}`: Renew annual + add Scale department engagement
-- `{expansion_sku}`: Growth Optimal System Annual + Scale Add-on
+- `{expansion_sku}`: Growth Operating Agency Annual + Scale Add-on
 
 ## Escalation Triggers
 - CSAT < 4.0 at any milestone → department heads owns recovery

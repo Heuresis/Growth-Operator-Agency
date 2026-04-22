@@ -16,7 +16,7 @@ Evaluators must NOT know which outputs were created by the system vs the creator
 ### Step 2 — Prepare the Blind Set
 Mix 5-10 outputs:
 - 2-3 produced by the creator directly (historical or fresh)
-- 3-5 produced by the Growth Optimal System system
+- 3-5 produced by the Growth Operating Agency system
 - (Optional) 1-2 produced by a generic LLM with no encoding (control group)
 
 Strip all metadata. Remove timestamps. Randomize order.

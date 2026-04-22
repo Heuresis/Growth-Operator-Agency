@@ -41,7 +41,7 @@ Jon's own framing: "My 5-Step VSL Process is found within the world's most profi
 >
 > "$1 Billion In Customer Sales" — the VSL copywriter self-positioning across jonbenson.com and course materials.
 
-## Growth Optimal System skill bindings
+## Growth Operating Agency skill bindings
 - `/3x-vsl-formula` → Nightmare → Dream → 3 Tips → 4 Comparisons (VSL copywriting)
 - `/reluctant-hero-opener` → First-60-seconds rapport (Copy openings)
 - `/5-step-vsl-process` → Underlying VSL operating system (Copy architecture)

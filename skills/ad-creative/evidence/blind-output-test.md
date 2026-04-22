@@ -35,7 +35,7 @@ For each brief, evaluator answers:
 
 ### 3. Pass Criteria
 For `/ad-creative` to be blind-test-validated (external tier 2/3):
-- **2/3 Growth Optimal System briefs** must have ≥ 1 evaluator say `creator` or `can't tell`
+- **2/3 Growth Operating Agency briefs** must have ≥ 1 evaluator say `creator` or `can't tell`
 - **No generic-LLM brief** should be identified as `creator`
 - Average "Would you launch this?" score ≥ 60% yes
 - Average Hook specificity rating ≥ 7/10

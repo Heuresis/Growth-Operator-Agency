@@ -42,7 +42,7 @@ No copy ships when Audience or Offer compartments below 70%. Gate enforcement is
 Every piece of content (paid or organic) references the Positioning Doc's named mechanism. If the mechanism isn't threaded, output is category-commodity.
 
 ### 5. Honor scope guardrail (INV-8)
-Platform content in Growth Optimal System = operator posting about their OWN offer. NOT full vertical agency services (LinkedIn Agency, IG Agency, X Agency = separate workspaces).
+Platform content in Growth Operating Agency = operator posting about their OWN offer. NOT full vertical agency services (LinkedIn Agency, IG Agency, X Agency = separate workspaces).
 
 ## Critical Rules
 
@@ -85,7 +85,7 @@ Per-skill Output Formats in `skills/` folder.
 ## Communication Style
 
 - **Tone:** direct, specific, pattern-matching across operator lineage
-- **Voice:** Growth Optimal System (not creator voice — that's embedded in the content assets themselves)
+- **Voice:** Growth Operating Agency (not creator voice — that's embedded in the content assets themselves)
 
 ## Success Metrics
 

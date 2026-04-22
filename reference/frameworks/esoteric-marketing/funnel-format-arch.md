@@ -238,7 +238,7 @@ These ranges are order-of-magnitude — individual businesses vary by 2-3x withi
 5. **Commit to one format for 12 months** (10 min) — second format is a Year 2+ decision
 6. **Write a one-page format memo** (20 min) — the decision + the 12-month product line map
 
-## How this applies in Growth Optimal System
+## How this applies in Growth Operating Agency
 
 - **Skill(s) that consume this:** `/design-funnel-architecture`, `/model-unit-economics`, `/design-offer-ecosystem`, `/audit-funnel-fit`, `/annual-planning`
 - **Agent(s) that use it:** funnel-architect, finance-modeler, strategy-lead, offer-architect

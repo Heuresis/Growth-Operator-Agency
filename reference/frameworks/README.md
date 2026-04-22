@@ -1,4 +1,4 @@
-# Frameworks Index — Growth Optimal System
+# Frameworks Index — Growth Operating Agency
 
 > **Layer 2 Structured Knowledge.** These are the methodology docs that skills pull from. Each framework has a clear **when-to-use** trigger and **skill bindings**.
 
@@ -8,7 +8,7 @@
 The quality substrate. Applies to every skill's output verification.
 - `5-tuple-encoding.md` — Mode/Genre/Type/Format/Structure
 - `4-principles.md` — information theory/cybernetics theory/viable systems theory/feedback-loop theory
-- `vsm-mapping.md` — VSM Systems 1-5 mapped to Growth Optimal System departments
+- `vsm-mapping.md` — VSM Systems 1-5 mapped to Growth Operating Agency departments
 - `triple-layer-verification.md` — 40/35/25 quality gate
 - `channel-capacity.md` — information theory applied to context windows
 

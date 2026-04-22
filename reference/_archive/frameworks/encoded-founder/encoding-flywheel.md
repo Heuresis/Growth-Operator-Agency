@@ -89,7 +89,7 @@ From Chapter V, after the 30-Minute Expert Download section: *"One constraint: t
 
 This constraint is the one the flywheel cannot spin past. A creator who doesn't record their thinking — written notes, recorded decisions, journaled reasoning behind judgment calls — caps the flywheel at whatever can be extracted in 5 sit-down sessions. A creator who records continuously (voice memos after client calls, decision notes in their CRM, reasoning in their DMs) gives the flywheel a compounding surface area.
 
-The operational implication for Growth Optimal System: skills like /build-sop, /call-prep, and /retention-check all include a "capture the reasoning" step. That step is not documentation — it is encoding capital for the next cycle.
+The operational implication for Growth Operating Agency: skills like /build-sop, /call-prep, and /retention-check all include a "capture the reasoning" step. That step is not documentation — it is encoding capital for the next cycle.
 
 ## The Nuclear-Industry Precedent (Why the Flywheel Needs Layer Redundancy)
 
@@ -107,7 +107,7 @@ The Stripe example from Chapter VI anchors the long-run compound. Stripe launche
 
 The flywheel is the mechanism by which a single founder's expertise accumulates the same kind of compounding operational data at their scale. Cycle 1 is Week 4-8. Cycle 5+ is Month 5-6. The compound that widens past Month 6 is what the paper calls *"the accumulated time [that] will not be there"* for any competitor who starts later with a better model and a bigger team.
 
-## How This Flywheel Binds to Growth Optimal System
+## How This Flywheel Binds to Growth Operating Agency
 
 - **/build-sop** is an explicit Cycle 1 operation. Every SOP written follows the 5-step Encoding Process exactly.
 - **/extract-voice** is Cycle 1 for the voice domain — the 30-Minute Expert Download applied to brand voice architecture.

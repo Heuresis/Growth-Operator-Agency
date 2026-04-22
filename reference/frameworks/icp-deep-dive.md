@@ -1,7 +1,7 @@
-# Growth Optimal System ICP Deep Dive Framework
+# Growth Operating Agency ICP Deep Dive Framework
 
-> Growth Optimal System domain knowledge — used by Foundation agents for market research,
-> ICP building, and offer architecture. All methodology is Growth Optimal System-branded.
+> Growth Operating Agency domain knowledge — used by Foundation agents for market research,
+> ICP building, and offer architecture. All methodology is Growth Operating Agency-branded.
 
 ---
 

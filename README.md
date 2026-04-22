@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Growth Optimal System — a Heuresis workspace template" src="docs/assets/hero-banner-light.svg" width="100%">
+<img alt="Growth Operating Agency — a Heuresis workspace template" src="docs/assets/hero-banner-light.svg" width="100%">
 
 <br/>
 
@@ -26,7 +26,7 @@ Everything a high-ticket creator business runs on — encoded, versioned, yours 
 
 ## What you ship
 
-Growth Optimal System produces the specific artifacts a high-ticket creator business runs on. No abstractions — concrete deliverables.
+Growth Operating Agency produces the specific artifacts a high-ticket creator business runs on. No abstractions — concrete deliverables.
 
 | Week | Output | Spec |
 |---|---|---|
@@ -982,7 +982,7 @@ Full data contract in [**SECURITY.md**](.github/SECURITY.md).
 
 v1.0.0 — initial public release — 2026-04-22.
 
-Growth Optimal System is the first workspace template shipping under the Heuresis brand. See [CHANGELOG.md](CHANGELOG.md) for the full v1.0.0 scope and planned next releases.
+Growth Operating Agency is the first workspace template shipping under the Heuresis brand. See [CHANGELOG.md](CHANGELOG.md) for the full v1.0.0 scope and planned next releases.
 
 <br/>
 

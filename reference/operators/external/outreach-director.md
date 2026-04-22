@@ -1,6 +1,6 @@
 # the outreach director — 5000-Calls Playbook (External Operator Profile)
 
-> **Why this matters:** the outreach director is a reference archetype for the outbound-volume-first operator — the counterweight to the content-first, inbound-pull archetype. Growth Optimal System templates tend to default to content + inbound because the unit economics look cleaner on paper. the outreach director's track record (5,000+ sales calls in ~3 years, $2k–$30k tier) is a reminder that for a large slice of B2B operators, **outbound volume + ruthless qualification beats waiting for inbound to compound.** This profile documents what to adopt, what to skip, and when the outreach director's model applies.
+> **Why this matters:** the outreach director is a reference archetype for the outbound-volume-first operator — the counterweight to the content-first, inbound-pull archetype. Growth Operating Agency templates tend to default to content + inbound because the unit economics look cleaner on paper. the outreach director's track record (5,000+ sales calls in ~3 years, $2k–$30k tier) is a reminder that for a large slice of B2B operators, **outbound volume + ruthless qualification beats waiting for inbound to compound.** This profile documents what to adopt, what to skip, and when the outreach director's model applies.
 
 ## Source / Lineage
 
@@ -78,7 +78,7 @@ Mainstream take: improve close rate by improving the call script, objection hand
 
 ## Adopt from the outreach director
 
-Priority-ordered. If you're running outbound in Growth Optimal System, these are highest-leverage.
+Priority-ordered. If you're running outbound in Growth Operating Agency, these are highest-leverage.
 
 1. **Pre-call qualification thread 5–7 messages (not 2–3).** Install price + pain + timeframe BEFORE call books. Single biggest close-rate lever.
 2. **State price at minute 25 of a 45-min call.** Leave 15 min for objections while prospect is still warm. Do not save price for the end.
@@ -131,7 +131,7 @@ Key observation: **calls are the job.** Content, ops, and team management are co
 
 ## INV-8 Scope Note
 
-**the outreach director is referenced here as an EXTERNAL operator archetype for Growth Optimal System operators selling THEIR OWN offer.** Adopting his patterns means the Growth Optimal System operator runs outbound for their own program — not offering "the outreach director-style outbound" as a service to others. The distinction matters: his call-close patterns, setter comp structure, and qualification stance all assume the operator IS the closer. If a founder wants to package "the outreach director-style outbound" as a done-for-you service for external clients, that is an agency play belonging in a separate `linkedin-agency-os` workspace (not yet built), with different pricing, team, and delivery constraints.
+**the outreach director is referenced here as an EXTERNAL operator archetype for Growth Operating Agency operators selling THEIR OWN offer.** Adopting his patterns means the Growth Operating Agency operator runs outbound for their own program — not offering "the outreach director-style outbound" as a service to others. The distinction matters: his call-close patterns, setter comp structure, and qualification stance all assume the operator IS the closer. If a founder wants to package "the outreach director-style outbound" as a done-for-you service for external clients, that is an agency play belonging in a separate `linkedin-agency-os` workspace (not yet built), with different pricing, team, and delivery constraints.
 
 ## Non-applicable scenarios
 
@@ -144,7 +144,7 @@ Key observation: **calls are the job.** Content, ops, and team management are co
 
 ## Triangulation With Other Operators
 
-the outreach director is one archetype. When Growth Optimal System considers dispatching an operator toward his model, triangulate against these comparable archetypes to pick the right one:
+the outreach director is one archetype. When Growth Operating Agency considers dispatching an operator toward his model, triangulate against these comparable archetypes to pick the right one:
 
 | Archetype | Lead-gen channel | Offer tier | Best-fit operator profile | When to pick over the outreach director |
 |---|---|---|---|---|
@@ -153,9 +153,9 @@ the outreach director is one archetype. When Growth Optimal System considers dis
 | **the content OS director (hybrid)** | Content + light outbound | $10k–$50k | Mid on both, strong at positioning | Operator has a novel mechanism + narrative |
 | **Enterprise-ABM** | ABM + multi-stakeholder | $50k–$500k | Strong at stakeholder mapping | Buyer is procurement-gated enterprise |
 
-The cost of picking the wrong archetype is ~6 months of runway. Growth Optimal System diagnostic should ask 3 questions upfront (content history, closing reps, offer tier) to route correctly.
+The cost of picking the wrong archetype is ~6 months of runway. Growth Operating Agency diagnostic should ask 3 questions upfront (content history, closing reps, offer tier) to route correctly.
 
-## How this applies in Growth Optimal System
+## How this applies in Growth Operating Agency
 
 - **Skills that reference the outreach director's patterns:** `qualification-thread-writer` (5–7 msg pre-call sequence), `compressed-call-scripter` (45-min structure), `disqualification-filter-designer` (hard-dq questions), `setter-compensation-designer`
 - **Agents:** `outbound-department-agent` should reference the outreach director patterns when operator context flags "revenue-urgency" or "no-content-audience" in the diagnostic
@@ -165,9 +165,9 @@ The cost of picking the wrong archetype is ~6 months of runway. Growth Optimal S
 
 ## Risk Factors / What Could Go Wrong Copying His Model
 
-If Growth Optimal System dispatches an operator toward the outreach director's archetype, these are the specific failure modes to guard against:
+If Growth Operating Agency dispatches an operator toward the outreach director's archetype, these are the specific failure modes to guard against:
 
-1. **Burnout at call volume.** the outreach director runs 8–11 calls/day sustainably because he built into it over 3+ years. Operators who ramp to 6 calls/day in month 2 burn out by month 5. Growth Optimal System should cap new operator call volume at 3/day for first 60 days, 5/day through month 4, and only permit 8+/day after call-review scores stabilize.
+1. **Burnout at call volume.** the outreach director runs 8–11 calls/day sustainably because he built into it over 3+ years. Operators who ramp to 6 calls/day in month 2 burn out by month 5. Growth Operating Agency should cap new operator call volume at 3/day for first 60 days, 5/day through month 4, and only permit 8+/day after call-review scores stabilize.
 
 2. **Disqualification stance backfires without track record.** "We might not be a fit" lands as confident when said by someone with 5,000 calls and visible proof. Said by a week-6 operator with no case studies, it reads as posturing and kills deals. Adopt the disqualification language only once the operator has 3+ closed cases they can reference.
 
@@ -185,7 +185,7 @@ If Growth Optimal System dispatches an operator toward the outreach director's a
 - His public posts on first-call-close mechanics (2024 Q3–Q4 series)
 - Podcast appearances discussing outbound volume (search operator-interview podcasts 2024)
 - Cross-operator corroboration: 4 other high-volume outbound operators in the $3k–$15k tier showing similar pattern clusters
-- Growth Optimal System internal doc: `reference/playbooks/outreach-os-200k.md` (primary downstream consumer of this profile)
+- Growth Operating Agency internal doc: `reference/playbooks/outreach-os-200k.md` (primary downstream consumer of this profile)
 
 ## Cross-references
 

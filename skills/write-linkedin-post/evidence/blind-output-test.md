@@ -17,7 +17,7 @@ _v1.0 initial validation: pending (skill is freshly shipped)_
 ### 1. Output Set
 - 3 LinkedIn posts the creator has published historically (picking ones that drove real engagement/DMs)
 - 3 posts produced by `/write-linkedin-post` (different post types: e.g., one Value Bomb, one Case Study, one Lead Magnet)
-- 1 generic-LLM post (control — no Growth Optimal System context, no voice doc, no positioning)
+- 1 generic-LLM post (control — no Growth Operating Agency context, no voice doc, no positioning)
 
 All outputs anonymized. Strip creator names, replace brand names with `[BRAND]`, randomize order.
 
@@ -33,9 +33,9 @@ For each post, evaluator answers:
 
 ### 3. Pass Criteria
 For `/write-linkedin-post` to be blind-test-validated:
-- **≥ 2 of 3 Growth Optimal System posts** must have ≥ 1 evaluator say `creator` or `can't tell`
+- **≥ 2 of 3 Growth Operating Agency posts** must have ≥ 1 evaluator say `creator` or `can't tell`
 - **No generic-LLM post** should be identified as `creator`
-- Average "Would you publish this?" score ≥ 60% yes for Growth Optimal System posts
+- Average "Would you publish this?" score ≥ 60% yes for Growth Operating Agency posts
 - Average hook rating ≥ 7/10
 - Average CTA/save-ability rating ≥ 7/10
 

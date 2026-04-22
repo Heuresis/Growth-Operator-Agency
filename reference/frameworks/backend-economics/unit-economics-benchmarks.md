@@ -60,7 +60,7 @@ The following benchmarks are commonly cited in the info-product coaching categor
 - **Target revenue per booked call** — [UNVERIFIED].
 - **Target contribution margin per call** — [UNVERIFIED]. the backend economist positions contribution margin as the primary diagnostic but does not publish the target.
 
-If Growth Optimal System needs specific thresholds, either (a) run them bottom-up from the operator's own cohort data, or (b) transcribe Skool-community sessions where the backend economist discusses internal targets (Phase J encoding per `reference/operators/README.md`).
+If Growth Operating Agency needs specific thresholds, either (a) run them bottom-up from the operator's own cohort data, or (b) transcribe Skool-community sessions where the backend economist discusses internal targets (Phase J encoding per `reference/operators/README.md`).
 
 ---
 
@@ -111,7 +111,7 @@ Operators below $1M/yr often misread this. They try to build backend before the 
 
 ---
 
-## Binding into the Growth Optimal System
+## Binding into the Growth Operating Agency
 
 - **Weekly review:** pull RPL, LTV:CAC by source, contribution margin per call for each active funnel. Flag any metric that moved >10% week-over-week.
 - **Monthly review:** pull 30 / 60 / 90 / 365-day cohort LTV by acquisition source. Identify the cohort with the strongest backend revenue; identify what creative / offer / ad they came through.

@@ -197,7 +197,7 @@ When retention drops unexpectedly, map the drop to the phase the viewer was in:
 
 ---
 
-## How this applies in Growth Optimal System
+## How this applies in Growth Operating Agency
 
 - Skill that consumes this: `/write-youtube`, `/analyze-retention-drop`
 - Agent that uses it: `youtube-producer`, `script-reviewer`

@@ -34,13 +34,13 @@ For each proposal, evaluator answers:
 
 ### 3. Pass Criteria
 For `/jv-webinar-proposal` to be blind-test-validated:
-- **≥ 2 of 3 Growth Optimal System proposals** must have ≥ 1 evaluator say `real-creator` or `can't tell`
+- **≥ 2 of 3 Growth Operating Agency proposals** must have ≥ 1 evaluator say `real-creator` or `can't tell`
 - **No generic-LLM proposal** should be identified as `real-creator`
-- Average "Would you respond?" ≥ 60% yes for Growth Optimal System proposals
+- Average "Would you respond?" ≥ 60% yes for Growth Operating Agency proposals
 - Average personalized-opener rating ≥ 7/10 (THE make-or-break metric for JV)
 - Average economics-math rating ≥ 7/10
 - Average ask rating ≥ 7/10
-- **Critical:** Evaluator #1 (past JV partner) must NOT flag Growth Optimal System proposals as template — their calibration is the hardest and most predictive
+- **Critical:** Evaluator #1 (past JV partner) must NOT flag Growth Operating Agency proposals as template — their calibration is the hardest and most predictive
 
 ### 4. Post-Test Analysis
 Patterns to look for on any failures:

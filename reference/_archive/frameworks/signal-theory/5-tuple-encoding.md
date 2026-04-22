@@ -31,7 +31,7 @@ The sensory channel:
 - `mixed` — multi-modal
 
 ### Genre (G) — What conventionalized form?
-The socially recognized pattern the receiver is trained to decode. Growth Optimal System genres:
+The socially recognized pattern the receiver is trained to decode. Growth Operating Agency genres:
 
 **Foundations:** `market-research-brief`, `icp-doc`, `positioning-doc`, `offer-doc`, `brand-voice-doc`
 

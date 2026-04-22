@@ -17,7 +17,7 @@ _v1.0 initial validation: pending (skill is freshly shipped)_
 ### 1. Output Set
 - 2 lead magnets the creator has historically run (pick ones with known opt-in rate data — one that converted well, one that didn't)
 - 3 briefs produced by `/lead-magnet` (different types: e.g., one Checklist, one Quiz, one Free Training)
-- 1 generic-LLM brief (control — no Growth Optimal System context)
+- 1 generic-LLM brief (control — no Growth Operating Agency context)
 
 All outputs anonymized. Strip creator names, replace brand names with `[BRAND]`, randomize order. Reviewers see opt-in page copy + asset outline + bridge-to-offer section (not final designed PDFs).
 
@@ -33,9 +33,9 @@ For each brief, evaluator answers:
 
 ### 3. Pass Criteria
 For `/lead-magnet` to be blind-test-validated:
-- **≥ 2 of 3 Growth Optimal System briefs** must have ≥ 1 evaluator say `creator` or `can't tell`
+- **≥ 2 of 3 Growth Operating Agency briefs** must have ≥ 1 evaluator say `creator` or `can't tell`
 - **No generic-LLM brief** should be identified as `creator`
-- Average "Would you opt in?" ≥ 60% yes for Growth Optimal System briefs
+- Average "Would you opt in?" ≥ 60% yes for Growth Operating Agency briefs
 - Average title+hook rating ≥ 7/10
 - Average bridge-to-offer rating ≥ 7/10
 

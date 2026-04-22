@@ -1,14 +1,14 @@
-# Provenance — Growth Optimal System
+# Provenance — Growth Operating Agency
 
 ## Authorship
 
-Growth Optimal System is a workspace template authored by **Heuresis**. Syed Hussain is the principal architect.
+Growth Operating Agency is a workspace template authored by **Heuresis**. Syed Hussain is the principal architect.
 
 The template encodes a specific thesis: that a go-to-market operation for a high-ticket creator business can be expressed as a runtime-agnostic workspace — files on disk, composed of skills and agents — and that any sufficiently capable LLM can execute that workspace as long as it reads markdown and YAML.
 
 ## Foundational layers
 
-Growth Optimal System rests on three load-bearing sources, each with its own authorship:
+Growth Operating Agency rests on three load-bearing sources, each with its own authorship:
 
 ### 1. Signal Theory
 
@@ -24,7 +24,7 @@ Encoded Founder is the methodology for translating tacit creator judgment into m
 
 ### 3. workspace protocol
 
-the workspace protocol — the file contract that defines `SYSTEM.md` + `SKILL.md` + two-layer structure + external skill references with provenance. the workspace manifest is the format Growth Optimal System speaks in; adapters translate the workspace manifest-shaped skills into whatever specific runtime is reading the workspace.
+the workspace protocol — the file contract that defines `SYSTEM.md` + `SKILL.md` + two-layer structure + external skill references with provenance. the workspace manifest is the format Growth Operating Agency speaks in; adapters translate the workspace manifest-shaped skills into whatever specific runtime is reading the workspace.
 
 ## Cognitive activation sources
 
@@ -51,8 +51,8 @@ No operator in the activation list is a partner, endorser, or collaborator of He
 
 ## Version lineage
 
-- v1.0.0 — 2026-04-21 — Initial private release. Growth Optimal System is the first Heuresis workspace template published under the Heuresis brand.
+- v1.0.0 — 2026-04-21 — Initial private release. Growth Operating Agency is the first Heuresis workspace template published under the Heuresis brand.
 
 ---
 
-*Growth Optimal System — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*
+*Growth Operating Agency — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*

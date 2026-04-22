@@ -17,7 +17,7 @@ _v1.0 initial validation: pending (skill is freshly shipped)_
 ### 1. Output Set
 - 2 historical launch plans the creator + team built for past launches (with known outcomes — ideally one hit, one miss)
 - 3 plans produced by `/plan-launch` (different variants: e.g., one Live Launch, one 5-Day Flash Sale, one Beta)
-- 1 generic-LLM launch plan (control — no Growth Optimal System context, no upstream asset integration)
+- 1 generic-LLM launch plan (control — no Growth Operating Agency context, no upstream asset integration)
 
 All outputs anonymized. Strip creator names, replace brand names with `[BRAND]`, randomize order. Reviewers see full runbook + dependency check + team grid + tech checklist + KPI targets.
 
@@ -35,9 +35,9 @@ For each plan, evaluator answers:
 
 ### 3. Pass Criteria (sacred tier — 3/3)
 For `/plan-launch` to be blind-test-validated:
-- **3 of 3 Growth Optimal System plans** must have ≥ 1 evaluator say `creator` or `can't tell` (sacred tier — no slack)
+- **3 of 3 Growth Operating Agency plans** must have ≥ 1 evaluator say `creator` or `can't tell` (sacred tier — no slack)
 - **No generic-LLM plan** should be identified as `creator`
-- Average "Would you execute this?" ≥ 70% yes for Growth Optimal System plans
+- Average "Would you execute this?" ≥ 70% yes for Growth Operating Agency plans
 - Average dependency-check rating ≥ 7/10
 - Average team-assignment rating ≥ 7/10
 - Average tech-checklist rating ≥ 7/10

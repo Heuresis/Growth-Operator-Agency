@@ -1,8 +1,8 @@
 # Quickstart
 
-Get Growth Optimal System running against a real creator in under 30 minutes. This guide assumes slash-command runtime. For other runtimes, see [RUNTIMES](../spec/RUNTIMES.md).
+Get Growth Operating Agency running against a real creator in under 30 minutes. This guide assumes slash-command runtime. For other runtimes, see [RUNTIMES](../spec/RUNTIMES.md).
 
-<img alt="Growth Optimal System architecture" src="assets/architecture-light.svg" width="100%">
+<img alt="Growth Operating Agency architecture" src="assets/architecture-light.svg" width="100%">
 
 ---
 
@@ -12,7 +12,7 @@ Get Growth Optimal System running against a real creator in under 30 minutes. Th
 - Git.
 - A creator whose business you are about to encode (yourself, a client, or a research subject).
 
-That is the full list. Growth Optimal System is markdown and YAML. There is no build step, no package to install, no database to provision.
+That is the full list. Growth Operating Agency is markdown and YAML. There is no build step, no package to install, no database to provision.
 
 ---
 
@@ -139,4 +139,4 @@ Before shipping any asset externally, run the Blind Output Test spec — see [re
 
 ---
 
-*Growth Optimal System — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*
+*Growth Operating Agency — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*

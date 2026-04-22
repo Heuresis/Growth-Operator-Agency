@@ -131,7 +131,7 @@ Each of the 8 components has a healthy expression and a pathological one. Acknow
 
 The line between healthy and pathological is often a single decision made under pressure. See `ethical-guardrails.md` for the red-flag patterns and the quarterly ethics review.
 
-## How this applies in Growth Optimal System
+## How this applies in Growth Operating Agency
 
 - **Skill(s) that consume this:** `/design-positioning`, `/brand-voice-codification`, `/content-engine-build`, `/signature-vocabulary`
 - **Agent(s) that use it:** brand-strategist, content-director, positioning-specialist

@@ -255,4 +255,4 @@ Per [`.github/CONTRIBUTING.md`](../CONTRIBUTING.md):
 
 ---
 
-*Growth Optimal System — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*
+*Growth Operating Agency — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*

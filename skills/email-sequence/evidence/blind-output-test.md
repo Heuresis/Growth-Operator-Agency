@@ -17,7 +17,7 @@ _v1.0 initial validation: pending (skill is freshly shipped)_
 ### 1. Output Set
 - 3 emails the creator has personally written (from historical sends — pick ones with real reply + click traction)
 - 3 emails produced by `/email-sequence` (different types: e.g., one Nurture Day 7, one Launch Shout email, one Post-Purchase Day 3)
-- 1 generic-LLM email (control — no Growth Optimal System context)
+- 1 generic-LLM email (control — no Growth Operating Agency context)
 
 All outputs anonymized. Strip creator names, replace brand names with `[BRAND]`, randomize order.
 
@@ -33,9 +33,9 @@ For each email, evaluator answers:
 
 ### 3. Pass Criteria
 For `/email-sequence` to be blind-test-validated:
-- **≥ 2 of 3 Growth Optimal System emails** must have ≥ 1 evaluator say `creator` or `can't tell`
+- **≥ 2 of 3 Growth Operating Agency emails** must have ≥ 1 evaluator say `creator` or `can't tell`
 - **No generic-LLM email** should be identified as `creator`
-- Average "Would you send this?" ≥ 60% yes for Growth Optimal System emails
+- Average "Would you send this?" ≥ 60% yes for Growth Operating Agency emails
 - Average subject+preview rating ≥ 7/10
 - Average body+CTA rating ≥ 7/10
 

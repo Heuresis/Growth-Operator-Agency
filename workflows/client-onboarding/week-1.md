@@ -78,7 +78,7 @@ Agenda:
 
 ## Sample Filled Week-1 Plan
 - `{client_name}`: {CLIENT_NAME} / Alex
-- `{offer_sku}`: Growth Optimal System Quarterly ($25K)
+- `{offer_sku}`: Growth Operating Agency Quarterly ($25K)
 - `{start_date}`: 2026-04-22
 - `{success_metric}`: Full foundations + live funnel + first 5 cold demos booked by Day 60
 - `{kickoff_datetime}`: 2026-04-24 at 14:00 PT
@@ -86,7 +86,7 @@ Agenda:
 - `{delivery_lead}`: Syed
 - `{weekly_cadence}`: Tuesdays 14:00 PT (60 min)
 
-Day-1 email opens: "Alex — welcome to Heuresis Growth Optimal System. Here is what we are going to do in the next 90 days, starting Tuesday..."
+Day-1 email opens: "Alex — welcome to Heuresis Growth Operating Agency. Here is what we are going to do in the next 90 days, starting Tuesday..."
 
 ## Common Risks to Pre-empt
 - Client over-scoped their own goals in sales process — surface + re-contract at kickoff

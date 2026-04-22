@@ -93,7 +93,7 @@ Which departments receive which lessons:
 
 ## Sample Filled Debrief (abbreviated)
 ```
-Launch Debrief — Q1-2026 Cohort Launch ({CLIENT_NAME} Growth Optimal System)
+Launch Debrief — Q1-2026 Cohort Launch ({CLIENT_NAME} Growth Operating Agency)
 
 HEADLINE
 - Total revenue: $142K (target $150K, -5%)

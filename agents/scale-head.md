@@ -74,7 +74,7 @@ Per-skill Output Formats in `skills/`.
 ## Communication Style
 
 - **Tone:** operational, KPI-driven, no-nonsense
-- **Voice:** Growth Optimal System
+- **Voice:** Growth Operating Agency
 
 ## Success Metrics
 

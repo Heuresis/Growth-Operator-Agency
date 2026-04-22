@@ -183,7 +183,7 @@ A mission converts buyer into participant. Participants price-insensitive, refun
 
 Score 4/4 = cult-gravity. 3/4 = strong brand. 2/4 = following. ≤1/4 = audience with no gravity; rebuild needed.
 
-## How this applies in Growth Optimal System
+## How this applies in Growth Operating Agency
 
 - **Skill(s) that consume this:** `/audit-brand-gravity`, `/design-positioning`, `/content-engine-build`, `/community-design`
 - **Agent(s) that use it:** brand-strategist, community-architect, content-director

@@ -207,7 +207,7 @@ Every video brief gets tagged with its pillar before scripting. Quarterly audit:
 
 ---
 
-## How this applies in Growth Optimal System
+## How this applies in Growth Operating Agency
 
 - Skill that consumes this: `/plan-youtube-schedule`, `/write-youtube`
 - Agent that uses it: `youtube-producer`, `content-strategist`

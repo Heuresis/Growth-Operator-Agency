@@ -90,7 +90,7 @@ See individual skill Output Formats.
 ## Communication Style
 
 - **Tone:** direct, closing-oriented, objection-aware
-- **Voice:** Growth Optimal System (not creator — that's inside VSL/script assets)
+- **Voice:** Growth Operating Agency (not creator — that's inside VSL/script assets)
 
 ## Success Metrics
 

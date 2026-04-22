@@ -1,14 +1,14 @@
 # the VSL director 4-Stage Market Sophistication - Applied to Crypto Trading Education
 
-> **Framework:** Growth Optimal System/the VSL director 4-Stage Market Sophistication - `reference/frameworks/market-sophistication-overview.md`
+> **Framework:** Growth Operating Agency/the VSL director 4-Stage Market Sophistication - `reference/frameworks/market-sophistication-overview.md`
 > **Applied to:** Crypto trading education as the target vertical
 > **Outcome:** Diagnosis = Stage 4 (Exhausted), positioning requires paradigm-shift, not mechanism-reveal
 
 ## Context
 
-This example walks the the VSL director/Growth Optimal System 4-Stage Market Sophistication framework through a specific vertical - crypto trading education - to show how the stage diagnosis transforms every downstream positioning, messaging, and VSL decision. The crypto trading education market is one of the most saturated, over-promised, and burn-scarred markets on the internet. A naive operator entering this vertical with Stage 1 ("How to make money in crypto") or Stage 2 ("The 7-Step Trading System") messaging will be invisible - the market has seen every version of both. The correct diagnosis drives the correct positioning, which drives the correct offer. This example shows the sequence in detail.
+This example walks the the VSL director/Growth Operating Agency 4-Stage Market Sophistication framework through a specific vertical - crypto trading education - to show how the stage diagnosis transforms every downstream positioning, messaging, and VSL decision. The crypto trading education market is one of the most saturated, over-promised, and burn-scarred markets on the internet. A naive operator entering this vertical with Stage 1 ("How to make money in crypto") or Stage 2 ("The 7-Step Trading System") messaging will be invisible - the market has seen every version of both. The correct diagnosis drives the correct positioning, which drives the correct offer. This example shows the sequence in detail.
 
-## The 4-Stage Framework (Growth Optimal System source)
+## The 4-Stage Framework (Growth Operating Agency source)
 
 | Stage | Messaging Style | VSL Approach | Pricing |
 |---|---|---|---|
@@ -88,4 +88,4 @@ The fix: diagnose the market as Stage 4, rebuild the Offer Architecture (Blockag
 - Secondary: ClickBank public affiliate benchmarks; YouTube CPM benchmarks (Tubular Labs, SocialBlade); Reddit r/CryptoCurrency sentiment analysis
 
 ---
-*Encoded 2026-04-19. [SYNTHESIZED] applied diagnosis of the crypto trading education vertical using the Growth Optimal System/the VSL director 4-stage framework [VERBATIM]. Framework language (Stage 1-4 names, messaging styles, price tiers, action step) is pulled from source. Market-specific evidence (ClickBank trends, YouTube CPM collapse, r/CryptoCurrency sentiment) is directional and representative of the publicly observable state of the crypto education market as of 2026.*
+*Encoded 2026-04-19. [SYNTHESIZED] applied diagnosis of the crypto trading education vertical using the Growth Operating Agency/the VSL director 4-stage framework [VERBATIM]. Framework language (Stage 1-4 names, messaging styles, price tiers, action step) is pulled from source. Market-specific evidence (ClickBank trends, YouTube CPM collapse, r/CryptoCurrency sentiment) is directional and representative of the publicly observable state of the crypto education market as of 2026.*

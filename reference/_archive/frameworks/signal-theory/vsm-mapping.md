@@ -1,7 +1,7 @@
-# VSM Mapping — the Viable System Model → Growth Optimal System 7 Departments
+# VSM Mapping — the Viable System Model → Growth Operating Agency 7 Departments
 
-> **Source:** viable systems theory, *Brain of the Firm* (1972) · Signal Theory pp.9 · applied to Growth Optimal System 7-department structure
-> **Status:** Architectural — verifies Growth Optimal System is a viable system.
+> **Source:** viable systems theory, *Brain of the Firm* (1972) · Signal Theory pp.9 · applied to Growth Operating Agency 7-department structure
+> **Status:** Architectural — verifies Growth Operating Agency is a viable system.
 
 ## The 5 VSM Subsystems
 
@@ -15,7 +15,7 @@
 
 **Recursive rule:** each operational subsystem must itself contain all 5.
 
-## Growth Optimal System 7-Department Mapping
+## Growth Operating Agency 7-Department Mapping
 
 | Department | Primary VSM Role | Why |
 |---|---|---|
@@ -27,7 +27,7 @@
 | **Scale** | **S1 Operations** | The ongoing operational layer. SOPs, hiring, retention, finance. |
 | **Partnerships** | **S4 Intelligence** (partial) | External environment scan — JVs, affiliates, influencers, competitor-aligned creators |
 
-## How the VSM Check Validates Growth Optimal System
+## How the VSM Check Validates Growth Operating Agency
 
 ### S5 check — Is identity defined?
 Foundations compartment (Creator Identity Matrix + Offer + Positioning) must be ≥ 70%. Below that = no S5 = no viable system.
@@ -63,7 +63,7 @@ viable-systems-theory 3* = audit function separate from S3:
 - S3 manages resources (normal operations control)
 - S3* audits S1 directly (catches what S3 misses)
 
-**In Growth Optimal System:**
+**In Growth Operating Agency:**
 - S3 = Launch-Lead + Scale-Lead (run operations)
 - S3* = Blind Output Test + Triple-Layer Verification + /retention-check (audit operations)
 
@@ -73,11 +73,11 @@ Without S3*, S3 + S1 can drift into incestuous optimization. The audit prevents 
 
 the algedonic = emergency pain/pleasure signal that bypasses normal channels and reaches S5 directly.
 
-**In Growth Optimal System:** INVARIANTS.md violations + refund spikes + brand-safety issues = algedonic. Escalate directly to creator + growth-ceo agent, bypassing normal review cadence.
+**In Growth Operating Agency:** INVARIANTS.md violations + refund spikes + brand-safety issues = algedonic. Escalate directly to creator + growth-ceo agent, bypassing normal review cadence.
 
 ## Applied Diagnostic
 
-When a Growth Optimal System instance has problems, VSM-diagnose:
+When a Growth Operating Agency instance has problems, VSM-diagnose:
 
 | Symptom | Likely VSM gap |
 |---|---|

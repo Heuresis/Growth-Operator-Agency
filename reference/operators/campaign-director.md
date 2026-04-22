@@ -45,7 +45,7 @@ Together they create demand for *your* specific product or service and make the 
 > "Educate about something new, different, and superior... education that leads prospects to want your product or service *before* you ever even talk about your product or service."
 > — Educational VSL Method
 
-## Growth Optimal System skill bindings
+## Growth Operating Agency skill bindings
 - `/e5-method-campaign-engineering` → 5-stage campaign design (Marketing architecture)
 - `/big-marketing-idea` → One organizing idea per campaign (Message design)
 - `/unique-mechanism-marketing` → Named category-failing mechanism (Offer + Copy)

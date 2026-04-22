@@ -174,7 +174,7 @@ copy_messaging:
 content_strategy:
   content_pillars: []
   platform_strategies:
-    # Growth Optimal System scope: minimal platform strategy. Full platform ops = vertical workspaces.
+    # Growth Operating Agency scope: minimal platform strategy. Full platform ops = vertical workspaces.
     youtube:
       active: false
       content_types: []

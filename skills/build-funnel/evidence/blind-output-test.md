@@ -34,9 +34,9 @@ For each blueprint, evaluator answers:
 
 ### 3. Pass Criteria
 For `/build-funnel` to be blind-test-validated (external tier 2/3):
-- **2/3 Growth Optimal System blueprints** must have ≥ 1 evaluator say `creator` or `can't tell`
+- **2/3 Growth Operating Agency blueprints** must have ≥ 1 evaluator say `creator` or `can't tell`
 - **No generic-LLM blueprint** should be identified as `creator`
-- Average "Would you launch?" score ≥ 60% yes for Growth Optimal System blueprints
+- Average "Would you launch?" score ≥ 60% yes for Growth Operating Agency blueprints
 - Average Archetype reasoning rating ≥ 7/10
 - Average Dependency Chain rating ≥ 7/10
 - Economics cross-check PASS on 2/3 blueprints

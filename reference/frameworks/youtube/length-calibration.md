@@ -224,7 +224,7 @@ YouTube's auto-insertion of mid-roll ads destroys retention if they hit during a
 
 ---
 
-## How this applies in Growth Optimal System
+## How this applies in Growth Operating Agency
 
 - Skill that consumes this: `/brief-youtube-video`, `/calibrate-youtube-length`
 - Agent that uses it: `youtube-producer`, `script-writer`

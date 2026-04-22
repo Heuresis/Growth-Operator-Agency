@@ -1,7 +1,7 @@
-# Growth Optimal System USP Creation SOP
+# Growth Operating Agency USP Creation SOP
 
-> Growth Optimal System domain knowledge — used by Foundation agents for market research,
-> ICP building, and offer architecture. All methodology is Growth Optimal System-branded.
+> Growth Operating Agency domain knowledge — used by Foundation agents for market research,
+> ICP building, and offer architecture. All methodology is Growth Operating Agency-branded.
 
 ---
 

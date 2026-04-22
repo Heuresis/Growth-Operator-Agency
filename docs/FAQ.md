@@ -4,7 +4,7 @@ Common questions. Read [QUICKSTART](QUICKSTART.md) first if you have not yet run
 
 ---
 
-## What is Growth Optimal System?
+## What is Growth Operating Agency?
 
 A workspace template that encodes the go-to-market operation of a high-ticket creator business as runtime-agnostic files — markdown, YAML, and a specific folder contract. Any LLM that reads markdown and YAML can execute it.
 
@@ -18,7 +18,7 @@ Creators, coaches, consultants, and founders running high-ticket offers ($2K+) w
 
 ## Why not just use ChatGPT or Claude directly?
 
-You can. But chat without an encoded workspace is stateless and un-calibrated. Every conversation starts from zero. Growth Optimal System gives the LLM a real substrate — your positioning, your ICP, your offer, your voice — before it writes a single word. That is what makes the output land.
+You can. But chat without an encoded workspace is stateless and un-calibrated. Every conversation starts from zero. Growth Operating Agency gives the LLM a real substrate — your positioning, your ICP, your offer, your voice — before it writes a single word. That is what makes the output land.
 
 ---
 
@@ -114,7 +114,7 @@ Watch the S/N score over time. Watch compartment completeness. Watch blind-test 
 
 ### What is Heuresis?
 
-The studio that built Growth Optimal System. Principal architect is Syed Hussain. Heuresis builds encoded workspaces as the deliverable product — not consulting engagements, not a SaaS platform. See [PROVENANCE.md](../PROVENANCE.md).
+The studio that built Growth Operating Agency. Principal architect is Syed Hussain. Heuresis builds encoded workspaces as the deliverable product — not consulting engagements, not a SaaS platform. See [PROVENANCE.md](../PROVENANCE.md).
 
 ### Why is this private?
 
@@ -146,4 +146,4 @@ It should not have. The triple-layer gate catches banned vocabulary. If one land
 
 ---
 
-*Growth Optimal System — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*
+*Growth Operating Agency — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*

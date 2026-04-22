@@ -137,7 +137,7 @@ Read your asset aloud. Mark each paragraph 1 or 2.
 
 Target ratio for a $5k–$30k offer: roughly 1-1-2-2-2-2-1-1-1 across a 9-segment VSL.
 
-## How this applies in Growth Optimal System
+## How this applies in Growth Operating Agency
 
 - Skills: `/vsl-audit`, `/offer-price`, `/landing-page`, `/webinar-build`
 - Agents: `offer-architect`, `copywriter-direct-response`, `funnel-architect`

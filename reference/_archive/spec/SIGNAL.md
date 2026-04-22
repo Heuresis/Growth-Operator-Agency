@@ -35,7 +35,7 @@ The sensory channel. Options:
 - `data` — structured tables
 
 ### Genre (G) — What conventionalized form?
-The socially recognized pattern the receiver is trained to decode. Growth Optimal System genre catalog:
+The socially recognized pattern the receiver is trained to decode. Growth Operating Agency genre catalog:
 - `spec` — formal specification
 - `brief` — short directive
 - `report` — findings + implications
@@ -135,7 +135,7 @@ Any viable system requires five recursive subsystems:
 - **System 4** Intelligence (scan external environment)
 - **System 5** Policy (define encoding standards + identity)
 
-**In practice:** Growth Optimal System department mapping —
+**In practice:** Growth Operating Agency department mapping —
 - Foundations = System 5 (Policy)
 - Marketing = Transmission Layer
 - Nurture = System 2 (Coordination)
@@ -235,7 +235,7 @@ When a Signal fails the gate:
 
 ## 11. Alignment with workspace protocol
 
-the workspace manifest's `protocol/signal-theory.md` uses the identical 5-tuple and 4 principles. Growth Optimal System extends this with:
+the workspace manifest's `protocol/signal-theory.md` uses the identical 5-tuple and 4 principles. Growth Operating Agency extends this with:
 - Signal Theory's 7-Layer Optimal System mapping (L1 Network → L7 Governance)
 - Encoded Founder's M = T × S × K × A × E × I × L formula
 - Impact Distribution Principle (40/40/20) as the applied cybernetics theory ratio for growth businesses

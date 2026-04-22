@@ -17,7 +17,7 @@ _v1.0 initial validation: pending (skill is freshly shipped)_
 ### 1. Output Set
 - 2 historical ICP Documents produced by the creator or their team
 - 3 ICP Documents produced by `/build-icp` (different creator contexts)
-- 1 generic-LLM ICP (control — no Growth Optimal System context)
+- 1 generic-LLM ICP (control — no Growth Operating Agency context)
 
 All outputs anonymized. Strip creator names, replace brand names with `[BRAND]`, randomize order.
 
@@ -33,9 +33,9 @@ For each ICP, evaluator answers:
 
 ### 3. Pass Criteria
 For `/build-icp` to be blind-test-validated (internal tier 1/3):
-- **≥ 1 of 3 Growth Optimal System ICPs** must have ≥ 1 evaluator say `creator` or `can't tell`
+- **≥ 1 of 3 Growth Operating Agency ICPs** must have ≥ 1 evaluator say `creator` or `can't tell`
 - **No generic-LLM ICP** should be identified as `creator`
-- Average "Would you act on this?" score ≥ 50% yes for Growth Optimal System ICPs
+- Average "Would you act on this?" score ≥ 50% yes for Growth Operating Agency ICPs
 - Average Psychological Architecture rating ≥ 7/10
 - Average VOC rating ≥ 7/10
 

@@ -85,7 +85,7 @@ Variant selection memo (with reasoning) + full script body (variant-specific bea
 - **Tone:** direct, closing-oriented, narrative-first.
 - **Lead with:** variant selection reasoning + context validation status.
 - **Avoid:** hedging, filler, marketer-speak, features-first framing.
-- **Voice inside the VSL:** creator's (voice-matched). Voice outside: Growth Optimal System (strategic, diagnostic).
+- **Voice inside the VSL:** creator's (voice-matched). Voice outside: Growth Operating Agency (strategic, diagnostic).
 
 ## Success Metrics
 

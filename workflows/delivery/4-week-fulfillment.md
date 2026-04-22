@@ -1,7 +1,7 @@
 # 4-Week Fulfillment Cycle
 
 ## Purpose
-Standardized 4-week delivery cadence for a typical Growth Optimal System engagement slice. Each week has a theme, deliverables, calls, checkpoints, and escalation triggers. Weeks compound: Week 4 depends on Week 3 depending on Week 2 depending on Week 1.
+Standardized 4-week delivery cadence for a typical Growth Operating Agency engagement slice. Each week has a theme, deliverables, calls, checkpoints, and escalation triggers. Weeks compound: Week 4 depends on Week 3 depending on Week 2 depending on Week 1.
 
 ## Week-by-Week Overview
 | Week | Theme | Primary Deliverables |

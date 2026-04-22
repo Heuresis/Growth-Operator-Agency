@@ -17,7 +17,7 @@ _v1.0 initial validation: pending (skill is freshly shipped)_
 ### 1. Output Set
 - 2 historical show-rate stacks the creator has run (with known show-rate data — one that performed, one that leaked)
 - 3 stacks produced by `/post-booking-nurture` (different offer tiers: e.g., $3K / $10K / $25K)
-- 1 generic-LLM stack (control — no Growth Optimal System context, no the paid media director timing, no the growth engineer 5-function page)
+- 1 generic-LLM stack (control — no Growth Operating Agency context, no the paid media director timing, no the growth engineer 5-function page)
 
 All outputs anonymized. Strip creator names, replace brand names with `[BRAND]`, randomize order. Reviewers see confirmation page copy + video script + all 4 emails + all 5 SMS + phone-triage spec (if any).
 
@@ -34,9 +34,9 @@ For each stack, evaluator answers:
 
 ### 3. Pass Criteria
 For `/post-booking-nurture` to be blind-test-validated:
-- **≥ 2 of 3 Growth Optimal System stacks** must have ≥ 1 evaluator say `creator` or `can't tell`
+- **≥ 2 of 3 Growth Operating Agency stacks** must have ≥ 1 evaluator say `creator` or `can't tell`
 - **No generic-LLM stack** should be identified as `creator`
-- Average "Would you activate this?" ≥ 60% yes for Growth Optimal System stacks
+- Average "Would you activate this?" ≥ 60% yes for Growth Operating Agency stacks
 - Average confirmation-page rating ≥ 7/10
 - Average SMS cadence rating ≥ 7/10
 - Average "Would you show up?" ≥ 70% yes (direct show-rate proxy)

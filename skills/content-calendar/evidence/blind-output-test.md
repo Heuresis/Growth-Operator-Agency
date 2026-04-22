@@ -34,7 +34,7 @@ For each calendar, evaluator answers:
 
 ### 3. Pass Criteria
 For `/content-calendar` to be blind-test-validated (external tier 2/3):
-- **2/3 Growth Optimal System calendars** must have ≥ 1 evaluator say `creator` or `can't tell`
+- **2/3 Growth Operating Agency calendars** must have ≥ 1 evaluator say `creator` or `can't tell`
 - **No generic-LLM calendar** should be identified as `creator`
 - Average "Would you execute this?" score ≥ 60% yes
 - Average Pillar Ratio rating ≥ 7/10

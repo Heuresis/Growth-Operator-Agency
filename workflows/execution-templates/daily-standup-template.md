@@ -46,7 +46,7 @@ Yesterday: ...
 
 ## Sample Filled Standup
 ```
-Standup — 2026-04-19 — Growth Optimal System Delivery
+Standup — 2026-04-19 — Growth Operating Agency Delivery
 
 METRICS
 - Leads today: 47 (7d avg: 42) ↑

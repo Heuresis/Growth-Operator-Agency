@@ -1,6 +1,6 @@
 # Hidden VSSL — Variant E
 
-> **Source:** the growth engineer — *Hidden VSSL Framework* + Growth Optimal System YOUTUBE PRINCIPLES (creator-native youtuber 5-chapter body)
+> **Source:** the growth engineer — *Hidden VSSL Framework* + Growth Operating Agency YOUTUBE PRINCIPLES (creator-native youtuber 5-chapter body)
 > **Best for:** YouTube-distributed (organic, not paid), content-first brand, audience expects teaching, 20-45 min long-form
 
 ## The Principle
@@ -59,7 +59,7 @@ creator-native youtuber's YouTube channel (@ohalloran_sam) is the reference exam
 ## Source
 
 - `reference/operators/growth-engineer.md`
-- Growth Optimal System YOUTUBE PRINCIPLES — Notion `30539dd823e781f7a9e8ef82e964909d`
+- Growth Operating Agency YOUTUBE PRINCIPLES — Notion `30539dd823e781f7a9e8ef82e964909d`
 - Jordan Lee case study — Notion `28b39dd823e781dc8ef6e31b872ad112`
 
 ---
