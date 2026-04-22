@@ -1,6 +1,6 @@
 # Blind Output Test — /build-sop
 
-> Per `spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Standard Operating Procedure (SOP)**. Classification: **internal** — requires **1/3 evaluator pass**.
+> Per `_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Standard Operating Procedure (SOP)**. Classification: **internal** — requires **1/3 evaluator pass**.
 
 ## Test Date(s)
 

@@ -429,7 +429,7 @@ Before shipping the brief:
 - [ ] Banned vocabulary check passed
 - [ ] Confidence per section tagged
 - [ ] Handoff artifact written (suggests next skill: `/build-icp` or `/design-offer`)
-- [ ] Blind Output Test scheduled (per spec/BLIND-OUTPUT-TEST.md)
+- [ ] Blind Output Test scheduled (per _archive/spec/BLIND-OUTPUT-TEST.md)
 
 ## Next Skills in the Foundations Chain
 

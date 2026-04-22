@@ -46,7 +46,7 @@ If `$ARGUMENTS` includes `--tier=<info|digital|saas|done-for-you>`, calibrate co
 ## Quality gates
 
 Before writing the spec to `output/`:
-- Run `spec/QUALITY.md` triple-layer verification (formal 40% + semantic 35% + information-theoretic 25%)
+- Run `_archive/spec/QUALITY.md` triple-layer verification (formal 40% + semantic 35% + information-theoretic 25%)
 - Check `spec/BANNED-VOCABULARY.md` — reject if any banned phrases
 - Confirm every evidence_gate condition (commission_structure_specified, payout_logic_clear, portal_assets_defined, recruitment_plan, compliance_disclosed)
 - Signal Score ≥ 0.8

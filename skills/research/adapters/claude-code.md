@@ -61,7 +61,7 @@ If `$ARGUMENTS` is provided, focus the research on that specific topic/offer. Ot
 ## Quality gates
 
 Before writing the brief to `output/`:
-- Run through `spec/QUALITY.md` triple-layer verification
+- Run through `_archive/spec/QUALITY.md` triple-layer verification
 - Check `spec/BANNED-VOCABULARY.md` — reject if any banned phrases
 - Confirm 9 sections complete per SKILL.md Output Format
 - Confirm Phase 9 Executive Summary was written LAST (not first)

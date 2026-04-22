@@ -50,7 +50,7 @@ If `$ARGUMENTS` contains `--type=N`, force that ad type. Otherwise auto-select b
 ## Quality gates
 
 Before writing the artifact to `output/`:
-- Run `spec/QUALITY.md` triple-layer verification
+- Run `_archive/spec/QUALITY.md` triple-layer verification
 - Check `spec/BANNED-VOCABULARY.md` — full INV-7 sweep
 - Compliance: no income guarantees, no health claims without clinical backing, no before/after without disclaimer, Meta restricted category check if applicable, FTC disclosure if testimonials
 - Confirm every `evidence_gate` condition: ad type with reasoning, Specificity Score ≥ 8 per variant, mechanism referenced, voice-matched, compliance passed, variant count ≥ 3

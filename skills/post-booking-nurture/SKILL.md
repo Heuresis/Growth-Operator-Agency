@@ -384,7 +384,7 @@ Per offer price + funnel archetype, decide which components (confirmation page +
 - `reference/operators/tier-3-rising/siguard-foss.md` (Infomatic Setting Flow + Show Rate stack)
 - `reference/operators/growth-engineer.md` (Confirmation Page That Converts — 5-function)
 - Growth OS `Show Rates - VSL Call Funnel` canonical source
-- `spec/INTEGRATIONS.md` (Twilio + Cal.com + GHL)
+- `_archive/spec/INTEGRATIONS.md` (Twilio + Cal.com + GHL)
 
 ---
 *v1.0 — 2026-04-19. Cycle 4 Educate. The silent-killer skill — show-rate determines revenue on call funnels.*

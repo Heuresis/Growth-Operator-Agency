@@ -284,7 +284,7 @@ Read:
 - `reference/frameworks/growth-operating-process/3-operational-rules.md` (weekly rhythm + single source of truth)
 - `reference/frameworks/content-os/education-os-4-phase.md` (Phase 4 retention content types)
 - `reference/frameworks/economics-engine.md` (LTV mechanics + recurring model)
-- `reference/frameworks/classical/4-belief-layers.md` (belief-decay as churn driver)
+- `_archive/frameworks/classical/4-belief-layers.md` (belief-decay as churn driver)
 - `reference/knowledge/scale.md` (the operations director 60/30/10 retention allocation)
 - Integration pulls: CRM (GHL), analytics (Mixpanel), community (Skool/Circle/Discord), billing (Stripe), support (Intercom)
 
@@ -599,7 +599,7 @@ After `/retention-check` ships:
   - `reference/frameworks/content-os/education-os-4-phase.md` (Phase 4 Retention — content types + community architecture)
   - `reference/frameworks/growth-operating-process/3-operational-rules.md` (weekly rhythm + single source of truth)
   - `reference/frameworks/primitives/value-equation.md` (value delivered vs value promised read)
-  - `reference/frameworks/classical/4-belief-layers.md` (belief decay = churn driver)
+  - `_archive/frameworks/classical/4-belief-layers.md` (belief decay = churn driver)
   - `reference/frameworks/growth-operating-process/8-stage-customer-journey-audit.md` (Stages 6-8: Customer / Advocate / Referral-source)
 - Operators:
   - `reference/operators/content-os-director.md` (Phase 4 Retention canonical — "buyers compound into advocates or churn")

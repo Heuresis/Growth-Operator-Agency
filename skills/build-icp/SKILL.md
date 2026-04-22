@@ -206,8 +206,8 @@ This section drives the OFFER design in `/design-offer` — the offer must **rem
 ### Phase 0 — Load
 - Read `output/research/` (latest Market Research Brief)
 - Read `company.yaml` compartments 1 + 2 (populated by /research)
-- Read `reference/frameworks/classical/schwartz-awareness-spectrum.md`
-- Read `reference/frameworks/classical/limiting-belief-triad.md`
+- Read `_archive/frameworks/classical/schwartz-awareness-spectrum.md`
+- Read `_archive/frameworks/classical/limiting-belief-triad.md`
 - Read `reference/frameworks/esoteric-marketing/README.md` (the offer architect market psychology)
 - Read `reference/frameworks/primitives/specificity.md`
 - Read `reference/sub-agents/market-research-icp/` (Growth OS canonical source content)
@@ -494,9 +494,9 @@ After `/build-icp` delivers the ICP Document (Completeness >= 80):
 
 ## References
 
-- `reference/frameworks/classical/schwartz-awareness-spectrum.md`
-- `reference/frameworks/classical/limiting-belief-triad.md`
-- `reference/frameworks/classical/market-hierarchy.md`
+- `_archive/frameworks/classical/schwartz-awareness-spectrum.md`
+- `_archive/frameworks/classical/limiting-belief-triad.md`
+- `_archive/frameworks/classical/market-hierarchy.md`
 - `reference/frameworks/esoteric-marketing/README.md` (the offer architect market psychology)
 - `reference/frameworks/primitives/specificity.md`
 - `reference/sub-agents/market-research-icp/` (raw Growth OS methodology source)

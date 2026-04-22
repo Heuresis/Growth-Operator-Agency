@@ -47,7 +47,7 @@ If `$ARGUMENTS` includes `--period=<weekly|monthly|quarterly>`, scope the report
 ## Quality gates
 
 Before writing the report to `output/`:
-- Run `spec/QUALITY.md` triple-layer verification (formal 40% + semantic 35% + information-theoretic 25%)
+- Run `_archive/spec/QUALITY.md` triple-layer verification (formal 40% + semantic 35% + information-theoretic 25%)
 - Check `spec/BANNED-VOCABULARY.md` — reject if any banned phrases
 - Confirm every evidence_gate condition (all_metrics_pulled_from_source, ltv_cac_computed, revenue_mix_analyzed, forecast_generated)
 - Signal Score ≥ 0.8

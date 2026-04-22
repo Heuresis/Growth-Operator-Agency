@@ -1,6 +1,6 @@
 # Blind Output Test — /post-booking-nurture
 
-> Per `spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Post-Booking Nurture Stack** (confirmation page + email + SMS + optional phone triage). Classification: **external** — requires **2/3 evaluator pass** before activating the stack on live bookings.
+> Per `_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Post-Booking Nurture Stack** (confirmation page + email + SMS + optional phone triage). Classification: **external** — requires **2/3 evaluator pass** before activating the stack on live bookings.
 
 ## Test Date(s)
 
