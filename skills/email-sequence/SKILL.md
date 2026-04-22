@@ -356,6 +356,23 @@ P.S. [optional high-read line]
 - `/lead-magnet` — the lead magnet that drives opt-ins to Welcome sequence
 - `/webinar-script` — the webinar that the Webinar sequence promotes
 
+## Variants
+
+Per-variant playbooks live in `variants/`. Each file expands one sequence type with scope, triggers, cadence, 200-to-400 line per-email structure, subject-line bank, P.S. bank, segmentation logic, benchmarks, failure modes, and next-sequence routing.
+
+| # | Variant | File |
+|---|---|---|
+| 1 | Welcome | `variants/welcome-sequence.md` |
+| 2 | Nurture | `variants/nurture-sequence.md` |
+| 3 | Launch | `variants/launch-sequence.md` |
+| 4 | Webinar Promotion | `variants/webinar-promotion-sequence.md` |
+| 5 | Re-engagement | `variants/re-engagement-sequence.md` |
+| 6 | Application | `variants/application-sequence.md` |
+| 7 | Post-Purchase | `variants/post-purchase-sequence.md` |
+| 8 | Broadcast | `variants/broadcast-playbook.md` |
+
+Index: `variants/_INDEX.md`.
+
 ## References
 
 - `reference/operators/content-os-director.md` (Nurture Block)

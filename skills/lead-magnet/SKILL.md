@@ -265,6 +265,24 @@ Explicit section at end:
 - `/landing-page` — builds the opt-in page
 - `/ad-creative` — traffic to opt-in
 
+## Variants
+
+Per-variant playbooks live in `variants/`. Each file expands one lead magnet type with scope, structural anatomy, title patterns, delivery automation, design specs, benchmarks, failure modes, and next-step routing.
+
+| # | Variant | File |
+|---|---|---|
+| 1 | PDF Guide | `variants/pdf-guide.md` |
+| 2 | Checklist | `variants/checklist.md` |
+| 3 | Cheat Sheet | `variants/cheatsheet.md` |
+| 4 | Swipe File | `variants/swipe-file.md` |
+| 5 | Mini Course | `variants/minicourse.md` |
+| 6 | Quiz | `variants/quiz.md` |
+| 7 | Calculator | `variants/calculator.md` |
+| 8 | Live Training | `variants/live-training.md` |
+| 9 | Custom Artifact | `variants/custom-artifact.md` |
+
+Index: `variants/_INDEX.md`.
+
 ## References
 
 - `reference/operators/external/alex-hormozi.md` (a lead-generation canon)
