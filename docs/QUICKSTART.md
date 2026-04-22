@@ -126,7 +126,7 @@ Every run writes:
 - The run log — at `skills/{skill}/evidence/runs/{date}-run.md`
 - Compartment updates — merged back into `company.yaml` if the skill writes to a compartment
 
-Before shipping any asset externally, run the Blind Output Test spec — see [spec/BLIND-OUTPUT-TEST.md](../spec/BLIND-OUTPUT-TEST.md). If three evaluators who know the creator's work can tell the system produced it, the encoding is wrong. Revise.
+Before shipping any asset externally, run the Blind Output Test spec — see [_archive/spec/BLIND-OUTPUT-TEST.md](../_archive/spec/BLIND-OUTPUT-TEST.md). If three evaluators who know the creator's work can tell the system produced it, the encoding is wrong. Revise.
 
 ---
 

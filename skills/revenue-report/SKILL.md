@@ -597,7 +597,7 @@ After `/revenue-report` delivers the report:
 - `reference/frameworks/impact-distribution.md` (40/40/20 diagnostic for variance root-cause analysis)
 - `reference/frameworks/primitives/value-equation.md` (Dream Outcome × Perceived Likelihood ÷ Time × Effort — used in offer-side variance diagnosis)
 - `spec/BANNED-VOCABULARY.md` (anti-slop filter)
-- `spec/QUALITY.md` (triple-layer verification)
+- `_archive/spec/QUALITY.md` (triple-layer verification)
 
 ---
 

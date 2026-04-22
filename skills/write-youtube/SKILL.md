@@ -474,7 +474,7 @@ Follow for more:
 - `reference/operators/content-os-director.md` (Nurture Block, YouTube Flywheel, platform hierarchy)
 - `reference/operators/vsl-director.md` (MODULE 4 + VSSL)
 - `reference/operators/external/bennett.md` (short-form derivatives)
-- `spec/INTEGRATIONS.md` (YouTube Data API)
+- `_archive/spec/INTEGRATIONS.md` (YouTube Data API)
 
 ---
 

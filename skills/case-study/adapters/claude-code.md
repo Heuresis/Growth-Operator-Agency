@@ -47,7 +47,7 @@ If `$ARGUMENTS` names a client or Thriving ID from retention-check, target that 
 ## Quality gates
 
 Before writing the case study to `output/`:
-- Run `spec/QUALITY.md` triple-layer verification (formal 40% + semantic 35% + information-theoretic 25%)
+- Run `_archive/spec/QUALITY.md` triple-layer verification (formal 40% + semantic 35% + information-theoretic 25%)
 - Check `spec/BANNED-VOCABULARY.md` — reject if any banned phrases
 - Confirm every evidence_gate condition (isomorphic_fit_verified, raw_interview_captured, 6_level_hierarchy_classified, multiple_format_outputs, ftc_disclosure, client_approval)
 - Signal Score ≥ 0.8

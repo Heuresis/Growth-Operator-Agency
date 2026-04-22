@@ -1,6 +1,6 @@
 # Blind Output Test — /build-positioning
 
-> Per `spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Positioning Document**. Classification: **sacred-format** — requires **3/3 evaluator pass** before the positioning is used to drive VSL, ad creative, or any paid-traffic asset.
+> Per `_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Positioning Document**. Classification: **sacred-format** — requires **3/3 evaluator pass** before the positioning is used to drive VSL, ad creative, or any paid-traffic asset.
 
 ## Test Date(s)
 

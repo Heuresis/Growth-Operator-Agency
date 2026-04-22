@@ -49,7 +49,7 @@ If `$ARGUMENTS` contains `--archetype=N`, force that archetype. Otherwise apply 
 ## Quality gates
 
 Before writing the artifact to `output/`:
-- Run `spec/QUALITY.md` triple-layer verification
+- Run `_archive/spec/QUALITY.md` triple-layer verification
 - Check `spec/BANNED-VOCABULARY.md` — reject if any banned phrases
 - Confirm every `evidence_gate` condition: archetype with reasoning, all 5 stages mapped, conversion metrics tabled, tracking plan specified, full dependency chain, economics validated against Offer Doc (LTV:CAC ≥ 3 per INV-4)
 - Signal Score ≥ 0.8

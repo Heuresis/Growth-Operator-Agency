@@ -129,7 +129,7 @@ Skills query this to route integration calls to the right services.
 
 ## Recommended Reading Path
 
-1. `spec/INTEGRATIONS.md` — the contract
+1. `_archive/spec/INTEGRATIONS.md` — the contract
 2. `reference/integrations/mcps.md` — MCP catalog
 3. `reference/integrations/apis.md` — API catalog
 4. `reference/integrations/credentials-template.md` — security + setup

@@ -1,6 +1,6 @@
 # Blind Output Test — /competitor-intel
 
-> Per `spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Competitor Teardown + Whitespace Report**. Classification: **internal** — requires **1/3 evaluator pass**.
+> Per `_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Competitor Teardown + Whitespace Report**. Classification: **internal** — requires **1/3 evaluator pass**.
 
 ## Test Date(s)
 

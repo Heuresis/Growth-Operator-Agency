@@ -114,7 +114,7 @@ Load and execute `skills/design-offer/SKILL.md` in the current workspace.
 
 ## Quality gates
 
-- Triple-layer verification per `spec/QUALITY.md`.
+- Triple-layer verification per `_archive/spec/QUALITY.md`.
 - Banned-vocabulary check per `spec/BANNED-VOCABULARY.md`.
 - Economics: 3:1 LTV:CAC enforced per INV-4.
 - Signal score ≥ 0.8 before ship.

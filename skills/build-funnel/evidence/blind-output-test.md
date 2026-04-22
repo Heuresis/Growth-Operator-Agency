@@ -1,6 +1,6 @@
 # Blind Output Test — /build-funnel
 
-> Per `spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Funnel Blueprint**. Classification: **external** — requires **2/3 evaluator pass** before paid traffic launches against the funnel.
+> Per `_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Funnel Blueprint**. Classification: **external** — requires **2/3 evaluator pass** before paid traffic launches against the funnel.
 
 ## Test Date(s)
 

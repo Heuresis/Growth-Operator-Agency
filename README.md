@@ -186,7 +186,7 @@ One workspace. Five runtimes. Zero lock-in.
 | **slash-command runtime** | primary | `git clone` → open → the slash commands exposed |
 | **workspace manifests** | primary | `manifest boot ./` — native protocol compliance |
 | **Generic LLM** (ChatGPT · Claude web · Perplexity · Ollama) | always available | Paste `SYSTEM.md` as system prompt + relevant `company.yaml` compartments |
-| **HTTP / OpenAPI** | v1.1 | REST contract at `spec/HTTP-OPENAPI-ADAPTER.md` |
+| **HTTP / OpenAPI** | v1.1 | REST contract at `_archive/spec/HTTP-OPENAPI-ADAPTER.md` |
 | **Codex · Cursor · OpenClaw** | v2.0 | Adapter scaffolding prepared |
 
 A skill written today runs unchanged on any runtime that reads markdown and YAML. That is [INV-10](INVARIANTS.md) — the runtime-agnostic guarantee.
@@ -967,7 +967,7 @@ Full data contract in [**SECURITY.md**](SECURITY.md).
 | Doc | For |
 |---|---|
 | [Quickstart](docs/QUICKSTART.md) | First run in 30 minutes |
-| [Architecture](docs/ARCHITECTURE.md) | Three-layer model, 11 compartments, 14 invariants, Signal Theory |
+| [Architecture](docs/ARCHITECTURE.md) | Three-layer model, 11 compartments, privacy contract, runtime contract |
 | [Skill Authoring](docs/SKILL_AUTHORING.md) | Adding or modifying skills |
 | [Glossary](docs/GLOSSARY.md) | Every term — compartment, signal, S/N, sacred-format, flywheel |
 | [FAQ](docs/FAQ.md) | Runtimes, privacy, instantiation, quality |
@@ -982,7 +982,7 @@ Full data contract in [**SECURITY.md**](SECURITY.md).
 
 ## Status
 
-v1.0.0 — initial private release — 2026-04-22.
+v1.0.0 — initial public release — 2026-04-22.
 
 Growth OS is the first workspace template shipping under the Heuresis brand. See [CHANGELOG.md](CHANGELOG.md) for the full v1.0.0 scope and planned next releases.
 

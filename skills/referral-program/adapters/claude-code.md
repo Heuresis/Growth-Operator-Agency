@@ -47,7 +47,7 @@ If `$ARGUMENTS` includes `--reward=<pattern>`, anchor the reward structure desig
 ## Quality gates
 
 Before writing the spec to `output/`:
-- Run `spec/QUALITY.md` triple-layer verification (formal 40% + semantic 35% + information-theoretic 25%)
+- Run `_archive/spec/QUALITY.md` triple-layer verification (formal 40% + semantic 35% + information-theoretic 25%)
 - Check `spec/BANNED-VOCABULARY.md` — reject if any banned phrases
 - Confirm every evidence_gate condition (reward_structure_specified, triggers_mapped, tracking_wired, viral_loop_designed)
 - Signal Score ≥ 0.8

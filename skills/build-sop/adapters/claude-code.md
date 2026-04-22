@@ -46,7 +46,7 @@ If `$ARGUMENTS` includes `--variant=<role|process>`, select that specific SOP va
 ## Quality gates
 
 Before writing the SOP to `output/`:
-- Run `spec/QUALITY.md` triple-layer verification (formal 40% + semantic 35% + information-theoretic 25%)
+- Run `_archive/spec/QUALITY.md` triple-layer verification (formal 40% + semantic 35% + information-theoretic 25%)
 - Check `spec/BANNED-VOCABULARY.md` — reject if any banned phrases
 - Confirm every evidence_gate condition (variant_selected, full_process_mapped_phase_by_phase, kpis_specified, quality_gates_declared, escalation_rules, training_plan)
 - Signal Score ≥ 0.8

@@ -1,6 +1,6 @@
 # Blind Output Test — /plan-launch
 
-> Per `spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Launch Plan** (sacred format — a broken launch plan compounds losses across ad spend + email burn + team hours + reputational cost). Classification: **sacred-format** — requires **3/3 evaluator pass** before paid-traffic spend.
+> Per `_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Launch Plan** (sacred format — a broken launch plan compounds losses across ad spend + email burn + team hours + reputational cost). Classification: **sacred-format** — requires **3/3 evaluator pass** before paid-traffic spend.
 
 ## Test Date(s)
 

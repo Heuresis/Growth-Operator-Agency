@@ -1,6 +1,6 @@
 # Blind Output Test — /extract-voice
 
-> Per `spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Brand Voice Document**. Classification: **sacred-format** — requires **3/3 evaluator pass**. Voice-matching is THE primary blind-test target — if this skill fails here, every downstream copy skill leaks generic AI voice.
+> Per `_archive/spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Brand Voice Document**. Classification: **sacred-format** — requires **3/3 evaluator pass**. Voice-matching is THE primary blind-test target — if this skill fails here, every downstream copy skill leaks generic AI voice.
 
 ## Test Date(s)
 

@@ -117,7 +117,7 @@ Unresolved dimensions equal noise. The S/N ratio is measured per output and gate
 - S/N ≥ 0.5 → internal / usable draft
 - S/N < 0.5 → reject plus revise
 
-Signal Theory is the quality substrate. It is not a style guide — it is the information-theoretic backbone that determines whether an output actually lands. See [`spec/SIGNAL.md`](../spec/SIGNAL.md).
+Signal Theory is the quality substrate. It is not a style guide — it is the information-theoretic backbone that determines whether an output actually lands. See [`_archive/spec/SIGNAL.md`](../_archive/spec/SIGNAL.md).
 
 ---
 
@@ -133,7 +133,7 @@ Every output passes through three gates before ship:
 
 Plus the **Blind Output Test** for ship-worthy assets: three evaluators who know the creator's work answer "Did the creator produce this, or the system?" If at least one says "creator" or "can't tell," the encoding passed. If zero say "creator," revise.
 
-See [`spec/QUALITY.md`](../spec/QUALITY.md) and [`spec/BLIND-OUTPUT-TEST.md`](../spec/BLIND-OUTPUT-TEST.md).
+See [`_archive/spec/QUALITY.md`](../_archive/spec/QUALITY.md) and [`_archive/spec/BLIND-OUTPUT-TEST.md`](../_archive/spec/BLIND-OUTPUT-TEST.md).
 
 ---
 
