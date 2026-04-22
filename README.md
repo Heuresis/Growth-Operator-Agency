@@ -7,7 +7,7 @@
 
 <br/>
 
-<p><strong>Everything your creator business ships — in one folder.</strong></p>
+<p><strong>A creator business, run by agents. In one folder.</strong></p>
 
 <p>
   <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/version-1.0.0-09090b?style=flat-square&labelColor=09090b&color=52525b" alt="Version"></a>
@@ -18,11 +18,11 @@
 
 <br/>
 
-A folder that produces the specific documents a high-ticket creator business runs on — research briefs, customer profiles, positioning, offers, sales scripts, email sequences, launch plans, team SOPs.
+An open-source workspace of 41 agents organized into 7 departments — Foundations, Marketing, Nurture, Sales, Launch, Scale, Partnerships — that run the operations of a high-ticket creator business.
 
-You fill in the context. AI writes the documents. You review, edit, and ship.
+You fill in the context. The agents execute. You stay in the loop only where your judgment counts.
 
-**Every cycle, the folder runs more of the work. You stay in the loop only where your judgment counts.**
+**Every cycle, the folder runs more of the work.**
 
 No subscription. No signup. No platform to learn. A folder you own, forever.
 
@@ -36,39 +36,39 @@ No subscription. No signup. No platform to learn. A folder you own, forever.
 
 2. Fill in `company.yaml` with your business context.
 
-3. Ask for what you need:
+3. Call a department or invoke a skill:
 
    ```
-   /research          a market research brief
-   /build-icp         a customer profile
-   /design-offer      an offer document
-   /build-vsl         a video sales letter
-   /plan-launch       a launch plan
+   /research          → market research brief
+   /build-icp         → customer profile
+   /design-offer      → offer document
+   /build-vsl         → video sales letter
+   /plan-launch       → 5-phase launch plan
    ```
 
-Works with Claude, ChatGPT, Cursor, or any AI tool that reads files.
+Works with Claude Code, Cursor, Aider, ChatGPT, Paperclip, or any agent runtime that reads markdown.
 
 Full setup: **[Quickstart](docs/QUICKSTART.md)** · 30 minutes.
 
-## What you get
+## Inside the workspace
 
-29 document types across 7 areas:
+**7 departments. 41 agents. 29 skills.**
 
-- **Foundations** — research · ICP · positioning · offer · brand voice
-- **Marketing** — content calendar · ads · LinkedIn · reels · YouTube · X · stories
-- **Nurture** — lead magnets · email sequences · webinars · post-booking
-- **Sales** — VSL · funnel · competitor intel
-- **Launch** — launch plan · post-launch report
-- **Scale** — SOPs · hiring · retention · revenue · case studies
-- **Partnerships** — JV webinars · affiliate programs · referral programs
+- **Foundations** — research · ICP · niche · offer · brand voice
+- **Marketing** — content · YouTube · short-form · X · LinkedIn · stories · paid ads · SEO · podcast
+- **Nurture** — email sequences · lead magnets · community · webinars · SMS
+- **Sales** — VSL · funnel · sales scripts · DM sales · call prep · proposal · CRM
+- **Launch** — launch manager · post-launch analyst
+- **Scale** — SOPs · team hiring · competitor intel · financial · retention · case studies
+- **Partnerships** — JV webinars · affiliate · referral
 
-Each one built from the playbooks of operators who've run this at scale.
+Built from the playbooks of operators who've run this at scale.
 
 ## Documentation
 
 - [Quickstart](docs/QUICKSTART.md) — setup in 30 minutes
 - [Architecture](docs/ARCHITECTURE.md) — how the folder is built
-- [Skill Authoring](docs/SKILL_AUTHORING.md) — write your own documents
+- [Skill Authoring](docs/SKILL_AUTHORING.md) — write your own agents and skills
 
 ## License
 
