@@ -1,6 +1,6 @@
 # Educate-Before-Pitch — The Primitive
 
-> **Source lineage:** the campaign director (*educational VSL method* — explicit principle), the VSL copywriter (3X VSL — three tips before pitch), the growth engineer (hidden-pitch long-form video — teaches mechanism before offer), the offer architect (VSL opening + middle teaches, close sells), the psychological copywriter (Pull-Push-Persuade — never sell before Step 9).
+> **Source lineage:** the campaign director (*educational VSL method* — explicit principle), the VSL copywriter (3X VSL — three tips before pitch), the growth engineer (hidden-pitch long-form video — teaches mechanism before offer), the offer architect (VSL opening + middle teaches, close sells), the psychological copywriter (pull-push-persuade — never sell before Step 9).
 > **Status:** First-class primitive. The trust-building substrate.
 
 ## The Principle
@@ -18,7 +18,7 @@ Across sales assets, the teach-to-pitch ratio:
 | Asset | Teach | Pitch |
 |---|---|---|
 | VSL (15-step) | 60-70% | 30-40% (pitch starts ~step 9) |
-| VSL (Pull-Push-Persuade 11-step) | 73% | 27% (pitch = steps 9-11) |
+| VSL (pull-push-persuade 11-step) | 73% | 27% (pitch = steps 9-11) |
 | Webinar (7-Figure) | 70-75% | 25-30% (pitch after transition at ~min 75) |
 | YouTube VSSL (the YouTube-native director 5-chapter) | 80% | 20% (only mechanism, then CTA) |
 | Long-form post / email | 85% | 15% (teach with soft CTA) |
@@ -126,7 +126,7 @@ Educate-before-pitch is applied when:
 - the VSL copywriter — *three-phase VSL formula*
 - the growth engineer — *hidden-pitch long-form video*
 - the offer architect — VSL Masterclass Parts 1-4
-- the psychological copywriter — *The 5,280-Word VSL Conversion Framework* (Pull-Push-Persuade)
+- the psychological copywriter — *The 5,280-Word VSL Conversion Framework* (pull-push-persuade)
 - 7-Figure Webinar Script (gamma.app)
 - `reference/operators/campaign-director.md`
 - `reference/operators/vsl-copywriter.md`

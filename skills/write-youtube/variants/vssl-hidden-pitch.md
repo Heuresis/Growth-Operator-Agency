@@ -12,7 +12,7 @@
 
 ## When NOT to Use
 
-- Paid traffic. VSSLs convert poorly on paid traffic because the watch-time economics don't hold up when viewers are cold. Use a traditional 15-step or Pull-Push-Persuade VSL for paid.
+- Paid traffic. VSSLs convert poorly on paid traffic because the watch-time economics don't hold up when viewers are cold. Use a traditional 15-step or pull-push-persuade VSL for paid.
 - Offer is under $500 — the 80% value / 20% pitch ratio is too much runtime for a low-ticket direct-cart.
 - Offer is enterprise $100K+ — the asynchronous format doesn't map to enterprise sales cycles.
 - Creator has no existing audience to surface the video to. VSSL needs subscriber velocity or related-video surfacing.

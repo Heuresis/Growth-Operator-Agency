@@ -1,6 +1,6 @@
-# the psychological copywriter 11-Step Pull-Push-Persuade VSL - Faceless Clipping Offer
+# the psychological copywriter 11-Step pull-push-persuade VSL - Faceless Clipping Offer
 
-> **Framework:** the psychological copywriter's Pull-Push-Persuade 11-Step - `reference/frameworks/vsl/hogendoorn-11-step.md`
+> **Framework:** the psychological copywriter's pull-push-persuade 11-Step - `reference/frameworks/vsl/hogendoorn-11-step.md`
 > **Runtime target:** 10-12 minutes (within the 8-12 min window)
 > **Best for:** Faceless / no-camera / paid-traffic cold audience
 > **Applied to:** Clipping Agency - Clipping a creator-agency program, Meta Ads → VSL page (no creator face)

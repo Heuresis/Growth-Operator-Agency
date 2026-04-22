@@ -25,7 +25,7 @@ Example (weight loss): "It's not willpower. It's the insulin-response loop your 
 
 Example: "Our protocol shuts down the post-7pm insulin-response by timing fat-burn markers — not calorie restriction."
 
-**Rule (RMBC methodology):** Both parts needed. Most creators name only Part 2. Without Part 1, Part 2 sounds arbitrary.
+**Rule (research-mechanism-brief-copy methodology):** Both parts needed. Most creators name only Part 2. Without Part 1, Part 2 sounds arbitrary.
 
 ## The Three Criteria (E5 campaign methodology)
 
@@ -45,7 +45,7 @@ Good mechanism names have:
 
 Examples:
 - "high-value stacked offer" (acquisition-economics methodology)
-- "Pull-Push-Persuade" (Pull-Push-Persuade methodology)
+- "pull-push-persuade" (pull-push-persuade methodology)
 - "research-mechanism-brief-copy process" (the copy director — Research-Mechanism-Brief-Copy)
 - "educational VSL method" (the campaign director)
 - "three-phase VSL formula" (the VSL copywriter)
@@ -66,7 +66,7 @@ A mechanism needs **3-5 sub-steps** for credibility (not exhaustive implementati
 - Has a purpose (what it accomplishes)
 - Logically leads to the next
 
-Example (Pull-Push-Persuade):
+Example (pull-push-persuade):
 - PULL: Earn attention (Promise → Profile → Proof → Presence)
 - PUSH: Create emotional pressure (Pain → Cases → Process → Future Pace)
 - PERSUADE: Remove barriers (Objection Handling → Close → Postscript)

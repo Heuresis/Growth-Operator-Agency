@@ -923,7 +923,7 @@ context_tier: l1
 ---
 ```
 
-**Methodology:** Pull-Push-Persuade Framework (11 steps)
+**Methodology:** pull-push-persuade Framework (11 steps)
 ```
 PULL (Steps 1-4): Earn the right to be heard
   1. The Promise (Hook) — 8 seconds to filter the right viewer
@@ -1972,7 +1972,7 @@ Milestone: Foundations FSM runs end-to-end
 Priority: HIGH (this is the demo)
 
 Build:
-  ✅ VSL Builder Agent + /build-vsl skill + Pull-Push-Persuade framework
+  ✅ VSL Builder Agent + /build-vsl skill + pull-push-persuade framework
   ✅ 3 VSL templates (archetype, story-driven, case study)
   ✅ Funnel Assets Agent + /build-funnel skill
   ✅ 2 funnel templates (VSL funnel, application funnel)

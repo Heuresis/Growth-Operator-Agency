@@ -7,7 +7,7 @@
 | # | Variant | File | Best for |
 |---|---|---|---|
 | A | **15-step** | `15-step-vsl.md` | Default for $3K-$30K, creator on-camera, paid traffic |
-| B | **Pull-Push-Persuade 11-step (Pull-Push-Persuade)** | `pull-push-persuade-11-step.md` | No-camera / faceless / paid-traffic cold |
+| B | **pull-push-persuade 11-step (pull-push-persuade)** | `pull-push-persuade-11-step.md` | No-camera / faceless / paid-traffic cold |
 | C | **13-step VSL (slides)** | `13-step-vsl.md` | Slide-based voice-over, data/SaaS/analytical niches |
 | D | **three-phase VSL formula** | `3x-vsl-formula.md` | Emotional / story-driven, mid-ticket, strong origin story |
 | E | **hidden-pitch long-form video** | `hidden-vssl.md` | YouTube-native / organic, content-first brand |
@@ -20,7 +20,7 @@ IF offer $3K-$30K AND creator on-camera AND paid traffic:
 ELIF paid traffic AND no-camera AND data/SaaS/finance:
     → Variant C (13-step VSL slides)
 ELIF paid traffic AND no-camera AND general niches:
-    → Variant B (Pull-Push-Persuade 11-step)
+    → Variant B (pull-push-persuade 11-step)
 ELIF creator has strong origin story AND emotional niche AND mid-ticket:
     → Variant D (three-phase VSL formula)
 ELIF YouTube organic AND content-first brand:

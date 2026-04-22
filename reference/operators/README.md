@@ -36,9 +36,9 @@ This directory holds canonical-playbook files for operators whose IP lives on th
 Rank by (a) strength of external canonical, (b) leverage to Growth Operating Agency departments, (c) specificity of named frameworks:
 
 1. **the acquisition economist** — equations (Value Equation, Core Four) are the atomic primitives most other operators build on. Encode first so later operators can reference.
-2. **the copy director** — RMBC is the most *structurally explicit* copy framework; binds cleanly into Marketing/Copy sub-agent as the default writing protocol.
+2. **the copy director** — research-mechanism-brief-copy is the most *structurally explicit* copy framework; binds cleanly into Marketing/Copy sub-agent as the default writing protocol.
 3. **the growth engineer** — 38 named skills map 1:1 to Growth Operating Agency skill-atoms; highest binding density.
-4. **the campaign director** — big idea + Unique Mechanism + educational VSL provides the campaign-engineering layer above RMBC.
+4. **the campaign director** — big idea + Unique Mechanism + educational VSL provides the campaign-engineering layer above the copy-process layer.
 5. **the VSL copywriter** — three-phase VSL formula slots under the campaign director's educational VSL method as the execution template.
 6. **the agency director** — SMMA 6-stage playbook for agency-model clients specifically.
 7. **the backend economist** — unit-economics backend layer; encode after the acquisition economist (LTV:CAC pairs with Core Four).
