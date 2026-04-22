@@ -1,13 +1,13 @@
-# The 4 Governing Principles — Shannon / Ashby / Beer / Wiener
+# The 4 Governing Principles — information theory / cybernetics theory / viable systems theory / feedback-loop theory
 
-> **Source:** Luna Signal Theory pp.9-11 · Canopy `protocol/signal-theory.md` lines 38-69
+> **Source:** Signal Theory pp.9-11 · Canopy `protocol/signal-theory.md` lines 38-69
 > **Status:** Load-bearing. Every skill output constrained by all 4 simultaneously. Violate any = signal fails.
 
 ## The Root Objective
 
 **Maximize Signal-to-Noise Ratio (S/N).** All 4 principles serve this single metric.
 
-## 1. Shannon — The Ceiling
+## 1. information theory — The Ceiling
 
 Every channel has finite capacity: `C = B × log₂(1 + S/N)`.
 
@@ -16,12 +16,12 @@ Every channel has finite capacity: `C = B × log₂(1 + S/N)`.
 **Applied to Growth OS:**
 - Context window is a finite channel
 - Output length has a ceiling
-- Exceeding ceiling = Shannon violation = reliable understanding impossible
+- Exceeding ceiling = information theory violation = reliable understanding impossible
 - A 500-line explanation when 20 lines suffice = violation
 
 **Enforcement in skills:** every SKILL.md declares target runtime/length. Output > 2× target = reject.
 
-## 2. Ashby — The Repertoire
+## 2. cybernetics theory — The Repertoire
 
 *"Only variety can absorb variety."* Formally: `V(controller) ≥ V(disturbance)`.
 
@@ -33,14 +33,14 @@ Every channel has finite capacity: `C = B × log₂(1 + S/N)`.
 - R ≥ 10.0 → robust
 
 **Applied to Growth OS:**
-- VSL needs 5 variant templates (Pampa/Hogendoorn/Trister/Benson/Haynes) because buyer contexts have high variety
+- VSL needs 5 variant templates (the VSL director/the psychological copywriter/the 13-step VSL author/the VSL copywriter/the growth engineer) because buyer contexts have high variety
 - Email sequences need 8 types because situations vary
 - Funnels need 7 archetypes
-- 10 Bennett short-form frameworks, 7 YouTube video types
+- 10 the short-form-frameworks author short-form frameworks, 7 YouTube video types
 
-**Enforcement:** if creator context demands a variant the system doesn't have → Ashby violation → skill blocks + flags capability gap.
+**Enforcement:** if creator context demands a variant the system doesn't have → cybernetics theory violation → skill blocks + flags capability gap.
 
-## 3. Beer — The Architecture
+## 3. viable systems theory — The Architecture
 
 Every viable system requires 5 recursive subsystems:
 - **System 1** — Operations (produce/consume signals)
@@ -62,7 +62,7 @@ Every viable system requires 5 recursive subsystems:
 
 See `signal-theory/vsm-mapping.md` for full mapping.
 
-## 4. Wiener — The Feedback Loop
+## 4. feedback-loop theory — The Feedback Loop
 
 *Systems without feedback cannot self-correct.* Every signal must have a return path.
 
@@ -85,26 +85,26 @@ Each addresses a distinct dimension of viability. Individually necessary, collec
 
 | Principle | Addresses | Violation mode |
 |---|---|---|
-| Shannon | Channel capacity | Overload — too much signal for the channel |
-| Ashby | Repertoire | Variety deficit — unhandled situations |
-| Beer | Architecture | Blindspot — missing subsystem |
-| Wiener | Feedback | Open loop — no self-correction |
+| information theory | Channel capacity | Overload — too much signal for the channel |
+| cybernetics theory | Repertoire | Variety deficit — unhandled situations |
+| viable systems theory | Architecture | Blindspot — missing subsystem |
+| feedback-loop theory | Feedback | Open loop — no self-correction |
 
 All 4 must be satisfied for a skill to ship.
 
 ## Diagnostic Use
 
 When something underperforms, diagnose WHICH principle failed:
-- Output too long / verbose → Shannon
-- Doesn't match creator context → Ashby (variety deficit)
-- Missing division output / blind to something → Beer
-- No response / feedback → Wiener
+- Output too long / verbose → information theory
+- Doesn't match creator context → cybernetics theory (variety deficit)
+- Missing division output / blind to something → viable systems theory
+- No response / feedback → feedback-loop theory
 
 ## Sources
 
-- Luna Signal Theory pp.9-11
+- Signal Theory pp.9-11
 - Canopy `protocol/signal-theory.md` lines 38-69
-- Shannon (1948), Ashby (1956), Beer (1972), Wiener (1948)
+- information theory (1948), cybernetics (1956), viable systems (1972), feedback-loop theory (1948)
 - `spec/SIGNAL.md`
 
 ---

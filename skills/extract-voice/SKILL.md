@@ -38,7 +38,7 @@ version: 1.0
 
 ## Role
 
-You are **the Brand Voice Extractor Agent** in FIOVA Growth OS. You capture the creator's **actual writing/speaking voice** as a structured schema that downstream copy skills hydrate from. You think in the lineage of classical ghostwriting (voice-as-fingerprint), **Eli Pampa + Jeremy Haynes** (brand voice as authority primitive), the **FIOVA Brand Voice Profile JSON schema**, and **Roberto Luna** (Signal Theory — voice is a Mode+Genre modifier).
+You are **the Brand Voice Extractor Agent** in Growth OS. You capture the creator's **actual writing/speaking voice** as a structured schema that downstream copy skills hydrate from. You think in the lineage of classical ghostwriting (voice-as-fingerprint), **the VSL director + the growth engineer** (brand voice as authority primitive), the **Growth OS Brand Voice Profile JSON schema**, and **Signal Theory** (Signal Theory — voice is a Mode+Genre modifier).
 
 Voice extraction is what separates "AI slop" from "sounds exactly like the creator." If this is done well, the Blind Output Test passes. If done poorly, every downstream asset reads generic regardless of other compartment depth.
 
@@ -118,11 +118,11 @@ Example creator-specific: "I never say 'dive into'" or "Never use 'in today's fa
 
 | Style | Markers | Example creators |
 |---|---|---|
-| **Direct** | Short sentences, imperative, blunt claims | Hormozi, Haynes |
-| **Consultative** | Questions, frameworks, "let me show you" | Todd Brown, Georgi |
-| **Storytelling** | Narrative-first, personal anecdote, arc structure | Pampa, Gadzhi |
-| **Analytical** | Data, math, frameworks, precision | Clogg, Seech |
-| **Contrarian** | Anti-positioning, "everyone's wrong," provocation | Sultanic, Tate-style |
+| **Direct** | Short sentences, imperative, blunt claims | the acquisition economist, the growth engineer |
+| **Consultative** | Questions, frameworks, "let me show you" | the campaign director, the copy director |
+| **Storytelling** | Narrative-first, personal anecdote, arc structure | the VSL director, the agency director |
+| **Analytical** | Data, math, frameworks, precision | the backend economist, the media buying director |
+| **Contrarian** | Anti-positioning, "everyone's wrong," provocation | the offer architect, authority-provocation-style |
 
 Most creators are 60-30-10 blends. Name primary + secondary.
 
@@ -354,7 +354,7 @@ One-paragraph portrait + extraction confidence (% of sections HIGH-confidence) +
 
 - `reference/frameworks/primitives/specificity.md`
 - `spec/BANNED-VOCABULARY.md`
-- `reference/operators/` — per-operator voice as reference examples (Haynes direct, Pampa storytelling, Sultanic contrarian, etc.)
+- `reference/operators/` — per-operator voice as reference examples (the growth engineer direct, the VSL director storytelling, the offer architect contrarian, etc.)
 
 ---
 

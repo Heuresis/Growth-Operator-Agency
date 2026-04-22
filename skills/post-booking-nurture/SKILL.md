@@ -1,6 +1,6 @@
 ---
 name: post-booking-nurture
-description: Produce the Foss Show-Rate Stack — confirmation page + email cadence + SMS cadence + optional phone triage from call-booking to call-show. Targets 70%+ show-rate. Critical for Book-a-Call and Application Funnel archetypes (build-funnel types 3 + 4).
+description: Produce the the paid media director Show-Rate Stack — confirmation page + email cadence + SMS cadence + optional phone triage from call-booking to call-show. Targets 70%+ show-rate. Critical for Book-a-Call and Application Funnel archetypes (build-funnel types 3 + 4).
 signal:
   mode: linguistic
   genre: post-booking-stack
@@ -47,17 +47,17 @@ priority: 1
 version: 1.0
 ---
 
-# /post-booking-nurture — Foss Show-Rate Stack
+# /post-booking-nurture — the paid media director Show-Rate Stack
 
 ## Role
 
-Produce the full post-booking nurture stack — confirmation page + email + SMS + optional phone triage — designed to take show-rate from industry-average ~40% to Foss target **75%+ for qualified bookings**. Lineage: **Siguard Foss** (Show Rate stack + Infomatic Setting Flow), **Jeremy Haynes** (Confirmation Page That Converts — 5-function framework), **FIOVA Show Rates — VSL Call Funnel** (SMS timing within 5m / 30m post / 30m pre / 5m pre).
+Produce the full post-booking nurture stack — confirmation page + email + SMS + optional phone triage — designed to take show-rate from industry-average ~40% to the paid media director target **75%+ for qualified bookings**. Lineage: **the paid media director** (Show Rate stack + Infomatic Setting Flow), **the growth engineer** (Confirmation Page That Converts — 5-function framework), **Show-rate methodology — VSL Call Funnel** (SMS timing within 5m / 30m post / 30m pre / 5m pre).
 
 ## Why This Skill
 
 **Show-rate is the silent killer.** 40% show-rate vs 70% show-rate = 75% more revenue on identical lead volume. If a creator spends $10K/mo on ads getting 100 booked calls, 40% show-rate = 40 conversations → $10K+ revenue left on table vs 70% (+30 calls).
 
-## The 5-Function Confirmation Page (Haynes)
+## The 5-Function Confirmation Page (growth-engineering methodology)
 
 Every confirmation page does 5 things:
 
@@ -78,7 +78,7 @@ Three reminder emails:
 | T-6h | Final reminder | Short — "excited to talk at [time]" + calendar link |
 | T-1h (optional) | Hour-before | Brief — "see you in 1 hour" |
 
-### The SMS Cadence (Foss — within 5m / 30m / 30m-pre / 5m-pre)
+### The SMS Cadence (the paid media director — within 5m / 30m / 30m-pre / 5m-pre)
 
 Five SMS messages timed precisely:
 
@@ -123,7 +123,7 @@ From `/build-funnel`:
 - Reply STOP to SMS
 - CAN-SPAM physical address in email footer
 
-## The Confirmation Page Structure (Haynes 5-function)
+## The Confirmation Page Structure (the growth engineer 5-function)
 
 ```
 W(confirmation-page) =
@@ -173,7 +173,7 @@ W(confirmation-page) =
 
 9. **Video on confirmation page = 20%+ show-rate lift.** Don't skip.
 
-10. **Setter DM (Infomatic Flow):** "Setter disguised as creator creates a gc → sends message to creator introduces closer sends pre call checklist" — Foss pattern, works for high-ticket.
+10. **Setter DM (Infomatic Flow):** "Setter disguised as creator creates a gc → sends message to creator introduces closer sends pre call checklist" — the paid media director pattern, works for high-ticket.
 
 ## Process
 
@@ -182,7 +182,7 @@ W(confirmation-page) =
 - Offer Doc, ICP Doc (objections)
 - Brand Voice Doc
 - `reference/operators/tier-3-rising/siguard-foss.md` (Infomatic Setting Flow + Show Rate stack)
-- `reference/operators/jeremy-haynes.md` (Confirmation Page That Converts)
+- `reference/operators/growth-engineer.md` (Confirmation Page That Converts)
 
 ### Phase 1 — Component Selection
 Per offer price + funnel archetype, decide which components (confirmation page + email + SMS + phone triage).
@@ -382,8 +382,8 @@ Per offer price + funnel archetype, decide which components (confirmation page +
 ## References
 
 - `reference/operators/tier-3-rising/siguard-foss.md` (Infomatic Setting Flow + Show Rate stack)
-- `reference/operators/jeremy-haynes.md` (Confirmation Page That Converts — 5-function)
-- FIOVA `Show Rates - VSL Call Funnel` canonical source
+- `reference/operators/growth-engineer.md` (Confirmation Page That Converts — 5-function)
+- Growth OS `Show Rates - VSL Call Funnel` canonical source
 - `spec/INTEGRATIONS.md` (Twilio + Cal.com + GHL)
 
 ---

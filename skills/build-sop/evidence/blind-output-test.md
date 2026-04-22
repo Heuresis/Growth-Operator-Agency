@@ -52,7 +52,7 @@ Patterns to look for on any failures:
 
 1. **Ambiguous DONE criteria** — If phases end with "when done" instead of a checkable condition, SOP is not executable by a new hire. Fix: require every phase to declare a verifiable PASS signal (artifact exists, tag applied, count met).
 
-2. **KPIs not numeric + time-bound** — "Good close rate" fails Slings discipline. Fix: enforce format `[metric] [comparator] [number] [timeframe]` with rejection if any slot empty.
+2. **KPIs not numeric + time-bound** — "Good close rate" fails the operations director discipline. Fix: enforce format `[metric] [comparator] [number] [timeframe]` with rejection if any slot empty.
 
 3. **Tools named generically** — "Use our CRM" fails. Fix: require tool name + specific pipeline/board/tag + link if possible.
 

@@ -13,7 +13,7 @@ Shared vocabulary, frameworks, KPIs, and handoff patterns inherited by every ski
 ## Core Vocabulary
 - **ICP** — Ideal Customer Profile. One named, one-page avatar with triggers, pain tiers (1–5), and buying criteria.
 - **LTV:CAC** — Lifetime value to customer acquisition cost. Target ≥ 3:1 for healthy unit economics.
-- **Value Equation** (Hormozi) — `(Dream Outcome × Perceived Likelihood) / (Time Delay × Effort & Sacrifice)`. Score each lever 1–10, multiply numerator, divide denominator. Target ≥ 150.
+- **Value Equation** (acquisition-economics methodology) — `(Dream Outcome × Perceived Likelihood) / (Time Delay × Effort & Sacrifice)`. Score each lever 1–10, multiply numerator, divide denominator. Target ≥ 150.
 - **8 Required Beliefs** — Beliefs a prospect must hold to buy: (1) problem is real, (2) problem is urgent, (3) status quo is failing, (4) external solution exists, (5) your category is the right one, (6) your mechanism is superior, (7) you are credible, (8) now is the time.
 - **Limiting Belief Triad** — (a) "It won't work for me", (b) "I can't do it", (c) "It's not worth the risk". Every piece of content must dissolve one.
 - **Signal-to-Noise (S/N)** — Ratio of on-brief insight to filler in research output. Target ≥ 0.8.

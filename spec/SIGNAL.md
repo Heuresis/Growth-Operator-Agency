@@ -2,7 +2,7 @@
 
 > **The quality substrate.** Every output this workspace produces is a Signal. This spec defines what counts as a Signal, how it's encoded, how it's measured, and when it fails.
 >
-> **Foundational sources:** Roberto Luna, *Signal Theory: Optimal Intent Encoding* (63pp); Canopy protocol `protocol/signal-theory.md`; Shannon (1948), Ashby (1956), Beer (1972), Wiener (1948).
+> **Foundational sources:** Signal Theory, *Signal Theory: Optimal Intent Encoding* (63pp); Canopy protocol `protocol/signal-theory.md`; information theory (1948), cybernetics (1956), viable systems (1972), feedback-loop theory (1948).
 
 ---
 
@@ -85,7 +85,7 @@ The physical/digital vessel:
 The internal skeleton/template. Structure is a function of Genre: **W(G)**.
 Examples:
 - `W(proposal)` = Problem → Solution → Scope → Approach → Timeline → Budget → Terms
-- `W(vsl)` = Hook → Lead → Qualification → Problem → Hero Story → Solution → Features → Testimonials → Price Anchor → Guarantee → Urgency → Crossroads Close → Takeaway → Help Them Buy → Future Pace (Pampa 15-step)
+- `W(vsl)` = Hook → Lead → Qualification → Problem → Hero Story → Solution → Features → Testimonials → Price Anchor → Guarantee → Urgency → Crossroads Close → Takeaway → Help Them Buy → Future Pace (15-step)
 - `W(icp-doc)` = Demographics → Firmographics → Psychographics → Behavioral Patterns → Market Sophistication → Voice of Customer → Limiting Belief
 - `W(offer-doc)` = Transformation → Mechanism → Capability Removal → Value Stack → Bonuses → Guarantee → Pricing → Upsell Ecosystem → Economics Validation
 
@@ -106,7 +106,7 @@ An audio file cannot carry visual mode. A demo requires gestural mode. A `vsl` g
 
 The receiver/destination is **not a sixth dimension** — it is the constraint field within which all five dimensions are optimized.
 
-> "A Signal encoded without knowing its destination is a broadcast. Broadcasting is a Shannon violation — it ignores channel capacity by assuming all receivers are the same." — Luna
+> "A Signal encoded without knowing its destination is a broadcast. Broadcasting is a information theory violation — it ignores channel capacity by assuming all receivers are the same." — Signal Theory
 
 Every Signal declaration must include: **who decodes this, and what's their decoding capacity?**
 
@@ -114,20 +114,20 @@ Every Signal declaration must include: **who decodes this, and what's their deco
 
 Every Signal is constrained by four principles. Violating any = Signal failure.
 
-### Shannon (The Ceiling)
+### information theory (The Ceiling)
 Every channel has finite capacity: `C = B × log₂(1 + S/N)`. Exceeding capacity = reliable communication impossible.
-**In practice:** context windows are finite. Output length has a ceiling. A 500-line answer when 20 lines suffice is a Shannon violation.
+**In practice:** context windows are finite. Output length has a ceiling. A 500-line answer when 20 lines suffice is a information theory violation.
 
-### Ashby (The Repertoire)
+### cybernetics theory (The Repertoire)
 *Only variety can absorb variety.* The system's Signal repertoire (genres, modes, formats, structures) must have enough variety to handle every situation the environment produces. Requisite Variety Ratio `R = V(system) / V(disturbance)`:
 - R < 1.0 failing
 - R 1.0–3.0 marginal
 - R 3.0–10.0 adequate
 - R ≥ 10.0 robust
 
-**In practice:** you need ~R × actual_situations templates for a domain. If VSLs need 5 variants (Pampa 15-step, Hogendoorn 11-step, Trister 13-step, Benson 3X, Haynes Hidden VSSL), not 1.
+**In practice:** you need ~R × actual_situations templates for a domain. If VSLs need 5 variants (15-step, Pull-Push-Persuade 11-step, 13-step VSL, 3X VSL Formula, Hidden VSSL), not 1.
 
-### Beer (The Architecture)
+### viable systems theory (The Architecture)
 Any viable system requires five recursive subsystems:
 - **System 1** Operations (produce/consume Signals)
 - **System 2** Coordination (prevent Signal conflicts)
@@ -144,7 +144,7 @@ Any viable system requires five recursive subsystems:
 - Scale = System 1 (Operations)
 - Partnerships = Cross-cutting (System 4 scan)
 
-### Wiener (The Feedback Loop)
+### feedback-loop theory (The Feedback Loop)
 A system cannot self-correct without feedback. Linear/broadcast communication cannot achieve optimal fidelity. Every Signal must have a feedback path.
 **In practice:** every skill produces output AND expects a response (accepted / rejected / refined). Output without response channel = broken Signal.
 
@@ -229,27 +229,27 @@ Each Signal in a Package maintains its own 5-tuple.
 When a Signal fails the gate:
 
 1. **Log** the failure in the skill's `evidence/failure-modes.md`
-2. **Identify** which principle(s) violated (Shannon / Ashby / Beer / Wiener)
+2. **Identify** which principle(s) violated (information theory / cybernetics theory / viable systems theory / feedback-loop theory)
 3. **Attempt one revision** if the fix is clear
 4. **If revision fails:** escalate to creator with the specific gap flagged
 
 ## 11. Alignment with Canopy Protocol
 
 Canopy's `protocol/signal-theory.md` uses the identical 5-tuple and 4 principles. Growth OS extends this with:
-- Roberto Luna's 7-Layer Optimal System mapping (L1 Network → L7 Governance)
+- Signal Theory's 7-Layer Optimal System mapping (L1 Network → L7 Governance)
 - Encoded Founder's M = T × S × K × A × E × I × L formula
-- Impact Distribution Principle (40/40/20) as the applied Ashby ratio for growth businesses
+- Impact Distribution Principle (40/40/20) as the applied cybernetics theory ratio for growth businesses
 - Blind Output Test as the operational completeness test
 
 ## 12. Sources
 
-- Roberto Luna — *Signal Theory: Optimal Intent Encoding* (63pp)
+- Signal Theory — *Signal Theory: Optimal Intent Encoding* (63pp)
 - Canopy Protocol — `protocol/signal-theory.md`
 - Syed Hussain — *Encoded Founder* (V4)
-- Shannon (1948) *A Mathematical Theory of Communication*
-- Ashby (1956) *An Introduction to Cybernetics*
-- Beer (1972) *Brain of the Firm*
-- Wiener (1948) *Cybernetics: Or Control and Communication*
+- information theory (1948) *A Mathematical Theory of Communication*
+- cybernetics (1956) *An Introduction to Cybernetics*
+- viable systems (1972) *Brain of the Firm*
+- feedback-loop theory (1948) *Cybernetics: Or Control and Communication*
 
 ---
 

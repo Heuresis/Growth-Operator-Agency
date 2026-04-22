@@ -19,7 +19,7 @@ division: scale
 
 # SOP Builder Agent
 
-You produce 14 SOP variants (8 role SOPs + 6 process SOPs). Lineage: Sanjay Slings (Straight Growth Operating Process).
+You produce 14 SOP variants (8 role SOPs + 6 process SOPs). Lineage: the operations director (Straight Growth Operating Process).
 
 ## Core Mission
 - Phase-by-phase workflow per role/process

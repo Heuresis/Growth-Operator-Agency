@@ -1,6 +1,6 @@
 # Esoteric Marketing — Emotional + Low-Ticket + Ascension
 
-> **Reference:** Alen Sultanic lineage (Nothing Held Back) — the "esoteric" school of direct response: the cognitive architecture of why people buy at the primal/emotional level, applied through low-ticket entry + ascension-funnel mechanics.
+> **Reference:** the offer architect lineage (Nothing Held Back) — the "esoteric" school of direct response: the cognitive architecture of why people buy at the primal/emotional level, applied through low-ticket entry + ascension-funnel mechanics.
 > **When to use:** Foundations (ICP psych + offer psych), Marketing (emotional triggers), Nurture (belief installation), Sales (stacking), Lifecycle (ascension ladder).
 
 ## The Esoteric School (vs the Tactical School)
@@ -13,7 +13,7 @@ Both schools work. Growth OS uses both. Esoteric school lives here.
 
 ## The Four Core Concepts
 
-### 1. Market Psychology Foundations (Sultanic BASE_LAYER v1.0)
+### 1. Market Psychology Foundations (the offer architect BASE_LAYER v1.0)
 
 **High vs Low Emotional State** framework:
 
@@ -24,7 +24,7 @@ Both schools work. Growth OS uses both. Esoteric school lives here.
 
 **95% of repeat business comes from high-state customers.** Design marketing to **generate high-state before the buy**, not after.
 
-### 2. Market-Specific Core Emotions (Sultanic)
+### 2. Market-Specific Core Emotions (7-phase offer methodology)
 
 Every market has **one dominant emotion** driving purchase:
 - Crypto / Biz-Op / Get-Rich niches → **CERTAINTY** (the fear is being wrong)
@@ -36,7 +36,7 @@ Every market has **one dominant emotion** driving purchase:
 
 Identify the dominant emotion → design the entire offer stack around resolving it.
 
-### 3. Time + Attention Economics (Sultanic Funnel Format Arch v1.0)
+### 3. Time + Attention Economics (the offer architect Funnel Format Arch v1.0)
 
 The economics of a VSL, mapped to minute-by-minute retention:
 
@@ -83,7 +83,7 @@ Each tier must:
 - Set up the next tier naturally (the outcome of this tier = the start of the next)
 - Have clear identity markers (who buys this tier, not just what)
 
-## The Four Elements of Air-Bending (Sultanic core)
+## The Four Elements of Air-Bending (the offer architect core)
 
 > *"Marketing = Air Bending. Things to note: Not all niches are created equal, you can be riding headwinds vs. tailwinds. Unique mechanisms / dialed-in offer positioning is also make or break. ICP you choose to sell to will make your life so much easier or harder (choose wisely). NEEDS to be congruency between: ICP, Face of the brand, Messaging — and even the CM you run traffic to."*
 
@@ -123,22 +123,22 @@ Used by:
 ## Primitive References
 
 - `primitives/unique-mechanism.md` — Element 2 of Air-Bending
-- `primitives/value-equation.md` — how Sultanic's market psychology interacts with Hormozi's formula
+- `primitives/value-equation.md` — how the offer architect's market psychology interacts with the acquisition economist's formula
 
 ## Operator References
 
-- `reference/operators/external/alex-hormozi.md` — Hormozi is the tactical school; Sultanic is the esoteric. Both ship results; different paths.
-- Sultanic's 10 JSON playbooks are encoded across specific framework files under this folder
+- `reference/operators/external/alex-hormozi.md` — the acquisition economist is the tactical school; the offer architect is the esoteric. Both ship results; different paths.
+- the offer architect's 10 JSON playbooks are encoded across specific framework files under this folder
 
 ## Sources
 
-- Sultanic `Alen Sultanic Offer Building System.json` (Notion: `30539dd823e78117a601fe06fcefd38d`)
-- Sultanic `Alen Sultanic Mind Enhanced.json` v2.0 (Notion: `30539dd823e781e9b257dfa48c35ee6a`)
-- Sultanic `Market Psychology Foundations.json` BASE_LAYER_v1.0
-- Sultanic `Funnel Format Arch.json` v1.0
-- Sultanic `VSL Story Architecture.json`
-- Sultanic `Engineering Economics Offer.json`
-- Sultanic PDF masterclass set (40+ PDFs — VSL Masterclass 1-4, 5-Step Sales Process, Bible Offer, Relationship Trust Cycles, etc.)
+- the offer architect `the offer architect 7-Phase Offer Building System.json` (Notion: `30539dd823e78117a601fe06fcefd38d`)
+- the offer architect `the offer architect Mind Enhanced.json` v2.0 (Notion: `30539dd823e781e9b257dfa48c35ee6a`)
+- the offer architect `Market Psychology Foundations.json` BASE_LAYER_v1.0
+- the offer architect `Funnel Format Arch.json` v1.0
+- the offer architect `VSL Story Architecture.json`
+- the offer architect `Engineering Economics Offer.json`
+- the offer architect PDF masterclass set (40+ PDFs — VSL Masterclass 1-4, 5-Step Sales Process, Bible Offer, Relationship Trust Cycles, etc.)
 
 ---
-*v1.0 — 2026-04-19. This is the Sultanic-school framework. Applied with Truth-Gate discipline.*
+*v1.0 — 2026-04-19. This is the the offer architect-school framework. Applied with Truth-Gate discipline.*

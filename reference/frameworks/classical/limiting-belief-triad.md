@@ -1,6 +1,6 @@
-# Limiting Belief Triad — Sultanic
+# Limiting Belief Triad — the offer architect
 
-> **Source:** Alen Sultanic (Nothing Held Back) — offer-architecture diagnostic
+> **Source:** the offer architect (Nothing Held Back) — offer-architecture diagnostic
 > **Status:** Load-bearing for /research, /build-icp, /design-offer, /offer-repositioning.
 
 ## The Three Limiting Beliefs
@@ -113,8 +113,8 @@ Isomorphic selection is belief-aware. Best case studies show someone transformed
 
 ## Sources
 
-- Alen Sultanic — Offer Building System + Market Psychology Foundations
-- `reference/operators/alen-sultanic.md`
+- the offer architect — Offer Building System + Market Psychology Foundations
+- `reference/operators/offer-architect.md`
 - `reference/frameworks/esoteric-marketing/README.md`
 
 ---

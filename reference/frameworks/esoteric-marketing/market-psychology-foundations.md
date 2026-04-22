@@ -4,9 +4,9 @@
 
 ## Source / Lineage
 
-- **Eugene Schwartz** — *Breakthrough Advertising* (1966) — 5 awareness levels + 5 sophistication levels
+- **the awareness-spectrum author** — *Breakthrough Advertising* (1966) — 5 awareness levels + 5 sophistication levels
 - **Robert Collier** — *Robert Collier Letter Book* (1937) — "entering the conversation already in the prospect's mind"
-- **Alen Sultanic** — the buyer-state diagnostic frame (rephrased: "the market isn't one conversation, it's five")
+- **the offer architect** — the buyer-state diagnostic frame (rephrased: "the market isn't one conversation, it's five")
 - **Albert Ellis** — cognitive-behavioral theory; the Limiting Belief Triad (self / others / world) as the substrate of buyer interpretation
 - **Paul Ekman** — basic emotion theory; the mapping of state → response pattern
 - **Jim Camp** — the "never close a prospect who hasn't identified their own problem" principle
@@ -189,9 +189,9 @@ Mis-diagnosis is the most common and most expensive marketing error. A campaign 
 
 ---
 
-## State + Sophistication Interaction (Schwartz layer)
+## State + Sophistication Interaction (awareness-spectrum research layer)
 
-Schwartz's 5 sophistication levels name *how many prior solutions the buyer has seen*. Combining state with sophistication produces a 25-cell matrix. The two most instructive corners:
+awareness-spectrum research's 5 sophistication levels name *how many prior solutions the buyer has seen*. Combining state with sophistication produces a 25-cell matrix. The two most instructive corners:
 
 - **State 2 (opportunity) + Sophistication 1 (naïve market)** — direct promise copy wins
 - **State 5 (hope-vacuum) + Sophistication 5 (saturated market)** — mechanism + structural explanation + high-similarity proof + soft entry only

@@ -1,7 +1,7 @@
 # Foundations Examples — Index
 
-> Imported from `DEV ARCHIVE/fiova-foundations/output/foundations/` on 2026-04-19.
-> These are the canonical worked-example outputs from the original FIOVA foundations run — the reference set Growth OS operators compare their own workspace artifacts against.
+> Imported from `DEV ARCHIVE/growth-os-foundations/output/foundations/` on 2026-04-19.
+> These are the canonical worked-example outputs from the original Growth OS foundations run — the reference set Growth OS operators compare their own workspace artifacts against.
 
 ## Imported files
 
@@ -21,8 +21,8 @@
 
 ## Source lineage
 
-- Origin: earlier FIOVA foundations build, archived into Heuresis reference
-- Pipeline: outputs from the FIOVA Foundations build plan executed against the FIOVA company seed
+- Origin: earlier Growth OS foundations build, archived into Heuresis reference
+- Pipeline: outputs from the Foundations division build plan executed against the reference company seed
 - Date of original run: Mar 2026
 
 ## Scope note

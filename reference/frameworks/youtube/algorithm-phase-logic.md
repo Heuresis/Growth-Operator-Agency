@@ -6,7 +6,7 @@
 
 - Derral Eves (YouTube Algorithm)
 - TubeBuddy + VidIQ documented algorithm studies
-- Dustin Varano (phase-aware publishing)
+- the content OS director (phase-aware publishing)
 - 2024–2026 YouTube analytics internal operator tracking
 
 ---

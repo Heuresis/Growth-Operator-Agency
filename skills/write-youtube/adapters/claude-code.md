@@ -14,7 +14,7 @@ Load and execute `skills/write-youtube/SKILL.md` in the current workspace.
    - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
    - `Read` `skills/write-youtube/SKILL.md` (full body)
    - `Read` upstream: calendar brief from `output/content-calendar/`, `output/build-icp/`, `output/build-positioning/`, `output/design-offer/`, `output/extract-voice/`
-   - `Read` `reference/frameworks/youtube/` (7-video-types, hook library, VSSL, title/thumbnail, session starter, binge loop, algo-phase) + Varano / Pampa / Bennett operator files
+   - `Read` `reference/frameworks/youtube/` (7-video-types, hook library, VSSL, title/thumbnail, session starter, binge loop, algo-phase) + the content OS director / the VSL director / the short-form-frameworks author operator files
 
 2. **Pre-flight check:** Verify `audience_intelligence_system >= 60`, `offer_architecture >= 50`, `copy_messaging >= 40` in `company.yaml`. Confirm calendar brief ID + pillar + conversion stage specified (prompt if standalone).
 

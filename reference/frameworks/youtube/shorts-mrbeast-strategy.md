@@ -1,11 +1,11 @@
-# MrBeast Shorts Strategy (adapted for high-ticket)
+# creator-native methodology Shorts Strategy (adapted for high-ticket)
 
 > **Why this matters:** Shorts are the cheapest top-of-funnel inventory on the internet in 2026. But for high-ticket operators, virality alone is worthless — a 2M-view Short that doesn't route to long-form is just ego fuel. This framework uses Shorts to feed the long-form funnel, not to chase view counts.
 
 ## Source / Lineage
 
-- MrBeast Creative Memo (retention-first Shorts editing)
-- Dustin Varano (Shorts → long-form routing)
+- creator-native methodology Creative Memo (retention-first Shorts editing)
+- the content OS director (Shorts → long-form routing)
 - Colin & Samir (Shorts serialization)
 - Adapted for educational/high-ticket audiences (not entertainment)
 
@@ -13,7 +13,7 @@
 
 ## The Core Principle: Retention > Reach
 
-MrBeast's team optimizes Shorts for 90%+ retention to the final frame. Reach follows retention — the algorithm rewards completion rate more than raw views. For high-ticket, this is doubly true because:
+creator-native methodology's team optimizes Shorts for 90%+ retention to the final frame. Reach follows retention — the algorithm rewards completion rate more than raw views. For high-ticket, this is doubly true because:
 
 - A Short with 100K views and 95% retention routes more qualified traffic to long-form than a Short with 2M views and 40% retention
 - High retention = the viewer was engaged = they'll follow the hook to the next video
@@ -175,7 +175,7 @@ Use this to calibrate: if Shorts are producing 50K views/month but only 200 long
 
 ---
 
-## The MrBeast Retention Principle (applied to high-ticket)
+## The creator-native methodology Retention Principle (applied to high-ticket)
 
 From his leaked creative memo: "Every frame must earn its place. If a frame doesn't add to retention, it's cut."
 

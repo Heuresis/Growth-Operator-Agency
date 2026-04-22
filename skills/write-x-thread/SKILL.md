@@ -47,7 +47,7 @@ version: 1.0
 
 ## Role
 
-Produce X/Twitter threads in 7 canonical types. Lineage: FIOVA Marketing (7 thread types), direct-response X operators, content-to-conversion bridge applied to async-skim platform.
+Produce X/Twitter threads in 7 canonical types. Lineage: Marketing division (7 thread types), direct-response X operators, content-to-conversion bridge applied to async-skim platform.
 
 ## The 7 Thread Types
 
@@ -291,7 +291,7 @@ Single action. No stack of asks.
 
 ## References
 
-- FIOVA Marketing Division (7 thread types)
+- Marketing division Division (7 thread types)
 - `reference/frameworks/primitives/specificity.md`
 - `spec/INTEGRATIONS.md` (Twitter API)
 

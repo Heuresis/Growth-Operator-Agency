@@ -16,7 +16,7 @@ Initial private release of the Growth OS workspace template.
 - **29 shipped skills** across 7 divisions — Foundations (5), Marketing (7), Nurture (4), Sales (3), Launch (2), Scale (5), Partnerships (3). Each skill is a folder with `SKILL.md`, `reference/`, `examples/`, `evidence/`, and `adapters/`.
 - **41 agents** — 1 orchestrator (`growth-director`), 7 division leads, 33 specialists. Each has declarative frontmatter, reporting chain, and skills array.
 - **Spec (8 files)** — Signal Theory, Quality, Runtimes, Banned Vocabulary, Blind Output Test, Context Thresholds, Integrations, HTTP/OpenAPI adapter contract.
-- **Reference library** — frameworks (Signal Theory, classical, primitives, operator-specific), operators (17 encoded playbooks + 1 external), platforms (Instagram, LinkedIn, Meta Ads, TikTok, X), swipe-file, templates, examples, FIOVA-AGENT-ARCHITECTURE (82KB).
+- **Reference library** — frameworks (Signal Theory, classical, primitives, operator-specific), operators (17 encoded playbooks + 1 external), platforms (Instagram, LinkedIn, Meta Ads, TikTok, X), swipe-file, templates, examples, AGENT-ARCHITECTURE (82KB).
 - **Workflows** — divisions (7 mermaid FSMs), client-onboarding (week-1 + 90-day), delivery (4-week fulfillment), execution-templates (7), automations (5 playbooks).
 - **Operations** — team leadership, collaboration, hiring, cadences (daily / weekly / monthly / quarterly), finance schema, dashboards, crisis management, tool SOPs, mode-of-operations.
 - **Handoffs** — skill-to-skill, standard, quality-revision.

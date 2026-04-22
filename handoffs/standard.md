@@ -47,7 +47,7 @@ The Foundations chain carries specific context forward at each step. Load-bearin
 
 ### `:market_research` → `:build_icp`
 Carry forward:
-- `market_maturity_stage` (Schwartz 4-stage)
+- `market_maturity_stage` (awareness-spectrum research 4-stage)
 - `top_3_pain_signals` (ranked by intensity + frequency)
 - `voc_phrases` (verbatim customer language)
 - `competitive_landscape_summary`
@@ -57,7 +57,7 @@ Carry forward:
 ### `:build_icp` → `:build_positioning`
 Carry forward:
 - `limiting_beliefs` (Worthless / Helpless / Hopeless diagnosis per Limiting Belief Triad)
-- `awareness_levels` (per Schwartz)
+- `awareness_levels` (per awareness-spectrum research)
 - `transformation_type` (Status / Capability / Safety)
 - `key_objections` (top 5 ranked)
 - `voc_phrases`

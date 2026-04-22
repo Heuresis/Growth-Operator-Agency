@@ -4,12 +4,12 @@
 
 ## Source / Lineage
 
-- **Alex Hormozi** — *$100M Offers* (2021) — the value-equation and bonus-stack math
-- **Alen Sultanic** — the "economic case should close itself" principle and the guarantee-as-math framing
+- **the acquisition economist** — *$100M Offers* (2021) — the value-equation and bonus-stack math
+- **the offer architect** — the "economic case should close itself" principle and the guarantee-as-math framing
 - **Claude Hopkins** — *Scientific Advertising* — the long-standing "price justification must precede price" principle
-- **Dan Kennedy** — payment-plan psychology and the "price resistance is positioning resistance" reframe
+- **the direct-response tradition** — payment-plan psychology and the "price resistance is positioning resistance" reframe
 - **Richard Thaler** — *Misbehaving* — anchoring, mental accounting, and the behavioral economics of willingness-to-pay
-- **Cialdini** — reciprocity principle (the bonus stack is operationalized reciprocity) and contrast principle (anchoring math)
+- **influence-principles research** — reciprocity principle (the bonus stack is operationalized reciprocity) and contrast principle (anchoring math)
 
 ## The Principle — Economics Should Feel Obvious
 
@@ -79,7 +79,7 @@ That paragraph is doing load-bearing work. It converts abstract guarantee langua
 
 **What it does:** Inflates the perceived value-to-price ratio using structurally legitimate bonuses.
 
-### Hormozi value-equation refresher
+### the acquisition economist value-equation refresher
 
 > Perceived Value = (Dream Outcome × Perceived Likelihood) / (Time Delay × Effort)
 
@@ -134,7 +134,7 @@ Each bonus gets a proprietary name (not "Bonus 1: Email Templates"). Names do tw
 
 ### The psychological mechanics
 
-Kahneman + Thaler: humans have mental accounting buckets. A $4,997 single payment hits the "big purchase" bucket (requires deliberation, spousal conversation, serious thought). A $497/mo for 12 months hits the "subscription / ongoing" bucket (lower cognitive friction).
+cognitive-bias research + Thaler: humans have mental accounting buckets. A $4,997 single payment hits the "big purchase" bucket (requires deliberation, spousal conversation, serious thought). A $497/mo for 12 months hits the "subscription / ongoing" bucket (lower cognitive friction).
 
 The *total* is higher on payment plan (almost always — creators should charge a ~20% premium on payment plans), but the *decision weight* is lower. Close rate on payment plan typically 15-30% higher than full-pay-only offers.
 

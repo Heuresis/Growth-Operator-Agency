@@ -53,7 +53,7 @@ version: 1.0
 
 ## Role
 
-Produce webinar scripts using the 7-Figure Webinar structure. Lineage: **7-Figure Webinar Script** (gamma.app canonical — 5-section structure), **Eli Pampa** (8 Required Beliefs + Crossroads Close), **Russell Brunson** (3 Secrets webinar archetype — embedded in Content section), **Alen Sultanic** (Bible Offer + Bonus Stacking + Price Anchoring), **Dustin Varano** (1-2 hours nurture-to-high-ticket rule).
+Produce webinar scripts using the 7-Figure Webinar structure. Lineage: **7-Figure Webinar Script** (gamma.app canonical — 5-section structure), **the VSL director** (8 Required Beliefs + Crossroads Close), **Russell Brunson** (3 Secrets webinar archetype — embedded in Content section), **the offer architect** (Bible Offer + Bonus Stacking + Price Anchoring), **the content OS director** (1-2 hours nurture-to-high-ticket rule).
 
 Sacred format — requires **3/3 Blind Output Test pass** before live delivery to paid registrants.
 
@@ -114,7 +114,7 @@ W(webinar) =
 - Community-first brand → Variant 3/4/5 (challenges)
 
 ### The 8 Required Beliefs — installed during webinar
-From Pampa. Each installed at specific section:
+From the VSL director. Each installed at specific section:
 - Belief 1 (Reproduction — wants outcome): Opening Hook
 - Belief 2 (Derivative desire): Authority section (creator's story)
 - Belief 3 (Can-fulfill): Content Section 1-2
@@ -179,7 +179,7 @@ If you teach HOW (step-by-step implementation), attendee thinks they can do it a
 - Brand Voice Doc
 - `reference/frameworks/classical/schwartz-awareness-spectrum.md`
 - `reference/frameworks/sales/8-required-beliefs.md`
-- `reference/operators/eli-pampa.md`
+- `reference/operators/vsl-director.md`
 
 ### Phase 1 — Variant Selection
 Apply decision tree + creator constraints (live delivery capacity, launch window, tech setup).
@@ -452,12 +452,12 @@ If Variant 3/4/5:
 
 ## References
 
-- `reference/frameworks/sales/8-required-beliefs.md` (Pampa)
+- `reference/frameworks/sales/8-required-beliefs.md` (15-step VSL methodology)
 - `reference/frameworks/sales/crossroads-close.md`
-- `reference/frameworks/esoteric-marketing/README.md` (Sultanic — Bible Offer + Bonus Stacking)
-- `reference/operators/eli-pampa.md`
-- `reference/operators/dustin-varano.md` (1-2 hour nurture-to-high-ticket rule)
-- `reference/sub-agents/webinar/` (FIOVA canonical source)
+- `reference/frameworks/esoteric-marketing/README.md` (the offer architect — Bible Offer + Bonus Stacking)
+- `reference/operators/vsl-director.md`
+- `reference/operators/content-os-director.md` (1-2 hour nurture-to-high-ticket rule)
+- `reference/sub-agents/webinar/` (Growth OS canonical source)
 
 ---
 *v1.0 — 2026-04-19. Cycle 4 Educate. Sacred format — Blind Output Test required.*

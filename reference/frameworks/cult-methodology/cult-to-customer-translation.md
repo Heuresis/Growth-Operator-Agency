@@ -4,11 +4,11 @@
 
 ## Source / Lineage
 
-- **Eugene Schwartz** — *Breakthrough Advertising* (1966): market awareness + sophistication as the conversion substrate
+- **the awareness-spectrum author** — *Breakthrough Advertising* (1966): market awareness + sophistication as the conversion substrate
 - **Claude Hopkins** — *Scientific Advertising* (1923): the phrase-as-hook principle, reused a century later
-- **Dan Kennedy** — the pricing/positioning feedback loop between tribe and offer
-- **Alen Sultanic** — the "identity-layer offer" principle and the Vehicle Switch mechanism
-- **Eli Pampa** — 15-step VSL structure where vocabulary + mission collapse into copy
+- **the direct-response tradition** — the pricing/positioning feedback loop between tribe and offer
+- **the offer architect** — the "identity-layer offer" principle and the Vehicle Switch mechanism
+- **the VSL director** — 15-step VSL structure where vocabulary + mission collapse into copy
 - **Russell Brunson** — the clearest modern expression of funnel-as-tribe artifact
 
 ## The Translation Map — One Sentence
@@ -45,7 +45,7 @@ Pick the 5 phrases that must appear. They cannot be negotiable.
 Examples:
 
 - **Brunson** funnel copy uses "funnel hack," "hook-story-offer," "perfect webinar," "two-comma club," "Funnel Hacker" — the same 5 terms appear in every surface.
-- **Hormozi** offer copy uses "grand slam offer," "value equation," "dream outcome," "perceived likelihood," "time delay / effort."
+- **the acquisition economist** offer copy uses "grand slam offer," "value equation," "dream outcome," "perceived likelihood," "time delay / effort."
 
 ### Audit test
 
@@ -57,7 +57,7 @@ Rewriting every sales piece with fresh copy. Sacred vocabulary compounds through
 
 ## Translation 2 — Binary In-vs-Out → Positioning + Vehicle Switch
 
-The in/out dynamic translates to two specific copy structures: the **"who this is for / who this is not for"** block, and the **Vehicle Switch** (Sultanic).
+The in/out dynamic translates to two specific copy structures: the **"who this is for / who this is not for"** block, and the **Vehicle Switch** (7-phase offer methodology).
 
 ### The "for / not-for" block
 
@@ -81,7 +81,7 @@ The "NOT for" list is non-negotiable. It's the tribal filter made copy. It also 
 
 ### The Vehicle Switch
 
-Sultanic's mechanism for naming the out-group category of approach and pivoting the prospect onto the creator's vehicle.
+the offer architect's mechanism for naming the out-group category of approach and pivoting the prospect onto the creator's vehicle.
 
 Three-beat structure, dropped inline in the VSL/webinar:
 
@@ -115,7 +115,7 @@ Ritual in tribe language = cadence in funnel language. The cadence is the LTV en
 - First 5-7 days: daily email (high cadence, acclimatizes the subscriber to creator's voice)
 - Day 8+: settle into long-term cadence (daily, 3x/week, or weekly depending on creator)
 
-Target: by Day 7, subscriber has received 5+ touches of sacred vocabulary. This is why the Tate archetype's daily-broadcast pattern compounds — the audience's neural groove for the phrases is cut in the first two weeks.
+Target: by Day 7, subscriber has received 5+ touches of sacred vocabulary. This is why the authority-provocation archetype's daily-broadcast pattern compounds — the audience's neural groove for the phrases is cut in the first two weeks.
 
 **2. Launch/promo cadence — the ritualized sell**
 
@@ -140,7 +140,7 @@ Pick one recurring content moment. Name it. Defend it. Examples:
 
 - **Ben Settle's** daily email lands at the same time every day for a decade-plus.
 - **The Daily Stoic** lands a meditation at 6am ET daily.
-- **Hormozi's** weekly long-form posts on Monday.
+- **the acquisition economist's** weekly long-form posts on Monday.
 
 When the audience self-schedules around the cadence, ritual is operational.
 

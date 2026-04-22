@@ -4,7 +4,7 @@
 
 ## Source / Lineage
 
-Sanjay Slings — operating-process practitioner for coach and consultant businesses in the $500k–$5M/year range. This SOP is the condensed version of the 7-week rollout he runs with clients quarterly. It assumes an application + call sales motion, not a direct cart.
+the operations director — operating-process practitioner for coach and consultant businesses in the $500k–$5M/year range. This SOP is the condensed version of the 7-week rollout he runs with clients quarterly. It assumes an application + call sales motion, not a direct cart.
 
 ## Scope
 
@@ -100,14 +100,14 @@ Sanjay Slings — operating-process practitioner for coach and consultant busine
 
 - Never compress the SOP below 5 weeks. Prime + Tease cannot be collapsed without the list fatiguing.
 - Never run two launches back-to-back without 60+ days gap — the audience needs nurture weeks to reset.
-- Scarcity must be real. Fake scarcity degrades the list permanently; Slings treats this as a non-negotiable.
+- Scarcity must be real. Fake scarcity degrades the list permanently; the operations director treats this as a non-negotiable.
 - Setter / closer capacity is the binding constraint. Model the calendar at 60% utilisation, not 100%.
 
 ## How this applies in Growth OS
 
 - **Skills that consume this:** `launch-plan`, `content-calendar-builder`, `email-sequence-draft`, `debrief-writeup`.
 - **Agents that use it:** launch-operator, content-producer, email-copywriter, revenue-ops-analyst.
-- **Companion frameworks:** uses the content model from `esoteric-marketing/` (Week 4 long-form), the offer definition from `offer-architecture/`, and the call scripts from `sales/`. The Tate `cult-methodology/` frames can show up in Week 2 tease ("something is coming") and Week 6 scarcity, but Slings himself does not lean on them — he treats them as optional finishing.
+- **Companion frameworks:** uses the content model from `esoteric-marketing/` (Week 4 long-form), the offer definition from `offer-architecture/`, and the call scripts from `sales/`. The the authority-provocation archetype `cult-methodology/` frames can show up in Week 2 tease ("something is coming") and Week 6 scarcity, but the operations director himself does not lean on them — he treats them as optional finishing.
 
 ## Non-applicable scenarios
 

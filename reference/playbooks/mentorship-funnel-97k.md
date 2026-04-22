@@ -4,10 +4,10 @@
 
 ## Source / Lineage
 
-- Synthesized from LinkedIn operator patterns observed across 2024–2025 (Sultanic, Varano, Pampa school and adjacent operators)
+- Synthesized from LinkedIn operator patterns observed across 2024–2025 (the offer architect, the content OS director, the VSL director school and adjacent operators)
 - Calibrated to the Dec 2025 LinkedIn algorithm change (reach favors personal-narrative + mechanism posts, penalizes pure-sales CTAs)
 - Economics verified against 6-figure/mo operator P&Ls in the $5k–$30k offer tier
-- Downstream of the FIOVA offer-architecture + signal-theory frameworks in `reference/frameworks/`
+- Downstream of the Growth OS offer-architecture + signal-theory frameworks in `reference/frameworks/`
 
 ## Funnel Architecture
 
@@ -191,7 +191,7 @@ Every call will hit at least one. Memorize responses.
 - **Skills:** `signal-crafter` (content pillars + post generation), `funnel-architect` (full funnel spec), `qualifier-designer` (application + call script)
 - **Agents:** `content-division-agent` drives cadence and pillar rotation. `offer-division-agent` owns price + application + call script. `sales-division-agent` runs call-review loop.
 - **Sub-agents:** `post-scheduler`, `application-analyzer`, `call-review-scorer`
-- **Knowledge sources:** `reference/frameworks/foundations-methodology.md`, `reference/frameworks/fiova-offer-system.md`, `reference/frameworks/fiova-economics-engine.md`
+- **Knowledge sources:** `reference/frameworks/foundations-methodology.md`, `reference/frameworks/offer-system.md`, `reference/frameworks/economics-engine.md`
 - **Operator artifacts touched:** `output/foundations/offer-document.md`, `output/foundations/icp-document.md`, `output/foundations/signal-report.md`
 
 ## INV-8 Scope Note
@@ -209,8 +209,8 @@ Every call will hit at least one. Memorize responses.
 ## Cross-references
 
 - `reference/playbooks/outreach-os-200k.md` — complement/replacement for operators with weak content but strong outbound
-- `reference/operators/external/paolo.md` — outbound-first operator profile (contrarian take)
-- `reference/frameworks/fiova-offer-system.md` — offer-construction methodology
+- `reference/operators/external/outreach-director.md` — outbound-first operator profile (contrarian take)
+- `reference/frameworks/offer-system.md` — offer-construction methodology
 - `reference/frameworks/foundations-methodology.md` — ICP + positioning foundation (pre-requisite)
 - `reference/frameworks/signal-theory/` — post-generation + content-pillar theory
 - `reference/frameworks/sales/` — call frameworks and objection library

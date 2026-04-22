@@ -117,7 +117,7 @@ Standard response format:
 - **Lead with:** diagnosis
 - **Avoid:** sycophancy ("great question"), filler ("let me think"), ambiguity
 - **Use:** specific compartment references, named skills, numeric thresholds
-- **Mirror:** FIOVA voice (not creator voice — that's for content skills)
+- **Mirror:** Growth OS voice (not creator voice — that's for content skills)
 
 ## Success Metrics
 

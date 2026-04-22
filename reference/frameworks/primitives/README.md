@@ -4,26 +4,26 @@
 
 ## The Six Primitives
 
-1. **`unique-mechanism.md`** — Brown + Georgi + Sultanic
+1. **`unique-mechanism.md`** — the campaign director + the copy director + the offer architect
    *What makes the offer work that nothing else has.*
-2. **`value-equation.md`** — Hormozi
+2. **`value-equation.md`** — the acquisition economist
    *Value = (Dream Outcome × Perceived Likelihood) / (Time Delay × Effort & Sacrifice)*
-3. **`core-four.md`** — Hormozi
+3. **`core-four.md`** — the acquisition economist
    *The 2×2 of lead-generation: Warm 1:1, Warm 1:many, Cold 1:1, Cold 1:many*
-4. **`call-funnel.md`** — Haynes + Clogg + Gadzhi
+4. **`call-funnel.md`** — the growth engineer + the backend economist + the agency director
    *Cold → VSL → Application → Confirmation → Call → Close*
-5. **`educate-before-pitch.md`** — Brown + Benson + Haynes
+5. **`educate-before-pitch.md`** — the campaign director + the VSL copywriter + the growth engineer
    *No offer reveal before the argument is airtight*
-6. **`specificity.md`** — Seech + Hormozi + Georgi
+6. **`specificity.md`** — the media buying director + the acquisition economist + the copy director
    *Specific audience × specific problem × specific mechanism × specific outcome × specific creative*
 
 ## Why Primitives
 
 Every operator has a "system" with their name on it. But when you read 17+ operator playbooks side-by-side, the same 6 patterns keep appearing with different names:
-- Todd Brown calls it "Big Idea + Unique Mechanism"
-- Stefan Georgi calls it "Two-Part Mechanism (Problem + Solution)"
-- Alex Hormozi embeds it in "Grand Slam Offer"
-- Alen Sultanic phrases it as "air-bending" Element 2
+- the campaign director calls it "Big Idea + Unique Mechanism"
+- the copy director calls it "Two-Part Mechanism (Problem + Solution)"
+- the acquisition economist embeds it in "Grand Slam Offer"
+- the offer architect phrases it as "air-bending" Element 2
 
 Same primitive. Different wrapping.
 
@@ -41,7 +41,7 @@ Every SKILL.md references the primitives it depends on in its `## References` se
 - offer-architecture/sultanic-offer-building-system.md
 ```
 
-This keeps the skill portable across operator lineages. If Jeremy Haynes disappears from the market tomorrow, his primitives (Hidden VSSL, Call Funnel, Offer Math) are preserved in primitive form — the skill still works.
+This keeps the skill portable across operator lineages. If the growth engineer disappears from the market tomorrow, his primitives (Hidden VSSL, Call Funnel, Offer Math) are preserved in primitive form — the skill still works.
 
 ## Primitive × Skill Binding
 
@@ -56,13 +56,13 @@ This keeps the skill portable across operator lineages. If Jeremy Haynes disappe
 
 ## Sources
 
-- Hormozi $100M Offers, $100M Leads
-- Todd Brown E5 Method, Educational VSL Method
-- Stefan Georgi RMBC Method
-- Alen Sultanic Offer Building System (10 JSONs)
-- Eli Pampa 15-step VSL + 4-funnel archetypes
-- Jeremy Haynes 38 public skills at jeremyhaynes.com/skills/
-- Evan Seech "Specificity is the primary lever" (LinkedIn, 2025)
+- the acquisition economist $100M Offers, $100M Leads
+- E5 Method, Educational VSL Method
+- Stefan RMBC Method
+- the offer architect 7-Phase Offer Building System (10 JSONs)
+- Eli 15-step VSL + 4-funnel archetypes
+- the growth engineer 38 public skills at jeremyhaynes.com/skills/
+- the media buying director "Specificity is the primary lever" (LinkedIn, 2025)
 
 ---
 *v1.0 — 2026-04-19*

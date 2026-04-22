@@ -1,12 +1,12 @@
-# Market Hierarchy — The 25-Cell Schwartz x Pampa Matrix
+# Market Hierarchy — The 25-Cell awareness-spectrum research x the VSL director Matrix
 
 > **Why this matters:** Awareness (what the prospect knows) and Sophistication (how tired the market is of the category's claims) are independent axes. A product-aware prospect in a stage-1 market needs a completely different opening than a product-aware prospect in a stage-5 market. Miss the cell, miss the sale.
 
 ## Source / Lineage
 
-- Eugene Schwartz, *Breakthrough Advertising* (1966) — Prospect Awareness (5 levels)
-- Eugene Schwartz / Eli Pampa / Alen Sultanic teaching line — Market Sophistication (5 stages)
-- Matrix fusion formalized by Todd Brown, Stefan Georgi, Ning Li
+- the awareness-spectrum author, *Breakthrough Advertising* (1966) — Prospect Awareness (5 levels)
+- the awareness-spectrum author / the VSL director / the offer architect teaching line — Market Sophistication (5 stages)
+- Matrix fusion formalized by the campaign director, the copy director, Ning Li
 
 ## The Two Axes
 
@@ -103,7 +103,7 @@ For any traffic source, ask:
 
 - Skills: `/market-diagnose`, `/vsl-build`, `/ad-brief` consume this matrix to set the correct message frame per asset
 - Agents: `copywriter-direct-response`, `media-buyer`, `offer-architect` use cells as a shared language
-- Companion frameworks: `schwartz-awareness-spectrum.md`, `pampa-market-sophistication.md`, `halbert-kennedy-direct-response.md`
+- Companion frameworks: `awareness-spectrum-5-levels.md`, `market-sophistication-4-stages.md`, `direct-response-copy-principles.md`
 
 ## Non-applicable scenarios
 
@@ -113,10 +113,10 @@ For any traffic source, ask:
 
 ## Cross-references
 
-- `schwartz-awareness-spectrum.md` — the row axis in full
-- `pampa-market-sophistication.md` — the column axis in full
-- `halbert-kennedy-direct-response.md` — copy tactics per cell
-- `fiova-market-sophistication.md` — Pampa application in FIOVA model
+- `awareness-spectrum-5-levels.md` — the row axis in full
+- `market-sophistication-4-stages.md` — the column axis in full
+- `direct-response-copy-principles.md` — copy tactics per cell
+- `market-sophistication-overview.md` — the VSL director application in Growth OS model
 
 ---
 *v1.0 — 2026-04-19.*

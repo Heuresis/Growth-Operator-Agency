@@ -50,7 +50,7 @@ version: 1.0
 
 ## Usage
 
-Run when the creator is sourcing a partner for a co-hosted webinar — typically during Phase 1 of `/plan-launch` (partner recruitment is a Phase-1 Pre-Launch Prep item) or as a standalone partnerships motion targeting Sanjay Slings' 10% email / partner revenue bucket. Input: target partner name + audience-size estimate + partner's public offer surface. Output: full proposal document + personalized outreach email + 3-touch follow-up cadence + economics model per partner. Interactive — skill refuses to ship a proposal below fit score 7/10 or without personalized opener.
+Run when the creator is sourcing a partner for a co-hosted webinar — typically during Phase 1 of `/plan-launch` (partner recruitment is a Phase-1 Pre-Launch Prep item) or as a standalone partnerships motion targeting the operations director's 10% email / partner revenue bucket. Input: target partner name + audience-size estimate + partner's public offer surface. Output: full proposal document + personalized outreach email + 3-touch follow-up cadence + economics model per partner. Interactive — skill refuses to ship a proposal below fit score 7/10 or without personalized opener.
 
 ## What It Does
 
@@ -58,7 +58,7 @@ Produces a sales-grade JV package: one personalized outreach email, one full pro
 
 ## Role (Lineage)
 
-Jeremy Haynes *Partner Webinar System* (trust-transfer mechanic as the defining partnership primitive). Sanjay Slings 60/30/10 revenue mix (JV-webinar revenue lives inside the 30% webinar bucket or the 10% experimentation bucket, depending on cadence). Alen Sultanic full-stack 8-stage sales-call architecture (outreach is a sales call on paper — same stage discipline). Alex Hormozi Core Four (partnerships are the "warm reach" quadrant of outreach). Ryan Clogg benchmarking discipline (economic model is specific, not aspirational). Iman Gadzhi Loom-audit outreach pattern (personalization at volume).
+the growth engineer *Partner Webinar System* (trust-transfer mechanic as the defining partnership primitive). the operations director 60/30/10 revenue mix (JV-webinar revenue lives inside the 30% webinar bucket or the 10% experimentation bucket, depending on cadence). the offer architect full-stack 8-stage sales-call architecture (outreach is a sales call on paper — same stage discipline). Alex Core Four (partnerships are the "warm reach" quadrant of outreach). the backend economist benchmarking discipline (economic model is specific, not aspirational). the agency director Loom-audit outreach pattern (personalization at volume).
 
 ## Agent
 
@@ -88,7 +88,7 @@ Jeremy Haynes *Partner Webinar System* (trust-transfer mechanic as the defining 
 
 **Ship gate:** aggregate >= 7/10. Below 7, refuse to draft proposal — route to higher-fit partner or drop.
 
-## Revenue Split Rules (FIOVA canonical defaults)
+## Revenue Split Rules (Growth OS canonical defaults)
 
 | Scenario | Default Split (Partner / Creator) |
 |---|---|
@@ -182,7 +182,7 @@ Below 7, the economics model breaks even at best, and the relational cost (burne
 50/50 signals partnership posture. The partner's list is the asset the creator cannot build in 90 days; the creator's offer + delivery is the asset the partner cannot build in 90 days. Neither side's contribution is 2× the other's in a true co-host webinar. Starting at 70/30 in the creator's favor signals extraction and is the most common silent-decline reason. Starting at 50/50 and deviating only when list-contribution ratio is 3:1 or greater is the defensible rule.
 
 ### 3. WHY Personalized Opener Depth Matters?
-A partner receives dozens of JV asks per quarter. The opener filters signal from noise inside 3 seconds. Generic opener = template response = 60%+ no-reply rate. Reference to a specific piece of their work from the last 30 days = signals effort = measurably higher response rate per Iman Gadzhi Loom-audit discipline. Under-investing in the opener is the most common failure mode of junior operator outreach.
+A partner receives dozens of JV asks per quarter. The opener filters signal from noise inside 3 seconds. Generic opener = template response = 60%+ no-reply rate. Reference to a specific piece of their work from the last 30 days = signals effort = measurably higher response rate per the agency director Loom-audit discipline. Under-investing in the opener is the most common failure mode of junior operator outreach.
 
 ### 4. WHY Proposal Length Scales with Partner Tier?
 Tier 1 partners (list 5×+ creator's, high-trust) get 2-3 page proposals — they are busy, the decision is short, over-explaining signals junior. Tier 2 partners (list 1-3× creator's, peer tier) get 4-6 page proposals — more context is expected, rev split and economics get more attention. Tier 3 partners (list < creator's, creator is doing a favor) may get 1-page proposals or a voice note — the ceremony is inverted. Calibrate length to the partner's time, not to the operator's pride of effort.
@@ -354,16 +354,16 @@ A proposal with any of these signals the creator is either AI-assisted-without-e
 
 ## Cross-References
 
-- `reference/operators/jeremy-haynes.md` (Partner Webinar System + Hidden VSSL + trust-transfer mechanic)
-- `reference/operators/sanjay-slings.md` (60/30/10 revenue mix — JV bucket allocation)
-- `reference/operators/iman-gadzhi.md` (Loom-audit outreach pattern — personalization discipline)
-- `reference/operators/ryan-clogg.md` (benchmarking discipline — economics model must be specific)
-- `reference/operators/alen-sultanic.md` (Ownership Selling — proposal as sales call on paper)
+- `reference/operators/growth-engineer.md` (Partner Webinar System + Hidden VSSL + trust-transfer mechanic)
+- `reference/operators/operations-director.md` (60/30/10 revenue mix — JV bucket allocation)
+- `reference/operators/agency-director.md` (Loom-audit outreach pattern — personalization discipline)
+- `reference/operators/backend-economist.md` (benchmarking discipline — economics model must be specific)
+- `reference/operators/offer-architect.md` (Ownership Selling — proposal as sales call on paper)
 - `reference/frameworks/sales/full-stack-sales-call-8-stage.md` (primary discipline filter)
 - `reference/frameworks/sales/8-required-beliefs.md` (beliefs 3, 5, 6, 7, 8 installed in proposal body)
 - `reference/frameworks/growth-operating-process/60-30-10-revenue-mix.md` (JV bucket placement)
 - `reference/knowledge/launch.md` (Phase 1 Pre-Launch partner recruitment)
-- `reference/frameworks/alex-hormozi/core-four.md` (warm-reach quadrant — JV is warm by default)
+- `reference/frameworks/acquisition-economics/core-four.md` (warm-reach quadrant — JV is warm by default)
 
 ## Important Rules
 
@@ -390,13 +390,13 @@ A proposal with any of these signals the creator is either AI-assisted-without-e
 
 ## References
 
-- Jeremy Haynes Partner Webinar System (`reference/operators/jeremy-haynes.md`)
-- Sanjay Slings 60/30/10 revenue mix (`reference/frameworks/growth-operating-process/60-30-10-revenue-mix.md`)
+- the growth engineer Partner Webinar System (`reference/operators/growth-engineer.md`)
+- the operations director 60/30/10 revenue mix (`reference/frameworks/growth-operating-process/60-30-10-revenue-mix.md`)
 - Full-Stack Sales Call 8-Stage (`reference/frameworks/sales/full-stack-sales-call-8-stage.md`)
-- 8 Required Beliefs — Pampa (`reference/frameworks/sales/8-required-beliefs.md`)
-- Iman Gadzhi Loom-audit outreach pattern (`reference/operators/iman-gadzhi.md`)
-- FIOVA Partnerships Division canonical (internal) `[UNVERIFIED — FIOVA canonical doc path not located during encoding]`
-- Ryan Clogg benchmarking discipline (`reference/operators/ryan-clogg.md`)
+- 8 Required Beliefs — the VSL director (`reference/frameworks/sales/8-required-beliefs.md`)
+- the agency director Loom-audit outreach pattern (`reference/operators/agency-director.md`)
+- Partnerships division Division canonical (internal) `[UNVERIFIED — Growth OS canonical doc path not located during encoding]`
+- the backend economist benchmarking discipline (`reference/operators/backend-economist.md`)
 
 ---
 *v2.0 — 2026-04-19. Cycle 6 Partnerships. Upgraded from v1.0 with Decision Logic + Tacit Principles per gold-standard format.*

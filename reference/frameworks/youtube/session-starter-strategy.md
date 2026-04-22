@@ -4,9 +4,9 @@
 
 ## Source / Lineage
 
-- Dustin Varano (session-starter as YouTube Flywheel keystone)
+- the content OS director (session-starter as YouTube Flywheel keystone)
 - Derral Eves (YouTube session-time research)
-- MrBeast Creative Memo (designed-for-binge architecture)
+- creator-native methodology Creative Memo (designed-for-binge architecture)
 
 ---
 
@@ -164,7 +164,7 @@ Session-starter tries to close the sale directly. Viewer bounces because the con
 - `reference/frameworks/youtube/binge-loop-mechanic.md`
 - `reference/frameworks/youtube/3-tier-funnel.md`
 - `reference/frameworks/youtube/algorithm-phase-logic.md`
-- `reference/frameworks/dustin-varano/`
+- `reference/frameworks/content-os/`
 
 ---
 *v1.0 — 2026-04-19 — YouTube framework canonical.*

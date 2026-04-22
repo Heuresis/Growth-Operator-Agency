@@ -8,7 +8,7 @@ _v1.0 initial validation: pending (skill is freshly shipped)_
 
 ## Evaluator Roster (to recruit)
 
-1. A content strategist with multi-platform experience (Varano / Pampa / Clay lineage preferred)
+1. A content strategist with multi-platform experience (the content OS director / the VSL director / the stories director lineage preferred)
 2. A social-ops lead who executes calendars and knows what actually ships vs fantasy plans
 3. A past buyer or engaged follower who consumes the creator's content — gauge topic-resonance + Big Enemy fit
 
@@ -45,7 +45,7 @@ Patterns to look for on any failures:
 - Pillar imbalance (too much How-To, too little Myth-Bust — Big Enemy disappears)
 - Over-trend content (> 10% trend)
 - Platform cadence violations (daily LinkedIn post — Dec 2025 algo penalty)
-- Shorts systematized before 50+ long-form videos exist (Pampa rule violation)
+- Shorts systematized before 50+ long-form videos exist (the VSL director rule violation)
 - Per-post briefs thin (topic only, no hook seed, no skill routing, no voice samples)
 - Conversion stage imbalance (too much Awareness, too little Decision)
 - Anchor-to-derivative repurpose chain missing
@@ -57,7 +57,7 @@ Patterns to look for on any failures:
 
 2. **Big Enemy disappears** — Positioning Doc's Big Enemy doesn't surface weekly. Fix: Tacit Principle 9 — Big Enemy appears in at least one piece of content every 7 days (usually Myth-Bust).
 
-3. **Shorts before 50 long-form** — Creator in bootstrap mode but calendar systematizes short-form. Fix: Tacit Principle 5 — honor Pampa's Shorts Rule; long-form first.
+3. **Shorts before 50 long-form** — Creator in bootstrap mode but calendar systematizes short-form. Fix: Tacit Principle 5 — honor the VSL director's Shorts Rule; long-form first.
 
 4. **Per-post briefs too thin** — Slot lists topic only; no hook seed, no mechanism thread point, no voice samples. Fix: Phase 6 — every slot gets full brief (8 fields) before ship.
 

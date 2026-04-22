@@ -1,5 +1,5 @@
 ---
-description: Revenue analysis + forecasting + P&L using Clogg unit economics + Slings 60/30/10 revenue mix. Produces weekly/monthly/quarterly report with LTV:CAC.
+description: Revenue analysis + forecasting + P&L using unit economics + the operations director 60/30/10 revenue mix. Produces weekly/monthly/quarterly report with LTV:CAC.
 argument-hint: "[optional: --period=weekly|monthly|quarterly]"
 allowed-tools: Read, Write, Edit, Grep, Glob
 ---

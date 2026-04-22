@@ -1,6 +1,6 @@
 # Blind Output Test — /lead-magnet
 
-> Per `spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Lead Magnet Brief** (one of 9 Hormozi types). Classification: **external** — requires **2/3 evaluator pass** before running paid traffic to the opt-in page.
+> Per `spec/BLIND-OUTPUT-TEST.md`. This skill produces a **Lead Magnet Brief** (one of 9 the acquisition economist types). Classification: **external** — requires **2/3 evaluator pass** before running paid traffic to the opt-in page.
 
 ## Test Date(s)
 

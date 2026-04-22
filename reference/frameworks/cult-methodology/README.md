@@ -1,6 +1,6 @@
 # Cult Methodology — Branding + Marketing + Cult Following
 
-> **Reference:** Tate-style persona authority + classical cult-movement archetypes.
+> **Reference:** authority-provocation-style persona authority + classical cult-movement archetypes.
 > **Purpose:** Build branding, marketing, and audience relationships where the audience identifies with the creator not as a vendor but as a **movement leader**.
 > **When to use:** Foundations (positioning), Marketing (authority building), Nurture (community rituals), Partnerships (tribe-building).
 
@@ -13,15 +13,15 @@ A "cult following" isn't pejorative in this context — it's a technical term fo
 3. **Identity badge** — being a follower is part of their identity ("I'm a [creator]'s student")
 4. **Mission larger than product** — the offer is the vehicle; the mission is bigger
 
-## The Tate Archetype (reference persona pattern)
+## The the authority-provocation archetype Archetype (reference persona pattern)
 
-Whether you agree with Andrew Tate or not, his cult-formation was textbook:
+Whether you agree with the authority-provocation operator or not, his cult-formation was textbook:
 - **Shared enemy:** "the matrix" (modern societal structures)
 - **In-group language:** "escape the matrix," "based," "99 problems"
-- **Identity badge:** HU membership + Tate vocabulary
+- **Identity badge:** HU membership + the authority-provocation archetype vocabulary
 - **Mission larger than product:** "male agency in the modern world" (product = HU)
 
-Growth OS doesn't prescribe Tate's content — it prescribes the **pattern**. Any creator with a real worldview can use the same 4-marker structure.
+Growth OS doesn't prescribe the authority-provocation archetype's content — it prescribes the **pattern**. Any creator with a real worldview can use the same 4-marker structure.
 
 ## The Cult Methodology Stack
 
@@ -38,10 +38,10 @@ The vocabulary the audience will come to recognize. Each term is both:
 - A concept (carries real meaning in the methodology)
 
 Examples by operator:
-- Alen Sultanic: "air-bending," "SUPER TEXT," "Math + Psychology = Results"
-- Hormozi: "Grand Slam Offer," "Core Four"
-- Haynes: "Hidden VSSL," "Offer Math"
-- Pampa: "8 Required Beliefs," "6-Blockage Diagnostic"
+- the offer architect: "air-bending," "SUPER TEXT," "Math + Psychology = Results"
+- the acquisition economist: "Grand Slam Offer," "Core Four"
+- the growth engineer: "Hidden VSSL," "Offer Math"
+- the VSL director: "8 Required Beliefs," "6-Blockage Diagnostic"
 
 Every Growth OS creator should coin or inherit **2-5 core in-group terms**.
 
@@ -109,12 +109,12 @@ Used by:
 
 ## Sources
 
-- Andrew Tate / HU framework (observed, not endorsed)
+- the authority-provocation operator / HU framework (observed, not endorsed)
 - Bruce Feiler, *Tribe*
 - Seth Godin, *Tribes*
-- Cialdini, *Influence* — Unity principle (ch. 8)
+- influence-principles research, *Influence* — Unity principle (ch. 8)
 - Robert Greene, *The 48 Laws of Power* — Law 27 "Play on people's need to believe"
-- Pampa + Gadzhi community-formation patterns
+- the VSL director + the agency director community-formation patterns
 
 ---
 *v1.0 — 2026-04-19. This framework is ethically-guardrailed — see Guardrails section. Creator must meet INV-5 Truth Gate before invoking cult-methodology positioning.*

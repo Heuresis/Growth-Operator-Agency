@@ -4,12 +4,12 @@
 
 ## Source / Lineage
 
-- Dustin Varano (session-starter hooks)
-- Alex Hormozi ($100M Offers — lead magnet + curiosity patterns)
-- Todd Brown (E5 Method — Big Idea opens)
-- Jon Benson (VSSL — Ancient Story hook, Crisis hook)
-- MrBeast Creative Memo (retention curves in first 30s)
-- Eugene Schwartz (Breakthrough Advertising — awareness-level matching)
+- the content OS director (session-starter hooks)
+- the acquisition economist ($100M Offers — lead magnet + curiosity patterns)
+- the campaign director (E5 Method — Big Idea opens)
+- the VSL copywriter (VSSL — Ancient Story hook, Crisis hook)
+- creator-native methodology Creative Memo (retention curves in first 30s)
+- the awareness-spectrum author (Breakthrough Advertising — awareness-level matching)
 
 ---
 
@@ -105,7 +105,7 @@ Pattern: "[Credible third party] said [specific claim]. Here's why I think [stan
 
 Examples:
 - "Naval said 'specific knowledge compounds.' Here's the exact 3-step system I used to turn one piece of specific knowledge into $380K in 8 months."
-- "Hormozi posted last week that most offers are priced an order of magnitude too low. I ran the math on 47 of my clients. He's right — and here's the exact method to reprice without losing deals."
+- "the acquisition economist posted last week that most offers are priced an order of magnitude too low. I ran the math on 47 of my clients. He's right — and here's the exact method to reprice without losing deals."
 
 ### 11. Question Hook
 
@@ -121,7 +121,7 @@ Pattern: "[Famous example]. Here's what's actually happening under the hood."
 
 Examples:
 - "Apple's Vision Pro landing page. I'm going to read it line by line and tell you which 6 sentences are doing 80% of the selling."
-- "This is Hormozi's $2M webinar funnel. Here's the 4 things he does that nobody copies."
+- "This is the acquisition economist's $2M webinar funnel. Here's the 4 things he does that nobody copies."
 
 ### 13. Before-After-Bridge
 

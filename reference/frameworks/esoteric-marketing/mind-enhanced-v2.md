@@ -1,10 +1,10 @@
 # Mind Enhanced V2 — The Emotional Persuasion Stack
 
-> **Why this matters:** Most persuasion frameworks work at the *intellectual* layer — proof, logic, guarantees, bonuses. Sultanic's Mind Enhanced V2 works at the **state-layer**: it's designed to lift the buyer's internal state through five specific emotional shifts, in order. State changes are what actually move a buyer from "interested" to "bought." Logic ratifies after the fact.
+> **Why this matters:** Most persuasion frameworks work at the *intellectual* layer — proof, logic, guarantees, bonuses. the offer architect's Mind Enhanced V2 works at the **state-layer**: it's designed to lift the buyer's internal state through five specific emotional shifts, in order. State changes are what actually move a buyer from "interested" to "bought." Logic ratifies after the fact.
 
 ## Source / Lineage
 
-- **Alen Sultanic** — *Mind Enhanced V2* (primary source; evolved from original Mind Enhanced material)
+- **the offer architect** — *Mind Enhanced V2* (primary source; evolved from original Mind Enhanced material)
 - **Victor Frankl** — *Man's Search for Meaning* (1946) — the primacy of meaning over gratification; foundational for the identity-affirming payoff layer
 - **Abraham Maslow** — hierarchy of needs (1943) — the substrate of status/safety/agency logic
 - **Albert Bandura** — self-efficacy theory (1977) — the mechanism behind agency-raising
@@ -210,7 +210,7 @@ Layer 5 lands when the copy explicitly names the **identity destination**:
 
 ### The identity-payoff language pattern
 
-Sultanic-style phrasing (approximate):
+offer-architecture-style phrasing (approximate):
 
 > "Three months from now, you won't just have [outcome]. You'll be the kind of person who [identity state]. When your [spouse / kid / old self] looks at you, they'll see someone they hadn't seen before — someone who [being-state]."
 

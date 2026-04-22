@@ -13,7 +13,7 @@ Shared context for every content and acquisition skill in the Marketing division
 - `/story-sequence` — IG/FB story sequence (5–10 frames)
 
 ## Core Vocabulary
-- **Core Four (Hormozi)** — the four acquisition channels: (1) warm outreach, (2) post free content, (3) cold outreach, (4) run paid ads. Every client runs ≥ 2.
+- **Core Four (acquisition-economics methodology)** — the four acquisition channels: (1) warm outreach, (2) post free content, (3) cold outreach, (4) run paid ads. Every client runs ≥ 2.
 - **Pillar Split 40/30/20/10** — content allocation: 40% Authority (frameworks, teaching), 30% Narrative (stories, case studies), 20% Proof (results, screenshots), 10% CTA (offers, launches).
 - **Specificity Score (1–10)** — how concrete the claim is. "Grew faster" = 2. "Grew MRR from $8.4K to $47K in 11 weeks" = 9. Gate: ≥ 8.
 - **Hook-Retention-Payoff** — three-part structure every piece must satisfy: hook ≤ 3s or ≤ 1 line, retention loop across the middle, payoff in the last 20%.

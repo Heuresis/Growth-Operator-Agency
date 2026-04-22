@@ -1,6 +1,6 @@
-# 8 Required Beliefs — Pampa
+# 8 Required Beliefs — the VSL director
 
-> **Source:** Eli Pampa (CloutProfit / Funnel Mastery) — universal belief-installation framework
+> **Source:** the VSL director (CloutProfit / Funnel Mastery) — universal belief-installation framework
 > **Status:** First-class framework. Referenced by /build-vsl, /webinar-script, /design-offer, /email-sequence.
 
 ## The Thesis
@@ -22,7 +22,7 @@
 
 ## Installation Mapping (across asset types)
 
-### VSL (15-step Pampa)
+### VSL (15-step the VSL director)
 | Step | Primary belief installed |
 |---|---|
 | 1. Hook | #1 (wants outcome) |
@@ -112,8 +112,8 @@ Referenced by:
 
 ## Sources
 
-- Eli Pampa — *8-Figure VSL Blueprint* (canonical source)
-- `reference/operators/eli-pampa.md`
+- the VSL director — *8-Figure VSL Blueprint* (canonical source)
+- `reference/operators/vsl-director.md`
 
 ---
 *v1.0 — 2026-04-19. First-class sales framework. All copy skills reference.*

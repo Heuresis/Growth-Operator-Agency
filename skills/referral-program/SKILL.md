@@ -158,7 +158,7 @@ k-factor, referral-driven revenue %, CAC via referral vs paid.
 - `/case-study` — referrals from Thriving clients pair with case studies
 
 ## References
-- FIOVA Partnerships Division
+- Partnerships division Division
 - Lifecycle best practices
 
 ---

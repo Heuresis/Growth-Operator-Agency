@@ -1,5 +1,5 @@
 ---
-description: Produce a short-form script (IG Reel / TikTok / YT Shorts) using one of 10 Bennett frameworks. Second-by-second timing grid, voice-matched, platform adaptations.
+description: Produce a short-form script (IG Reel / TikTok / YT Shorts) using one of 10 short-form frameworks. Second-by-second timing grid, voice-matched, platform adaptations.
 argument-hint: [optional: "--framework=1-10" to force; else select by pillar + stage]
 allowed-tools: Read, Write, Edit, Grep, Glob
 ---
@@ -33,13 +33,13 @@ Load and execute `skills/write-reel/SKILL.md` in the current workspace.
 
 ## Arguments
 
-If `$ARGUMENTS` contains `--framework=N`, force that Bennett framework. Otherwise select from the pillar+stage decision table (Teaching/Discovery/Speed Build for How-To Awareness; Money Reveal/Transformation/Comparison for Case Study Decision; Challenge/Comparison/Weird Workflow for Myth-Bust Consideration; Discovery/Story Time for Trend).
+If `$ARGUMENTS` contains `--framework=N`, force that the short-form-frameworks author framework. Otherwise select from the pillar+stage decision table (Teaching/Discovery/Speed Build for How-To Awareness; Money Reveal/Transformation/Comparison for Case Study Decision; Challenge/Comparison/Weird Workflow for Myth-Bust Consideration; Discovery/Story Time for Trend).
 
 `$ARGUMENTS`
 
 ## Tool usage patterns
 
-- **Read** for loading SKILL.md, calendar brief, Brand Voice Doc, Positioning Doc, Bennett reference
+- **Read** for loading SKILL.md, calendar brief, Brand Voice Doc, Positioning Doc, the short-form-frameworks author reference
 - **Write / Edit** for producing the reel script + per-platform adaptations
 - **Grep** across `output/build-icp/` Section 9 for VOC phrases to seed hooks + `output/extract-voice/` for phrases_to_use placement
 

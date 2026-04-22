@@ -1,6 +1,6 @@
 # Growth Operating Process — Straight Process for Ops
 
-> **Reference:** Sanjay Slings (Deep Dive, 10 videos, $25M+ generated for info clients)
+> **Reference:** the operations director (Deep Dive, 10 videos, $25M+ generated for info clients)
 > **Purpose:** The straight operational process — no esoteric flourishes — for running a high-ticket info business day-to-day.
 > **When to use:** Scale (SOPs, hiring, KPI tracking), all divisions (process discipline), customer-journey operations.
 
@@ -8,7 +8,7 @@
 
 > *"Scaling an info product isn't difficult by any means, but it DOES require lots of attention to detail. Little 'leaks' throughout your customer journey = death by a million papercuts."*
 >
-> — Sanjay Slings, Deep Dive
+> — the operations director, Deep Dive
 
 The operational thesis: **a well-designed offer loses 60-80% of potential revenue to tiny operational leaks.** Each leak alone is invisible. Combined, they kill the business.
 
@@ -45,7 +45,7 @@ Not a creative launch — the operational sequence for launching/scaling an offe
 
 ## The 60/30/10 Revenue Mix (ideal at $130K+/mo)
 
-From Slings' $130K/mo Growth Operating breakdown:
+From the operations director's $130K/mo Growth Operating breakdown:
 - **60% call funnel revenue** (highest intent, highest trust, largest AOV)
 - **30% webinar funnel revenue** (scaleable, evergreen or live)
 - **10% email broadcast revenue** (low-cost, high-margin re-activation)
@@ -141,7 +141,7 @@ Used by:
 
 ## Sources
 
-- Sanjay Slings Deep Dive (Notion: `2d739dd823e78001b1ccfa16d35e3ce3`)
+- the operations director Deep Dive (Notion: `2d739dd823e78001b1ccfa16d35e3ce3`)
 - 10 videos analyzed — $15M webinar system, Post-Andromeda ads scaling to $10k/day, $130K/mo Growth Operating economics, Zero-to-$1M/mo free course
 - `reference/operators/tier-2-operators/sanjay-slings.md`
 

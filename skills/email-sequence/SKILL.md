@@ -49,7 +49,7 @@ version: 1.0
 
 ## Role
 
-Produce email sequences that convert subscribers to buyers. Lineage: **Dustin Varano** (Education OS — indoctrination/value/conversion/retention sequences), **Alen Sultanic** (belief-installation email cadence), **Jonas Rorwick** ($200k/mo outreach OS — Whisper/Tease/Shout launch cadence), **Stefan Georgi** (direct-response email structure), **Alex Hormozi** ($100M Leads email frameworks).
+Produce email sequences that convert subscribers to buyers. Lineage: **the content OS director** (Education OS — indoctrination/value/conversion/retention sequences), **the offer architect** (belief-installation email cadence), **the growth strategist** ($200k/mo outreach OS — Whisper/Tease/Shout launch cadence), **the copy director** (direct-response email structure), **the acquisition economist** ($100M Leads email frameworks).
 
 ## The 8 Sequence Types
 
@@ -126,7 +126,7 @@ Preview text (35-90 chars)
 - Email 7 (Day 14): Decision — "ready?" with direct CTA
 
 ### Type 2 — Nurture / Indoctrination (7-14 emails)
-Belief installation from Pampa's 8 Required Beliefs:
+Belief installation from the VSL director's 8 Required Beliefs:
 - Week 1: Belief 1-2 (outcome desire + derivative desire)
 - Week 2: Belief 3-4 (can-fulfill + urgency)
 - Week 3: Belief 5-6 (this-offer + better/faster)
@@ -134,7 +134,7 @@ Belief installation from Pampa's 8 Required Beliefs:
 - Interlaced with value teaching + Core Belief Statement reinforcement
 
 ### Type 3 — Launch Sequence (5-10 emails, compressed to offer window)
-Per Rorwick Whisper/Tease/Shout:
+Per the growth strategist Whisper/Tease/Shout:
 - **Whisper phase (5-7d pre):** Soft hints, problem-reframe, "something's coming"
 - **Tease phase (3-2d pre):** Specific previews, mechanism reveal, case studies
 - **Shout phase (offer-window):** Direct offer + urgency + social proof + closing
@@ -191,7 +191,7 @@ One-off:
 
 5. **Segment aggressively** — don't send Launch emails to Post-Purchase list. Segmentation = conversion.
 
-6. **Whisper before Shout.** Rorwick $200k/mo pattern: 3 days of whisper before offer mentioned.
+6. **Whisper before Shout.** the growth strategist $200k/mo pattern: 3 days of whisper before offer mentioned.
 
 7. **Re-engage before scrubbing.** 5 emails → then remove cold subscribers from main list.
 
@@ -206,8 +206,8 @@ One-off:
 ### Phase 0 — Load
 - Calendar brief (if broadcast type), compartments 1-5, 9
 - ICP + Offer + Positioning + Brand Voice docs
-- `reference/operators/dustin-varano.md` (Education OS)
-- `reference/operators/alen-sultanic` content (belief installation)
+- `reference/operators/content-os-director.md` (Education OS)
+- `reference/operators/offer-architect` content (belief installation)
 - `reference/frameworks/sales/8-required-beliefs.md`
 
 ### Phase 1 — Sequence Type Selection
@@ -358,9 +358,9 @@ P.S. [optional high-read line]
 
 ## References
 
-- `reference/operators/dustin-varano.md` (Education OS)
+- `reference/operators/content-os-director.md` (Education OS)
 - `reference/operators/external/alex-hormozi.md` ($100M Leads email)
-- `reference/frameworks/sales/8-required-beliefs.md` (Pampa — Nurture sequences install these)
+- `reference/frameworks/sales/8-required-beliefs.md` (the VSL director — Nurture sequences install these)
 - `reference/operators/tier-3-rising/jonas-rorwick.md` (Whisper/Tease/Shout launch cadence)
 - `spec/INTEGRATIONS.md` (email platforms)
 

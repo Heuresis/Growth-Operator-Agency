@@ -4,8 +4,8 @@
 
 ## Source / Lineage
 
-- MrBeast Creative Memo (thumbnail-first design)
-- Dustin Varano (title-thumbnail polarity for high-ticket)
+- creator-native methodology Creative Memo (thumbnail-first design)
+- the content OS director (title-thumbnail polarity for high-ticket)
 - Derral Eves (YouTube algorithm study)
 - 2024–2026 YouTube CTR benchmarks from internal operator tracking
 
@@ -65,7 +65,7 @@ High-ticket channels should target the Strong band minimum. Elite band requires 
 **Title:** Simple and clear. ("This email made $40K")
 **Thumbnail:** Host face, arrow pointing at an object (email screenshot, dashboard, document).
 **When to use:** Teardowns, authority videos.
-**Why it works:** Classic MrBeast-style directness. The arrow tells the brain "look here."
+**Why it works:** Classic creator-native methodology-style directness. The arrow tells the brain "look here."
 
 ### 7. Shock + Red-Flag Callout
 

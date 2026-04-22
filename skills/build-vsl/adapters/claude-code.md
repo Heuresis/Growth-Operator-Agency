@@ -1,5 +1,5 @@
 ---
-description: Produce a VSL script using one of 5 variants (Pampa 15-step / Hogendoorn 11-step / Trister 13-step / Benson 3X / Haynes Hidden VSSL). Voice-matched, mechanism-threaded, 8 beliefs installed.
+description: Produce a VSL script using one of 5 variants (15-step / Pull-Push-Persuade 11-step / 13-step VSL / 3X VSL Formula / Hidden VSSL). Voice-matched, mechanism-threaded, 8 beliefs installed.
 argument-hint: [optional: "--variant=A|B|C|D|E" to force variant; else auto-select]
 allowed-tools: Read, Write, Edit, Grep, Glob, WebSearch, WebFetch
 ---
@@ -14,7 +14,7 @@ Load and execute `skills/build-vsl/SKILL.md` in the current workspace.
    - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
    - `Read` `skills/build-vsl/SKILL.md` (full body)
    - `Read` upstream: `output/design-offer/` (Offer Doc — gate-passed required), `output/build-positioning/`, `output/build-icp/`, `output/extract-voice/`
-   - `Read` `reference/frameworks/vsl/` (all 5 variant files) + Pampa/Hogendoorn/Trister/Benson/Haynes operator files + 8-required-beliefs + crossroads-close + value-stack-architecture
+   - `Read` `reference/frameworks/vsl/` (all 5 variant files) + the VSL director/the psychological copywriter/the 13-step VSL author/the VSL copywriter/the growth engineer operator files + 8-required-beliefs + crossroads-close + value-stack-architecture
 
 2. **Pre-flight check:** Verify `audience_intelligence_system >= 60`, `offer_architecture >= 70`, `copy_messaging >= 40` in `company.yaml`. Confirm mechanism named (Positioning), 5+ isomorphic case studies available, 15+ phrases_to_use (Brand Voice Doc). If any fails, HOLD with specific gap.
 

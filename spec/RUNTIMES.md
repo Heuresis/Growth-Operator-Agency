@@ -139,14 +139,14 @@ To add a new runtime (e.g., Perplexity Agents or a future platform):
 
 ## The Cost-Everlasting Principle
 
-**Runtime concerns change. Methodology doesn't.** The Alen Sultanic Offer Building System will be valid in 2035. The Claude Code slash command API may not be. By forcing methodology into SKILL.md and runtime concerns into adapters, this workspace outlives any specific runtime.
+**Runtime concerns change. Methodology doesn't.** The the offer architect 7-Phase Offer Building System will be valid in 2035. The Claude Code slash command API may not be. By forcing methodology into SKILL.md and runtime concerns into adapters, this workspace outlives any specific runtime.
 
 This is operationalized INV-10. Runtime-agnosticism is how the workspace outlives every specific runtime it runs on.
 
 ## Sources
 
 - Canopy `architecture/adapters.md`
-- Luna Signal Theory — the 3-Layer Encoding Model (Layer 3 Technology Interface = adapters)
+- Signal Theory — the 3-Layer Encoding Model (Layer 3 Technology Interface = adapters)
 - Hussain Encoded Founder — "The encoded expertise is the asset. The runtime is disposable infrastructure."
 
 ---

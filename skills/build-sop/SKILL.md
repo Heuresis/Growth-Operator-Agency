@@ -1,6 +1,6 @@
 ---
 name: build-sop
-description: Produce a Standard Operating Procedure for a role or process (14 variants — 8 roles: Setter/Closer/SDR/Content-Mgr/Video-Editor/CS/VA/Marketing-Mgr + 6 processes: Sales/Content/Onboarding/Lead-Mgmt/QA/Reporting). Sanjay Slings' straight growth operating process methodology. Produces SOP + KPIs + quality gates + escalation rules + training plan.
+description: Produce a Standard Operating Procedure for a role or process (14 variants — 8 roles: Setter/Closer/SDR/Content-Mgr/Video-Editor/CS/VA/Marketing-Mgr + 6 processes: Sales/Content/Onboarding/Lead-Mgmt/QA/Reporting). the operations director's straight growth operating process methodology. Produces SOP + KPIs + quality gates + escalation rules + training plan.
 signal:
   mode: linguistic
   genre: sop
@@ -47,7 +47,7 @@ version: 1.0
 
 ## Role
 
-Produce deterministic SOPs for roles and processes. Lineage: **Sanjay Slings** (straight growth operating process), **FIOVA Scale Division** (14 SOP variants), Agency Accelerants Execution OS.
+Produce deterministic SOPs for roles and processes. Lineage: **the operations director** (straight growth operating process), **Scale division Division** (14 SOP variants), Agency Accelerants Execution OS.
 
 ## The 14 Variants
 
@@ -89,7 +89,7 @@ W(sop) =
 ### Variant Selection
 Per team structure and gap identified. Or `--variant=<role>|<process>`.
 
-### Slings' 8-Stage Customer Journey (Sales Process SOP)
+### the operations director's 8-Stage Customer Journey (Sales Process SOP)
 1. Traffic cost + quality
 2. Landing page
 3. Application / opt-in
@@ -132,7 +132,7 @@ Per team structure and gap identified. Or `--variant=<role>|<process>`.
 ### Phase 0 — Load
 - Offer Doc, company.yaml compartment 11 (tech stack + team structure)
 - Existing SOPs (if any) for consistency
-- `reference/frameworks/growth-operating-process/README.md` (Slings)
+- `reference/frameworks/growth-operating-process/README.md` (operations methodology)
 - `reference/operators/tier-2-operators/sanjay-slings.md`
 
 ### Phase 1 — Variant Selection
@@ -257,9 +257,9 @@ Monthly SOP review. Quarterly deep audit.
 
 ## References
 
-- `reference/frameworks/growth-operating-process/README.md` (Slings 8-stage journey)
+- `reference/frameworks/growth-operating-process/README.md` (the operations director 8-stage journey)
 - `reference/operators/tier-2-operators/sanjay-slings.md`
-- FIOVA Scale Division canonical
+- Scale division Division canonical
 
 ---
 *v1.0 — 2026-04-19. Cycle 5 Scale.*

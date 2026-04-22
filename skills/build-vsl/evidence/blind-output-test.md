@@ -8,7 +8,7 @@ _v1.0 initial validation: pending (skill is freshly shipped)_
 
 ## Evaluator Roster (to recruit)
 
-1. A direct-response copywriter with VSL production experience (Pampa / Hogendoorn / Benson lineage preferred)
+1. A direct-response copywriter with VSL production experience (the VSL director / the psychological copywriter / the VSL copywriter lineage preferred)
 2. A target prospect inside the ICP (someone at the offer's price-point aspirant identity) — blind read
 3. A compliance/brand-safety reviewer who can stress-test Truth Gate + INV-6 No Fabrication + FTC disclosure
 
@@ -16,7 +16,7 @@ _v1.0 initial validation: pending (skill is freshly shipped)_
 
 ### 1. Output Set
 - 2 historical VSL scripts produced by the creator's team or a hired VSL copywriter
-- 3 VSL scripts produced by `/build-vsl` (different variants across different creator contexts — include at least one Pampa 15-step + one Hogendoorn 11-step)
+- 3 VSL scripts produced by `/build-vsl` (different variants across different creator contexts — include at least one 15-step + one Pull-Push-Persuade 11-step)
 - 1 generic-LLM VSL (control — no compartments, just "write me a VSL for X offer")
 
 All scripts anonymized. Strip creator names, replace brand names with `[BRAND]`, randomize order.
@@ -44,14 +44,14 @@ For `/build-vsl` to be blind-test-validated (sacred tier 3/3):
 
 ### 4. Post-Test Analysis
 Patterns to look for on any failures:
-- Selling before Step 9 / Persuade phase (Hogendoorn invariant violation)
+- Selling before Step 9 / Persuade phase (the psychological copywriter invariant violation)
 - Generic hook (doesn't filter for specific ICP)
 - Missing mechanism thread (not in Hook / Problem / Solution / Testimonials / Close)
 - Non-isomorphic case studies (starting situation doesn't match prospect)
 - Voice mismatch ("creator wouldn't say these words")
 - Wrong variant for context (slide-VSL where face-VSL required)
 - Timid close (signals low creator confidence in offer)
-- Missing or under-installed belief (not all 8 of Pampa's beliefs present)
+- Missing or under-installed belief (not all 8 of the VSL director's beliefs present)
 - Banned vocabulary leaked through
 - Fabricated results / testimonials / numbers
 
@@ -63,9 +63,9 @@ Patterns to look for on any failures:
 
 3. **Non-isomorphic case studies** — Impressive but not relatable case study leaks trust. Fix: Phase 7 — rank case studies by isomorphic fit (starting situation + outcome + process) before selection.
 
-4. **Selling too early** — CTA or pitch before Step 9 (Pampa/Hogendoorn) or equivalent in other variants. Fix: beat-by-beat structural check — flag any pitch language before Persuade phase.
+4. **Selling too early** — CTA or pitch before Step 9 (the VSL director/the psychological copywriter) or equivalent in other variants. Fix: beat-by-beat structural check — flag any pitch language before Persuade phase.
 
-5. **Wrong variant selected** — Face-VSL written for creator who won't appear on-camera, or Pampa 15-step used on YouTube-native content. Fix: Variant Selection Decision Tree is hard-coded; confirm with creator before writing body.
+5. **Wrong variant selected** — Face-VSL written for creator who won't appear on-camera, or 15-step used on YouTube-native content. Fix: Variant Selection Decision Tree is hard-coded; confirm with creator before writing body.
 
 6. **Under-installed beliefs** — Belief map shows 6/8 installed; script ships anyway. Fix: hard gate — all 8 installed or HOLD.
 

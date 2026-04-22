@@ -26,7 +26,7 @@ What was the skill asked to produce? Reference the originating handoff.
 Artifact path + completeness score + quality score breakdown (per 5-tuple).
 
 ### 3. Which gate failed
-- Gate name: {{e.g., "Signal Theory — Wiener feedback loop"}}
+- Gate name: {{e.g., "Signal Theory — feedback-loop theory feedback loop"}}
 - Threshold: {{e.g., 0.5}}
 - Actual: {{e.g., 0.32}}
 - Triple-layer breakdown:
@@ -76,7 +76,7 @@ No artifact cycles more than 2 revisions in the system. Indefinite revision loop
 
 If revision limit exhausted:
 
-1. Agent writes escalation note to `.fiova/event_log.jsonl`
+1. Agent writes escalation note to `.growth-os/event_log.jsonl`
 2. Routes to Growth Director (`agents/growth-director.md`)
 3. Growth Director summarizes to user with options
 4. User decides: approve-with-exception / re-scope / abandon

@@ -16,10 +16,9 @@
 
 <br/>
 
-**The encoded workspace template for creators, coaches, consultants, and founders launching and scaling high-ticket offers.**
+**Ship a complete high-ticket go-to-market operation in weeks, not quarters.**
 
-Not a chatbot. Not a SaaS. Not a platform.
-Files on disk that you own — skills and agents that run on any LLM that reads markdown and YAML.
+29 skills. 41 agents. 7 divisions. One workspace — yours forever.
 
 <br/>
 
@@ -31,51 +30,125 @@ Files on disk that you own — skills and agents that run on any LLM that reads 
 
 ---
 
-## The thesis
+## What you ship
 
-> **Workspace = ROM. Agent = RAM. Skills are stacked.**
+Growth OS produces the specific artifacts a high-ticket creator business runs on. No abstractions — concrete deliverables.
 
-- **Workspace = ROM.** Persistent, transferable, version-controlled. Files on disk. Yours forever.
-- **Agent = RAM.** Stateless, generic, replaceable. Any agent that reads this workspace becomes a specialist in your business.
-- **Skills are stacked.** Deterministic procedures that produce specific assets. Rigid, versioned, testable.
-
-Most go-to-market AI fails because the underlying business is never encoded. Growth OS encodes the business first. The agent runs on top of something real.
-
-<br/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/architecture-dark.svg">
-  <img alt="Workspace = ROM. Agent = RAM. Skills are stacked." src="docs/assets/architecture-light.svg" width="100%">
-</picture>
-
-</div>
-
-<br/>
-
----
-
-## What ships in v1.0.0
-
-| Layer | Content | Status |
+| Week | Output | Spec |
 |---|---|---|
-| Boot | `SYSTEM.md` · `INVARIANTS.md` · `ENCODING.md` · `company.yaml` · `.env.template` | shipped |
-| Skills | 29 runtime-agnostic skills, each with `SKILL.md` + adapters + evidence scaffolding | shipped |
-| Agents | 41 agents (1 director · 7 division leads · 33 specialists) | shipped |
-| Spec | 8 files — Signal Theory, Quality, Runtimes, Banned Vocabulary, Blind Output Test, Context Thresholds, Integrations, HTTP/OpenAPI | shipped |
-| Reference | Frameworks, operators, platforms, swipe-file, templates, examples, FIOVA-AGENT-ARCHITECTURE | shipped |
-| Workflows | 7 division FSMs, client onboarding, delivery, execution templates, 5 automations | shipped |
-| Operations | Team leadership, collaboration, cadences, finance, hiring, tool SOPs | shipped |
-| Adapters | Claude Code (primary) · Canopy (primary) for all 29 skills | shipped |
-| Adapters | HTTP / OpenAPI contract | v1.1 target |
-| Adapters | Codex · Cursor · OpenClaw | v2.0 target |
+| 1 | **Market Research Brief** | 9 sections · 2,000–3,500 words · GO / NO-GO recommendation |
+| 1 | **ICP Document** | 13 sections · Completeness Score ≥ 80 before ship |
+| 1 | **Positioning Document** | Vehicle Switch · Unique Mechanism · Core Belief · Narrative |
+| 1 | **Offer Document** | 12 sections · Value Stack · Bonuses · Guarantee · 3:1 LTV:CAC gate |
+| 1 | **Brand Voice Architecture** | Tone · language patterns · phrases-to-use · phrases-to-avoid |
+| 2 | **VSL Script** | 5 framework variants — choose by awareness × sophistication |
+| 2 | **Funnel Architecture** | 7 archetypes — Application / VSL / Webinar / Book-a-Call / Tripwire / Challenge / Community |
+| 2 | **Ad Creative Brief** | Hook variants · angles · 8 ad types · paid-media-director specificity |
+| 2 | **30-Day Content Calendar** | 4-Pillar ratio (40/30/20/10) across owned channels |
+| 3 | **Lead Magnet** | 9 types — PDF / Checklist / Cheatsheet / Swipe / Minicourse / Quiz / Calculator / Training / Custom |
+| 3 | **Email Sequence** | 8 types — Welcome / Nurture / Launch / Webinar / Re-engagement / Application / Post-Purchase / Broadcast |
+| 3 | **Webinar or Challenge Script** | Live · Evergreen · 3-Day · 5-Day · 7-Day · Workshop |
+| 3 | **Post-Booking Nurture** | Confirmation page + 24h / 6h / 1h email + personal SMS |
+| 4 | **Launch Plan** | 5 launch types · 5-phase SOP — Pre-Launch / Launch Day / Momentum / Follow-Up / Analyze |
+| 4 | **Team SOP** | 14 variants — Setter · Closer · SDR · Content Mgr · Video Editor · CS · VA · Marketing Mgr + 6 processes |
+| 4 | **Hiring Brief + Scorecard** | 8 roles with ideal profile + disqualifiers |
+| ongoing | **Case Study** | Testimonial → case study conversion |
+| ongoing | **Retention Check** | Client health scoring + churn flags before they fire |
+| ongoing | **Competitor Teardown** | Positioning-gap analysis |
+| ongoing | **Revenue Report** | P&L · forecasting · unit economics |
 
 <br/>
 
 ---
 
-## The 7 divisions
+## The 29 features
+
+<details open>
+<summary><strong>Foundations — 5 skills · Positioning OS</strong></summary>
+
+| Feature | Produces |
+|---|---|
+| `/research` | Market Research Brief from interview + secondary research |
+| `/build-icp` | 13-section ICP Document with Completeness Score |
+| `/build-positioning` | Positioning Document with unique mechanism + narrative |
+| `/design-offer` | Offer Document with 3:1 LTV:CAC economics validated |
+| `/extract-voice` | Brand Voice Architecture from creator's historical content |
+
+</details>
+
+<details>
+<summary><strong>Marketing — 7 skills · Traffic OS</strong></summary>
+
+| Feature | Produces |
+|---|---|
+| `/content-calendar` | 30-day plan across platforms with 4-Pillar ratio |
+| `/ad-creative` | Paid ad brief + copy + hook variants across 8 ad types |
+| `/write-linkedin-post` | LinkedIn post promoting the offer (INV-8 scoped) |
+| `/write-reel` | Short-form script across 10 short-form frameworks |
+| `/write-youtube` | YouTube video script across 7 video types |
+| `/write-x-thread` | X thread across 7 thread types |
+| `/story-sequence` | 7-day Instagram Story sequence with 4-layer anatomy |
+
+</details>
+
+<details>
+<summary><strong>Nurture — 4 skills · Education OS</strong></summary>
+
+| Feature | Produces |
+|---|---|
+| `/lead-magnet` | Lead magnet design + copy across 9 types |
+| `/email-sequence` | Email sequence across 8 types with belief installation |
+| `/webinar-script` | Webinar or challenge script across 6 formats |
+| `/post-booking-nurture` | Confirmation page + SMS + email sequence to maximize show rates |
+
+</details>
+
+<details>
+<summary><strong>Sales — 3 skills · Conversion OS</strong></summary>
+
+| Feature | Produces |
+|---|---|
+| `/build-vsl` | Full VSL script across 5 framework variants |
+| `/build-funnel` | Funnel architecture across 7 archetypes |
+| `/competitor-intel` | Competitor teardown + positioning-gap analysis |
+
+</details>
+
+<details>
+<summary><strong>Launch — 2 skills</strong></summary>
+
+| Feature | Produces |
+|---|---|
+| `/plan-launch` | Launch plan across 5 launch types with 5-phase SOP |
+| `/launch-report` | Post-launch performance analysis + recommendations |
+
+</details>
+
+<details>
+<summary><strong>Scale — 5 skills</strong></summary>
+
+| Feature | Produces |
+|---|---|
+| `/build-sop` | Team SOP across 8 roles + 6 processes |
+| `/hiring-brief` | Hiring brief with scorecard + ideal profile |
+| `/retention-check` | Client health scoring + churn prevention triggers |
+| `/revenue-report` | Revenue analysis · forecasting · P&L |
+| `/case-study` | Case study from a client result |
+
+</details>
+
+<details>
+<summary><strong>Partnerships — 3 skills</strong></summary>
+
+| Feature | Produces |
+|---|---|
+| `/jv-webinar-proposal` | Partner outreach for joint venture webinar |
+| `/affiliate-program` | Affiliate program structure + payout schema |
+| `/referral-program` | Referral program mechanics |
+
+</details>
+
+<br/>
 
 <div align="center">
 
@@ -90,66 +163,42 @@ Most go-to-market AI fails because the underlying business is never encoded. Gro
 
 ---
 
-## Install
+## Built-in guardrails
 
-<details open>
-<summary><strong>Option 1 — Claude Code (recommended)</strong></summary>
+Features that prevent the workspace from producing anything the creator would reject.
 
-```bash
-git clone <your-private-remote>/growth-os.git your-creator-workspace
-cd your-creator-workspace
-```
-
-Open the workspace in Claude Code. The harness auto-reads `.claude/commands/*.md` and exposes 29 slash commands. The first agent to enter reads `SYSTEM.md` → `INVARIANTS.md` → `ENCODING.md` → `company.yaml` as its boot sequence.
-
-</details>
-
-<details>
-<summary><strong>Option 2 — Canopy runtime</strong></summary>
-
-```bash
-cp -R growth-os ~/canopy-workspaces/growth-os
-canopy boot ~/canopy-workspaces/growth-os
-```
-
-Canopy discovers skills by scanning `skills/*/SKILL.md`. Each skill has a Canopy adapter at `skills/{slug}/adapters/canopy.yaml` declaring SORX runtime metadata, role affinity, evidence gates, and signal tuple.
-
-</details>
-
-<details>
-<summary><strong>Option 3 — any generic LLM</strong></summary>
-
-1. Paste `SYSTEM.md` into a new conversation as the system prompt.
-2. Paste the relevant `company.yaml` compartments as context.
-3. Invoke a skill by pasting its `SKILL.md` body and following the Process section.
-
-This is the **portability guarantee**. Every skill must work this way — [INV-10](INVARIANTS.md).
-
-</details>
+| Guardrail | What it does |
+|---|---|
+| **14 sacred invariants** | Enforced at every skill invocation. Violation = reject + revise. |
+| **Context threshold gates** | Skills refuse to execute below required compartment completeness. No production from null. |
+| **3:1 LTV:CAC economics gate** | Offers cannot proceed to downstream marketing until unit economics are validated. |
+| **Impact Distribution (40/40/20)** | Always audit Audience → Offer → Copy in that order. Upstream fixes precede downstream tactics. |
+| **Triple-layer verification** | Formal (40%) + Semantic (35%) + Information-theoretic (25%) gate before every ship. |
+| **Blind Output Test** | Three evaluators decide "did the creator produce this, or the system?" Ship-worthy assets require pass. |
+| **Signal 5-tuple encoding** | Every output declares `(Mode, Genre, Type, Format, Structure)` — unresolved dimensions equal noise. |
+| **S/N quality gate** | ≥ 0.8 for external, ≥ 0.5 for internal, `<` 0.5 rejects. |
+| **Banned vocabulary filter** | Hard constraint — "unlock," "supercharge," "game-changing" and 30+ others rejected before ship. |
+| **Voice-of-customer priority** | Verbatim creator + customer language from Compartment 2 beats generic copy every time. |
+| **No-fabrication rule** | Case studies, testimonials, results, and numbers cannot be invented. Gaps flag `[PROOF GAP]` instead. |
+| **Max-2-revisions ceiling** | After two revision attempts, escalate to the creator instead of looping. |
 
 <br/>
 
 ---
 
-## Quick start
+## Runtime flexibility
 
-Run the Foundations chain first. Every other division depends on it.
+One workspace. Five runtimes. Zero lock-in.
 
-```
-/research → /build-icp → /build-positioning → /design-offer → /extract-voice
-```
+| Runtime | Status | Install |
+|---|---|---|
+| **Claude Code** | primary | `git clone` → open → 29 slash commands exposed |
+| **Canopy / SORX** | primary | `canopy boot ./` — native protocol compliance |
+| **Generic LLM** (ChatGPT · Claude web · Perplexity · Ollama) | always available | Paste `SYSTEM.md` as system prompt + relevant `company.yaml` compartments |
+| **HTTP / OpenAPI** | v1.1 | REST contract at `spec/HTTP-OPENAPI-ADAPTER.md` |
+| **Codex · Cursor · OpenClaw** | v2.0 | Adapter scaffolding prepared |
 
-| Step | Command | Prerequisite | Time |
-|---|---|---|---|
-| 1 | `/research` | Willingness to be interviewed | 30–90 min |
-| 2 | `/build-icp` | Audience ≥ 30% | 15–30 min |
-| 3 | `/build-positioning` | Audience ≥ 60% | 30–60 min |
-| 4 | `/design-offer` | Audience ≥ 70% · Offer ≥ 30% · 3:1 LTV:CAC | 45–90 min |
-| 5 | `/extract-voice` | Creator historical content available | 30–60 min |
-
-The output of step N is the input of step N+1. Skills self-gate — below the threshold, the skill refuses and asks you to run the upstream skill first.
-
-Full walkthrough in [**docs/QUICKSTART.md**](docs/QUICKSTART.md).
+A skill written today runs unchanged on any runtime that reads markdown and YAML. That is [INV-10](INVARIANTS.md) — the runtime-agnostic guarantee.
 
 <br/>
 
@@ -166,73 +215,27 @@ Full walkthrough in [**docs/QUICKSTART.md**](docs/QUICKSTART.md).
 
 </div>
 
-Every cycle deepens the encoding. Every run makes the next run cheaper, faster, and closer to voice. The compounding gap to un-encoded operators widens monthly.
+Every cycle through the workspace produces the next cycle cheaper, faster, and closer to voice. After cycle five, the creator validates drafts instead of writing them — and every downstream asset ships with the creator's voice preserved.
 
 <br/>
 
 ---
 
-## Skill anatomy
+## Install
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/skill-anatomy-dark.svg">
-  <img alt="Skill anatomy" src="docs/assets/skill-anatomy-light.svg" width="100%">
-</picture>
-
-</div>
-
-Every skill is a folder. One runtime-agnostic canonical (`SKILL.md`). Four supporting directories. One binding per runtime. A skill written today runs unchanged on any runtime that reads markdown and YAML.
-
-Authoring contract in [**docs/SKILL_AUTHORING.md**](docs/SKILL_AUTHORING.md).
-
-<br/>
-
----
-
-## Repository shape
-
-```
-growth-os/
-├── SYSTEM.md                  ← identity + boot sequence
-├── INVARIANTS.md              ← 14 sacred rules (always enforced)
-├── ENCODING.md                ← 11-compartment Creator Context Profile schema
-├── company.yaml               ← your actual context (fill this in)
-├── .env.template              ← credential template
-│
-├── agents/                    ← 41 thin personas with reporting chain
-├── skills/                    ← 29 deterministic skills, each a folder
-├── spec/                      ← 8 files — quality gates, signal, runtimes, thresholds
-├── workflows/                 ← FSMs per division + execution templates
-├── handoffs/                  ← phase-transition contracts
-├── operations/                ← team cadences + SOPs
-│
-├── reference/                 ← frameworks, operators, platforms, swipe-file, templates
-│   └── FIOVA-AGENT-ARCHITECTURE.md  ← 82KB architecture bible
-│
-├── docs/                      ← quickstart, architecture, glossary, FAQ, assets
-├── .claude/commands/          ← 29 Claude Code slash command bindings
-├── .github/                   ← issue templates, PR template, CODEOWNERS
-│
-├── output/                    ← generated artifacts (gitignored)
-├── _private/                  ← encoded creator data (gitignored per INV-11)
-└── _excluded/                 ← opt-out register
+```bash
+git clone <your-private-remote>/growth-os.git your-creator-workspace
+cd your-creator-workspace
+# Open in Claude Code — 29 slash commands appear automatically.
 ```
 
-<br/>
+Run the Foundations chain first:
 
----
+```
+/research → /build-icp → /build-positioning → /design-offer → /extract-voice
+```
 
-## Foundations
-
-Growth OS rests on three load-bearing layers:
-
-1. **Signal Theory** — the quality substrate. Every output is a Signal encoded as a 5-tuple and measured against an S/N ratio.
-2. **Encoded Founder methodology** — the decision logic for translating tacit creator judgment into machine-readable content.
-3. **Canopy Protocol** — the workspace file contract that makes every skill runtime-agnostic.
-
-Full provenance, authorship, and what-Heuresis-owns-vs-does-not in [**PROVENANCE.md**](PROVENANCE.md).
+Every skill self-gates on compartment completeness. Below threshold, the skill refuses to produce and asks you to run the upstream skill first. Full walkthrough in [**docs/QUICKSTART.md**](docs/QUICKSTART.md).
 
 <br/>
 
@@ -240,15 +243,13 @@ Full provenance, authorship, and what-Heuresis-owns-vs-does-not in [**PROVENANCE
 
 ## Privacy
 
-Growth OS enforces a hard split between **template structure** (shippable) and **encoded creator content** (never shippable).
+The template ships structure. Encoded creator content stays local.
 
 - `company.yaml` (once filled), `_private/`, `output/`, and `.env.local` are gitignored by default.
-- The template structure is the Heuresis product. The encoded data is the creator's IP.
-- When forking for a new creator, reset `company.yaml` to the empty-template form and start `_private/` and `output/` empty.
+- [INV-11](INVARIANTS.md) is load-bearing — creator data never pushes to a public repo.
+- When forking for a new creator, reset `company.yaml` to the empty-template form and start `_private/` + `output/` empty.
 
-[INV-11](INVARIANTS.md) is load-bearing. Every contributor verifies the split before each push.
-
-Full contract in [**SECURITY.md**](SECURITY.md).
+Full data contract in [**SECURITY.md**](SECURITY.md).
 
 <br/>
 
@@ -256,17 +257,17 @@ Full contract in [**SECURITY.md**](SECURITY.md).
 
 ## Documentation
 
-| Doc | What it covers |
+| Doc | For |
 |---|---|
 | [Quickstart](docs/QUICKSTART.md) | First run in 30 minutes |
-| [Architecture](docs/ARCHITECTURE.md) | Three-layer knowledge model, 11 compartments, 14 invariants, Signal Theory |
-| [Skill Authoring](docs/SKILL_AUTHORING.md) | How to author or modify a skill |
-| [Glossary](docs/GLOSSARY.md) | Every term, in one place |
-| [FAQ](docs/FAQ.md) | Common questions on install, runtimes, privacy, instantiation |
-| [Contributing](CONTRIBUTING.md) | Internal contribution workflow and quality gates |
-| [Security](SECURITY.md) | Credential handling, `_private/` data contract, vulnerability reporting |
+| [Architecture](docs/ARCHITECTURE.md) | Three-layer model, 11 compartments, 14 invariants, Signal Theory |
+| [Skill Authoring](docs/SKILL_AUTHORING.md) | Adding or modifying skills |
+| [Glossary](docs/GLOSSARY.md) | Every term — compartment, signal, S/N, sacred-format, flywheel |
+| [FAQ](docs/FAQ.md) | Runtimes, privacy, instantiation, quality |
+| [Contributing](CONTRIBUTING.md) | Internal contribution workflow + quality gates |
+| [Security](SECURITY.md) | Credential handling, data contract, vulnerability reporting |
 | [Changelog](CHANGELOG.md) | Version history |
-| [Provenance](PROVENANCE.md) | Authorship and foundational sources |
+| [Provenance](PROVENANCE.md) | Authorship + foundational sources |
 
 <br/>
 
@@ -276,7 +277,7 @@ Full contract in [**SECURITY.md**](SECURITY.md).
 
 v1.0.0 — initial private release — 2026-04-22.
 
-Growth OS is the first Heuresis workspace template shipping under the Heuresis brand. See [CHANGELOG.md](CHANGELOG.md) for the full v1.0.0 scope and known next steps.
+Growth OS is the first workspace template shipping under the Heuresis brand. See [CHANGELOG.md](CHANGELOG.md) for the full v1.0.0 scope and planned next releases.
 
 <br/>
 
@@ -298,7 +299,7 @@ Private. All rights reserved. See [LICENSE](LICENSE).
 <br/>
 <br/>
 
-**Workspace = ROM. Agent = RAM. Skills are stacked.**
+**Ship a complete high-ticket go-to-market operation in weeks, not quarters.**
 
 <sub>Made by Heuresis — [heuresis.ai](https://heuresis.ai)</sub>
 

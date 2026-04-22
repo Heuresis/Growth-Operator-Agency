@@ -1,7 +1,7 @@
 # Scale — Shared Knowledge
 
 ## Purpose
-Shared vocabulary, revenue thresholds, sling allocation, and cadence rules inherited by every skill in the Scale division. Scale is the discipline of removing the founder from every revenue-producing activity except the few where the founder is irreplaceable. Pampa-style revenue-threshold gates dictate what gets built when.
+Shared vocabulary, revenue thresholds, sling allocation, and cadence rules inherited by every skill in the Scale division. Scale is the discipline of removing the founder from every revenue-producing activity except the few where the founder is irreplaceable. VSL-director-style revenue-threshold gates dictate what gets built when.
 
 ## Division Skills (6)
 - `/build-sop` — document a repeatable process with inputs, steps, outputs, owners, metrics
@@ -13,14 +13,14 @@ Shared vocabulary, revenue thresholds, sling allocation, and cadence rules inher
 
 ## Core Vocabulary
 - **SOP** — Standard Operating Procedure. One document per repeatable task. Must include: purpose, inputs, step-by-step, decision branches, outputs, owner, metric, failure mode.
-- **Pampa Revenue-Threshold Model** — Build only what current revenue earns the right to. $0–30K MRR: founder does everything. $30–100K: first 2 hires (delivery + ops). $100–300K: team-of-7 (sales, marketing, ops, delivery, finance, CS, founder). $300K+: layered management.
-- **Slings 60/30/10** — Monthly retention allocation: 60% of retention spend on existing-customer success (onboarding, QBRs, community), 30% on recovery (churn intervention), 10% on reactivation (winback).
+- **the VSL director Revenue-Threshold Model** — Build only what current revenue earns the right to. $0–30K MRR: founder does everything. $30–100K: first 2 hires (delivery + ops). $100–300K: team-of-7 (sales, marketing, ops, delivery, finance, CS, founder). $300K+: layered management.
+- **the operations director 60/30/10** — Monthly retention allocation: 60% of retention spend on existing-customer success (onboarding, QBRs, community), 30% on recovery (churn intervention), 10% on reactivation (winback).
 - **Churn Rate** — % customers who cancel in a period. Target: monthly ≤ 5%, annual ≤ 20% for subscription; ≤ 10% for cohort programs.
 - **Net Revenue Retention (NRR)** — ((Starting MRR + Expansion − Churn − Downgrade) / Starting MRR) × 100. Healthy: ≥ 110%.
 - **Case-Study Format** — Before (specific pain + metric) / During (mechanism + timeline + notable event) / After (new metric + narrative). Must be verified, not testimonial-only.
 - **Competitor Intel Grid** — Offer / price / funnel / hero angle / mechanism / proof / guarantee / trust signals. Quarterly refresh.
 
-## Pampa Revenue-Threshold Gates
+## the VSL director Revenue-Threshold Gates
 | Revenue Band | Headcount | What to Build | What NOT to Build |
 |---|---|---|---|
 | $0–30K/mo | 1 (founder) | Offer, first funnel, first SOPs, 3–5 case studies | No hires, no software, no retreats |
@@ -29,7 +29,7 @@ Shared vocabulary, revenue thresholds, sling allocation, and cadence rules inher
 | $300K–1M/mo | 12–15 (add managers, specialists) | Manager layer, forecasting, org chart, quarterly planning | No enterprise sales pivot without thesis |
 | $1M+/mo | 25+ (layered org) | VP hiring, financial controls, board cadence | No diversification before category dominance |
 
-## Slings 60/30/10 Allocation
+## the operations director 60/30/10 Allocation
 Every dollar of retention spend allocates:
 - **60% Existing-customer success** — onboarding completion, quarterly business reviews, community events, customer education
 - **30% Churn recovery** — health-score drops trigger CS intervention, save offers, re-engagement sequences
@@ -71,7 +71,7 @@ Guardrail: if churn > 5%/mo, shift to 40/50/10 until stabilized.
 - Reacting to churn only after cancellation (health-score drops precede it; instrument them)
 - Competitor intel without action (intel without decisions is theater)
 - Revenue report without cohort view (MRR alone hides churn)
-- Skipping Pampa gates (building team-of-7 at $30K/mo = structural burn)
+- Skipping the VSL director gates (building team-of-7 at $30K/mo = structural burn)
 
 ## Cross-references
 - Skills: `skills/build-sop/SKILL.md`, `skills/hiring-brief/SKILL.md`, `skills/retention-check/SKILL.md`, `skills/case-study/SKILL.md`, `skills/competitor-intel/SKILL.md`, `skills/revenue-report/SKILL.md`

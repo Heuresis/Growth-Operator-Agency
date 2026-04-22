@@ -141,7 +141,7 @@ W(affiliate-program) =
 - `/email-sequence` — affiliate recruitment sequence
 
 ## References
-- FIOVA Partnerships Division
+- Partnerships division Division
 
 ---
 *v1.0 — 2026-04-19. Cycle 6 Partnerships.*

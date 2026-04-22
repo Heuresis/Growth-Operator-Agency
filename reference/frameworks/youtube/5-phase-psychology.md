@@ -4,10 +4,10 @@
 
 ## Source / Lineage
 
-- Eugene Schwartz (awareness levels — Breakthrough Advertising)
-- Robert Cialdini (commitment + consistency)
-- Todd Brown (E5 desire escalation)
-- Dustin Varano (YouTube-native phase mapping)
+- the awareness-spectrum author (awareness levels — Breakthrough Advertising)
+- influence-principles research (commitment + consistency)
+- the campaign director (E5 desire escalation)
+- the content OS director (YouTube-native phase mapping)
 
 ---
 

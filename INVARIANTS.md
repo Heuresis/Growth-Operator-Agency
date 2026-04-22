@@ -11,12 +11,12 @@
 ## The 14 Sacred Rules
 
 ### INV-1 — Impact Distribution (40/40/20)
-Audience quality drives 40% of results. Offer strength drives 40%. Copy drives 20%. **Always fix upstream before downstream.** When anything underperforms, audit in this order: Audience → Offer → Copy. Never optimize copy before audience is validated and offer is proven. *(Sultanic)*
+Audience quality drives 40% of results. Offer strength drives 40%. Copy drives 20%. **Always fix upstream before downstream.** When anything underperforms, audit in this order: Audience → Offer → Copy. Never optimize copy before audience is validated and offer is proven.
 
 ### INV-2 — Sequential Dependency
 Foundation assets must be built in order:
 **Market Research Brief → ICP → Positioning → Offer → Offer Repositioning**
-Each step requires the previous step's output. **Offer construction cannot begin without a completed ICP.** No marketing asset can ship without a Brand Voice doc. *(FIOVA Foundations AGENT.md)*
+Each step requires the previous step's output. **Offer construction cannot begin without a completed ICP.** No marketing asset can ship without a Brand Voice doc. *(Foundations agent spec)*
 
 ### INV-3 — Context Threshold Gates
 No skill executes without its required compartment completeness. Division unlock thresholds:
@@ -30,16 +30,16 @@ Asset-specific thresholds (examples):
 See `spec/CONTEXT-THRESHOLDS.md`.
 
 ### INV-4 — Economics Validation (3:1 LTV:CAC minimum)
-Every offer architecture must show a viable path to **3:1+ LTV:CAC** before downstream marketing assets are generated. Cannot scale a broken unit economic. Economics gate precedes all ads and launch work. *(Clogg / Hormozi)*
+Every offer architecture must show a viable path to **3:1+ LTV:CAC** before downstream marketing assets are generated. Cannot scale a broken unit economic. Economics gate precedes all ads and launch work. *(backend-economics / acquisition-economics methodologies)*
 
 ### INV-5 — Truth Gate (T must be non-zero)
-Every claim in a creator's assets must survive the **30-second screenshot test**: if someone screenshots the claim and fact-checks it with AI in 30 seconds, does it hold? If no → reject. *"A perfectly encoded lie arrives intact, lands cleanly, and collapses the moment reality applies pressure."* *(Hussain, T-variable)*
+Every claim in a creator's assets must survive the **30-second screenshot test**: if someone screenshots the claim and fact-checks it with AI in 30 seconds, does it hold? If no → reject. *"A perfectly encoded lie arrives intact, lands cleanly, and collapses the moment reality applies pressure."* *(T-variable)*
 
 ### INV-6 — No Fabrication
 **Never invent case studies, testimonials, results, or numbers.** If the creator has no proof, the output marks [PROOF GAP — capture required]. Fabricated proof violates Truth gate and brand safety.
 
 ### INV-7 — Banned Vocabulary (Anti-Slop)
-**Never use:** unlock, unleash, supercharge, game-changing, revolutionary, next-level, dive into, harness, leverage (as verb), dive deep, explore, navigate (metaphorical), journey (generic). Full list: `spec/BANNED-VOCABULARY.md`. *(FIOVA Foundations)*
+**Never use:** unlock, unleash, supercharge, game-changing, revolutionary, next-level, dive into, harness, leverage (as verb), dive deep, explore, navigate (metaphorical), journey (generic). Full list: `spec/BANNED-VOCABULARY.md`. *(Foundations division)*
 
 ### INV-8 — Platform-Specific Restraint
 Growth OS is for **high-ticket offer launch + scale operations**, not vertical agency services. Platform-specific skills (LinkedIn/IG/X/TikTok/YouTube) are scoped to **helping operators post about their own offers** — not full platform agency services. Deep platform expertise lives in vertical workspaces (LinkedIn Agency, IG Agency, X Agency — separate templates). **Do not expand platform skills beyond the operator's own offer-promotion needs.**
@@ -54,7 +54,7 @@ Every skill must be **runtime-agnostic at the SKILL.md level**. Runtime-specific
 All creator data, compartment content, `company.yaml` values, and `_private/` folder contents are **never pushed to GitHub**. The template ships as structure; the encoded creator content stays local or in a creator-owned private repo. *(Security differentiator)*
 
 ### INV-12 — Signal 5-Tuple Declared
-Every skill output declares its Signal encoding: **S = (Mode, Genre, Type, Format, Structure)** in the SKILL.md frontmatter and optionally in the output's metadata block. Unresolved dimensions = noise. *(Luna Signal Theory + Canopy spec)*
+Every skill output declares its Signal encoding: **S = (Mode, Genre, Type, Format, Structure)** in the SKILL.md frontmatter and optionally in the output's metadata block. Unresolved dimensions = noise. *(Signal Theory + Canopy spec)*
 
 ### INV-13 — S/N Quality Gate
 Every output passes the S/N gate before delivery:
@@ -65,7 +65,7 @@ Every output passes the S/N gate before delivery:
 Measured via: Action Completion Rate, Re-encoding Frequency, Time-to-Decode, Signal Bounce Rate, Genre Recognition Rate, Feedback Loop Closure. See `spec/QUALITY.md`.
 
 ### INV-14 — Blind Output Test
-Every ship-worthy output passes the Blind Output Test: **show to 3 evaluators who know the creator's work, ask "Did the creator produce this, or the system?"** If ≥ 1 says "creator" → pass. If 0 say "creator" → encoding is wrong, revise. See `spec/BLIND-OUTPUT-TEST.md`. *(Hussain — the operational test of whether encoding is complete)*
+Every ship-worthy output passes the Blind Output Test: **show to 3 evaluators who know the creator's work, ask "Did the creator produce this, or the system?"** If ≥ 1 says "creator" → pass. If 0 say "creator" → encoding is wrong, revise. See `spec/BLIND-OUTPUT-TEST.md`. *(the operational test of whether encoding is complete)*
 
 ---
 

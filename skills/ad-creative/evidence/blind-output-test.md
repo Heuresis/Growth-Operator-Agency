@@ -8,7 +8,7 @@ _v1.0 initial validation: pending (skill is freshly shipped)_
 
 ## Evaluator Roster (to recruit)
 
-1. A paid-acquisition operator running $50K+/mo on Meta with 3:1+ LTV:CAC (Haynes / Foss / Slings lineage preferred)
+1. A paid-acquisition operator running $50K+/mo on Meta with 3:1+ LTV:CAC (the growth engineer / the paid media director / the operations director lineage preferred)
 2. A target prospect inside the ICP — blind-read the ad copy, gauge specificity + voice
 3. A Meta compliance reviewer or ex-ad-account-rep who can stress-test policy compliance
 
@@ -64,7 +64,7 @@ Patterns to look for on any failures:
 
 5. **Multiple CTAs** — Ad has "Apply now" and "Book call" and "DM me." Fix: Tacit Principle 4 — one CTA per ad, hard rule.
 
-6. **Wrong scaling plan** — Recommendation to raise bids rather than duplicate campaigns at 2× budget. Fix: Haynes Creative Family Micro Tests is the scaling playbook — bid-increase breaks pixel learning.
+6. **Wrong scaling plan** — Recommendation to raise bids rather than duplicate campaigns at 2× budget. Fix: the growth engineer Creative Family Micro Tests is the scaling playbook — bid-increase breaks pixel learning.
 
 7. **Ad type mismatch** — UGC selected for creator who only has polished studio content, or Profile Funnel for creator without optimized profile. Fix: Decision Tree honors creator infrastructure signals; Appendix A documents alternatives considered.
 

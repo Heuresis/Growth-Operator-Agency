@@ -88,8 +88,8 @@ The label passes the 5-second test: a founder hears "Founder Fitness Operating S
 
 - `reference/examples/foundations/positioning-document.md` - the canonical positioning document
 - `reference/examples/foundations/icp-document.md` - ICP that grounds the positioning (Section 4 belief diagnosis)
-- `reference/frameworks/alen-sultanic/7-phase-offer-architecture.md` - Phase 1.2 limiting-belief identification
-- `reference/frameworks/alex-hormozi/grand-slam-offer.md` - mechanism naming rule
+- `reference/frameworks/esoteric-offer-architecture/7-phase-offer-architecture.md` - Phase 1.2 limiting-belief identification
+- `reference/frameworks/acquisition-economics/grand-slam-offer.md` - mechanism naming rule
 
 ---
 *Encoded 2026-04-19. Content is [VERBATIM] from the canonical Fitness Coaching for Tech Founders positioning document in the Growth OS foundations library. All competitor names (Dan Go, Dr. Galpin, Michael Sheedy), evidence quotes (Hampton Blog, Entrepreneur.com, Startups.com), and framework applications are pulled from the source document.*

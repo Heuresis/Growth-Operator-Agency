@@ -8,7 +8,7 @@ _v1.0 initial validation: pending (skill is freshly shipped)_
 
 ## Evaluator Roster (to recruit)
 
-1. A short-form creator or editor operating at 1M+ monthly short-form views (Bennett / MrBeast / Foss lineage preferred)
+1. A short-form creator or editor operating at 1M+ monthly short-form views (the short-form-frameworks author / creator-native methodology / the paid media director lineage preferred)
 2. A target prospect who consumes the creator's existing short-form — blind-read gauge voice + specificity
 3. An algorithm-savvy social ops lead who can rate hook-retention predictions + silent-viewing clarity
 
@@ -16,7 +16,7 @@ _v1.0 initial validation: pending (skill is freshly shipped)_
 
 ### 1. Output Set
 - 2 historical reel scripts produced by the creator or their short-form editor
-- 3 reel scripts produced by `/write-reel` (different Bennett frameworks across different creator contexts — include at least one Money Reveal + one Teaching)
+- 3 reel scripts produced by `/write-reel` (different short-form frameworks across different creator contexts — include at least one Money Reveal + one Teaching)
 - 1 generic-LLM reel script (control — no compartments, no voice extraction)
 
 All scripts anonymized. Strip creator names, replace brand names with `[BRAND]`, randomize order.
@@ -75,7 +75,7 @@ Patterns to look for on any failures:
 - **Baseline test:** At skill v1.0 launch (pending) — test at least 3 frameworks (Money Reveal + Teaching + Story Time minimum)
 - **Ongoing:** Every 10 runs, sample 1 script for blind-test review
 - **Drift check:** Quarterly full panel re-test
-- **Change-triggered:** After any edit to SKILL.md Decision Logic, Tacit Principles, Process, or Bennett reference file, rerun baseline test
+- **Change-triggered:** After any edit to SKILL.md Decision Logic, Tacit Principles, Process, or the short-form-frameworks author reference file, rerun baseline test
 - **Post-publish validation:** After 48h + 7d, review retention / completion / follow-rate against framework benchmark
 
 ## Revision Log

@@ -5,11 +5,11 @@
 ## Source / Lineage
 
 - **Steven Hassan** — *Combating Cult Mind Control* (1988); the BITE model (Behavior / Information / Thought / Emotional control)
-- **Robert Cialdini** — *Influence* + his own public ethics writing: the principles are neutral; the responsibility sits with the practitioner
+- **influence-principles research** — *Influence* + his own public ethics writing: the principles are neutral; the responsibility sits with the practitioner
 - **Robert Jay Lifton** — *Thought Reform and the Psychology of Totalism* (1961); the 8 criteria of thought reform
 - **Margaret Singer** — *Cults in Our Midst* (1995); the conditions under which coercive control takes root
 - **Jim Camp** — *Start with No*; the ethical counter-model: buyer-agency as the core of persuasion
-- **Alen Sultanic** — repeated public position: "they buy the identity, we don't install it" — the consent-first framing
+- **the offer architect** — repeated public position: "they buy the identity, we don't install it" — the consent-first framing
 
 ## The Core Distinction
 

@@ -4,9 +4,9 @@
 
 ## Source / Lineage
 
-- Dustin Varano (binge-loop as YouTube Flywheel pillar)
+- the content OS director (binge-loop as YouTube Flywheel pillar)
 - Netflix (serialized binge design)
-- MrBeast Creative Memo (series-ing Shorts)
+- creator-native methodology Creative Memo (series-ing Shorts)
 - Derral Eves (session-time optimization)
 
 ---
@@ -200,7 +200,7 @@ Too many links, too many playlists, too much cross-referencing. Overwhelming. Fi
 - `reference/frameworks/youtube/session-starter-strategy.md`
 - `reference/frameworks/youtube/algorithm-phase-logic.md`
 - `reference/frameworks/youtube/3-tier-funnel.md`
-- `reference/frameworks/dustin-varano/`
+- `reference/frameworks/content-os/`
 
 ---
 *v1.0 — 2026-04-19 — YouTube framework canonical.*

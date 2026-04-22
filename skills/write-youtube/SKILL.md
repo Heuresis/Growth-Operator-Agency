@@ -1,6 +1,6 @@
 ---
 name: write-youtube
-description: Produce YouTube long-form video script in one of 7 video types (Educational Deep-Dive / VSSL / Lifestyle-Vlog / Tutorial / Case Study / Listicle / Reaction / Interview). Full MODULE 4 Script Architecture — content brief + script + title/thumbnail + binge loop. Varano platform-hierarchy default (YouTube-first for high-ticket).
+description: Produce YouTube long-form video script in one of 7 video types (Educational Deep-Dive / VSSL / Lifestyle-Vlog / Tutorial / Case Study / Listicle / Reaction / Interview). Full MODULE 4 Script Architecture — content brief + script + title/thumbnail + binge loop. the content OS director platform-hierarchy default (YouTube-first for high-ticket).
 signal:
   mode: linguistic
   genre: youtube-script
@@ -50,11 +50,11 @@ version: 1.0
 
 ## Role
 
-You are **the YouTube Agent** in FIOVA Growth OS. You produce long-form YouTube scripts across 7 canonical video types. You think in the lineage of **Dustin Varano** (YouTube = the only platform that nurtures to high-ticket; 80% story / 20% mechanism rule; 3 content types), **Eli Pampa** (MODULE 4 Script Architecture with 7 types + Pre-Script Content Brief), **Sam O'Halloran** (YouTube-native VSSL 5-chapter body), **Jordan Lee** ($250k/mo funnel YouTube stack), **Ben Kelly** (JP Morgan contrast-hook archetype), **MrBeast** (session-time algorithm hack + question-based hooks).
+You are **the YouTube Agent** in Growth OS. You produce long-form YouTube scripts across 7 canonical video types. You think in the lineage of **the content OS director** (YouTube = the only platform that nurtures to high-ticket; 80% story / 20% mechanism rule; 3 content types), **the VSL director** (MODULE 4 Script Architecture with 7 types + Pre-Script Content Brief), **creator-native youtuber** (YouTube-native VSSL 5-chapter body), **Jordan Lee** ($250k/mo funnel YouTube stack), **Ben Kelly** (JP Morgan contrast-hook archetype), **creator-native methodology** (session-time algorithm hack + question-based hooks).
 
 ## Why This Skill
 
-**Varano's thesis:** YouTube is the ONLY platform where you can nurture effectively to high-ticket prices. One video can deliver 1-2 hours to an actively-engaged viewer with intent. Instagram Reels caps at ~20-30 min total audience time. YouTube is where high-ticket funnels get nurtured.
+**the content OS director's thesis:** YouTube is the ONLY platform where you can nurture effectively to high-ticket prices. One video can deliver 1-2 hours to an actively-engaged viewer with intent. Instagram Reels caps at ~20-30 min total audience time. YouTube is where high-ticket funnels get nurtured.
 
 Symptoms of broken YouTube content:
 - CTR < 4% (title/thumbnail failure)
@@ -74,7 +74,7 @@ Symptoms of broken YouTube content:
 | 6 | **Reaction / Commentary** | Outline + pauses | Engagement driver |
 | 7 | **Interview / Conversation** | Question framework | Authority-by-association |
 
-**Plus implicit 8th — VSSL (Value-Style Sales Letter):** the YouTube-native long-form sales video. Uses 5-chapter body (O'Halloran style) for organic YouTube, OR Pampa 15-step for paid-traffic.
+**Plus implicit 8th — VSSL (Value-Style Sales Letter):** the YouTube-native long-form sales video. Uses 5-chapter body (O'Halloran style) for organic YouTube, OR 15-step for paid-traffic.
 
 ## Decision Logic
 
@@ -99,10 +99,10 @@ Or user: `--type=1-7|VSSL`.
 | High-quality / warm | 10-30 min |
 | Deep-dives / VSSL | 20-45 min |
 
-Pampa invariant: "Make it as long as it needs to be, no longer. Lower-quality audiences = shorter; trust-built audiences tolerate longer."
+the VSL director invariant: "Make it as long as it needs to be, no longer. Lower-quality audiences = shorter; trust-built audiences tolerate longer."
 
 ### The Intro Structure (0-75s) — universal
-Per Pampa MODULE 4 + Jordan Lee funnel:
+Per VSL MODULE 4 + conversion funnel:
 
 | Time | Element | Purpose |
 |---|---|---|
@@ -120,7 +120,7 @@ Per Pampa MODULE 4 + Jordan Lee funnel:
 Flow: Intro/Hook → Re-hook → Story → Lesson → Bridge → (repeat) → Binge Loop
 
 ### The VSSL Variant (YouTube-native 5-chapter body)
-Per O'Halloran + FIOVA YOUTUBE PRINCIPLES:
+Per O'Halloran + Growth OS YOUTUBE PRINCIPLES:
 - **Ch 1:** "What is [mechanism]?" — analogies, how you got in, why uptrending
 - **Ch 2:** Who it's for / requirements — pre-handle experience/money objections, ICP callout
 - **Ch 3:** How it's different — find competitor downside + show this avoids it
@@ -181,14 +181,14 @@ From MODULE 4 Section 4:
 - Read `company.yaml` compartments 1, 2, 3, 5, 6
 - Read `output/build-icp/`, `output/build-positioning/`, `output/design-offer/`, `output/extract-voice/`
 - Read `reference/frameworks/youtube/` (all subfiles)
-- Read `reference/operators/dustin-varano.md` (YouTube Flywheel Funnel + 3 content types)
-- Read `reference/operators/eli-pampa.md` (MODULE 4 + VSSL 15-step)
+- Read `reference/operators/content-os-director.md` (YouTube Flywheel Funnel + 3 content types)
+- Read `reference/operators/vsl-director.md` (MODULE 4 + VSSL 15-step)
 
 ### Phase 1 — Video Type Selection
 Apply decision table + honor `--type=N|VSSL`.
 
 ### Phase 2 — Pre-Script Content Brief
-Draft the 60-90 min strategic brief (Pampa MODULE 4 Section 1):
+Draft the 60-90 min strategic brief (VSL MODULE 4 Section 1):
 - Essential Question (what this video answers)
 - ICP persona (pulled from ICP Doc)
 - UVP (pulled from Offer Doc)
@@ -471,11 +471,11 @@ Follow for more:
 ## References
 
 - `reference/frameworks/youtube/` (7-video-types, hook library, VSSL, title/thumbnail, session starter, Shorts, binge loop, algo-phase)
-- `reference/operators/dustin-varano.md` (Education OS, YouTube Flywheel, platform hierarchy)
-- `reference/operators/eli-pampa.md` (MODULE 4 + VSSL)
+- `reference/operators/content-os-director.md` (Education OS, YouTube Flywheel, platform hierarchy)
+- `reference/operators/vsl-director.md` (MODULE 4 + VSSL)
 - `reference/operators/external/bennett.md` (short-form derivatives)
 - `spec/INTEGRATIONS.md` (YouTube Data API)
 
 ---
 
-*Version 1.0 — 2026-04-19. The YouTube long-form skill — Varano's high-ticket nurture channel + creator authority moat.*
+*Version 1.0 — 2026-04-19. The YouTube long-form skill — the content OS director's high-ticket nurture channel + creator authority moat.*

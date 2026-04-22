@@ -7,58 +7,58 @@
 ### 1. Signal Theory (`signal-theory/`)
 The quality substrate. Applies to every skill's output verification.
 - `5-tuple-encoding.md` — Mode/Genre/Type/Format/Structure
-- `4-principles.md` — Shannon/Ashby/Beer/Wiener
+- `4-principles.md` — information theory/cybernetics theory/viable systems theory/feedback-loop theory
 - `vsm-mapping.md` — VSM Systems 1-5 mapped to Growth OS divisions
 - `triple-layer-verification.md` — 40/35/25 quality gate
-- `channel-capacity.md` — Shannon applied to context windows
+- `channel-capacity.md` — information theory applied to context windows
 
 ### 2. Primitives (`primitives/`) — the real moat
 Six atomic primitives used across every division — cross-cutting operator IP.
-- `unique-mechanism.md` — Brown + Georgi + Sultanic
-- `value-equation.md` — Hormozi
-- `core-four.md` — Hormozi (Warm Outreach / Content / Cold Outreach / Paid)
-- `call-funnel.md` — Haynes + Clogg + Gadzhi
-- `educate-before-pitch.md` — Brown + Benson + Haynes
-- `specificity.md` — Seech + Hormozi + Georgi
+- `unique-mechanism.md` — the campaign director + the copy director + the offer architect
+- `value-equation.md` — the acquisition economist
+- `core-four.md` — the acquisition economist (Warm Outreach / Content / Cold Outreach / Paid)
+- `call-funnel.md` — the growth engineer + the backend economist + the agency director
+- `educate-before-pitch.md` — the campaign director + the VSL copywriter + the growth engineer
+- `specificity.md` — the media buying director + the acquisition economist + the copy director
 
 ### 3. Cult Methodology (`cult-methodology/`)
-Branding, marketing, and cult-following strategies. Reference: Tate-style persona authority + cult-movement archetypes.
+Branding, marketing, and cult-following strategies. Reference: authority-provocation-style persona authority + cult-movement archetypes.
 Used by: foundations (positioning), marketing (authority building), nurture (community rituals)
 
 ### 4. Esoteric Marketing (`esoteric-marketing/`)
-Sultanic-lineage: emotional marketing, low-ticket offers, ascension funnels, market psychology foundations.
+esoteric-offer-architecture lineage: emotional marketing, low-ticket offers, ascension funnels, market psychology foundations.
 Used by: foundations (ICP psych), marketing (emotional triggers), sales (offer stacking), lifecycle (ascension)
 
 ### 5. Growth Operating Process (`growth-operating-process/`)
-Sanjay Slings' straight process for ops — customer-journey audit, 7-step launch, KPI diagnostics, "papercut" detection.
+the operations director's straight process for ops — customer-journey audit, 7-step launch, KPI diagnostics, "papercut" detection.
 Used by: scale (ops), all divisions (process discipline)
 
 ### 6. Instagram Profile Funnel (`instagram-profile-funnel/`)
-Siggy Foss's stack — IG ecosystem, profile-as-landing-page, ads, profile-funnel mechanics.
+the paid media director's stack — IG ecosystem, profile-as-landing-page, ads, profile-funnel mechanics.
 Used by: marketing (IG), sales (profile funnels)
 
 ### 7. YouTube (`youtube/`)
-FIOVA YouTube master stack — 7 video types, 20-hook library, VSSL construction, 4-pillar content mix, session-starter strategy.
+YouTube methodology master stack — 7 video types, 20-hook library, VSSL construction, 4-pillar content mix, session-starter strategy.
 Used by: marketing (YouTube + Shorts)
 
 ### 8. VSL Variants (`vsl/`)
-5 VSL framework variants — Pampa (15-step), Hogendoorn (11-step Pull-Push-Persuade), Trister (13-step slides), Benson (3X), Haynes (Hidden VSSL).
+5 VSL framework variants — the VSL director (15-step), the psychological copywriter (11-step Pull-Push-Persuade), the 13-step VSL author (13-step slides), the VSL copywriter (3X), the growth engineer (Hidden VSSL).
 Used by: sales (/build-vsl skill has 5 variants to pick from)
 
 ### 9. Classical Persuasion (`classical/`)
-Schwartz, Cialdini, Kahneman, Halbert — the 20th century direct-response lineage.
-- `schwartz-awareness-spectrum.md` — 5 awareness levels
-- `limiting-belief-triad.md` — Sultanic's Worthless/Helpless/Hopeless
+awareness-spectrum research, influence-principles research, cognitive-bias research, the direct-response tradition — the 20th century direct-response lineage.
+- `awareness-spectrum-5-levels.md` — 5 awareness levels
+- `limiting-belief-triad.md` — the offer architect's Worthless/Helpless/Hopeless
 - `market-hierarchy.md` — Market → Audience → Offer → Copy
-- `pampa-market-sophistication.md` — 4-stage (Naive/Aware/Skeptical/Exhausted)
-- `impact-distribution.md` — 40/40/20 (Sultanic)
+- `market-sophistication-4-stages.md` — 4-stage (Naive/Aware/Skeptical/Exhausted)
+- `impact-distribution.md` — 40/40/20 (7-phase offer methodology)
 - `4-belief-layers.md` — low-ticket vs high-ticket
-- `cialdini-6-principles.md`
-- `halbert-kennedy-direct-response.md`
+- `6-principles-of-influence.md`
+- `direct-response-copy-principles.md`
 
 ### 10. Offer Architecture (`offer-architecture/`)
-- `sultanic-offer-building-system.md` — 7-step Phase 2 offer architecture
-- `hormozi-grand-slam-offer.md` — bonus stacking + value stack + guarantee
+- `7-phase-offer-building-system.md` — 7-step Phase 2 offer architecture
+- `grand-slam-offer.md` — bonus stacking + value stack + guarantee
 - `identity-evolution-pricing.md` — tier as identity
 - `ltv-ascension-system.md` — upsell ladder + continuity math
 
@@ -66,7 +66,7 @@ Schwartz, Cialdini, Kahneman, Halbert — the 20th century direct-response linea
 - `full-stack-sales-call-8-stage.md` — Rapport/Agenda/Diagnosis/Vision/Bridge+Pitch/Price/Objection/Close
 - `crossroads-close.md`
 - `value-stack-architecture.md` — 5-layer close structure
-- `8-required-beliefs.md` — Pampa
+- `8-required-beliefs.md` — the VSL director
 
 ### 12. Operator Frameworks (per-operator, cross-referenced)
 - `reference/operators/` — 17+ operator playbooks (the encoded IP library)

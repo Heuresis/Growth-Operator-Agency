@@ -4,10 +4,10 @@
 
 ## Source / Lineage
 
-- Dustin Varano (length-to-intent matching)
-- Alex Hormozi (long-form + VSL length studies)
+- the content OS director (length-to-intent matching)
+- the acquisition economist (long-form + VSL length studies)
 - YouTube Analytics retention curves, 2024–2026 benchmarks
-- MrBeast Creative Memo (Shorts retention)
+- creator-native methodology Creative Memo (Shorts retention)
 
 ---
 

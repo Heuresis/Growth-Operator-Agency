@@ -50,7 +50,7 @@ Patterns to look for on any failures:
 
 ## Known Failure Modes (to watch for)
 
-1. **Revenue threshold skipped** — Skill recommends a $200K Marketing Mgr hire at $50K MRR. Fix: enforce Pampa threshold check as a hard gate before the brief writes; flag mismatch and require creator override.
+1. **Revenue threshold skipped** — Skill recommends a $200K Marketing Mgr hire at $50K MRR. Fix: enforce the VSL director threshold check as a hard gate before the brief writes; flag mismatch and require creator override.
 
 2. **Scorecard too generic** — "Strong communicator" instead of "< 5 min DM response 95% of the time on test week." Fix: require every competency to have a numeric + time-bound pass criterion.
 

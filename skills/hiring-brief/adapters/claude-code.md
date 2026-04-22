@@ -1,5 +1,5 @@
 ---
-description: Produce a hiring brief for one of 8 roles — scorecard + ideal profile + compensation + 5-stage Haynes screening + 30/60/90 plan. Revenue-threshold-aware.
+description: Produce a hiring brief for one of 8 roles — scorecard + ideal profile + compensation + 5-stage the growth engineer screening + 30/60/90 plan. Revenue-threshold-aware.
 argument-hint: "[optional: --role=setter|closer|sdr|content-mgr|editor|cs|va|marketing-mgr]"
 allowed-tools: Read, Write, Edit, Grep, Glob
 ---
@@ -16,9 +16,9 @@ Load and execute `skills/hiring-brief/SKILL.md` in the current workspace.
    - `Read` `skills/hiring-brief/reference/` (all files, if present)
    - `Read` upstream dependency output: `output/build-sop/latest-{role}.md` (SOP defines the role before the brief)
 
-2. **Pre-flight check:** Verify `company.yaml` thresholds — offer_architecture ≥ 50, operational_intelligence ≥ 30. If below, recommend running `/build-sop` for the role first. Also cross-check creator's MRR against Pampa's Revenue-Threshold Team Model.
+2. **Pre-flight check:** Verify `company.yaml` thresholds — offer_architecture ≥ 50, operational_intelligence ≥ 30. If below, recommend running `/build-sop` for the role first. Also cross-check creator's MRR against the VSL director's Revenue-Threshold Team Model.
 
-3. **Execute Phase 0 → Phase 11** per SKILL.md Process section — Load, Revenue Threshold Check, Role Definition, Scorecard, Ideal Profile, Compensation, Outreach Script, Screening Flow (Haynes 5-stage), Interview Questions, Role Plays, 30/60/90 Plan, Compliance.
+3. **Execute Phase 0 → Phase 11** per SKILL.md Process section — Load, Revenue Threshold Check, Role Definition, Scorecard, Ideal Profile, Compensation, Outreach Script, Screening Flow (the growth engineer 5-stage), Interview Questions, Role Plays, 30/60/90 Plan, Compliance.
 
 4. **Write output:**
    - `Write` to `output/hiring-brief/{YYYY-MM-DD}-hiring-brief-{role}.md`

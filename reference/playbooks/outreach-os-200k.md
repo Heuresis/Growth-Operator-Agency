@@ -208,7 +208,7 @@ Benchmarks for a disciplined 2–3 setter team on a $5k–$15k offer:
 - **Skills:** `icp-filter-builder`, `sequence-writer`, `qualification-designer`, `call-handoff-scripter`
 - **Agents:** `outbound-division-agent` runs the whole sequence end-to-end. `sales-division-agent` takes booked calls. `ops-division-agent` manages CRM + handoffs.
 - **Sub-agents:** `sales-nav-filterer`, `message-personalizer`, `compliance-auditor`, `setter-scorecard`
-- **Knowledge sources:** `reference/frameworks/foundations-methodology.md`, `reference/frameworks/fiova-icp-deep-dive.md`, `reference/frameworks/sales/`
+- **Knowledge sources:** `reference/frameworks/foundations-methodology.md`, `reference/frameworks/icp-deep-dive.md`, `reference/frameworks/sales/`
 - **Operator artifacts touched:** `output/foundations/icp-document.md`, `output/foundations/offer-document.md`, new `output/outreach/sequence-v*.md` + `output/outreach/compliance-log.md`
 
 ## INV-8 Scope Note
@@ -232,8 +232,8 @@ If a founder wants to sell outbound-as-a-service to others, that is a separate w
 ## Cross-references
 
 - `reference/playbooks/mentorship-funnel-97k.md` — inbound-first complement for operators who can publish
-- `reference/operators/external/paolo.md` — outbound-volume archetype (5000+ calls operator)
-- `reference/frameworks/fiova-icp-deep-dive.md` — ICP construction upstream of Sales Nav filter
+- `reference/operators/external/outreach-director.md` — outbound-volume archetype (5000+ calls operator)
+- `reference/frameworks/icp-deep-dive.md` — ICP construction upstream of Sales Nav filter
 - `reference/frameworks/sales/` — call scripts + objection library
 - `reference/frameworks/foundations-methodology.md` — pre-requisite (don't scale a bad offer)
 

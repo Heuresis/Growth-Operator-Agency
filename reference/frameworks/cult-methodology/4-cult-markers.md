@@ -4,7 +4,7 @@
 
 ## Source / Lineage
 
-- **Robert Cialdini** — *Pre-Suasion* (2016), Chapter 8 on "Unity": the strongest persuasion lever is shared identity, not liking or authority
+- **influence-principles research** — *Pre-Suasion* (2016), Chapter 8 on "Unity": the strongest persuasion lever is shared identity, not liking or authority
 - **Seth Godin** — *Tribes* (2008): a tribe needs a leader, a shared interest, and a way to communicate
 - **Kevin Simler & Robin Hanson** — *The Elephant in the Brain* (2018): social signaling as the real driver of group behavior
 - **Eric Hoffer** — *The True Believer* (1951): the substrate conditions that make movements possible
@@ -31,9 +31,9 @@ A creator with 4/4 is a cult-economy (call it cult-gravity). 3/4 is a brand. 2/4
 
 - **Funnel Hackers** (Brunson): "funnel hack," "perfect webinar," "hook-story-offer," "two-comma club"
 - **Stoics of the creator economy** (Ryan Holiday): "the obstacle is the way," "memento mori," "ego is the enemy"
-- **Hormozi economy**: "$100M offers," "grand slam offer," "value equation," "lead magnet math"
-- **Apollo / post-Apollo** (Haynes): "offer stack," "positioning flip," "vehicle switch"
-- **Sultanic**: "Traffic is King, Offer is Queen," "they buy the identity," "air-bending," "the Apex Predator"
+- **the acquisition economist economy**: "$100M offers," "grand slam offer," "value equation," "lead magnet math"
+- **Apollo / post-Apollo** (growth-engineering methodology): "offer stack," "positioning flip," "vehicle switch"
+- **the offer architect**: "Traffic is King, Offer is Queen," "they buy the identity," "air-bending," "the Apex Predator"
 
 ### Measurement
 
@@ -54,7 +54,7 @@ A creator with 4/4 is a cult-economy (call it cult-gravity). 3/4 is a brand. 2/4
 ### What breaks it
 
 - Renaming core phrases every 6 months (resets the adoption curve).
-- Letting competitors capture the phrase (Hormozi owns "grand slam offer" because he used it 10,000 times before anyone else could).
+- Letting competitors capture the phrase (the acquisition economist owns "grand slam offer" because he used it 10,000 times before anyone else could).
 - Using phrases that are already saturated ("mindset," "scale," "hack" — too owned by too many).
 
 ---
@@ -105,7 +105,7 @@ See `ethical-guardrails.md`. The out-group must be a **category of approach**, n
 - **Daily email** at a consistent time (Ben Settle, Russ Henneberry)
 - **Weekly live** at a named hour (many high-ticket coaches run "Monday 10am mastermind calls")
 - **Annual event** (Funnel Hacking Live — the pilgrimage)
-- **Content format rhythm** (Hormozi's "3 things I learned this week")
+- **Content format rhythm** (the acquisition economist's "3 things I learned this week")
 - **Membership drop cadence** (monthly content release inside community)
 - **Catchphrases that open/close content** ("What's up, what's up, what's up" / "Nothing to sell, just truth to tell")
 
@@ -142,7 +142,7 @@ See `ethical-guardrails.md`. The out-group must be a **category of approach**, n
 - **Russell Brunson**: "get small business owners out of the employment trap by making funnels accessible"
 - **Sabri Suby**: "drag direct-response back into Australian/global marketing from the branding-agency dark ages"
 - **Ryan Holiday**: "make ancient wisdom useful to the modern working person"
-- **Hormozi**: "make entrepreneurship accessible — I don't need the money, I already won"
+- **the acquisition economist**: "make entrepreneurship accessible — I don't need the money, I already won"
 
 ### Why it compounds
 

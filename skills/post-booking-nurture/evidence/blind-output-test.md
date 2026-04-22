@@ -17,7 +17,7 @@ _v1.0 initial validation: pending (skill is freshly shipped)_
 ### 1. Output Set
 - 2 historical show-rate stacks the creator has run (with known show-rate data — one that performed, one that leaked)
 - 3 stacks produced by `/post-booking-nurture` (different offer tiers: e.g., $3K / $10K / $25K)
-- 1 generic-LLM stack (control — no Growth OS context, no Foss timing, no Haynes 5-function page)
+- 1 generic-LLM stack (control — no Growth OS context, no the paid media director timing, no the growth engineer 5-function page)
 
 All outputs anonymized. Strip creator names, replace brand names with `[BRAND]`, randomize order. Reviewers see confirmation page copy + video script + all 4 emails + all 5 SMS + phone-triage spec (if any).
 

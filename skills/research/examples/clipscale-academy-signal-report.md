@@ -46,7 +46,7 @@ Market: teaching people to build clipping agencies serving live streamers by rep
 
 ### Market Gaps
 
-**Education Vacuum:** No "Gadzhi of clipping." 16.3K in ClipFlow at $49/mo, zero premium ($2K+) programs.
+**Education Vacuum:** No "the agency director of clipping." 16.3K in ClipFlow at $49/mo, zero premium ($2K+) programs.
 
 **Agency Model Gap:** No branded "clipping agency for streamers" category. $200-$500/mo managed service price band empty between $30/mo AI tools and $850+/mo general agencies.
 

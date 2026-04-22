@@ -1,13 +1,13 @@
-# VSSL 15-Step Structure (Jon Benson) — Adapted for YouTube
+# VSSL 15-Step Structure (the VSL copywriter) — Adapted for YouTube
 
 > **Why this matters:** The VSSL is the single highest-converting long-form format for offers above $3K. YouTube's algorithm rewards it (long AVD) and warm viewers convert 5–12x higher than cold ad traffic on the same letter.
 
 ## Source / Lineage
 
-- Jon Benson — original VSL/VSSL 15-step architecture
-- Todd Brown — E5 Method market-sophistication layer
-- Alex Hormozi — offer density and guarantee stack
-- Dustin Varano — YouTube-native pacing + session-starter placement
+- the VSL copywriter — original VSL/VSSL 15-step architecture
+- the campaign director — E5 Method market-sophistication layer
+- the acquisition economist — offer density and guarantee stack
+- the content OS director — YouTube-native pacing + session-starter placement
 
 ---
 
@@ -103,7 +103,7 @@ Describe what the offer IS, not yet what it costs.
 
 ### Step 11 — The Deliverable Stack (46:00–52:00)
 
-Itemize every component and assign a standalone value to each. This is Hormozi's stack logic applied inside Benson's VSSL.
+Itemize every component and assign a standalone value to each. This is the acquisition economist's stack logic applied inside the VSL copywriter's VSSL.
 
 - Component 1: [description] — worth $X alone
 - Component 2: [description] — worth $X alone
@@ -149,12 +149,12 @@ Specific call-to-action. One step only.
 
 ## YouTube-Specific Adaptations
 
-These are the changes from Benson's sales-page VSL to the YouTube VSSL:
+These are the changes from the VSL copywriter's sales-page VSL to the YouTube VSSL:
 
-1. **Cold-open hook is shorter** — 15s max before the first retention check. Benson's sales-page VSLs could breathe for 2 minutes before the first value drop; YouTube can't.
+1. **Cold-open hook is shorter** — 15s max before the first retention check. the VSL copywriter's sales-page VSLs could breathe for 2 minutes before the first value drop; YouTube can't.
 2. **Visual B-roll every 20–40 seconds** — the YouTube audience is used to cuts. Static talking-head for 90+ seconds tanks retention.
 3. **Chapter markers** — YouTube's chapter feature helps retention. Mark 5–7 chapters.
-4. **Two CTAs, not one** — place a soft CTA around minute 30 (for viewers ready to act early) and the hard CTA at the end. Hormozi data: the mid-video CTA captures 30–40% of eventual conversions.
+4. **Two CTAs, not one** — place a soft CTA around minute 30 (for viewers ready to act early) and the hard CTA at the end. the acquisition economist data: the mid-video CTA captures 30–40% of eventual conversions.
 5. **End-card to a 2nd asset** — book-a-call link + a follow-up deep-dive. The 2nd asset captures viewers not ready yet.
 6. **No auto-play music beds** — YouTube VSSLs perform better with minimal background music; over-produced music reads as "ad."
 

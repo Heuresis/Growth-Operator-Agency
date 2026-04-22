@@ -9,7 +9,7 @@ _v1.0 initial validation: pending (skill is freshly shipped)_
 ## Evaluator Roster (to recruit)
 
 1. An active IG follower of the creator (someone in the Close Friends list or heavy story-viewer — their sentiment on authenticity vs salesy is the real signal)
-2. A peer IG story operator who runs Clay-style sequences (a fellow creator or small-team operator in the creator's space, not an agency)
+2. A peer IG story operator who runs stories-director-style sequences (a fellow creator or small-team operator in the creator's space, not an agency)
 3. The creator themselves (voice + brand-fit + comfort-to-publish check)
 
 ## Test Protocol
@@ -56,7 +56,7 @@ Patterns to look for on any failures:
 
 3. **Day 3 objection guessed** — Skill fabricates an objection instead of pulling from ICP Section 10 Objection Library. Result: objection doesn't resonate, day wasted. Fix: require explicit reference to ICP objection entry with source quote.
 
-4. **Blank background specified** — Skill suggests "clean white background" or "just text." Violates Clay 4-layer anatomy subconscious-proof rule. Fix: hard-reject blank; require image concept per slide.
+4. **Blank background specified** — Skill suggests "clean white background" or "just text." Violates 4-layer anatomy subconscious-proof rule. Fix: hard-reject blank; require image concept per slide.
 
 5. **Claim without screenshot** — "I helped 50 clients hit $10K" with no Stripe/testimonial screenshot cited. Truth Gate violation + trust leak. Fix: proof-screenshot field required when any claim is in the text layer.
 

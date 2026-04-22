@@ -1,6 +1,6 @@
 # Triple-Layer Verification — 40% Formal + 35% Semantic + 25% Info-Theoretic
 
-> **Source:** Luna Signal Theory p.41 · Canopy `protocol/signal-theory.md` lines 120-140
+> **Source:** Signal Theory p.41 · Canopy `protocol/signal-theory.md` lines 120-140
 > **Status:** Load-bearing. Every skill output scored on all 3 layers before ship.
 
 ## The Formula
@@ -67,7 +67,7 @@ Formal > semantic > info-theoretic reflects prerequisite order.
 
 ## The 6 Proxy Metrics (operational measurement)
 
-Per Luna p.39, S/N can be measured via 6 proxies:
+Per Signal Theory p.39, S/N can be measured via 6 proxies:
 
 1. **Action Completion Rate** — % of Signals resulting in intended action
 2. **Re-encoding Frequency** — how often receiver asks for clarification
@@ -98,7 +98,7 @@ Per `handoffs/quality-revision.md`:
 
 ## Sources
 
-- Luna Signal Theory p.41
+- Signal Theory p.41
 - Canopy `protocol/signal-theory.md` lines 120-140
 - `spec/QUALITY.md`
 

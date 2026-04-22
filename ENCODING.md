@@ -68,7 +68,7 @@ audience_intelligence_system:
       trust_signals_required: [string] # What makes them trust
 
   market_sophistication:
-    awareness_level: string           # Unaware / Problem-aware / Solution-aware / Product-aware / Most-aware (Schwartz)
+    awareness_level: string           # Unaware / Problem-aware / Solution-aware / Product-aware / Most-aware (awareness-spectrum methodology)
     solution_awareness: string        # Naive / Aware / Skeptical / Exhausted (market maturity stage)
     market_maturity: string           # Emerging / Growing / Mature / Saturated
     competitive_density: string       # Low / Medium / High / Saturated
@@ -181,7 +181,7 @@ copy_messaging:
   psychological_triggers:
     primary_emotions: [string]        # Fear/Anger/Greed/Guilt/Pride
     cognitive_biases_leveraged: [string]
-    persuasion_principles: [string]   # Cialdini primitives used
+    persuasion_principles: [string]   # influence-principles research primitives used
     urgency_mechanisms: [string]
     scarcity_frameworks: [string]
   objection_handling_library:
@@ -403,6 +403,6 @@ This file is the **authoritative schema**. `company.yaml` must conform. If a cre
 
 ---
 
-*Version: 1.0.0 — 2026-04-21. Based on FIOVA Creator Context Profile Architecture + Luna Signal Theory. Derived from Notion page 2f139dd8-23e7-8062-955e-fa6a004461a5.*
+*Version: 1.0.0 — 2026-04-21. Based on Creator Context Profile Architecture + Signal Theory. Derived from Notion page 2f139dd8-23e7-8062-955e-fa6a004461a5.*
 
 *Growth OS — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*

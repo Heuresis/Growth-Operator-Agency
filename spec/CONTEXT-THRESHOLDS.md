@@ -83,9 +83,9 @@ Before producing a specific asset, these compartments must hit minimum %:
 
 ## Source
 
-- FIOVA Master Prompt Layer 2 Section 5 (Context Quality → Output Quality Engine)
-- Eli Pampa 8 Required Beliefs (Offer must hit 70% before pitch)
-- Alen Sultanic 40/40/20 Impact Distribution
+- Growth OS Master Prompt Layer 2 Section 5 (Context Quality → Output Quality Engine)
+- Eli 8 Required Beliefs (Offer must hit 70% before pitch)
+- the offer architect 40/40/20 Impact Distribution
 
 ---
 *v1.0 — 2026-04-19*

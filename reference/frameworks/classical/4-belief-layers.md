@@ -4,9 +4,9 @@
 
 ## Source / Lineage
 
-- Extracted from the teaching of Alen Sultanic, Dustin Varano, Todd Brown
+- Extracted from the teaching of the offer architect, the content OS director, the campaign director
 - Distilled into four-layer structure by the Heuresis authoring line (2026)
-- Compatible with the Schwartz awareness spectrum and the Hormozi "dream outcome / perceived likelihood / effort / time" value equation
+- Compatible with the awareness spectrum and the the acquisition economist "dream outcome / perceived likelihood / effort / time" value equation
 
 ## The Four Layers
 
@@ -136,7 +136,7 @@ A prospect without Layer 1 cannot be sold — because to them, there is nothing 
 
 - `8-required-beliefs.md` — the belief structure stacked above these layers
 - `limiting-belief-triad.md` — beliefs blocking Layer 1–2 installation
-- `schwartz-awareness-spectrum.md` — awareness predicts which layer needs work
+- `awareness-spectrum-5-levels.md` — awareness predicts which layer needs work
 - `full-stack-sales-call-8-stage.md` — each layer maps to a call stage
 
 ---

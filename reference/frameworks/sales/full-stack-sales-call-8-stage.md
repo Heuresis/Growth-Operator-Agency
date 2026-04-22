@@ -4,10 +4,10 @@
 
 ## Source / Lineage
 
-- Alen Sultanic, *Ownership Selling* methodology
-- Dustin Varano, high-ticket closing methodology
+- the offer architect, *Ownership Selling* methodology
+- the content OS director, high-ticket closing methodology
 - Jeremy Miner (NEPQ), Chris Voss (*Never Split the Difference*)
-- Distilled into eight stages by the Heuresis authoring line (2026), compatible with Cialdini / Kahneman / 4-belief layer frameworks
+- Distilled into eight stages by the Heuresis authoring line (2026), compatible with influence-principles research / cognitive-bias research / 4-belief layer frameworks
 
 ## The Eight Stages
 
@@ -233,7 +233,7 @@ Total: 40–50 minutes.
 - `4-belief-layers.md` — deep layers stages 2–4 target
 - `crossroads-close.md` — close variants for stage 7
 - `value-stack-architecture.md` — pricing presentation in stage 5
-- `kahneman-system-1-2.md` — cognitive fatigue map across the call
+- `system-1-system-2.md` — cognitive fatigue map across the call
 
 ---
 *v1.0 — 2026-04-19.*

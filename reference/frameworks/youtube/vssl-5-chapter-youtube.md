@@ -4,10 +4,10 @@
 
 ## Source / Lineage
 
-- Jon Benson (compressed VSSL)
-- Dustin Varano (YouTube pacing)
-- Todd Brown (Big Idea copy patterns)
-- Alex Hormozi (offer stack + guarantee)
+- the VSL copywriter (compressed VSSL)
+- the content OS director (YouTube pacing)
+- the campaign director (Big Idea copy patterns)
+- the acquisition economist (offer stack + guarantee)
 
 ---
 

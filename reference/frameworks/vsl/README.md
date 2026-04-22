@@ -6,25 +6,25 @@
 
 | # | Variant | File | Best for |
 |---|---|---|---|
-| A | **Pampa 15-step** | `pampa-15-step.md` | Default for $3K-$30K, creator on-camera, paid traffic |
-| B | **Hogendoorn 11-step (Pull-Push-Persuade)** | `hogendoorn-11-step.md` | No-camera / faceless / paid-traffic cold |
-| C | **Trister 13-step (slides)** | `trister-13-step.md` | Slide-based voice-over, data/SaaS/analytical niches |
-| D | **Benson 3X** | `benson-3x.md` | Emotional / story-driven, mid-ticket, strong origin story |
-| E | **Haynes Hidden VSSL** | `haynes-hidden-vssl.md` | YouTube-native / organic, content-first brand |
+| A | **15-step** | `15-step-vsl.md` | Default for $3K-$30K, creator on-camera, paid traffic |
+| B | **Pull-Push-Persuade 11-step (Pull-Push-Persuade)** | `pull-push-persuade-11-step.md` | No-camera / faceless / paid-traffic cold |
+| C | **13-step VSL (slides)** | `13-step-vsl.md` | Slide-based voice-over, data/SaaS/analytical niches |
+| D | **3X VSL Formula** | `3x-vsl-formula.md` | Emotional / story-driven, mid-ticket, strong origin story |
+| E | **Hidden VSSL** | `hidden-vssl.md` | YouTube-native / organic, content-first brand |
 
 ## Variant Selection Decision Tree
 
 ```
 IF offer $3K-$30K AND creator on-camera AND paid traffic:
-    → Variant A (Pampa 15-step)
+    → Variant A (15-step)
 ELIF paid traffic AND no-camera AND data/SaaS/finance:
-    → Variant C (Trister 13-step slides)
+    → Variant C (13-step VSL slides)
 ELIF paid traffic AND no-camera AND general niches:
-    → Variant B (Hogendoorn 11-step)
+    → Variant B (Pull-Push-Persuade 11-step)
 ELIF creator has strong origin story AND emotional niche AND mid-ticket:
-    → Variant D (Benson 3X)
+    → Variant D (3X VSL Formula)
 ELIF YouTube organic AND content-first brand:
-    → Variant E (Haynes Hidden VSSL)
+    → Variant E (Hidden VSSL)
 ELSE:
     → Default Variant A (broadest applicability)
 ```

@@ -1,15 +1,15 @@
-# VSL Story Architecture — Sultanic's Emotional Beat Structure
+# VSL Story Architecture — the offer architect's Emotional Beat Structure
 
-> **Why this matters:** Eli Pampa's 15-step VSL (see `vsl/eli-pampa-15-step.md`) is the **structural** blueprint — the boxes you fill in. Sultanic's story architecture is the **emotional** blueprint — the arc that runs through those boxes. A 15-step VSL with no emotional arc converts at 1-2%. With the arc properly mapped, the same structure converts at 4-8%. This file maps the 6 emotional beats to persuasion mechanics.
+> **Why this matters:** Eli the 15-step VSL (see `vsl/eli-pampa-15-step.md`) is the **structural** blueprint — the boxes you fill in. the offer architect's story architecture is the **emotional** blueprint — the arc that runs through those boxes. A 15-step VSL with no emotional arc converts at 1-2%. With the arc properly mapped, the same structure converts at 4-8%. This file maps the 6 emotional beats to persuasion mechanics.
 
 ## Source / Lineage
 
-- **Alen Sultanic** — the 6-beat VSL arc (primary; taught inside private cohorts)
+- **the offer architect** — the 6-beat VSL arc (primary; taught inside private cohorts)
 - **Joseph Campbell** — *The Hero with a Thousand Faces* (1949) — the monomyth structure adapted for a sales context
 - **Christopher Booker** — *The Seven Basic Plots* (2004) — the "overcoming the monster" and "rebirth" plots most fit sales storytelling
 - **Robert McKee** — *Story* (1997) — the inciting-incident → progressive-complications → climax structure
-- **Eli Pampa** — the 15-step structural skeleton this arc runs over
-- **Daniel Kahneman** — *Thinking, Fast and Slow* — System 1 (emotional) / System 2 (deliberate); the arc recruits System 1 to carry System 2's decision
+- **the VSL director** — the 15-step structural skeleton this arc runs over
+- **cognitive-bias research** — *Thinking, Fast and Slow* — System 1 (emotional) / System 2 (deliberate); the arc recruits System 1 to carry System 2's decision
 
 ## The 6 Beats — Summary
 
@@ -68,7 +68,7 @@ That opening does all four ingredients: pain-pattern naming, no self-intro, prom
 
 ### Persuasion mechanics recruited
 
-- **Identification** (Cialdini unity) — the viewer sees themselves precisely
+- **Identification** (influence-principles research unity) — the viewer sees themselves precisely
 - **Problem mechanism** — naming the structural reason for the pain (see `esoteric-marketing/offer-building-system.md` Step 2)
 - **Shame-release** — the problem is structural, not personal failing
 - **Anti-identification** — naming what this is NOT about filters the audience
@@ -140,7 +140,7 @@ Rule: explain enough that the viewer believes the mechanism is real. Explain too
 
 ### Persuasion mechanics recruited
 
-- **Social proof** (Cialdini) — but specifically ICP-matched social proof
+- **Social proof** (influence-principles methodology) — but specifically ICP-matched social proof
 - **Authority** — credibility markers (data, publications, credentials) woven in
 - **Before/after** — narrative arc of a prior buyer, not just quote-testimonials
 - **Similarity** — the prior buyer is recognizably in the same state as the viewer
@@ -248,11 +248,11 @@ Counterintuitively, explicitly giving the viewer permission to say no **raises c
 
 ---
 
-## Mapping the 6 Beats onto Eli Pampa 15-Step
+## Mapping the 6 Beats onto the VSL director 15-Step
 
-Pampa's 15-step is the structural container. The 6 beats run through it:
+the 15-step is the structural container. The 6 beats run through it:
 
-| Beat | Pampa steps covered |
+| Beat | the VSL director steps covered |
 |------|----------------------|
 | 1. Discovery | Steps 1-2 (Hook, Promise) |
 | 2. Confrontation | Steps 3-5 (Pain, Agitate, Problem Mechanism) |
@@ -261,7 +261,7 @@ Pampa's 15-step is the structural container. The 6 beats run through it:
 | 5. Promise | Steps 11-12 (Future-State, Identity Payoff) |
 | 6. Choice | Steps 13-15 (Offer, Guarantee, CTA) |
 
-Writing a VSL: fill in the Pampa 15-step structurally, then audit each beat for emotional completion. If a beat is flat, the VSL will convert — but not at its ceiling.
+Writing a VSL: fill in the 15-step structurally, then audit each beat for emotional completion. If a beat is flat, the VSL will convert — but not at its ceiling.
 
 ## The Beat Audit (running on a live VSL)
 

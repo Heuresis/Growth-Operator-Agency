@@ -5,7 +5,7 @@
 ## Source / Lineage
 
 - Direct pattern observation from 2024–2026 YouTube creator data
-- Dustin Varano (deprecated-tactics callouts)
+- the content OS director (deprecated-tactics callouts)
 - YouTube TOS / algorithm update history
 - Analysis of channels that stagnated 2022–2025 vs. channels that grew
 
@@ -105,7 +105,7 @@
 
 ### 10. 1-Hour "Value Video" Without a Hook
 
-**The dead method:** Publishing a 60–90 minute content video with the title "Everything I know about X" and expecting YouTube to reward the depth. Popularized by 2019–2021 Hormozi-imitators.
+**The dead method:** Publishing a 60–90 minute content video with the title "Everything I know about X" and expecting YouTube to reward the depth. Popularized by 2019–2021 the acquisition economist-imitators.
 
 **Why it's dead:** Without a strong hook and roadmap, 60+ min videos retain below 15% and get algorithmically buried. The long-form era requires even MORE hook discipline, not less.
 
