@@ -4,7 +4,7 @@
 
 ## Source / Lineage
 
-Siggy Foss — practitioner who built his body of work around turning an IG profile into a high-ticket lead machine for coaches selling their own offer. The ecosystem pattern below reflects his five-playbook system, adapted for a single operator promoting their own flagship offer — not an agency servicing external brands.
+the paid media director — practitioner who built his body of work around turning an IG profile into a high-ticket lead machine for coaches selling their own offer. The ecosystem pattern below reflects his five-playbook system, adapted for a single operator promoting their own flagship offer — not an agency servicing external brands.
 
 ## Scope Guard (INV-8)
 

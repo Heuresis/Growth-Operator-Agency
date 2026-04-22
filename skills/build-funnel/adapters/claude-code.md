@@ -14,11 +14,11 @@ Load and execute `skills/build-funnel/SKILL.md` in the current workspace.
    - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
    - `Read` `skills/build-funnel/SKILL.md` (full body)
    - `Read` upstream: `output/design-offer/` (Offer Doc — gate-passed required), `output/build-positioning/`, `output/build-icp/`, `output/build-vsl/` if exists
-   - `Read` `reference/frameworks/primitives/call-funnel.md`, `core-four.md`, `value-equation.md` + Haynes / Slings / Foss / Pampa operator files
+   - `Read` `reference/frameworks/primitives/call-funnel.md`, `core-four.md`, `value-equation.md` + the growth engineer / the operations director / the paid media director / the VSL director operator files
 
 2. **Pre-flight check:** Verify `audience_intelligence_system >= 60`, `offer_architecture >= 70`, `funnel_systems >= 10` in `company.yaml`. If Archetype 1/2 (VSL/Webinar) selected, confirm VSL exists at `output/build-vsl/`.
 
-3. **Execute Phase 0 → Phase 9** per SKILL.md Process: Dependency Load → Archetype Selection → Traffic Source Strategy → Stage-by-Stage Architecture (5 stages) → Conversion Metrics Targets → Tracking & Attribution Plan → Dependency Chain → Economics Cross-Validation (LTV:CAC ≥ 3) → Leak-Check Audit Plan (Slings 8-stage) → Funnel Summary (LAST).
+3. **Execute Phase 0 → Phase 9** per SKILL.md Process: Dependency Load → Archetype Selection → Traffic Source Strategy → Stage-by-Stage Architecture (5 stages) → Conversion Metrics Targets → Tracking & Attribution Plan → Dependency Chain → Economics Cross-Validation (LTV:CAC ≥ 3) → Leak-Check Audit Plan (the operations director 8-stage) → Funnel Summary (LAST).
 
 4. **Write output:**
    - `Write` to `output/build-funnel/{YYYY-MM-DD}-funnel-blueprint-archetype-{1-7}.md`
@@ -73,7 +73,7 @@ After the Funnel Blueprint ships:
   - Archetype 6 (Challenge) → `/email-sequence` for daily challenge + community infrastructure
   - Archetype 7 (Community LM) → `/content-calendar` + `/story-sequence` + DM setter SOP
 - Wrap with `/plan-launch` when all dependencies queued
-- Weekly Slings 8-stage audit post-launch (owned by sales-lead)
+- Weekly the operations director 8-stage audit post-launch (owned by sales-lead)
 
 ---
 *Claude Code adapter v1.0 — binds to skills/build-funnel/SKILL.md*

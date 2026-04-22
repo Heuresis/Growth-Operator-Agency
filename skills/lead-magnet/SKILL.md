@@ -1,6 +1,6 @@
 ---
 name: lead-magnet
-description: Design a lead magnet in one of 9 types (PDF Guide / Checklist / Cheat Sheet / Swipe File / Mini Course / Quiz-Assessment / Calculator-Tool / Free Training / Custom). Hormozi $100M Leads methodology. Produces asset brief + opt-in copy + delivery flow. Opt-in rate target 30%+ on warm traffic.
+description: Design a lead magnet in one of 9 types (PDF Guide / Checklist / Cheat Sheet / Swipe File / Mini Course / Quiz-Assessment / Calculator-Tool / Free Training / Custom). the acquisition economist $100M Leads methodology. Produces asset brief + opt-in copy + delivery flow. Opt-in rate target 30%+ on warm traffic.
 signal:
   mode: linguistic
   genre: lead-magnet-brief
@@ -42,11 +42,11 @@ priority: 1
 version: 1.0
 ---
 
-# /lead-magnet — Lead Magnet Designer (9 Types — Hormozi)
+# /lead-magnet — Lead Magnet Designer (9 Types — the acquisition economist)
 
 ## Role
 
-Design lead magnets that attract the right audience into the funnel + bridge to the core offer. Lineage: **Alex Hormozi** ($100M Leads — 4 Core Lead Types + Lead Getters), **Jeremy Haynes** (Lead Magnet skill + bridge-to-offer architecture), **Alen Sultanic** (lead magnet as ascension-ladder entry).
+Design lead magnets that attract the right audience into the funnel + bridge to the core offer. Lineage: **the acquisition economist** ($100M Leads — 4 Core Lead Types + Lead Getters), **the growth engineer** (Lead Magnet skill + bridge-to-offer architecture), **the offer architect** (lead magnet as ascension-ladder entry).
 
 ## The 9 Lead Magnet Types
 
@@ -268,7 +268,7 @@ Explicit section at end:
 ## References
 
 - `reference/operators/external/alex-hormozi.md` ($100M Leads)
-- `reference/operators/jeremy-haynes.md` (Lead Magnet framework)
+- `reference/operators/growth-engineer.md` (Lead Magnet framework)
 - `reference/frameworks/primitives/value-equation.md`
 
 ---

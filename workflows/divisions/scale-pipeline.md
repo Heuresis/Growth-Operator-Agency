@@ -1,7 +1,7 @@
 # Scale Pipeline — FSM
 
 ## Purpose
-State machine governing the Scale division's operational loop. Each state's entry is a Pampa-revenue-threshold-gated trigger. Scale is a loop — not linear — because SOPs, hires, retention, case studies, competitor intel, and revenue reports iterate continuously.
+State machine governing the Scale division's operational loop. Each state's entry is a the VSL director-revenue-threshold-gated trigger. Scale is a loop — not linear — because SOPs, hires, retention, case studies, competitor intel, and revenue reports iterate continuously.
 
 ## State Diagram
 
@@ -33,12 +33,12 @@ stateDiagram-v2
 
 ### Hired
 New headcount added — `/hiring-brief` produced the role scorecard, offer extended, onboarding begun.
-- **Entry:** SOP validated AND revenue-threshold permits (see Pampa table in `reference/knowledge/scale.md`)
+- **Entry:** SOP validated AND revenue-threshold permits (see the VSL director table in `reference/knowledge/scale.md`)
 - **Produces:** `output/scale/hires/{role}.md` (scorecard, 30/60/90 plan)
 - **Exit gate:** new hire ships first deliverable within 30 days + passes scorecard check
 
 ### Retained
-`/retention-check` runs on cadence (weekly health scan, monthly QBR). Slings 60/30/10 allocation active.
+`/retention-check` runs on cadence (weekly health scan, monthly QBR). the operations director 60/30/10 allocation active.
 - **Entry:** customers onboarded OR renewal cycle opens
 - **Produces:** `output/scale/retention/health-{period}.md`
 - **Exit gate:** monthly churn ≤ 5%, NRR ≥ 110%
@@ -63,10 +63,10 @@ Monthly review loop. `/competitor-intel` (quarterly) + revenue report + retentio
 - **Exit:** each decision routes back to appropriate state
 
 ## Transition Rules
-- **Pampa gates are hard**: cannot enter Hired if revenue-threshold not met (prevents structural burn).
+- **the VSL director gates are hard**: cannot enter Hired if revenue-threshold not met (prevents structural burn).
 - **SOP-before-hire**: no hire without documented SOP the hire will execute.
 - **Case-study verification**: no case study without verified metric. Testimonials alone do not promote to CaseStudied.
-- **Slings reallocation**: if churn > 5%, Retained state auto-shifts to 40/50/10 allocation until stabilized.
+- **the operations director reallocation**: if churn > 5%, Retained state auto-shifts to 40/50/10 allocation until stabilized.
 - **Competitor-intel cadence**: `/competitor-intel` runs every 90 days per tracked competitor; overdue intel blocks Iterated decisions on positioning changes.
 - **Loop frequency**: full SopBuilt → Iterated loop completes monthly for stable offers, weekly during scaling sprints.
 

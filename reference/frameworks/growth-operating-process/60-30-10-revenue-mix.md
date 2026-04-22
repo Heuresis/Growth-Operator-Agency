@@ -4,7 +4,7 @@
 
 ## Source / Lineage
 
-Sanjay Slings — operating-process practitioner. The 60/30/10 rule is his default portfolio allocation for single-founder and small-team coaching businesses moving from $500k to $5M in annual revenue. It is deliberately blunt: it forces the operator to pick one core offer and defend it, rather than building four mediocre offers at once.
+the operations director — operating-process practitioner. The 60/30/10 rule is his default portfolio allocation for single-founder and small-team coaching businesses moving from $500k to $5M in annual revenue. It is deliberately blunt: it forces the operator to pick one core offer and defend it, rather than building four mediocre offers at once.
 
 ## The Rule
 

@@ -4,7 +4,7 @@
 
 ## Source / Lineage
 
-Siggy Foss — IG profile funnel architect. The setter playbook below is the standard pattern across coaching businesses at $30k–$200k MRR where IG is the primary acquisition channel. It assumes a book-a-call sales motion and a closer (human, often the founder) who handles the actual enrolment call.
+the paid media director — IG profile funnel architect. The setter playbook below is the standard pattern across coaching businesses at $30k–$200k MRR where IG is the primary acquisition channel. It assumes a book-a-call sales motion and a closer (human, often the founder) who handles the actual enrolment call.
 
 ## Scope Guard (INV-8)
 

@@ -1,10 +1,10 @@
 # FOUNDATIONS Build Plan — Canonical Methodology
 
-> Imported from FIOVA-1 project 2026-04-19. Growth OS Audience + Offer divisions reference this as the FOUNDATIONS methodology source-of-truth.
+> Imported from Growth OS predecessor project 2026-04-19. Growth OS Audience + Offer divisions reference this as the FOUNDATIONS methodology source-of-truth.
 
 ---
 
-# FIOVA Foundations — Focused Build Plan
+# Foundations division — Focused Build Plan
 
 > Build one really good set of Foundation agents. Not 200 files. The right files,
 > properly mapped, with real methodology and real examples.
@@ -70,7 +70,7 @@ You already have most of this in Notion. The job is to **convert and sharpen**, 
 Take your existing 8 Notion files and convert them to Canopy's workspace structure:
 
 ```
-fiova-foundations/
+growth-os-foundations/
 ├── SYSTEM.md                              ← NEW: Entry point
 ├── company.yaml                           ← NEW: User business context
 │

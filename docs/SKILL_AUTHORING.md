@@ -79,7 +79,7 @@ execution_mode: interactive
 
 - Do not reference a specific runtime in the body. No "use the Read tool" — just "read the compartment."
 - Do not hardcode file paths. Describe inputs abstractly ("the creator's ICP compartment"), adapters resolve paths.
-- Do not rename named frameworks. Sultanic's Offer Building System stays as Sultanic's Offer Building System. Renaming severs the lineage.
+- Do not rename named frameworks. the 7-Phase Offer Building System stays as the 7-Phase Offer Building System. Renaming severs the lineage.
 - Do not use banned vocabulary. Run the banned-vocab check before commit. See [`spec/BANNED-VOCABULARY.md`](../spec/BANNED-VOCABULARY.md).
 
 ---

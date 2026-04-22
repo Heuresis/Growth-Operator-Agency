@@ -14,7 +14,7 @@ Load and execute `skills/content-calendar/SKILL.md` in the current workspace.
    - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
    - `Read` `skills/content-calendar/SKILL.md` (full body)
    - `Read` upstream: `output/build-icp/` (VOC + objections + buying triggers), `output/build-positioning/` (Big Enemy + mechanism + core belief), `output/design-offer/` (bonuses, guarantee — for decision content), `output/extract-voice/` (phrases_to_use)
-   - `Read` `reference/frameworks/primitives/core-four.md` + Varano / Pampa / Clay operator files
+   - `Read` `reference/frameworks/primitives/core-four.md` + the content OS director / the VSL director / the stories director operator files
 
 2. **Pre-flight check:** Verify `audience_intelligence_system >= 60`, `offer_architecture >= 50`, `copy_messaging >= 30`, `content_strategy >= 20` in `company.yaml`. Verify Compartment 6 `platform_strategies` has at least 1 active: true channel. If < 1 active channel, enter Compartment 6 interview mode first.
 
@@ -51,7 +51,7 @@ If `$ARGUMENTS` is provided, use it as the target month or day count. Otherwise 
 Before writing the artifact to `output/`:
 - Run `spec/QUALITY.md` triple-layer verification
 - Check `spec/BANNED-VOCABULARY.md` — sweep all brief language
-- Confirm every `evidence_gate` condition: 30-day calendar complete, 40/30/20/10 pillar ratio enforced weekly + monthly, content-to-conversion bridge 50/35/15 distributed, Core Four channel mix applied, per-post brief for every slot, platform-specific cadence respected (Pampa Shorts Rule, LinkedIn 3-4/week NOT daily)
+- Confirm every `evidence_gate` condition: 30-day calendar complete, 40/30/20/10 pillar ratio enforced weekly + monthly, content-to-conversion bridge 50/35/15 distributed, Core Four channel mix applied, per-post brief for every slot, platform-specific cadence respected (the VSL director Shorts Rule, LinkedIn 3-4/week NOT daily)
 - Big Enemy appears at least weekly
 - Signal Score ≥ 0.8
 - Blind Output Test 2/3 (external tier) scheduled

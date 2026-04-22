@@ -1,5 +1,5 @@
 ---
-description: Produce a 7-day IG Story sequence using Nicholas Clay's 7-framework rotation + 4-layer anatomy. 2-4 stories/day. Orange/grey 4+3 balance.
+description: Produce a 7-day IG Story sequence using the stories director's 7-framework rotation + 4-layer anatomy. 2-4 stories/day. Orange/grey 4+3 balance.
 argument-hint: [optional: weekly theme hint]
 allowed-tools: Read, Write, Edit, Grep, Glob
 ---

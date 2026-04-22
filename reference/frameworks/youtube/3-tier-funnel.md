@@ -4,9 +4,9 @@
 
 ## Source / Lineage
 
-- Dustin Varano (3-tier YouTube Flywheel)
+- the content OS director (3-tier YouTube Flywheel)
 - Russell Brunson (value ladder logic, adapted to content)
-- Alex Hormozi (offer-stack pull-through)
+- the acquisition economist (offer-stack pull-through)
 - Generalized from 2024–2026 high-ticket YouTube benchmarks
 
 ---
@@ -236,7 +236,7 @@ Creator has 50K subscribers and no VSSL. Traffic exists but there's no conversio
 - `reference/frameworks/youtube/4-pillar-content-mix.md`
 - `reference/frameworks/youtube/session-starter-strategy.md`
 - `reference/frameworks/youtube/shorts-mrbeast-strategy.md`
-- `reference/frameworks/dustin-varano/`
+- `reference/frameworks/content-os/`
 
 ---
 *v1.0 — 2026-04-19 — YouTube framework canonical.*

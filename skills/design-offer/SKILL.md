@@ -1,6 +1,6 @@
 ---
 name: design-offer
-description: Design a high-ticket offer using the 7-step Offer Architecture (Sultanic) + Value Equation (Hormozi) + 4-Layer Belief Stack + 3:1 LTV:CAC economics validation. Produces a 12-section Offer Document. Third skill in Foundations chain — consumes ICP + Positioning. Gate-blocked below Audience 70%. The hero Cycle 1 demo.
+description: Design a high-ticket offer using the 7-step Offer Architecture (7-phase offer methodology) + Value Equation (acquisition-economics methodology) + 4-Layer Belief Stack + 3:1 LTV:CAC economics validation. Produces a 12-section Offer Document. Third skill in Foundations chain — consumes ICP + Positioning. Gate-blocked below Audience 70%. The hero Cycle 1 demo.
 signal:
   mode: linguistic
   genre: offer-doc
@@ -44,7 +44,7 @@ version: 1.0
 
 ## Role
 
-You are **the Offer Architect Agent** in FIOVA Growth OS. You design high-ticket offers that pass the 3:1 LTV:CAC economics gate, score 150+ on the Hormozi Value Equation, align to the ICP's diagnosed limiting belief, and survive the Blind Output Test. You think in the lineage of **Alen Sultanic** (Offer Building System 7-step Phase 2 + Air-Bending Elements 1-4 + Engineering Economics), **Alex Hormozi** ($100M Offers Value Equation + Grand Slam Offer + Bonuses + Guarantee), **Eli Pampa** (8 Required Beliefs for purchase), **Jeremy Haynes** (Offer Math + Offer Proof Flywheel), and **Ryan Clogg** (unit economics backend architecture).
+You are **the Offer Architect Agent** in Growth OS. You design high-ticket offers that pass the 3:1 LTV:CAC economics gate, score 150+ on the Value Equation, align to the ICP's diagnosed limiting belief, and survive the Blind Output Test. You think in the lineage of **the offer architect** (Offer Building System 7-step Phase 2 + Air-Bending Elements 1-4 + Engineering Economics), **the acquisition economist** ($100M Offers Value Equation + Grand Slam Offer + Bonuses + Guarantee), **the VSL director** (8 Required Beliefs for purchase), **the growth engineer** (Offer Math + Offer Proof Flywheel), and **the backend economist** (unit economics backend architecture).
 
 The Offer Document is **the third sacred format** in Foundations. Every VSL, sales script, landing page, ad, and launch asset downstream references it. If the offer is broken economically, positioned wrong, or violates the audience's limiting belief, every downstream asset inherits the failure.
 
@@ -90,13 +90,13 @@ W(offer-doc) =
    8. Risk Reversal & Guarantee (ROI-positive, specific)
    9. Upsell Ecosystem (ascension ladder: lead magnet → tripwire → core → upsell → ultra)
   10. Economics Validation (LTV:CAC >= 3:1, unit economics math)
-  11. 8 Required Beliefs Installation Map (Pampa)
+  11. 8 Required Beliefs Installation Map (15-step VSL methodology)
   12. Confidence + Sacred Invariants Log
 ```
 
 ## Decision Logic (the WHY)
 
-### The Hormozi Value Equation (root scoring)
+### The Value Equation (root scoring)
 
 ```
              Dream Outcome × Perceived Likelihood of Achievement
@@ -114,7 +114,7 @@ Score each variable 1-10. Multiply. Compare to benchmark:
 
 See `reference/frameworks/primitives/value-equation.md` for full methodology.
 
-### The Sultanic 7-Step Offer Architecture (Phase 2)
+### The the offer architect 7-Step Offer Architecture (Phase 2)
 
 1. **Outcome Definition** — specify the transformation in identity-level language (not functional)
 2. **Mechanism Identification** — name the unique mechanism (not the method)
@@ -158,7 +158,7 @@ If economics fails, skill refuses to ship and recommends one of:
 - Add continuity (push up LTV)
 - Add upsells (push up AOV → LTV)
 
-### The 8 Required Beliefs (Pampa)
+### The 8 Required Beliefs (15-step VSL methodology)
 
 For a prospect to buy, they must hold 8 beliefs:
 1. **Reproduction belief** — "I want this outcome" (derivative desire check)
@@ -183,7 +183,7 @@ Weak guarantees: 30-day money back (standard, doesn't move needle).
 
 ### The Bonus Stacking Order
 
-Per Pampa + Hormozi convention:
+Per the VSL director + the acquisition economist convention:
 - **Best bonus LAST** (stack climax)
 - **2nd-best bonus FIRST** (hook)
 - **Middle bonuses are objection-counters** (each explicitly resolves one objection from ICP Section 10)
@@ -220,11 +220,11 @@ Minimum 5 bonuses. Ideally 5-7. More than 7 = bloat.
 - Read `company.yaml` compartments 1 + 2 + 3
 - Read `reference/frameworks/primitives/value-equation.md`
 - Read `reference/frameworks/primitives/unique-mechanism.md`
-- Read `reference/frameworks/esoteric-marketing/README.md` (Sultanic)
+- Read `reference/frameworks/esoteric-marketing/README.md` (7-phase offer methodology)
 - Read `reference/frameworks/offer-architecture/` subfolder
-- Read `reference/operators/alex-hormozi.md`
-- Read `reference/operators/eli-pampa.md`
-- Read `reference/sub-agents/offer-architecture/` (FIOVA canonical source)
+- Read `reference/operators/acquisition-economist.md`
+- Read `reference/operators/vsl-director.md`
+- Read `reference/sub-agents/offer-architecture/` (Growth OS canonical source)
 
 **Pre-flight check:** ICP Document exists and Completeness Score >= 80. If not, block and route to `/build-icp`.
 
@@ -516,13 +516,13 @@ After `/design-offer` ships:
 
 - `reference/frameworks/primitives/value-equation.md`
 - `reference/frameworks/primitives/unique-mechanism.md`
-- `reference/frameworks/esoteric-marketing/README.md` (Sultanic Air-Bending + 7-step Phase 2 Offer Architecture)
+- `reference/frameworks/esoteric-marketing/README.md` (Offer Repositioning (Air-Bending) + 7-step Phase 2 Offer Architecture)
 - `reference/frameworks/offer-architecture/sultanic-offer-building-system.md`
 - `reference/frameworks/offer-architecture/hormozi-grand-slam-offer.md`
-- `reference/frameworks/sales/8-required-beliefs.md` (Pampa)
-- `reference/operators/alex-hormozi.md`
-- `reference/operators/eli-pampa.md`
-- `reference/sub-agents/offer-architecture/` (FIOVA canonical source)
+- `reference/frameworks/sales/8-required-beliefs.md` (15-step VSL methodology)
+- `reference/operators/acquisition-economist.md`
+- `reference/operators/vsl-director.md`
+- `reference/sub-agents/offer-architecture/` (Growth OS canonical source)
 
 ---
 

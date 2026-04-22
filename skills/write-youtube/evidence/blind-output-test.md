@@ -1,6 +1,6 @@
 # Blind Output Test — /write-youtube
 
-> Per `spec/BLIND-OUTPUT-TEST.md`. This skill produces a **YouTube Long-Form Script**. Classification: **external** — requires **2/3 evaluator pass** before publishing. YouTube is Varano's "only platform that nurtures to high-ticket" — broken long-form = broken authority-build + broken conversion nurture.
+> Per `spec/BLIND-OUTPUT-TEST.md`. This skill produces a **YouTube Long-Form Script**. Classification: **external** — requires **2/3 evaluator pass** before publishing. YouTube is the content OS director's "only platform that nurtures to high-ticket" — broken long-form = broken authority-build + broken conversion nurture.
 
 ## Test Date(s)
 
@@ -8,7 +8,7 @@ _v1.0 initial validation: pending (skill is freshly shipped)_
 
 ## Evaluator Roster (to recruit)
 
-1. A YouTube creator operating at 100K+ subs with evergreen-video experience (Varano / Pampa / Bennett / MrBeast lineage preferred)
+1. A YouTube creator operating at 100K+ subs with evergreen-video experience (the content OS director / the VSL director / the short-form-frameworks author / creator-native methodology lineage preferred)
 2. A target prospect inside the ICP who consumes the creator's existing YouTube content
 3. An algorithm-savvy YouTube strategist who can predict CTR + AVD + session-starter behavior
 
@@ -89,4 +89,4 @@ Patterns to look for on any failures:
 - Blind-test baseline pending — requires evaluator recruitment
 
 ---
-*Per INV-14 — no skill ships to production external use without 2/3 blind test pass. The YouTube long-form skill — Varano's high-ticket nurture channel + creator authority moat.*
+*Per INV-14 — no skill ships to production external use without 2/3 blind test pass. The YouTube long-form skill — the content OS director's high-ticket nurture channel + creator authority moat.*

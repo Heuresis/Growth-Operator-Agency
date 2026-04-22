@@ -1,6 +1,6 @@
 # Value Stack Architecture
 
-> **Source lineage:** Alex Hormozi (*$100M Offers* — Grand Slam Offer stack) + Eli Pampa (15-step VSL Section 7-8-9 Features + Testimonials + Price Anchoring) + Alen Sultanic (Engineering Economics Offer)
+> **Source lineage:** the acquisition economist (*$100M Offers* — Grand Slam Offer stack) + the VSL director (15-step VSL Section 7-8-9 Features + Testimonials + Price Anchoring) + the offer architect (Engineering Economics Offer)
 > **Status:** Load-bearing framework for /design-offer, /build-vsl, /webinar-script.
 
 ## The 5-Layer Close Structure
@@ -22,7 +22,7 @@ State the transformation, not the feature list:
 - Bad: "12 weekly group calls + course portal + templates"
 - Good: "Add $25K in monthly retainer revenue within 90 days without hiring"
 
-Core deliverable = the ONE thing the offer does. Frame at identity level (per Sultanic — "they buy the identity that uses this").
+Core deliverable = the ONE thing the offer does. Frame at identity level (per the offer architect — "they buy the identity that uses this").
 
 ## Layer 2 — Value Stack (itemized)
 
@@ -96,7 +96,7 @@ Action verbs by offer type:
 
 Bonuses sit between Layer 2 (Value Stack) and Layer 3 (Price Anchor). Rules per `/design-offer`:
 
-- **5+ bonuses** minimum (Hormozi)
+- **5+ bonuses** minimum (acquisition-economics methodology)
 - **2nd-best bonus FIRST** (hook position)
 - **Best bonus LAST** (stack climax)
 - **Middle bonuses = objection counters** (each counters one ICP Section 10 objection)
@@ -124,7 +124,7 @@ In a VSL or webinar pitch, reveal in this exact order:
 
 3. **Guarantee creates the sale; product delivers it.** Strong guarantee = high conversion. Weak guarantee = attendees "think about it."
 
-4. **Pricing is identity.** $5K and $50K offers require different identity markers even if delivering similar outcomes. See Sultanic pricing-identity rule.
+4. **Pricing is identity.** $5K and $50K offers require different identity markers even if delivering similar outcomes. See the offer architect pricing-identity rule.
 
 5. **Bonuses kill objections.** Every bonus maps to one objection. If you can't map, it's bloat.
 
@@ -141,12 +141,12 @@ In a VSL or webinar pitch, reveal in this exact order:
 
 ## Sources
 
-- Alex Hormozi, *$100M Offers* — Grand Slam Offer, Value Equation, Bonus Stacking
-- Eli Pampa — 15-step VSL (Sections 7-10)
-- Alen Sultanic — Engineering Economics Offer (pricing as identity)
-- Lucas Hogendoorn — Pull-Push-Persuade Step 10 (5-layer close)
+- the acquisition economist, *$100M Offers* — Grand Slam Offer, Value Equation, Bonus Stacking
+- the VSL director — 15-step VSL (Sections 7-10)
+- the offer architect — Engineering Economics Offer (pricing as identity)
+- the psychological copywriter — Pull-Push-Persuade Step 10 (5-layer close)
 - `reference/operators/external/alex-hormozi.md`
-- `reference/operators/eli-pampa.md`
+- `reference/operators/vsl-director.md`
 
 ---
 *v1.0 — 2026-04-19. Load-bearing framework. Offer reveal is 5-layer stack, always in sequence.*

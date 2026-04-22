@@ -8,7 +8,7 @@ _v1.0 initial validation: pending (skill is freshly shipped)_
 
 ## Evaluator Roster (to recruit)
 
-1. A positioning specialist or brand strategist from the creator's network (Todd Brown / Pampa-lineage preferred)
+1. A positioning specialist or brand strategist from the creator's network (the campaign director / the VSL director-lineage preferred)
 2. A top customer of the creator who can recognize the creator's voice in the Core Belief Statement
 3. A direct competitor's past customer (to validate the Old Vehicle Autopsy resonates)
 

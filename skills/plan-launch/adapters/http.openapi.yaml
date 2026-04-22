@@ -11,7 +11,7 @@ security: [ { GrowthOSKey: [] } ]
 paths:
   /skills/plan-launch/execute:
     post:
-      summary: Execute plan-launch (5 variants Live/Evergreen/Rolling/Flash/Beta — 5-phase runbook layered over Slings 7-Step with Rorwick Whisper/Tease/Shout)
+      summary: Execute plan-launch (5 variants Live/Evergreen/Rolling/Flash/Beta — 5-phase runbook layered over the operations director 7-Step with the growth strategist Whisper/Tease/Shout)
       x-evidence-gate: [variant_selected_with_reasoning, all_5_phases_mapped, asset_dependencies_all_green, team_assignments_complete, tech_checklist_100_percent, kpi_targets_set_against_plan, cart_close_deadline_immutable, debrief_template_embedded, signal_score_gte_0_8]
       x-streaming: supported
       requestBody: { required: true, content: { application/json: { schema: { $ref: '#/components/schemas/Input' } } } }

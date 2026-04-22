@@ -1,6 +1,6 @@
 # The 5-Tuple Encoding — S = (Mode, Genre, Type, Format, Structure)
 
-> **Source:** Luna Signal Theory pp.14-18 · Canopy `protocol/signal-theory.md` lines 9-24
+> **Source:** Signal Theory pp.14-18 · Canopy `protocol/signal-theory.md` lines 9-24
 > **Status:** Load-bearing. Every skill output declares its 5-tuple before execution.
 
 ## Definition
@@ -64,7 +64,7 @@ Type is **the independent axis** — any Type can ride any Genre/Mode/Format.
 Structure is a function of Genre: **W(G)**. Each genre has a canonical internal skeleton.
 
 Examples:
-- `W(vsl-script)` = 15-step (Pampa) or 11-step (Hogendoorn) or 13-step (Trister) or 3X (Benson) or 5-chapter (Haynes VSSL)
+- `W(vsl-script)` = 15-step (15-step VSL methodology) or 11-step (Pull-Push-Persuade methodology) or 13-step (the 13-step VSL author) or 3X (3X VSL methodology) or 5-chapter (the growth engineer VSSL)
 - `W(icp-doc)` = 13 sections (Demographics / Firmographics / Psychographics / Behavioral / Market Sophistication / VOC / Limiting Belief / ...)
 - `W(offer-doc)` = 12 sections (Transformation / Mechanism / Capability Removal / Value Stack / Bonuses / Pricing / Guarantee / Upsell / Economics / Beliefs / Invariants)
 
@@ -85,7 +85,7 @@ An audio file can't carry visual mode. A demo requires gestural mode. A `vsl-scr
 
 The receiver is **not a sixth dimension** — it's the constraint field within which all 5 are optimized.
 
-> *"A Signal encoded without knowing its destination is a broadcast. Broadcasting is a Shannon violation."* — Luna p.14
+> *"A Signal encoded without knowing its destination is a broadcast. Broadcasting is a information theory violation."* — Signal Theory p.14
 
 Every signal declaration includes receiver + receiver_capacity (high/medium/low).
 
@@ -108,7 +108,7 @@ Unresolved dimensions = skill refuses to execute.
 
 ## Sources
 
-- Luna Signal Theory pp.14-18
+- Signal Theory pp.14-18
 - Canopy `protocol/signal-theory.md` lines 9-24
 - `spec/SIGNAL.md`
 

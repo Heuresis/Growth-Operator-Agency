@@ -1,6 +1,6 @@
 # Crossroads Close
 
-> **Source:** Eli Pampa (15-step VSL Step 12) + 7-Figure Webinar Script (Transition)
+> **Source:** the VSL director (15-step VSL Step 12) + 7-Figure Webinar Script (Transition)
 > **Status:** Non-optional close mechanism for sales-oriented VSLs and webinars.
 
 ## The Structure
@@ -28,7 +28,7 @@ The link below is open for the next [timeframe]. [Click / book / apply] if you'r
 Three psychological mechanisms:
 
 ### 1. Forces a decision
-Humans default to inaction (status quo bias — Kahneman). The Crossroads forces a conscious choice. Even "no" is better than drift.
+Humans default to inaction (status quo bias — cognitive-bias research). The Crossroads forces a conscious choice. Even "no" is better than drift.
 
 ### 2. Dignifies the choice
 "Both are valid" respects the prospect's agency. Doesn't pressure. Doesn't manipulate. Sets trust.
@@ -57,7 +57,7 @@ Make the payoff EXPLICIT:
 
 ## Timing
 
-### In VSLs (Pampa 15-step)
+### In VSLs (15-step)
 Crossroads = Step 12, after:
 - Step 11 Urgency Story (emotional urgency created)
 - Before Step 13 Takeaway Close (reinforces decision)
@@ -121,9 +121,9 @@ Works when audience is sophisticated / sales-aware (they hate being sold, so tak
 
 ## Sources
 
-- Eli Pampa — 15-step VSL Step 12
+- the VSL director — 15-step VSL Step 12
 - 7-Figure Webinar Script (gamma.app) — Transition section
-- `reference/operators/eli-pampa.md`
+- `reference/operators/vsl-director.md`
 
 ---
 *v1.0 — 2026-04-19. Close mechanism — non-optional for sales-oriented assets.*

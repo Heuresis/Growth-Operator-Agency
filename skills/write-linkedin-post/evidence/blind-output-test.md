@@ -43,7 +43,7 @@ For `/write-linkedin-post` to be blind-test-validated:
 Patterns to look for on any failures:
 - Hook felt generic / under-specific (specificity < 8)
 - External link in post body (algo kill + detectability)
-- Multiple CTAs stacked (not Paolo-style single action)
+- Multiple CTAs stacked (not the outreach director-style single action)
 - Banned vocabulary leaked through (thought leader / 10x / supercharge / etc.)
 - Missing mechanism thread (no Named Mechanism reference)
 - Voice drift — sentence rhythm didn't match creator's extract-voice output
@@ -52,7 +52,7 @@ Patterns to look for on any failures:
 
 1. **INV-8 scope violation** — Adapter produces agency-scale content (DM outreach at scale, multi-client content engine posts) instead of creator-posting-about-own-offer. Fix: lock every post to a specific offer from `company.yaml` offer_architecture.core_offers[0].
 
-2. **Hook too generic** — Falls back to "I hit [milestone]" pattern. Real Paolo hooks open a loop with specificity ≥ 8. Fix: enforce hook-variant requirement (3-5 drafts) + specificity check before selection.
+2. **Hook too generic** — Falls back to "I hit [milestone]" pattern. Real the outreach director hooks open a loop with specificity ≥ 8. Fix: enforce hook-variant requirement (3-5 drafts) + specificity check before selection.
 
 3. **Daily-posting leak** — Calendar brief schedules 5+ posts/week. Dec 2025 algo penalty. Fix: cadence guard — max 4/week, flag if brief exceeds.
 

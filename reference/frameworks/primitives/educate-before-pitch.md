@@ -1,6 +1,6 @@
 # Educate-Before-Pitch — The Primitive
 
-> **Source lineage:** Todd Brown (*Educational VSL Method* — explicit principle), Jon Benson (3X VSL — three tips before pitch), Jeremy Haynes (Hidden VSSL — teaches mechanism before offer), Alen Sultanic (VSL opening + middle teaches, close sells), Lucas Hogendoorn (Pull-Push-Persuade — never sell before Step 9).
+> **Source lineage:** the campaign director (*Educational VSL Method* — explicit principle), the VSL copywriter (3X VSL — three tips before pitch), the growth engineer (Hidden VSSL — teaches mechanism before offer), the offer architect (VSL opening + middle teaches, close sells), the psychological copywriter (Pull-Push-Persuade — never sell before Step 9).
 > **Status:** First-class primitive. The trust-building substrate.
 
 ## The Principle
@@ -17,14 +17,14 @@ Across sales assets, the teach-to-pitch ratio:
 
 | Asset | Teach | Pitch |
 |---|---|---|
-| VSL (Pampa 15-step) | 60-70% | 30-40% (pitch starts ~step 9) |
-| VSL (Hogendoorn 11-step) | 73% | 27% (pitch = steps 9-11) |
+| VSL (15-step) | 60-70% | 30-40% (pitch starts ~step 9) |
+| VSL (Pull-Push-Persuade 11-step) | 73% | 27% (pitch = steps 9-11) |
 | Webinar (7-Figure) | 70-75% | 25-30% (pitch after transition at ~min 75) |
 | YouTube VSSL (O'Halloran 5-chapter) | 80% | 20% (only mechanism, then CTA) |
 | Long-form post / email | 85% | 15% (teach with soft CTA) |
 | Ad (paid) | 50% | 50% (faster, but still teach-first) |
 
-**Rule (Hogendoorn invariant #5):** *Never sell before Step 9.* Applies across variants — adapt the exact step number to the framework but honor the principle.
+**Rule (the psychological copywriter invariant #5):** *Never sell before Step 9.* Applies across variants — adapt the exact step number to the framework but honor the principle.
 
 ## Why It Works
 
@@ -33,10 +33,10 @@ Three mechanisms:
 ### 1. Trust Transfer
 Teaching demonstrates expertise. Prospect extrapolates: "if they can teach THIS much for free, the paid thing must be even better."
 
-### 2. Belief Installation (Pampa 8 Required Beliefs)
+### 2. Belief Installation (8 Required Beliefs)
 Beliefs 3-6 (can-fulfill, urgency, this-offer, better-faster) can only be installed via teaching. You can't assert them; you have to demonstrate them.
 
-### 3. Reciprocity (Cialdini)
+### 3. Reciprocity (influence-principles methodology)
 When you give real value first, prospects feel obligation to reciprocate. Offer becomes the natural next-step.
 
 ## The Counter-Intuitive Rule
@@ -46,13 +46,13 @@ When you give real value first, prospects feel obligation to reciprocate. Offer 
 - **WHAT** = the concept + why it works + the sub-steps + the framework. Creates understanding.
 - **HOW** = the implementation details. If you teach HOW, prospect thinks "I can do this alone."
 
-Brown: teach the Big Idea, Unique Mechanism, and sub-steps. Don't teach the 147-step implementation course.
+the campaign director: teach the Big Idea, Unique Mechanism, and sub-steps. Don't teach the 147-step implementation course.
 
-Sultanic: the Core Offer is the HOW. The teaching is the WHAT.
+the offer architect: the Core Offer is the HOW. The teaching is the WHAT.
 
-## The 3-Tip Pattern (Benson)
+## The 3-Tip Pattern (3X VSL methodology)
 
-Jon Benson's 3X VSL teaches exactly **three tips** of real value before the offer:
+the VSL copywriter's 3X VSL teaches exactly **three tips** of real value before the offer:
 1. Tip 1: a useful insight from the mechanism
 2. Tip 2: a deeper insight
 3. Tip 3: the most useful (they can apply today)
@@ -122,15 +122,15 @@ Educate-before-pitch is applied when:
 
 ## Sources
 
-- Todd Brown — *Educational VSL Method*, *E5 Method*
-- Jon Benson — *3X VSL Formula*
-- Jeremy Haynes — *Hidden VSSL*
-- Alen Sultanic — VSL Masterclass Parts 1-4
-- Lucas Hogendoorn — *The 5,280-Word VSL Conversion Framework* (Pull-Push-Persuade)
+- the campaign director — *Educational VSL Method*, *E5 Method*
+- the VSL copywriter — *3X VSL Formula*
+- the growth engineer — *Hidden VSSL*
+- the offer architect — VSL Masterclass Parts 1-4
+- the psychological copywriter — *The 5,280-Word VSL Conversion Framework* (Pull-Push-Persuade)
 - 7-Figure Webinar Script (gamma.app)
-- `reference/operators/todd-brown.md`
+- `reference/operators/campaign-director.md`
 - `reference/operators/tier-3-rising/jon-benson.md`
-- `reference/operators/jeremy-haynes.md`
+- `reference/operators/growth-engineer.md`
 - `reference/operators/external/lucas-hogendoorn.md`
 
 ---

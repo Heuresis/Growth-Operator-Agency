@@ -8,7 +8,7 @@ _v1.0 initial validation: pending (skill is freshly shipped)_
 
 ## Evaluator Roster (to recruit)
 
-1. A high-ticket offer architect (Hormozi / Sultanic / Pampa lineage preferred) who has priced $10K+ offers
+1. A high-ticket offer architect (the acquisition economist / the offer architect / the VSL director lineage preferred) who has priced $10K+ offers
 2. A past buyer who has consumed 10+ hours of the creator's content and is inside the ICP's aspirant identity
 3. A revenue operator (CFO / finance lead) who can stress-test the economics math (LTV:CAC, payback, gross margin)
 

@@ -4,7 +4,7 @@
 
 ## Source / Lineage
 
-Siggy Foss — architect of the IG profile funnel for coaches. The content studio is the production layer that feeds the automated ecosystem. Foss's insight: coaches don't have a content problem, they have a production-cadence problem. Fix the cadence, the content follows.
+the paid media director — architect of the IG profile funnel for coaches. The content studio is the production layer that feeds the automated ecosystem. the paid media director'ss insight: coaches don't have a content problem, they have a production-cadence problem. Fix the cadence, the content follows.
 
 ## Scope Guard (INV-8)
 

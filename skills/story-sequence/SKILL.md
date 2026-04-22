@@ -1,6 +1,6 @@
 ---
 name: story-sequence
-description: Produce 7-day Instagram Story sequence using Nicholas Clay's 4-layer story anatomy + 7-day content calendar (Proof / Clarity / Objection Break / Education-Differentiation / Connection / Proof+Skepticism Removal / Mission). 2-4 stories per day. Text + image + proof-screenshots + visuals.
+description: Produce 7-day Instagram Story sequence using the stories director's 4-layer story anatomy + 7-day content calendar (Proof / Clarity / Objection Break / Education-Differentiation / Connection / Proof+Skepticism Removal / Mission). 2-4 stories per day. Text + image + proof-screenshots + visuals.
 signal:
   mode: linguistic
   genre: story-sequence
@@ -43,13 +43,13 @@ priority: 1
 version: 1.0
 ---
 
-# /story-sequence — 7-Day IG Story Sequence (Nicholas Clay Framework)
+# /story-sequence — 7-Day IG Story Sequence (the stories director Framework)
 
 ## Role
 
-Produce 7-day IG Story sequences using Nicholas Clay's 7-framework weekly system. Lineage: **Nicholas Clay** (Clay Consulting — "story sequences are the single most powerful converting asset"), **Siggy Foss** (4-layer story anatomy), FIOVA Marketing Division (8 story sequence types).
+Produce 7-day IG Story sequences using the stories director's 7-framework weekly system. Lineage: **the stories director** (the stories director Consulting — "story sequences are the single most powerful converting asset"), **the paid media director** (4-layer story anatomy), Marketing division Division (8 story sequence types).
 
-## The 7-Day Framework (Clay)
+## The 7-Day Framework (stories methodology)
 
 Each day rotates a different framework. **Never repeat same framework 2 days in a row** (pattern fatigue).
 
@@ -65,7 +65,7 @@ Each day rotates a different framework. **Never repeat same framework 2 days in 
 
 Weighted balance: 4 orange (persuasive) + 3 grey (lighter). Prevents over-sales feel.
 
-## The 4-Layer Story Anatomy (Clay + Foss)
+## The 4-Layer Story Anatomy (the stories director + the paid media director)
 
 Every story has 4 layers working simultaneously:
 

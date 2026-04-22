@@ -1,6 +1,6 @@
 # Unique Mechanism — The Primitive
 
-> **Source lineage:** Todd Brown (E5 Method + Big Idea + Unique Mechanism), Stefan Georgi (Two-Part Mechanism — Problem + Solution), Alen Sultanic (mechanism as positioning anchor), Alex Hormozi (unique mechanism inside Grand Slam Offer), Eli Pampa (mechanism in 15-step VSL).
+> **Source lineage:** the campaign director (E5 Method + Big Idea + Unique Mechanism), the copy director (Two-Part Mechanism — Problem + Solution), the offer architect (mechanism as positioning anchor), the acquisition economist (unique mechanism inside Grand Slam Offer), the VSL director (mechanism in 15-step VSL).
 > **Status:** First-class primitive. Referenced by 8+ skills.
 
 ## What it is
@@ -11,7 +11,7 @@ A **unique mechanism** is a named, specific explanation for WHY the offer works 
 
 Without a mechanism, the offer competes on the same axis as every competitor — commodity territory.
 
-## The Two-Part Structure (Georgi + Brown)
+## The Two-Part Structure (the copy director + the campaign director)
 
 Every complete mechanism has **two parts**:
 
@@ -25,9 +25,9 @@ Example (weight loss): "It's not willpower. It's the insulin-response loop your 
 
 Example: "Our protocol shuts down the post-7pm insulin-response by timing fat-burn markers — not calorie restriction."
 
-**Rule (Georgi):** Both parts needed. Most creators name only Part 2. Without Part 1, Part 2 sounds arbitrary.
+**Rule (RMBC methodology):** Both parts needed. Most creators name only Part 2. Without Part 1, Part 2 sounds arbitrary.
 
-## The Three Criteria (Brown)
+## The Three Criteria (E5 campaign methodology)
 
 A mechanism is valid only if:
 
@@ -44,14 +44,14 @@ Good mechanism names have:
 - **Descriptive-suggestive** (name hints at the mechanism without explaining it)
 
 Examples:
-- "Grand Slam Offer" (Hormozi)
-- "Pull-Push-Persuade" (Hogendoorn)
-- "RMBC Method" (Stefan Georgi — Research-Mechanism-Brief-Copy)
-- "Educational VSL Method" (Todd Brown)
-- "3X VSL Formula" (Jon Benson)
-- "Hidden VSSL" (Jeremy Haynes)
+- "Grand Slam Offer" (acquisition-economics methodology)
+- "Pull-Push-Persuade" (Pull-Push-Persuade methodology)
+- "RMBC Method" (the copy director — Research-Mechanism-Brief-Copy)
+- "Educational VSL Method" (the campaign director)
+- "3X VSL Formula" (the VSL copywriter)
+- "Hidden VSSL" (the growth engineer)
 - "Growth OS" (Heuresis itself)
-- "FIOVA Growth OS" (this workspace)
+- "Growth OS" (this workspace)
 
 Bad mechanism names:
 - "My System"
@@ -86,7 +86,7 @@ Three-letter acronym or 3-phase structure is the most memorable pattern.
 | `/write-youtube` | Long-form videos deep-dive individual sub-steps |
 | `/email-sequence` | Nurture sequence installs mechanism beliefs over 7-14 emails |
 
-## The Category-Failure Framing (Brown)
+## The Category-Failure Framing (E5 campaign methodology)
 
 Your mechanism should **name the category failure** that competitors commit + explicitly avoid it.
 
@@ -97,9 +97,9 @@ Your mechanism should **name the category failure** that competitors commit + ex
 
 This frames you as category-aware and solution-specific simultaneously.
 
-## The Educate-Before-Pitch Application (Brown)
+## The Educate-Before-Pitch Application (E5 campaign methodology)
 
-Once you have a mechanism, your marketing teaches it BEFORE revealing the offer. The 5-chapter YouTube VSSL body (O'Halloran) and the Pampa 15-step VSL both teach the mechanism in the middle third, then reveal the offer last.
+Once you have a mechanism, your marketing teaches it BEFORE revealing the offer. The 5-chapter YouTube VSSL body (O'Halloran) and the 15-step VSL both teach the mechanism in the middle third, then reveal the offer last.
 
 See `primitives/educate-before-pitch.md`.
 
@@ -134,16 +134,16 @@ A mechanism is ship-ready when:
 - [ ] Passes 30-second explanation test (creator can explain to stranger in 30s)
 - [ ] Demonstrably different from 3 direct competitors
 - [ ] Threads through Hook + Problem + Solution + Close of VSL
-- [ ] Installs Pampa Belief #5 (This-offer is right one) AND #6 (Better/faster than alternatives)
+- [ ] Installs the VSL director Belief #5 (This-offer is right one) AND #6 (Better/faster than alternatives)
 
 ## Sources
 
-- Todd Brown — *Educational VSL Method* + *E5 Method*
-- Stefan Georgi — *RMBC Method* (Two-Part Mechanism)
-- Alen Sultanic — Offer Building System (mechanism as Element 2)
-- Alex Hormozi — *$100M Offers* (Grand Slam Offer mechanism anchor)
-- `reference/operators/todd-brown.md`
-- `reference/operators/stefan-georgi.md`
+- the campaign director — *Educational VSL Method* + *E5 Method*
+- the copy director — *RMBC Method* (Two-Part Mechanism)
+- the offer architect — Offer Building System (mechanism as Element 2)
+- the acquisition economist — *$100M Offers* (Grand Slam Offer mechanism anchor)
+- `reference/operators/campaign-director.md`
+- `reference/operators/copy-director.md`
 
 ---
 *v1.0 — 2026-04-19. Primitive — referenced across skills. Do not duplicate in per-operator files.*

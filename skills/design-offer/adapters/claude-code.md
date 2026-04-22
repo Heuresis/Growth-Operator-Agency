@@ -14,7 +14,7 @@ Load and execute `skills/design-offer/SKILL.md` in the current workspace.
    - `Read` `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
    - `Read` `skills/design-offer/SKILL.md` (full body)
    - `Read` upstream: `output/build-icp/` (ICP Completeness >= 80 required) + `output/build-positioning/` if exists
-   - `Read` `skills/design-offer/reference/` + value-equation / unique-mechanism / 8-required-beliefs primitives + Hormozi + Pampa operator references
+   - `Read` `skills/design-offer/reference/` + value-equation / unique-mechanism / 8-required-beliefs primitives + the acquisition economist + the VSL director operator references
 
 2. **Pre-flight check:** Verify `audience_intelligence_system >= 70`, `offer_architecture >= 20`, `creator_identity_matrix >= 40` in `company.yaml`. If ICP Document missing or Completeness < 80, BLOCK and route to `/build-icp`.
 

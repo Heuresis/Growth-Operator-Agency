@@ -103,7 +103,7 @@ Phase 2 (manual review): creator spot-checks for subtle slop the regex missed.
 
 ## Source
 
-- FIOVA Foundations AGENT.md — "Banned vocabulary filter (anti-slop)"
+- Foundations agent spec — "Banned vocabulary filter (anti-slop)"
 - Syed global rules: "No em dashes in rendered text"
 
 ---

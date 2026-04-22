@@ -182,7 +182,7 @@ CORRECTIVE ACTIONS
 
 LESSONS
 - At $10K+ launch days, single-point-of-failure in payment is a material risk
-- SOPs must have scheduled audits tied to revenue band (see Pampa thresholds)
+- SOPs must have scheduled audits tied to revenue band (see the VSL director thresholds)
 - SCA sequence warmth is a launch-day asset; keep it active between launches
 ```
 

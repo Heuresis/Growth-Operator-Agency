@@ -1,6 +1,6 @@
 # Specificity — The Primitive
 
-> **Source lineage:** Evan Seech (*"Specificity > sophistication"* — explicit principle), Alex Hormozi (specific Grand Slam promises), Stefan Georgi (Amazon review research extracts specific language), Alen Sultanic (numeric specificity in VSLs), Claude Hopkins / Dan Kennedy (classical direct response).
+> **Source lineage:** the media buying director (*"Specificity > sophistication"* — explicit principle), the acquisition economist (specific Grand Slam promises), the copy director (Amazon review research extracts specific language), the offer architect (numeric specificity in VSLs), Claude Hopkins / the direct-response tradition (classical direct response).
 > **Status:** First-class primitive. The anti-generic filter.
 
 ## The Principle
@@ -87,9 +87,9 @@ Words that signal lack of specificity:
 
 Per `spec/BANNED-VOCABULARY.md`, these trigger REJECT.
 
-## The Seech Protocol (Top 1% Ad Testing)
+## The the media buying director Protocol (Top 1% Ad Testing)
 
-Evan Seech's ads-at-scale discovery:
+the media buying director's ads-at-scale discovery:
 > *"After 7 years running ads across B2B and coaching — the main difference between ads that scale and ads that flop is specificity."*
 
 His protocol:
@@ -125,14 +125,14 @@ Copy passes specificity gate when:
 
 ## Sources
 
-- Evan Seech — LinkedIn longform 2025: *"Specificity is the primary lever"*
-- Alex Hormozi — *$100M Offers* + *$100M Leads* (specificity-heavy copy throughout)
-- Stefan Georgi — *RMBC Method* (Research phase = specificity extraction from Amazon reviews)
-- Alen Sultanic — *Anatomy of Ads* (numeric specificity)
-- Classical: Claude Hopkins *Scientific Advertising*, Dan Kennedy direct response lineage
-- `reference/operators/evan-seech.md`
+- the media buying director — LinkedIn longform 2025: *"Specificity is the primary lever"*
+- the acquisition economist — *$100M Offers* + *$100M Leads* (specificity-heavy copy throughout)
+- the copy director — *RMBC Method* (Research phase = specificity extraction from Amazon reviews)
+- the offer architect — *Anatomy of Ads* (numeric specificity)
+- Classical: Claude Hopkins *Scientific Advertising*, the direct-response tradition direct response lineage
+- `reference/operators/media-buying-director.md`
 - `reference/operators/external/alex-hormozi.md`
-- `reference/operators/stefan-georgi.md`
+- `reference/operators/copy-director.md`
 
 ---
 *v1.0 — 2026-04-19. Primitive — the anti-generic filter applied at every ship gate.*

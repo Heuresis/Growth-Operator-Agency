@@ -4,7 +4,7 @@
 
 ## Source / Lineage
 
-Siggy Foss — IG profile funnel architect. The portal closes the loop between acquisition (IG) and advocacy (which feeds the next wave of acquisition). Foss treats the portal as the fifth playbook of the IG system: it's what turns customers into the content engine the operator couldn't otherwise afford.
+the paid media director — IG profile funnel architect. The portal closes the loop between acquisition (IG) and advocacy (which feeds the next wave of acquisition). the paid media director treats the portal as the fifth playbook of the IG system: it's what turns customers into the content engine the operator couldn't otherwise afford.
 
 ## Scope Guard (INV-8)
 

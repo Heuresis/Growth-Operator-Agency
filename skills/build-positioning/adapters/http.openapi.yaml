@@ -40,7 +40,7 @@ components:
             offer_architecture_score: { type: number, minimum: 10 }
             icp_doc_ref: { type: string, description: Path to ICP Document }
             market_research_brief_ref: { type: string, description: Path to Market Research Brief }
-            market_sophistication_stage: { type: string, enum: [naive, aware, skeptical, exhausted], description: Pampa 4-stage hint }
+            market_sophistication_stage: { type: string, enum: [naive, aware, skeptical, exhausted], description: the VSL director 4-stage hint }
         context_profile_id: { type: string }
         options:
           type: object

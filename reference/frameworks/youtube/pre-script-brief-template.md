@@ -4,8 +4,8 @@
 
 ## Source / Lineage
 
-- Dustin Varano (brief-first video production)
-- Alex Hormozi (pre-production briefs from acquisition.com)
+- the content OS director (brief-first video production)
+- the acquisition economist (pre-production briefs from acquisition.com)
 - Standard YouTube agency pre-production workflow
 
 ---

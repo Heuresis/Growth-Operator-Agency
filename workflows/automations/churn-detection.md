@@ -170,7 +170,7 @@ outcome_window_days: 14
 ## Cross-references
 - Skill: `skills/retention-check/`
 - Pipeline: `workflows/divisions/scale-pipeline.md`
-- Knowledge: `reference/knowledge/scale.md` (Slings 60/30/10)
+- Knowledge: `reference/knowledge/scale.md` (the operations director 60/30/10)
 - Related: `workflows/automations/purchase-to-onboarding.md` (onboarding quality affects this)
 
 ---

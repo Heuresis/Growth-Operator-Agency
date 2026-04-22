@@ -1,5 +1,5 @@
 ---
-description: Build a VSL script using one of 5 framework variants (Pampa 15-step / Hogendoorn 11-step Pull-Push-Persuade / Trister 13-step slides / Benson 3X / Haynes Hidden VSSL). Cycle 2 Sales hero.
+description: Build a VSL script using one of 5 framework variants (15-step / Pull-Push-Persuade 11-step Pull-Push-Persuade / 13-step VSL slides / 3X VSL Formula / Hidden VSSL). Cycle 2 Sales hero.
 argument-hint: [optional: --variant=A|B|C|D|E or topic focus]
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash, WebFetch
 ---

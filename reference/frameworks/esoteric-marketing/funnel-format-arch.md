@@ -5,11 +5,11 @@
 ## Source / Lineage
 
 - **Russell Brunson** — *DotCom Secrets* (2015), *Expert Secrets* (2017) — the canonical low-ticket ascension stack
-- **Alex Hormozi** — *$100M Offers* (2021), *$100M Leads* (2023) — the lead-magnet → core-offer geometry
-- **Dan Kennedy** — the magnetic-marketing / customer-multiplier economic model
+- **the acquisition economist** — *$100M Offers* (2021), *$100M Leads* (2023) — the lead-magnet → core-offer geometry
+- **the direct-response tradition** — the magnetic-marketing / customer-multiplier economic model
 - **Sabri Suby** — *Sell Like Crazy* (2019) — the high-ticket-only short-funnel
-- **Chris Haynes / Apollo lineage** — the high-ticket direct-close funnel for consulting/coaching
-- **Alen Sultanic** — the traffic-economics-first framing ("Traffic is King, Offer is Queen")
+- **Chris the growth engineer / Apollo lineage** — the high-ticket direct-close funnel for consulting/coaching
+- **the offer architect** — the traffic-economics-first framing ("Traffic is King, Offer is Queen")
 - **Perry Belcher** — tripwire mechanics and the "buyer first, bigger buyer later" sequencing
 
 ## The Two Fundamental Formats
@@ -132,7 +132,7 @@ When the decision says "ascension," pick the entry model. Each has distinct econ
 - LTV: wide range; high-ticket closes from book buyers average 2-3x standard
 - Durability: books produce leads for 5-10 years
 
-**Example:** *$100M Offers* (Hormozi) — low-friction book → ACV community at $3K-$50K+ downstream
+**Example:** *$100M Offers* (acquisition-economics methodology) — low-friction book → ACV community at $3K-$50K+ downstream
 
 ### Model 5 — Community ($29-$99/mo)
 
@@ -174,7 +174,7 @@ The direct format compresses the funnel:
 ### The standard high-ticket-direct build
 
 - Ad or organic content → hook
-- VSL (Eli Pampa 15-step — see `vsl/eli-pampa-15-step.md`) or webinar
+- VSL (Eli 15-step — see `vsl/eli-pampa-15-step.md`) or webinar
 - Application form with 8-15 qualification questions
 - Call-booking into creator's or closer's calendar
 - 45-60 min structured sales call (Sabri Suby King Kong or Jim Camp format)

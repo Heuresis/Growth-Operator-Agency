@@ -2,7 +2,7 @@
 
 > **Case:** Fitness Coaching for Tech Founders - the canonical starter-template offer in the Growth OS foundations pipeline
 > **Built from:** ICP (90/100 completeness) → Positioning Document → Offer Document
-> **Framework applied:** Hormozi Value Equation + Sultanic tiered pricing architecture + explicit Belief Stack
+> **Framework applied:** Value Equation + the offer architect tiered pricing architecture + explicit Belief Stack
 > **Outcome:** Offer validated - Value Score 7.0, LTV:CAC 57:1, path-to-$50K/month in clear math
 
 ## Context
@@ -92,15 +92,15 @@ Conditions ensure the founder actually does the work. The risk is not the protoc
 
 - **Shows the full foundation pipeline in artifact form.** ICP → Positioning → Offer, with every input visible upstream. The mechanism (FFOS) is referenced from the Positioning document's Section 4, then built out in the Offer document's Section 2 as a three-layer protocol. The ICP's limiting-belief diagnosis (HELPLESS-dominant 70%) is what makes the named mechanism + step-by-step path the right positioning choice rather than status-symbol / community-only framing.
 - **Conditional Performance Guarantee that is actually defensible.** Most conditional guarantees are toothless ("complete 100% of work"). This one names specific percentages (80% calls, 5 days/week, weekly check-ins) that are achievable and trackable. The guarantee becomes a marketing asset because it is real.
-- **Demonstrates the belief-stack discipline.** Section 9 of the offer document names four beliefs that must be installed before purchase, each with current state, installation method, and depth layer. Belief 2 ("Fitness is the highest-ROI investment in my company's most important asset: me") is identity-level - this is the core of Sultanic's price-as-identity principle applied.
+- **Demonstrates the belief-stack discipline.** Section 9 of the offer document names four beliefs that must be installed before purchase, each with current state, installation method, and depth layer. Belief 2 ("Fitness is the highest-ROI investment in my company's most important asset: me") is identity-level - this is the core of the offer architect's price-as-identity principle applied.
 
 ## Source
 
 - `reference/examples/foundations/offer-document.md` - full 12-section offer document
 - `reference/examples/foundations/positioning-document.md` - positioning and mechanism naming
 - `reference/examples/foundations/icp-document.md` - ICP Section 4 (HELPLESS-dominant diagnosis)
-- `reference/frameworks/alex-hormozi/value-equation.md` - scoring engine
-- `reference/frameworks/alen-sultanic/7-phase-offer-architecture.md` - Phase 2.6 tiered pricing
+- `reference/frameworks/acquisition-economics/value-equation.md` - scoring engine
+- `reference/frameworks/esoteric-offer-architecture/7-phase-offer-architecture.md` - Phase 2.6 tiered pricing
 
 ---
-*Encoded 2026-04-19. Content is [VERBATIM] pulled from the canonical Growth OS foundations example set. Framework attribution (Hormozi Value Equation, Sultanic tiering) reflects the lineage the foundations pipeline draws from.*
+*Encoded 2026-04-19. Content is [VERBATIM] pulled from the canonical Growth OS foundations example set. Framework attribution (Value Equation, the offer architect tiering) reflects the lineage the foundations pipeline draws from.*

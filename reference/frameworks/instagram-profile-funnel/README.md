@@ -1,12 +1,12 @@
-# Instagram Profile Funnel — The Siggy Foss Stack
+# Instagram Profile Funnel — The the paid media director Stack
 
-> **Reference:** Siguard (Siggy) Foss — Stallion Media / Automated IG Ecosystem
+> **Reference:** Siguard (Siggy) the paid media director — Stallion Media / Automated IG Ecosystem
 > **Purpose:** IG as a direct-response funnel — profile-as-landing-page, ads stack, DM-setter flow, content studio.
 > **When to use:** Marketing (IG-driven acquisition), Sales (profile-funnel mechanics), Ads (IG-specific creative).
 
 ## Core Thesis — "Profile = Landing Page"
 
-Most creators treat their Instagram profile as a **branding showcase**. Foss treats it as a **landing page with no back button**.
+Most creators treat their Instagram profile as a **branding showcase**. the paid media director treats it as a **landing page with no back button**.
 
 Every element of the profile converts:
 - Name + handle = domain
@@ -67,7 +67,7 @@ Post-sale delivery environment:
 - Appointment Setter Dashboard
 - Payments DB
 
-## The 4-Layer IG Story Anatomy (Nicholas Clay + Foss hybrid)
+## The 4-Layer IG Story Anatomy (the stories director + the paid media director hybrid)
 
 Every story has 4 layers working simultaneously:
 1. **Text** (script engine) — the message/claim
@@ -106,9 +106,9 @@ Each stage has a KPI target:
 - Booked → showed: 60%+
 - Showed → closed: 25%+ for $3-5K offers, 15%+ for $10-25K
 
-## YouTube Planner Addition (Foss)
+## YouTube Planner Addition (Instagram profile-funnel methodology)
 
-Foss also runs a YouTube planner integrated with IG — videos feed long-form to IG profile as "further" for serious prospects. IG does discovery, YouTube does nurture, profile is the hub.
+the paid media director also runs a YouTube planner integrated with IG — videos feed long-form to IG profile as "further" for serious prospects. IG does discovery, YouTube does nurture, profile is the hub.
 
 ## Anti-Patterns
 
@@ -132,12 +132,12 @@ Used by:
 
 ## Sources
 
-- Siggy Foss `Automated IG Ecosystem Implementation Playbook` (Notion: `28839dd823e78162b94cdd55e963cd6b`)
-- Siggy Foss `Stallion Media Content Studio` (Notion: `28839dd823e7817aa171d67ce1bdf8fd`)
-- Siggy Foss `YouTube Planner` (Notion: `28839dd823e7812baa17cf6ffd200800`)
-- Siggy Foss `Infomatic Setting Flow Liam` (Notion: `28b39dd823e780b6ab38cef1f12acbb6`)
-- Siggy Foss `(NAME) Client Portal V12` (Notion: `31139dd823e78077884dc1d89552a691`)
-- Nicholas Clay 4-layer story anatomy (Notion: `2d539dd823e7800aa97eef7b10569eac`)
+- the paid media director `Automated IG Ecosystem Implementation Playbook` (Notion: `28839dd823e78162b94cdd55e963cd6b`)
+- the paid media director `Stallion Media Content Studio` (Notion: `28839dd823e7817aa171d67ce1bdf8fd`)
+- the paid media director `YouTube Planner` (Notion: `28839dd823e7812baa17cf6ffd200800`)
+- the paid media director `Infomatic Setting Flow Liam` (Notion: `28b39dd823e780b6ab38cef1f12acbb6`)
+- the paid media director `(NAME) Client Portal V12` (Notion: `31139dd823e78077884dc1d89552a691`)
+- 4-layer story anatomy (Notion: `2d539dd823e7800aa97eef7b10569eac`)
 
 ---
 *v1.0 — 2026-04-19. IG funnel stack for Growth OS — depth for ads/profile/DM; does not extend into full IG agency services (separate workspace).*

@@ -1,6 +1,6 @@
 ---
 name: hiring-brief
-description: Produce hiring brief for one of 8 roles (Setter / Closer / SDR / Content Manager / Video Editor / Customer Success / VA / Marketing Manager). Scorecard + ideal profile + outreach script + interview questions + 30/60/90-day plan. Revenue-threshold-aware (per Pampa team model).
+description: Produce hiring brief for one of 8 roles (Setter / Closer / SDR / Content Manager / Video Editor / Customer Success / VA / Marketing Manager). Scorecard + ideal profile + outreach script + interview questions + 30/60/90-day plan. Revenue-threshold-aware (per the VSL director team model).
 signal:
   mode: linguistic
   genre: hiring-brief
@@ -48,9 +48,9 @@ version: 1.0
 
 ## Role
 
-Produce hiring briefs aligned to Pampa's Revenue-Threshold Team Model. Lineage: **Eli Pampa** (solo → 3-8 → 10-20 → 20-40 A-players + 3-Strike System), **Jeremy Haynes** (Recruit Top Closers — headline + VSL + Typeform + 90s selfie + formal interview with role plays + EEOC compliance), **Alex Hormozi** (A-player hiring in $100M Leads), **FIOVA Scale Team Builder**.
+Produce hiring briefs aligned to the VSL director's Revenue-Threshold Team Model. Lineage: **the VSL director** (solo → 3-8 → 10-20 → 20-40 A-players + 3-Strike System), **the growth engineer** (Recruit Top Closers — headline + VSL + Typeform + 90s selfie + formal interview with role plays + EEOC compliance), **the acquisition economist** (A-player hiring in $100M Leads), **Scale division Team Builder**.
 
-## The Revenue-Threshold Team Model (Pampa)
+## The Revenue-Threshold Team Model (15-step VSL methodology)
 
 | Revenue | Team | Key hires |
 |---|---|---|
@@ -60,7 +60,7 @@ Produce hiring briefs aligned to Pampa's Revenue-Threshold Team Model. Lineage: 
 | $500K-$1M MRR | 10-20 | 4-6 Setters, 2-3 Closers, 1 SDR, 1 Content Mgr, 1-2 Editors, 1 CS, 1 Marketing Mgr |
 | $1M+ MRR | 20-40 A-players | Full team + Ops Manager + Finance |
 
-**Pampa rule:** don't over-hire. Each role has a revenue threshold. Don't under-hire at scale.
+**the VSL director rule:** don't over-hire. Each role has a revenue threshold. Don't under-hire at scale.
 
 ## The 8 Role Variants
 
@@ -84,7 +84,7 @@ W(hiring-brief) =
   3. Ideal Profile (background / skills / culture fit)
   4. Compensation Structure (base + commission + bonus)
   5. Outreach Script (LinkedIn / job board copy)
-  6. Screening Flow (Haynes 5-stage: Headline + VSL + Typeform + 90-sec selfie + Formal Interview)
+  6. Screening Flow (the growth engineer 5-stage: Headline + VSL + Typeform + 90-sec selfie + Formal Interview)
   7. Interview Questions (5+ rounds of questions)
   8. Role Plays (scenario-based evaluation)
   9. 30/60/90-Day Plan (success milestones)
@@ -133,14 +133,14 @@ W(hiring-brief) =
 
 Adjust by geography (Philippines / India / US / EU).
 
-### Haynes 5-Stage Screening
+### the growth engineer 5-Stage Screening
 1. **Headline + VSL** (ad/post with video)
 2. **Typeform application** (qualification + DQ criteria)
 3. **90-second selfie video task** (tests commitment + personality + clarity)
 4. **Formal Interview with Role Plays** (scenario-based evaluation)
 5. **Paid Trial Week** (real work + observation)
 
-### The 3-Strike System (Pampa)
+### The 3-Strike System (15-step VSL methodology)
 New hire gets 3 strikes:
 - Strike 1: Private correction + documented
 - Strike 2: Public (team) correction + documented
@@ -181,8 +181,8 @@ Keeps standards without emotion-driven firing.
 ### Phase 0 — Load
 - company.yaml Compartment 11 (team structure, tech stack)
 - Existing SOPs for the role
-- `reference/operators/eli-pampa.md` (Revenue-Threshold model + A-player hiring)
-- `reference/operators/jeremy-haynes.md` (5-stage screening)
+- `reference/operators/vsl-director.md` (Revenue-Threshold model + A-player hiring)
+- `reference/operators/growth-engineer.md` (5-stage screening)
 
 ### Phase 1 — Revenue Threshold Check
 Cross-check creator's revenue vs role's threshold. If mismatched, flag.
@@ -202,7 +202,7 @@ Base + commission + bonus + geography adjustment.
 ### Phase 6 — Outreach Script
 LinkedIn / job board post copy. Hook + role + compensation + CTA.
 
-### Phase 7 — Screening Flow (Haynes 5-stage)
+### Phase 7 — Screening Flow (the growth engineer 5-stage)
 - Headline + VSL brief
 - Typeform questions
 - 90-sec selfie prompt
@@ -262,7 +262,7 @@ EEOC + contractor/employee + state-specific.
 ### Direct Outreach DM
 [personalized template]
 
-## 6. Screening Flow (Haynes 5-stage)
+## 6. Screening Flow (the growth engineer 5-stage)
 
 ### Stage 1 — Headline + VSL
 [ad brief + 60-90s VSL script]
@@ -321,7 +321,7 @@ Weeks 3-4: autonomous w/ daily review
 
 - **NEVER hire without revenue threshold check** (over-hiring kills margin).
 - **NEVER unpaid trial** for real work.
-- **ALWAYS use 5-stage Haynes screening** for commercial roles.
+- **ALWAYS use 5-stage the growth engineer screening** for commercial roles.
 - **ALWAYS document interview scores** (3-strike requires paper trail).
 - **ALWAYS include 30/60/90 plan.**
 - **ALWAYS EEOC-comply** for US hires.
@@ -348,8 +348,8 @@ Weeks 3-4: autonomous w/ daily review
 
 ## References
 
-- `reference/operators/eli-pampa.md` (Revenue-Threshold Team Model + A-player hiring)
-- `reference/operators/jeremy-haynes.md` (Recruit Top Closers — 5-stage screening)
+- `reference/operators/vsl-director.md` (Revenue-Threshold Team Model + A-player hiring)
+- `reference/operators/growth-engineer.md` (Recruit Top Closers — 5-stage screening)
 - `reference/operators/external/alex-hormozi.md` ($100M Leads — hiring standards)
 
 ---

@@ -1,6 +1,6 @@
 # Core Four — The Primitive
 
-> **Source:** Alex Hormozi, *$100M Leads* (Chapter 5 — "The Core Four")
+> **Source:** the acquisition economist, *$100M Leads* (Chapter 5 — "The Core Four")
 > **Status:** First-class primitive. The 2×2 that governs every lead-generation decision.
 
 ## The Equation
@@ -38,7 +38,7 @@ Running all four poorly > running two well. Split focus = fractional effectivene
 | $30-100K MRR, proven offer | ② Post Content + ④ Paid Ads (scale what works) |
 | $100K+ MRR | All 4 + Lead Getters (exponential layer — see below) |
 
-## The Lead Getters (Exponential Layer — Hormozi)
+## The Lead Getters (Exponential Layer — the acquisition economist)
 
 Once one of the Core Four is producing, **Lead Getters** multiply the output:
 1. **Customers** — get referrals from buyers
@@ -120,7 +120,7 @@ Core Four strategy is dialed when:
 
 ## Sources
 
-- Alex Hormozi, *$100M Leads* — Chapters on Core Four + Lead Getters
+- the acquisition economist, *$100M Leads* — Chapters on Core Four + Lead Getters
 - Greg Faxon summary — `reference/operators/external/alex-hormozi.md`
 
 ---

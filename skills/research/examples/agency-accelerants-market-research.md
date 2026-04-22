@@ -6,7 +6,7 @@
 
 ## Context
 
-This is a canonical research example for a B2B agency-scaling offer - the Agency Accelerants category. The operator is a former digital agency owner who scaled their agency from $20K/month to $180K/month over 18 months and is now productizing that journey into a coaching offer. The market (agency-scaling education) is Solution Aware and borderline Sophisticated - every agency owner has heard of Iman Gadzhi, Charlie Morgan, Jordan Platten, Sam Ovens, and has probably bought something. The research below is the encoded market-sizing + competitor-landscape + VOC capture that grounds the downstream ICP and Positioning documents.
+This is a canonical research example for a B2B agency-scaling offer - the Agency Accelerants category. The operator is a former digital agency owner who scaled their agency from $20K/month to $180K/month over 18 months and is now productizing that journey into a coaching offer. The market (agency-scaling education) is Solution Aware and borderline Sophisticated - every agency owner has heard of the agency director, Charlie Morgan, Jordan Platten, Sam Ovens, and has probably bought something. The research below is the encoded market-sizing + competitor-landscape + VOC capture that grounds the downstream ICP and Positioning documents.
 
 ## The Encoded Market Research
 
@@ -34,9 +34,9 @@ Market: coaching / education for digital agency owners at $30K-$150K/month reven
 
 **Market Maturity:** Sophisticated. Every competitor has been picked over. Audience has likely bought a program in the last 24 months. Generic "scale your agency" claims get ignored - only mechanism-specific offers earn attention.
 
-### Pampa 4-Stage Sophistication Diagnosis
+### the VSL director 4-Stage Sophistication Diagnosis
 
-Using `reference/frameworks/fiova-market-sophistication.md`:
+Using `reference/frameworks/market-sophistication-overview.md`:
 
 | Stage | Fit |
 |---|---|
@@ -45,11 +45,11 @@ Using `reference/frameworks/fiova-market-sophistication.md`:
 | Stage 3 Skeptical | **YES (target positioning)** |
 | Stage 4 Exhausted | Possible but risky without authority |
 
-**Implication:** Stage 3. Copy takes a contrarian position against the dominant narrative (Gadzhi's "sign 5 clients in 30 days" / Morgan's "hit 7-figures") and leans into the middle-band truth: scaling at $60K/month is a systems-install problem, not a client-count problem.
+**Implication:** Stage 3. Copy takes a contrarian position against the dominant narrative (the agency director's "sign 5 clients in 30 days" / Morgan's "hit 7-figures") and leans into the middle-band truth: scaling at $60K/month is a systems-install problem, not a client-count problem.
 
 ### Demand Signals
 
-- **Adjacent proof:** Gadzhi's IAG Media at $2,497-$7,500 with 100K+ community. Morgan's Imperium at $15K+. Ovens' Consulting Accelerator has ~8,000 alumni. The $10K-$30K coaching band is active.
+- **Adjacent proof:** the agency director's IAG Media at $2,497-$7,500 with 100K+ community. Morgan's Imperium at $15K+. Ovens' Consulting Accelerator has ~8,000 alumni. The $10K-$30K coaching band is active.
 - **Community proof:** Reddit r/Entrepreneur 2.8M members, "I own a $50K/month agency and I'm drowning" threads weekly. YEC has 1,000+ members at $2,500/year.
 - **VOC:** "I hit $60K/month and can't grow, I'm the bottleneck." (r/Entrepreneur). "Every SMMA program I bought was for beginners." (r/Agency). "Working more hours at $80K/month than I did at $20K/month." (YEC)
 
@@ -57,12 +57,12 @@ Using `reference/frameworks/fiova-market-sophistication.md`:
 
 | Competitor | Positioning | Price Band | Gap |
 |---|---|---|---|
-| Iman Gadzhi (IAG Media) | "Sign 5 clients in 30 days" | $2,497-$7,500 | Beginner-focused |
+| the agency director (IAG Media) | "Sign 5 clients in 30 days" | $2,497-$7,500 | Beginner-focused |
 | Charlie Morgan (Imperium) | "Scale to 7-figures" | $15K+ | Strong but saturated |
 | Sam Ovens (Consulting Accelerator) | "Build a consulting business" | $2K-$5K entry | Older positioning |
 | Jordan Platten (Affluent Academy) | SMMA training | $1K-$3K | Beginner band |
 | Frank Kern (classical DR) | Agency marketing systems | $10K+ | Broader than agency |
-| Hormozi (Acquisition.com) | Scale to 8-figures | $30K+ workshop | Top 1% only |
+| the acquisition economist (Acquisition.com) | Scale to 8-figures | $30K+ workshop | Top 1% only |
 
 **The gap:** Everyone teaches "$0 to $10K" or "$100K+ masterminds." Nobody teaches the systems-install layer for $30K-$150K agencies.
 
@@ -88,7 +88,7 @@ Agencies at $30K-$150K/month don't need more clients. They need four systems ins
 
 ### Critical Risk
 
-Market is Sophisticated. Generic positioning fails fast. The offer must lean into Stage 3 contrarian positioning and accept comparison-shopping against Gadzhi/Morgan/Hormozi. Mitigation: "systems-install" mechanism is category-new in this band.
+Market is Sophisticated. Generic positioning fails fast. The offer must lean into Stage 3 contrarian positioning and accept comparison-shopping against the agency director/Morgan/the acquisition economist. Mitigation: "systems-install" mechanism is category-new in this band.
 
 ### Recommendation
 
@@ -97,15 +97,15 @@ Market is Sophisticated. Generic positioning fails fast. The offer must lean int
 ## Why This Is A Good Example
 
 - **Sophistication diagnosis drives positioning.** Market diagnosed as Stage 3 (Skeptical) routes the positioning toward identity-based contrarian copy rather than mechanism-reveal (Stage 2) or paradigm-shift (Stage 4).
-- **Competitor landscape names the gap band.** Gadzhi/Platten/Ovens cover $0-$10K/month. Hormozi covers $1M+/month. The $30K-$150K band is visibly underserved.
+- **Competitor landscape names the gap band.** the agency director/Platten/Ovens cover $0-$10K/month. the acquisition economist covers $1M+/month. The $30K-$150K band is visibly underserved.
 - **VOC distinguishes demand pain from systems pain.** Lower-band VOC is "can't find clients." This band's VOC is "drowning" and "hired/fired in 6 weeks because no SOPs." Drives the systems-first diagnosis.
 
 ## Source
 
-- `reference/frameworks/fiova-market-sophistication.md` - 4-stage sophistication taxonomy
-- `reference/frameworks/eli-pampa/6-blockage-diagnostic.md` - blockage diagnosis applied to agency scaling
-- `reference/frameworks/market-research-method.md` - FIOVA market-research methodology
+- `reference/frameworks/market-sophistication-overview.md` - 4-stage sophistication taxonomy
+- `reference/frameworks/vsl-director/6-blockage-diagnostic.md` - blockage diagnosis applied to agency scaling
+- `reference/frameworks/market-research-method.md` - Growth OS market-research methodology
 - Primary sources: IBIS World, US Census, Inc 5000, YEC, Reddit r/Entrepreneur + r/Agency + r/SMMA, IndieHackers
 
 ---
-*Encoded 2026-04-19. [SYNTHESIZED] market research for the Agency Accelerants category. Framework structure (market-sizing table, Pampa 4-stage sophistication diagnosis, VOC capture, competitor landscape) is [VERBATIM] from the Growth OS research methodology. Competitor names, pricing tiers, and community membership figures are from public sources. Specific illustrative VOC quotes are composite examples calibrated to the Reddit and YEC community patterns.*
+*Encoded 2026-04-19. [SYNTHESIZED] market research for the Agency Accelerants category. Framework structure (market-sizing table, the VSL director 4-stage sophistication diagnosis, VOC capture, competitor landscape) is [VERBATIM] from the Growth OS research methodology. Competitor names, pricing tiers, and community membership figures are from public sources. Specific illustrative VOC quotes are composite examples calibrated to the Reddit and YEC community patterns.*

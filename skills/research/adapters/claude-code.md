@@ -55,7 +55,7 @@ If `$ARGUMENTS` is provided, focus the research on that specific topic/offer. Ot
 - **WebSearch** for initial market scan, trend data, competitor discovery
 - **WebFetch** for pulling specific pages (sales pages, Reddit threads, blog articles)
 - **Grep** across `company.yaml` and `reference/` to check what's already known
-- **Read** `reference/sub-agents/market-research-icp/` for the raw FIOVA methodology
+- **Read** `reference/sub-agents/market-research-icp/` for the raw Growth OS methodology
 - **Bash** for running any utility scripts (none required for v1)
 
 ## Quality gates

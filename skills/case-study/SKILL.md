@@ -1,6 +1,6 @@
 ---
 name: case-study
-description: Convert a client win into a publishable case study per the FIOVA 6-Level Social Proof Hierarchy + Sultanic Isomorphic Story principle. Produces one full written case study (800-1500 words), one VSL insert (60-90s), one ad variant (30s), one LinkedIn post, one X thread, one email broadcast, plus FTC disclosure and client-approval record. Target output: Level 5 or Level 6 proof only. Lower-level testimonials are routed to aggregate-proof channels, not hero case studies.
+description: Convert a client win into a publishable case study per the Growth OS 6-Level Social Proof Hierarchy + the offer architect Isomorphic Story principle. Produces one full written case study (800-1500 words), one VSL insert (60-90s), one ad variant (30s), one LinkedIn post, one X thread, one email broadcast, plus FTC disclosure and client-approval record. Target output: Level 5 or Level 6 proof only. Lower-level testimonials are routed to aggregate-proof channels, not hero case studies.
 signal:
   mode: linguistic
   genre: case-study
@@ -51,11 +51,11 @@ Run after `/retention-check` identifies a Thriving client. Input: client name + 
 
 ## What It Does
 
-Converts a client win into a proof stack: one long-form written asset and five derivative formats, all sourced from a single 30-60 min unscripted interview. Grades the asset on the FIOVA 6-Level Social Proof Hierarchy and isomorphic fit against the ICP. Refuses to publish anything below Level 5. Refuses to publish a non-isomorphic case study in a hero slot, even if the numbers are larger, because a non-isomorphic case study converts worse than no case study at all.
+Converts a client win into a proof stack: one long-form written asset and five derivative formats, all sourced from a single 30-60 min unscripted interview. Grades the asset on the Growth OS 6-Level Social Proof Hierarchy and isomorphic fit against the ICP. Refuses to publish anything below Level 5. Refuses to publish a non-isomorphic case study in a hero slot, even if the numbers are larger, because a non-isomorphic case study converts worse than no case study at all.
 
 ## Role (Lineage)
 
-FIOVA 6-Level Social Proof Hierarchy (canonical source for proof grading). Alen Sultanic Isomorphic Story Principle (starting-situation + outcome + process must all map to prospect). Jeremy Haynes Offer Proof Flywheel (case studies feed offer strength, not the other way around). Dustin Varano 1-2 Hour Consumption Rule (case study is consumption content, not pitch content). Ryan Clogg EP83 One-Funnel Compounding Model (case studies reinforce the single funnel's proof base — no kitchen-sink cases).
+Growth OS 6-Level Social Proof Hierarchy (canonical source for proof grading). the offer architect Isomorphic Story Principle (starting-situation + outcome + process must all map to prospect). the growth engineer Offer Proof Flywheel (case studies feed offer strength, not the other way around). the content OS director 1-2 Hour Consumption Rule (case study is consumption content, not pitch content). the backend economist EP83 One-Funnel Compounding Model (case studies reinforce the single funnel's proof base — no kitchen-sink cases).
 
 ## Agent
 
@@ -74,7 +74,7 @@ FIOVA 6-Level Social Proof Hierarchy (canonical source for proof grading). Alen 
 - FTC disclosure template approved by legal
 - Client verbal pre-consent before the interview is booked
 
-## The 6-Level Social Proof Hierarchy (FIOVA canonical)
+## The 6-Level Social Proof Hierarchy (Growth OS canonical)
 
 | Level | Type | Trust | Asset Use |
 |---|---|---|---|
@@ -87,7 +87,7 @@ FIOVA 6-Level Social Proof Hierarchy (canonical source for proof grading). Alen 
 
 **Hero case studies = Level 5 or 6 only.** Level 1-4 can appear in aggregate proof walls, ad creative collages, or supporting quotes — never as the headline proof for a VSL or offer page.
 
-## The Isomorphic Story Check (Sultanic)
+## The Isomorphic Story Check (7-phase offer methodology)
 
 A case study converts only when the prospect sees themselves in it. Three dimensions must match, not one:
 
@@ -103,7 +103,7 @@ Non-isomorphic case study = impressive-but-trust-leaky. A "closed $1M in 90 days
 - Thriving client record from `/retention-check`
 - ICP Doc (for isomorphic fit check — specifically the 4-layer pain, demographic profile, and buying-triggers sections)
 - Offer Doc (mechanism name + sub-steps)
-- FIOVA 8 Required Beliefs (the case study will install beliefs 3, 6, 7, 8 — verify alignment before interview)
+- Growth OS 8 Required Beliefs (the case study will install beliefs 3, 6, 7, 8 — verify alignment before interview)
 
 ### Phase 1 — Client Qualification Gate
 - Thriving status confirmed in last 30 days
@@ -141,9 +141,9 @@ All four must match for hero-case-study publication. If 2 of 4 match, use as sup
 Per W(case-study) 8-section structure below.
 
 ### Phase 5 — Derivative Outputs
-- VSL insert (60-90s, inserted at Pampa 15-step Step 8 Testimonials position)
+- VSL insert (60-90s, inserted at 15-step Step 8 Testimonials position)
 - Ad variant (30s, pure client voice with B-roll — no creator voiceover)
-- LinkedIn post (Ryan Clogg EP83 benchmarking — one-specific-number hook)
+- LinkedIn post (the backend economist EP83 benchmarking — one-specific-number hook)
 - X thread (7-12 tweets, outcome first, process second)
 - Email broadcast (story arc with direct CTA to offer)
 
@@ -151,14 +151,14 @@ Per W(case-study) 8-section structure below.
 - Client reviews full written case study + all derivatives before publication
 - Client signs off in writing (email sufficient; recorded verbal for Level 6 video assets)
 - FTC disclosure placed on every published asset ("Results not typical. [Client] is a paying customer whose experience does not guarantee similar outcomes.")
-- Results disclaimer calibrated to regulatory vertical (FTC for US, ASA for UK, stricter rules for health/financial niches per Jeremy Haynes *Meta Ad Restrictions Prep*)
+- Results disclaimer calibrated to regulatory vertical (FTC for US, ASA for UK, stricter rules for health/financial niches per the growth engineer *Meta Ad Restrictions Prep*)
 
 ### Phase 7 — Publication Channel Fit
 Pick the primary distribution channel before writing the derivatives, not after — the channel shapes the beat emphasis:
 
-- **VSL insert** — emotion-heavy, mechanism-reinforcing (Pampa Step 8)
-- **Organic YouTube** — story arc, 5-7 min (Varano Value content, no external CTA)
-- **LinkedIn** — data-first hook (Clogg benchmarking discipline — "specific number" opening)
+- **VSL insert** — emotion-heavy, mechanism-reinforcing (the VSL director Step 8)
+- **Organic YouTube** — story arc, 5-7 min (the content OS director Value content, no external CTA)
+- **LinkedIn** — data-first hook (the backend economist benchmarking discipline — "specific number" opening)
 - **Paid ad** — 30s, high-retention edit, client voice only
 - **Email broadcast** — story + offer link (Sanjay 10% email revenue bucket)
 - **Landing page** — static proof block, one per page max (cognitive load)
@@ -169,19 +169,19 @@ Pick the primary distribution channel before writing the derivatives, not after 
 Story arc = Levels 5-6 with emotional journey (obstacle → breakthrough → outcome). Data-driven = numbers-first hook when the metric is category-breaking ("$0 to $47K/mo in 90 days"). Default to story arc — data-driven dominates only when the ICP is analytical (engineers, quants, operators who trust numbers over narrative). Story arc always carries the 4-layer pain; data-driven still needs pain mentioned inside the proof, not omitted.
 
 ### 2. WHY Feature the Client, Not the Agency/Creator?
-The prospect must see themselves in the case study. A case study that centers the creator's heroics centers the wrong person — the prospect thinks "the creator is great" instead of "I could be this client." Varano's rule applies: Value content never links out; case-study content never self-promotes. The creator's role is implementation partner, not hero. The client closes the sale in their own voice.
+The prospect must see themselves in the case study. A case study that centers the creator's heroics centers the wrong person — the prospect thinks "the creator is great" instead of "I could be this client." the content OS director's rule applies: Value content never links out; case-study content never self-promotes. The creator's role is implementation partner, not hero. The client closes the sale in their own voice.
 
 ### 3. WHY the Isomorphic-Fit Rule (the non-negotiable)?
 Pattern: mid-stage operators publish their most impressive case first. That case is almost always non-isomorphic — ex-enterprise VPs, outliers, lottery winners. Prospects at the ICP's real stage read it and disqualify themselves. The correct hero case is the one closest to the ICP's exact starting point, even if the absolute numbers are smaller. A $47K/mo case beats a $470K/mo case when the prospect is at $5K/mo.
 
 ### 4. WHY Proof-Stack Ordering?
-Order proof by identification distance from the prospect, not by size of result. Open with the closest-match client (lowest identification distance), escalate to larger results as the prospect's belief scaffolds. A landing page that opens with the largest result and scales down burns the only shot at identification. Pampa 15-step Step 8 Testimonials mirrors this — Expert Endorsement first, Dream Result second, Initial Win third.
+Order proof by identification distance from the prospect, not by size of result. Open with the closest-match client (lowest identification distance), escalate to larger results as the prospect's belief scaffolds. A landing page that opens with the largest result and scales down burns the only shot at identification. 15-step Step 8 Testimonials mirrors this — Expert Endorsement first, Dream Result second, Initial Win third.
 
 ### 5. WHY Narrative Type Selection?
 Five narrative types; pick one per case, never mix:
 - **Underdog** — client started from a weaker position than the ICP; proves "even I can"
 - **Transformation** — large delta on one specific axis; proves the mechanism works
-- **Validation** — expert or peer endorsing the mechanism; proves category-legitimacy (Pampa Expert Endorsement)
+- **Validation** — expert or peer endorsing the mechanism; proves category-legitimacy (the VSL director Expert Endorsement)
 - **Mechanism-reveal** — walks through *how* the mechanism worked in this specific case; proves reproducibility
 - **Fast-win** — first-30-day outcome; proves time-delay is low (Value Equation score input)
 
@@ -191,10 +191,10 @@ Match the narrative type to the ICP's dominant objection. Underdog for "not me" 
 A 60-minute interview produces a better 800-word case study than a 20-minute interview produces a 1,500-word case study. Depth surfaces the specific verbatim lines that make the copy feel earned — the "I remember sitting in my car that Thursday" moments. Thin interviews produce fillable-template output. If the interview didn't produce 3+ memorable specific-moment quotes, go back — don't pad to length.
 
 ### 7. WHY Quote Verbatim vs Paraphrase?
-Quote verbatim when the client's phrasing is more specific, more emotional, or more voice-of-customer than a rewrite would be. Paraphrase only when the verbatim is rambling, structurally broken, or contains information the client would want edited. Georgi-lineage rule — verbatim VOC is the only language that bypasses ad blindness. Paraphrased client speech reads like creator speech, which defeats the point.
+Quote verbatim when the client's phrasing is more specific, more emotional, or more voice-of-customer than a rewrite would be. Paraphrase only when the verbatim is rambling, structurally broken, or contains information the client would want edited. the copy director-lineage rule — verbatim VOC is the only language that bypasses ad blindness. Paraphrased client speech reads like creator speech, which defeats the point.
 
 ### 8. WHY One Transformation Per Case?
-No kitchen-sink case studies. One client, one transformation, one outcome-metric-that-matters. Case studies that list "increased revenue 4×, cut hours 50%, hired 3 people, launched course, won award" read as promotional collage and install no belief cleanly. The single transformation is the spine; everything else is texture, mentioned only if it reinforces the single transformation. Clogg benchmarking rule transferred: one video, one concept, no "kitchen sink."
+No kitchen-sink case studies. One client, one transformation, one outcome-metric-that-matters. Case studies that list "increased revenue 4×, cut hours 50%, hired 3 people, launched course, won award" read as promotional collage and install no belief cleanly. The single transformation is the spine; everything else is texture, mentioned only if it reinforces the single transformation. the backend economist benchmarking rule transferred: one video, one concept, no "kitchen sink."
 
 ### 9. WHY Publication Channel Determines Beat Emphasis?
 Beat weighting shifts by channel. VSL insert leads with the emotional obstacle (the dip). Landing page leads with the outcome number (fast reassurance). Email broadcast leads with the story hook (curiosity). LinkedIn leads with the specific benchmark number. Same case, same truth, five different opening beats. Writing the derivatives without channel assignment produces generic-average outputs that underperform on every channel.
@@ -273,7 +273,7 @@ One case study with a false or unverifiable claim can subject the operator to FT
 
 ## Derivative Outputs
 
-### VSL Insert (60-90s, Pampa Step 8 position)
+### VSL Insert (60-90s, the VSL director Step 8 position)
 [script — client voice primary, creator voice secondary]
 
 ### Ad Variant (30s, client voice only)
@@ -340,13 +340,13 @@ Case studies that leak these read as agency-written, not client-lived. One insta
 
 ## Cross-References
 
-- `reference/operators/ryan-clogg.md` (EP83 one-funnel case study framing, E56 skill-compounding case pattern)
-- `reference/operators/dustin-varano.md` (three signature breakdown case studies — $178K / $57K / $246K)
-- `reference/operators/jeremy-haynes.md` (Offer Proof Flywheel — case studies feed offer strength)
-- `reference/operators/alen-sultanic.md` (Isomorphic Story Principle — primary lineage)
+- `reference/operators/backend-economist.md` (EP83 one-funnel case study framing, E56 skill-compounding case pattern)
+- `reference/operators/content-os-director.md` (three signature breakdown case studies — $178K / $57K / $246K)
+- `reference/operators/growth-engineer.md` (Offer Proof Flywheel — case studies feed offer strength)
+- `reference/operators/offer-architect.md` (Isomorphic Story Principle — primary lineage)
 - `reference/frameworks/sales/8-required-beliefs.md` (beliefs 3, 6, 7, 8 installed by case studies)
-- `reference/frameworks/esoteric-marketing/README.md` (Sultanic isomorphic framework) `[UNVERIFIED — path depends on repo structure]`
-- `reference/frameworks/eli-pampa/8-required-beliefs-deep.md` (Pampa canonical belief installation)
+- `reference/frameworks/esoteric-marketing/README.md` (the offer architect isomorphic framework) `[UNVERIFIED — path depends on repo structure]`
+- `reference/frameworks/vsl-director/8-required-beliefs-deep.md` (the VSL director canonical belief installation)
 - `reference/knowledge/launch.md` (case study as Phase 2 Runway asset)
 
 ## Important Rules
@@ -364,7 +364,7 @@ Case studies that leak these read as agency-written, not client-lived. One insta
 
 ## Next Skills
 
-- `/build-vsl` — insert case at Pampa Step 8 position
+- `/build-vsl` — insert case at the VSL director Step 8 position
 - `/ad-creative` — derivative ad variant feeds paid creative family
 - `/write-linkedin-post` + `/write-x-thread` — organic distribution of derivatives
 - `/email-sequence` — broadcast reference + nurture embedding
@@ -372,11 +372,11 @@ Case studies that leak these read as agency-written, not client-lived. One insta
 
 ## References
 
-- FIOVA 6-Level Social Proof Hierarchy (canonical grading source)
-- Sultanic Isomorphic Story Principle (`reference/operators/alen-sultanic.md`)
-- Jeremy Haynes Offer Proof Flywheel (`reference/operators/jeremy-haynes.md`)
-- Ryan Clogg benchmarking + specificity discipline (`reference/operators/ryan-clogg.md`)
-- Dustin Varano three signature breakdowns as case-study archetypes (`reference/operators/dustin-varano.md`)
+- Growth OS 6-Level Social Proof Hierarchy (canonical grading source)
+- the offer architect Isomorphic Story Principle (`reference/operators/offer-architect.md`)
+- the growth engineer Offer Proof Flywheel (`reference/operators/growth-engineer.md`)
+- the backend economist benchmarking + specificity discipline (`reference/operators/backend-economist.md`)
+- the content OS director three signature breakdowns as case-study archetypes (`reference/operators/content-os-director.md`)
 - 8 Required Beliefs — beliefs 3, 6, 7, 8 (`reference/frameworks/sales/8-required-beliefs.md`)
 
 ---

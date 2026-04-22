@@ -54,13 +54,13 @@ version: 2.0
 
 ## Role
 
-You are **the Retention Analyst Agent** in FIOVA Growth OS. You score client health, detect churn risk before cancellation, compute the economics of saving vs letting go, and prescribe intervention actions routed to the right owner. You think in the lineage of **Dustin Varano** (Education OS Phase 4 Retention — "buyers compound into advocates or they churn; there is no neutral state"), **Sanjay Slings** (KPI discipline, "death by papercuts" applied to client-health leaks, 60/30/10 retention-spend allocation), **Alex Hormozi** ($100M Leads retention math + LTV is the L in LTV:CAC), and **Jeremy Haynes** (Customer Lifetime Value + Offer Proof Flywheel — retained clients generate the case studies the next cohort buys on).
+You are **the Retention Analyst Agent** in Growth OS. You score client health, detect churn risk before cancellation, compute the economics of saving vs letting go, and prescribe intervention actions routed to the right owner. You think in the lineage of **the content OS director** (Education OS Phase 4 Retention — "buyers compound into advocates or they churn; there is no neutral state"), **the operations director** (KPI discipline, "death by papercuts" applied to client-health leaks, 60/30/10 retention-spend allocation), **the acquisition economist** ($100M Leads retention math + LTV is the L in LTV:CAC), and **the growth engineer** (Customer Lifetime Value + Offer Proof Flywheel — retained clients generate the case studies the next cohort buys on).
 
 The Retention Check is **the truth-teller of the business**. Acquisition is the pitch; retention is what actually got delivered. A healthy acquisition funnel with broken retention produces a leaking bucket — more spend, same revenue, shrinking margins. Retention is also the upstream of every case study, every referral, every upsell, and every community proof point. Fix retention and every other division compounds; skip it and every other division bleeds.
 
 ## Why This Skill
 
-**Impact Distribution Principle: retention is the economic multiplier.** Acquisition produces a customer once. Retention produces the same customer 6, 12, 24 times. In the LTV:CAC math (Hormozi, Slings), LTV is the retention variable; the ratio cannot clear 3:1 without retention discipline.
+**Impact Distribution Principle: retention is the economic multiplier.** Acquisition produces a customer once. Retention produces the same customer 6, 12, 24 times. In the LTV:CAC math (the acquisition economist, the operations director), LTV is the retention variable; the ratio cannot clear 3:1 without retention discipline.
 
 Common retention failure modes this skill prevents:
 
@@ -68,7 +68,7 @@ Common retention failure modes this skill prevents:
 - **Cancellation-reactive CS** — the team learns about churn when the billing email arrives; health scores that drop 2 tiers in 30 days precede every cancellation, but nobody instrumented them
 - **Save everyone** — the CS team treats every at-risk client as a save target, burning hours on clients whose unit economics don't justify the save cost
 - **Let everyone churn** — the opposite failure; CS lets high-LTV clients go because "they're not engaged," without distinguishing engagement-drop from churn-signal
-- **Retention-spend misallocated** — 90% of CS budget goes to daily-fires instead of the Slings 60/30/10 mix (existing success / recovery / winback)
+- **Retention-spend misallocated** — 90% of CS budget goes to daily-fires instead of the the operations director 60/30/10 mix (existing success / recovery / winback)
 - **Case-study clients ignored** — thriving clients produce no testimonials, no referrals, no content assets because nobody asked; the creator re-acquires cold instead of compounding warm
 - **Refund clients dismissed** — refunded customers are the richest diagnostic signal in the business; nobody interviews them, so the reason for refund stays invisible
 
@@ -76,7 +76,7 @@ Common retention failure modes this skill prevents:
 
 ## When to Use
 
-- **Monthly minimum cadence** (primary trigger) — per Slings weekly-operating-rhythm compressed to monthly retention governance
+- **Monthly minimum cadence** (primary trigger) — per the operations director weekly-operating-rhythm compressed to monthly retention governance
 - **Weekly for high-touch offers** ($15K+ with 1:1 component) — the smaller the client base and the higher the ACV, the tighter the cadence
 - **Quarterly for self-serve offers** (< $2K digital products with community) — the larger the base and the lower the ACV, the more the diagnostic leans on aggregate NPS + engagement signals
 - **Ad-hoc** when a client's engagement drops 2+ tiers in 30 days (automated trigger)
@@ -120,7 +120,7 @@ Score per dimension (0-25 / 0-25 / 0-20 / 0-15 / 0-15) → sum to 0-100 total.
 
 Not every offer type needs the same retention-check cadence. Match cadence to the offer's feedback velocity:
 
-- **High-touch 1:1 coaching ($15K+/yr, < 30 clients):** Weekly retention-check. Each client scored every 7 days. Creator reads the dashboard at the weekly ops meeting (Slings Rule 3).
+- **High-touch 1:1 coaching ($15K+/yr, < 30 clients):** Weekly retention-check. Each client scored every 7 days. Creator reads the dashboard at the weekly ops meeting (the operations director Rule 3).
 - **High-touch cohort program ($5K-$25K, 30-200 clients):** Bi-weekly during cohort + monthly steady-state. Phase-gate check-ins at Day 30 / Day 60 / Day 90 are mandatory.
 - **Group coaching / membership ($200-$2K/mo, 200-2000 clients):** Monthly aggregate scoring with automated at-risk alerts. Individual scoring only for top 20% ACV + flagged at-risk cohort.
 - **Self-serve course + community (< $500 one-time, any volume):** Quarterly portfolio-level read + triggered alerts on engagement drops. No per-client scoring; treat as SaaS-like.
@@ -205,14 +205,14 @@ Once a save is economically justified, pick the intervention intensity:
 
 Higher intensity does not mean higher save rate. Matching intensity to causality is what wins. Creator-level outreach to an Onboarding-Failure client is overkill; automated emails to an Outcome-Failure client is underkill.
 
-### 7. Retention-vs-Acquisition Investment Allocation (Hormozi Rule)
+### 7. Retention-vs-Acquisition Investment Allocation (the acquisition economist Rule)
 
 Until LTV:CAC > 3:1, the creator invests in retention before acquisition. Reasoning: if the business can't retain what it already paid to acquire, adding more acquisition spend is pouring water into a leaking bucket.
 
 Rule:
 - **LTV:CAC < 2:1** — pause acquisition spend entirely; invest 100% of growth budget in retention (onboarding, community, CS, product improvements) until LTV:CAC clears 2:1
 - **LTV:CAC 2:1 to 3:1** — 70% retention / 30% acquisition split; the bucket leaks less but still leaks
-- **LTV:CAC 3:1 to 5:1** — Slings 60/30/10 retention mix applies; budget split between acquisition and retention per revenue-stage
+- **LTV:CAC 3:1 to 5:1** — the operations director 60/30/10 retention mix applies; budget split between acquisition and retention per revenue-stage
 - **LTV:CAC > 5:1** — over-retained, under-acquired; the business is leaving growth on the table. Shift budget toward acquisition aggressively; this is rare but diagnosable.
 
 Skipping this rule is the #1 reason info-creators scale unprofitably. They spend $50K on ads, acquire 25 new customers, 70% churn within 90 days, and the 7 who stick don't offset the acquisition cost.
@@ -279,13 +279,13 @@ Skipping this routing is the quiet-loss pattern. Thriving clients who aren't har
 Read:
 - `output/build-sop/` latest CS SOP (how clients are supposed to be managed)
 - `company.yaml` Compartment 10 (Lifecycle) + Compartment 11 (Ops)
-- `reference/operators/dustin-varano.md` (Phase 4 Retention canonical)
-- `reference/operators/sanjay-slings.md` (KPI discipline + 60/30/10)
+- `reference/operators/content-os-director.md` (Phase 4 Retention canonical)
+- `reference/operators/operations-director.md` (KPI discipline + 60/30/10)
 - `reference/frameworks/growth-operating-process/3-operational-rules.md` (weekly rhythm + single source of truth)
-- `reference/frameworks/dustin-varano/education-os-4-phase.md` (Phase 4 retention content types)
-- `reference/frameworks/fiova-economics-engine.md` (LTV mechanics + recurring model)
+- `reference/frameworks/content-os/education-os-4-phase.md` (Phase 4 retention content types)
+- `reference/frameworks/economics-engine.md` (LTV mechanics + recurring model)
 - `reference/frameworks/classical/4-belief-layers.md` (belief-decay as churn driver)
-- `reference/knowledge/scale.md` (Slings 60/30/10 retention allocation)
+- `reference/knowledge/scale.md` (the operations director 60/30/10 retention allocation)
 - Integration pulls: CRM (GHL), analytics (Mixpanel), community (Skool/Circle/Discord), billing (Stripe), support (Intercom)
 
 ### Phase 1 — Automated Alert Review
@@ -349,7 +349,7 @@ From portfolio view + churn-causality aggregation:
 - Dominant churn-causality pattern (if one type > 40% of churn)
 - Cohort-quality improvement routing (per Decision Rule 8 — refine ICP / onboarding / offer)
 - Retention-vs-acquisition budget check (per Decision Rule 7)
-- Slings 60/30/10 retention-spend allocation review
+- the operations director 60/30/10 retention-spend allocation review
 
 ### Phase 8 — Portfolio Summary (written LAST)
 
@@ -492,7 +492,7 @@ Executive summary:
 - **Current spend allocation:** [N% retention / N% acquisition]
 - **Recommendation:** [hold | rebalance to X/Y/Z]
 
-## 10. Slings 60/30/10 Retention-Spend Review
+## 10. the operations director 60/30/10 Retention-Spend Review
 
 | Allocation Bucket | Target | Actual | Variance |
 |---|---|---|---|
@@ -555,7 +555,7 @@ Regex scan before ship. Match = REJECT.
 - **NEVER skip the thriving capture.** Every monthly check produces at least one case-study trigger if thriving clients exist; skipping means the creator is leaving compounding on the table.
 - **NEVER let a churn happen without a churn interview.** Every churned client is 15 minutes of the highest-value diagnostic data the business will ever get. Schedule it at offboarding.
 - **NEVER conflate engagement-drop with churn-signal without checking causality.** A thriving client on vacation for 3 weeks isn't churning; a disengaged client who stopped responding to emails is. Check context before triggering save-plays.
-- **NEVER recommend increasing acquisition spend when LTV:CAC < 2:1.** The bucket is leaking. Fix retention first (Hormozi rule).
+- **NEVER recommend increasing acquisition spend when LTV:CAC < 2:1.** The bucket is leaking. Fix retention first (the acquisition economist rule).
 - **NEVER aggregate retention without cohort breakdown.** Aggregate retention is the sum of multiple cohorts with different dynamics; the aggregate hides the pattern.
 - **ALWAYS update scores at the cadence defined for the offer type** (Decision Rule 1).
 - **ALWAYS route dominant churn-causality patterns** to the upstream skill that produces the fix.
@@ -572,7 +572,7 @@ Regex scan before ship. Match = REJECT.
 - [ ] Cohort breakdown present (by offer-version + entry-point + month-joined minimum)
 - [ ] Churn-causality aggregation across trailing 90 days
 - [ ] LTV:CAC budget-allocation check explicit
-- [ ] Slings 60/30/10 retention-spend review
+- [ ] the operations director 60/30/10 retention-spend review
 - [ ] Churn interview log updated for all trailing-period churners
 - [ ] Refund interview log updated for all trailing-period refunders
 - [ ] Winback list updated for life-event offboardees
@@ -595,16 +595,16 @@ After `/retention-check` ships:
 
 - Knowledge: `reference/knowledge/scale.md`
 - Frameworks:
-  - `reference/frameworks/fiova-economics-engine.md` (LTV mechanics + customer-vs-member + deciding-to-stay psychology)
-  - `reference/frameworks/dustin-varano/education-os-4-phase.md` (Phase 4 Retention — content types + community architecture)
+  - `reference/frameworks/economics-engine.md` (LTV mechanics + customer-vs-member + deciding-to-stay psychology)
+  - `reference/frameworks/content-os/education-os-4-phase.md` (Phase 4 Retention — content types + community architecture)
   - `reference/frameworks/growth-operating-process/3-operational-rules.md` (weekly rhythm + single source of truth)
   - `reference/frameworks/primitives/value-equation.md` (value delivered vs value promised read)
   - `reference/frameworks/classical/4-belief-layers.md` (belief decay = churn driver)
   - `reference/frameworks/growth-operating-process/8-stage-customer-journey-audit.md` (Stages 6-8: Customer / Advocate / Referral-source)
 - Operators:
-  - `reference/operators/dustin-varano.md` (Phase 4 Retention canonical — "buyers compound into advocates or churn")
-  - `reference/operators/sanjay-slings.md` (KPI discipline + 60/30/10 retention allocation)
-  - `reference/operators/jeremy-haynes.md` (Customer Lifetime Value + Offer Proof Flywheel)
+  - `reference/operators/content-os-director.md` (Phase 4 Retention canonical — "buyers compound into advocates or churn")
+  - `reference/operators/operations-director.md` (KPI discipline + 60/30/10 retention allocation)
+  - `reference/operators/growth-engineer.md` (Customer Lifetime Value + Offer Proof Flywheel)
 - Invariants:
   - INV-1 Impact Distribution (retention compounds acquisition)
   - INV-4 LTV:CAC ≥ 3:1 (retention is the L)
@@ -617,4 +617,4 @@ After `/retention-check` ships:
 
 ---
 
-*Version 2.0 — 2026-04-19. Cycle 5 Scale retention-governance skill. Retention is where the L in LTV is earned — not the P in CAC. The monthly governance document that converts the CS team from reactive firefighters into systematic advocacy-compounders. Layers Dustin Varano Phase 4 Retention canonical with Sanjay Slings 60/30/10 retention-spend allocation and Hormozi LTV:CAC discipline.*
+*Version 2.0 — 2026-04-19. Cycle 5 Scale retention-governance skill. Retention is where the L in LTV is earned — not the P in CAC. The monthly governance document that converts the CS team from reactive firefighters into systematic advocacy-compounders. Layers the content OS director Phase 4 Retention canonical with the operations director 60/30/10 retention-spend allocation and the acquisition economist LTV:CAC discipline.*

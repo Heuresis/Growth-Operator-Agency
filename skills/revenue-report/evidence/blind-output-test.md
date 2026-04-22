@@ -10,7 +10,7 @@ _v1.0 initial validation: pending (skill is freshly shipped)_
 
 1. A finance / ops team member who owns the creator's P&L reporting day-to-day (knows the real numbers and what a usable weekly / monthly report looks like)
 2. A fractional CFO serving multiple coaching / agency businesses (has reviewed 100+ LTV:CAC analyses and knows benchmark sanity)
-3. A unit-economics-literate growth operator (e.g., Slings-style KPI discipline practitioner) who can evaluate whether forecasts are defensible
+3. A unit-economics-literate growth operator (e.g., the operations director-style KPI discipline practitioner) who can evaluate whether forecasts are defensible
 
 ## Test Protocol
 

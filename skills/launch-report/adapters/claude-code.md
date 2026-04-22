@@ -19,7 +19,7 @@ Load and execute `skills/launch-report/SKILL.md` in the current workspace.
 2. **Pre-flight check:** Verify `required_compartments` — funnel_systems ≥ 60, lifecycle_optimization ≥ 30. Launch must be T+7 or later (post-launch window closed). Actual performance data must be populated.
 
 3. **Execute Phase 0 → Phase 4** per SKILL.md Process:
-   - Phase 0 Load (plan + actuals) → Phase 1 Plan vs Actual Variance (per KPI: target vs actual, variance %) → Phase 2 Phase-by-Phase Leak Diagnosis (Slings 8-stage journey audit × 5 launch phases) → Phase 3 Fix Paths (per leak: specific fix + owner + deadline) → Phase 4 Next-Launch Recommendations (repeat / change / cut)
+   - Phase 0 Load (plan + actuals) → Phase 1 Plan vs Actual Variance (per KPI: target vs actual, variance %) → Phase 2 Phase-by-Phase Leak Diagnosis (the operations director 8-stage journey audit × 5 launch phases) → Phase 3 Fix Paths (per leak: specific fix + owner + deadline) → Phase 4 Next-Launch Recommendations (repeat / change / cut)
 
 4. **Write output:**
    - `Write` to `output/launch-report/{YYYY-MM-DD}-{offer-slug}-launch-report.md`

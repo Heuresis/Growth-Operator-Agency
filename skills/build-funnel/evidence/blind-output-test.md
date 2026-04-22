@@ -8,7 +8,7 @@ _v1.0 initial validation: pending (skill is freshly shipped)_
 
 ## Evaluator Roster (to recruit)
 
-1. A funnel architect with multi-archetype experience (Haynes / Slings / Clogg / Foss lineage preferred)
+1. A funnel architect with multi-archetype experience (the growth engineer / the operations director / the backend economist / the paid media director lineage preferred)
 2. A paid-acquisition operator who has run 3:1+ LTV:CAC at $500K+/mo on similar offers
 3. A sales-ops lead who can audit dependency chain + tracking plan for operational completeness
 
@@ -48,15 +48,15 @@ Patterns to look for on any failures:
 - Tracking plan vague (no UTM taxonomy, no event list, no attribution window)
 - Dependency chain incomplete (VSL listed but no landing page, or vice versa)
 - Economics cross-check hand-waved (CAC not channel-specific)
-- Missing Slings 8-stage audit plan (no leak-detection mechanism)
-- No Foss show-rate stack for call funnels
+- Missing the operations director 8-stage audit plan (no leak-detection mechanism)
+- No the paid media director show-rate stack for call funnels
 - Banned vocabulary leaked through
 
 ## Known Failure Modes (to watch for)
 
 1. **Wrong archetype for the offer** — Application funnel on a $497 product (over-friction) or VSL funnel on a $50K DFY offer (under-qualification). Fix: Decision Tree is hard-coded to offer price + team capability; document reasoning in Appendix A.
 
-2. **Missing confirmation page / SMS cadence** — Call funnel launched without Foss show-rate stack → 40% show-rate instead of 70%+. Fix: Archetype 3/4/7 (call funnels) must include confirmation page + 4-touch SMS cadence.
+2. **Missing confirmation page / SMS cadence** — Call funnel launched without the paid media director show-rate stack → 40% show-rate instead of 70%+. Fix: Archetype 3/4/7 (call funnels) must include confirmation page + 4-touch SMS cadence.
 
 3. **Tracking plan vague** — "We'll use Meta pixel" without UTM taxonomy or event list. Fix: Phase 5 requires full UTM / event table / pixel setup / attribution window specification.
 
@@ -72,7 +72,7 @@ Patterns to look for on any failures:
 - **Ongoing:** Every 10 runs, sample 1 blueprint for blind-test review
 - **Drift check:** Quarterly full panel re-test
 - **Change-triggered:** After any edit to SKILL.md Decision Logic, Tacit Principles, or Process, rerun baseline test
-- **Post-launch validation:** Weekly Slings 8-stage audit on live funnels (separate from blind-test)
+- **Post-launch validation:** Weekly the operations director 8-stage audit on live funnels (separate from blind-test)
 
 ## Revision Log
 

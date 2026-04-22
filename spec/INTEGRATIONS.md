@@ -417,7 +417,7 @@ Most skills should prefer MCP where possible. Direct API only when MCP doesn't c
 
 - Anthropic Agent SDK + Claude Skills documentation
 - Canopy `architecture/adapters.md`
-- FIOVA Context Profile Compartment 11 (Operational Intelligence — tech_stack)
+- Growth OS Context Profile Compartment 11 (Operational Intelligence — tech_stack)
 - MCP specification — https://modelcontextprotocol.io
 
 ---

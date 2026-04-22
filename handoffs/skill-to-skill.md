@@ -36,7 +36,7 @@ The target skill inherits:
 ### Expected output
 - Artifact file path the target skill writes to
 - Minimum completeness score for invocation to be considered successful
-- Back-channel for warnings (written to `.fiova/event_log.jsonl`)
+- Back-channel for warnings (written to `.growth-os/event_log.jsonl`)
 
 ### Failure handling
 - **Soft fail** (completeness below threshold): invoking skill logs warning, continues
@@ -50,11 +50,11 @@ The target skill inherits:
 
 ## Invariants for skill-to-skill chains
 
-1. **No circular invocation.** Skill A cannot invoke Skill B that invokes Skill A. Detected via workflow-ID graph in `.fiova/event_log.jsonl`.
+1. **No circular invocation.** Skill A cannot invoke Skill B that invokes Skill A. Detected via workflow-ID graph in `.growth-os/event_log.jsonl`.
 2. **Depth limit.** Maximum 5 levels of nested skill invocation before escalation to human.
 3. **Budget inheritance.** Child invocations cannot exceed parent's remaining budget. If budget would be exceeded, child is deferred and user notified.
 4. **L0 preservation.** All chained skills must run under the same `company.yaml` + `ENCODING.md`. No cross-operation invocation without explicit user approval.
-5. **Event-log discipline.** Every skill-to-skill invocation logs entry + exit to `.fiova/event_log.jsonl` for audit.
+5. **Event-log discipline.** Every skill-to-skill invocation logs entry + exit to `.growth-os/event_log.jsonl` for audit.
 
 ## Example — `/plan-launch` → `/build-funnel`
 
@@ -74,7 +74,7 @@ inputs:
 context_inheritance:
   loaded_refs:
     - reference/frameworks/offer-architecture/grand-slam-offer.md
-    - reference/operators/eli-pampa.md
+    - reference/operators/vsl-director.md
   prior_artifacts:
     - output/foundations/offer-document.md
     - output/foundations/icp-document.md

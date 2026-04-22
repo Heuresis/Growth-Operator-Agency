@@ -2,12 +2,12 @@
 
 > **Case:** ClipScale Academy, a Phase-3 instantiation of the Growth OS foundations pipeline
 > **Built from:** Signal Report (85/100 viability) → ICP (90/100 completeness) → Positioning → Offer
-> **Framework applied:** Sultanic's Phase 2 Pricing Architecture (tiered default) + Hormozi Value Equation scoring
+> **Framework applied:** the offer architect's Phase 2 Pricing Architecture (tiered default) + Value Equation scoring
 > **Outcome:** Offer validated with LTV:CAC 6.9:1, Value Equation 5.25, gross margin 63%
 
 ## Context
 
-ClipScale Academy teaches aspiring clippers to build $10K/month clipping agencies serving Twitch, YouTube, and Kick streamers. The market is Solution Aware but has no category leader - ClipFlow ($49/month on Whop, 16.3K members) is the incumbent at the low end; nothing exists at the premium band. The ICP is HELPLESS-dominant (60%, "I don't know how to find clients") with WORTHLESS secondary (40%, "I should be further ahead by now"). This offer was engineered to serve that ICP through Sultanic's tiered pricing architecture - three options (DIY / DWY / DFY) at a 1X / 3X / 7.5X pricing ratio, with Tier 2 positioned as "most popular" and the ascension path visible.
+ClipScale Academy teaches aspiring clippers to build $10K/month clipping agencies serving Twitch, YouTube, and Kick streamers. The market is Solution Aware but has no category leader - ClipFlow ($49/month on Whop, 16.3K members) is the incumbent at the low end; nothing exists at the premium band. The ICP is HELPLESS-dominant (60%, "I don't know how to find clients") with WORTHLESS secondary (40%, "I should be further ahead by now"). This offer was engineered to serve that ICP through the offer architect's tiered pricing architecture - three options (DIY / DWY / DFY) at a 1X / 3X / 7.5X pricing ratio, with Tier 2 positioned as "most popular" and the ascension path visible.
 
 ## The Encoded Offer
 
@@ -15,7 +15,7 @@ ClipScale Academy teaches aspiring clippers to build $10K/month clipping agencie
 
 **Unique Mechanism:** The Clip-to-Agency Method™ - a 3-phase system: (1) Production Mastery (AI+human hybrid workflow producing clips 3× faster than manual), (2) Client Engine (DM scripts, proposal templates, pricing frameworks specifically for approaching Twitch/YouTube/Kick streamers), (3) Scale System (team building, SOPs, quality control, client retention).
 
-**Value Equation Score (Hormozi):** (Dream Outcome 9 × Perceived Likelihood 7) / (Time Delay 3 × Effort 4) = 63/12 = **5.25** - above the 5.0 threshold, strong perceived value.
+**Value Equation Score (acquisition-economics methodology):** (Dream Outcome 9 × Perceived Likelihood 7) / (Time Delay 3 × Effort 4) = 63/12 = **5.25** - above the 5.0 threshold, strong perceived value.
 
 ---
 
@@ -86,17 +86,17 @@ Course + weekly group coaching + hot-seat calls + community. Lifetime course acc
 
 ## Why This Is A Good Example
 
-- **Shows Sultanic's tiered pricing ratio in the wild.** 1X / 3X / 7.5X across $997 / $2,997 / $7,500 - close to the documented 1X / 2X / 4-5X but adjusted upward for a premium-low-margin-high category. The psychology is assumption-close (which tier, not whether).
+- **Shows the offer architect's tiered pricing ratio in the wild.** 1X / 3X / 7.5X across $997 / $2,997 / $7,500 - close to the documented 1X / 2X / 4-5X but adjusted upward for a premium-low-margin-high category. The psychology is assumption-close (which tier, not whether).
 - **Target tier positioning is explicit.** The offer document names Tier 2 as TARGET TIER because that's where the math works - LTV:CAC, margin, and fulfillment capacity all peak at the DWY tier. Tier 1 is a lead-feeder; Tier 3 is a capacity-constrained upsell.
-- **Bonuses target named objections.** Each of the four bonuses is mapped to a specific pain point from the ICP document (outreach scripts → Pain 1 "can't find clients"; finance dashboard → ICP Section 6 Pain 3 "stuck at freelancer income"). This is Hormozi's Step 10 discipline applied - no bonus exists without a problem-solved slot.
+- **Bonuses target named objections.** Each of the four bonuses is mapped to a specific pain point from the ICP document (outreach scripts → Pain 1 "can't find clients"; finance dashboard → ICP Section 6 Pain 3 "stuck at freelancer income"). This is the acquisition economist's Step 10 discipline applied - no bonus exists without a problem-solved slot.
 
 ## Source
 
 - `operations/clipscale-academy/output/foundations/offer-document.md` - full offer document
 - `operations/clipscale-academy/output/foundations/signal-report.md` - Phase 4 offer design section
-- `reference/frameworks/alen-sultanic/7-phase-offer-architecture.md` - Phase 2.6 Pricing Architecture (tiered default)
-- `reference/frameworks/alex-hormozi/value-equation.md` - scoring engine
+- `reference/frameworks/esoteric-offer-architecture/7-phase-offer-architecture.md` - Phase 2.6 Pricing Architecture (tiered default)
+- `reference/frameworks/acquisition-economics/value-equation.md` - scoring engine
 - `operations/clipscale-academy/company.yaml` - offer_architecture compartment
 
 ---
-*Encoded 2026-04-19. All tier deliverables, pricing, guarantee language, and economics figures are [VERBATIM] from the ClipScale Academy offer document instantiation. The Sultanic-vs-Hormozi synthesis is framework-level attribution, not a direct quote.*
+*Encoded 2026-04-19. All tier deliverables, pricing, guarantee language, and economics figures are [VERBATIM] from the ClipScale Academy offer document instantiation. The the offer architect-vs-the acquisition economist synthesis is framework-level attribution, not a direct quote.*

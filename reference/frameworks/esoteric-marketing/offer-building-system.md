@@ -4,10 +4,10 @@
 
 ## Source / Lineage
 
-- **Alen Sultanic** — *Offer Building System v1.0* (primary), plus the deeper "identity-layer" and "buyer-state" commentary in his private cohort material
-- **Eugene Schwartz** — *Breakthrough Advertising* (1966) — market awareness + sophistication
+- **the offer architect** — *Offer Building System v1.0* (primary), plus the deeper "identity-layer" and "buyer-state" commentary in his private cohort material
+- **the awareness-spectrum author** — *Breakthrough Advertising* (1966) — market awareness + sophistication
 - **Joe Sugarman** — *Triggers* (30 psychological triggers underlying response)
-- **Robert Cialdini** — *Influence* (reciprocity, liking, consistency, social proof, authority, scarcity, unity)
+- **influence-principles research** — *Influence* (reciprocity, liking, consistency, social proof, authority, scarcity, unity)
 - **Jim Camp** — *Start with No* — buyer agency as the substrate of persuasion
 - **Robert Collier** — *The Robert Collier Letter Book* (1937) — entering the conversation already in the prospect's mind
 
@@ -103,7 +103,7 @@ The emotional arc:
 
 ### The shame-release language pattern
 
-Sultanic phrasing (approximate):
+the offer architect phrasing (approximate):
 
 > "This isn't you. This is what happens when anyone tries to do [outcome] without [the tool]. Here's what changes when you have it."
 
@@ -123,7 +123,7 @@ The psychological structure of a good first-win:
 
 1. **Specific** — the buyer knows it when it happens (vague = not real to the nervous system)
 2. **Small enough to be unavoidable** — first-wins that require buyer heroism fail; they must be structurally likely
-3. **Social-shareable** — the buyer can report it to self + others (share triggers Cialdini consistency and pulls the buyer deeper)
+3. **Social-shareable** — the buyer can report it to self + others (share triggers influence-principles research consistency and pulls the buyer deeper)
 4. **Causally attributed to the method** — the buyer recognizes "this happened because of this protocol" (otherwise it's a random good day)
 
 ### The first-win as retention engine
@@ -195,7 +195,7 @@ Exception: cold-traffic acquisition offers where the price is a deliberate filte
 
 Mechanical: 5-10 adjacent offers in a structured tier system.
 
-**Psychological truth:** the upsell ecosystem works because of a principle Cialdini names **consistency**. Once a buyer has said yes, their nervous system wants to stay congruent — they look for more reasons to say yes to the same creator/tribe.
+**Psychological truth:** the upsell ecosystem works because of a principle influence-principles research names **consistency**. Once a buyer has said yes, their nervous system wants to stay congruent — they look for more reasons to say yes to the same creator/tribe.
 
 The upsell ecosystem is the structure that captures consistency-momentum.
 

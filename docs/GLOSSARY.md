@@ -40,9 +40,9 @@ The compounding cycle: every run through the workspace deepens the encoding, whi
 
 The methodology (by Syed Hussain, V4 published at encodedfounder.com) for translating tacit creator judgment into machine-readable workspace content. The three-layer knowledge architecture and the M-formula (`M = T × S × K × A × E × I × L`) come from here.
 
-## FIOVA
+## Growth OS
 
-The predecessor / research workspace that Growth OS is extracted from. The 82KB FIOVA agent architecture bible lives at [`reference/FIOVA-AGENT-ARCHITECTURE.md`](../reference/FIOVA-AGENT-ARCHITECTURE.md). Growth OS is FIOVA generalized and productized as a template.
+The predecessor / research workspace that Growth OS is extracted from. The 82KB agent architecture bible lives at [`reference/AGENT-ARCHITECTURE.md`](../reference/AGENT-ARCHITECTURE.md). Growth OS is Growth OS generalized and productized as a template.
 
 ## Impact Distribution Principle
 
@@ -74,11 +74,11 @@ The strictest skill tier — 3/3 Blind Output Test pass required. Applies to the
 
 ## Signal
 
-An output of a skill, encoded as a 5-tuple `(Mode, Genre, Type, Format, Structure)`. Unresolved dimensions equal noise. Per Luna's Signal Theory. See [`spec/SIGNAL.md`](../spec/SIGNAL.md).
+An output of a skill, encoded as a 5-tuple `(Mode, Genre, Type, Format, Structure)`. Unresolved dimensions equal noise. Per the Signal Theory author's Signal Theory. See [`spec/SIGNAL.md`](../spec/SIGNAL.md).
 
 ## Signal Theory
 
-Roberto Luna's methodology for intent encoding. The quality substrate Growth OS rests on. Spec at [`spec/SIGNAL.md`](../spec/SIGNAL.md).
+Signal Theory's methodology for intent encoding. The quality substrate Growth OS rests on. Spec at [`spec/SIGNAL.md`](../spec/SIGNAL.md).
 
 ## S/N
 

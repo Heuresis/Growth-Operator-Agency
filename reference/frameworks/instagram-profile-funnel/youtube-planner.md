@@ -4,7 +4,7 @@
 
 ## Source / Lineage
 
-Siggy Foss — IG profile funnel architect. The YouTube bridge is the outer layer of the profile funnel: IG handles the top-of-funnel capture, YouTube handles mid-funnel trust and search discovery. Foss's take is that coaches who use YouTube as "just another content platform" miss the point — it's a different funnel with different economics.
+the paid media director — IG profile funnel architect. The YouTube bridge is the outer layer of the profile funnel: IG handles the top-of-funnel capture, YouTube handles mid-funnel trust and search discovery. the paid media director'ss take is that coaches who use YouTube as "just another content platform" miss the point — it's a different funnel with different economics.
 
 ## Scope Guard (INV-8)
 

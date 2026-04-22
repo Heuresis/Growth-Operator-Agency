@@ -7,7 +7,7 @@
 
 ## Context
 
-ClipScale Academy operates in a market with a clear category gap: "clipping education" exists at $49/month (ClipFlow on Whop, 16,300 members) but nothing exists at $2K+. SMMA courses (Iman Gadzhi, Charlie Morgan) teach generic agency building but miss the streaming niche's unique trust and hiring dynamics (Discord-native outreach, no long-form contracts, 2 AM response windows). The positioning was engineered to create a subcategory - "Clipping Agency Accelerator" - that no competitor currently occupies, then defend it with a streaming-specific mechanism. This is the actual positioning document produced by the Phase-3 instantiation of ClipScale Academy.
+ClipScale Academy operates in a market with a clear category gap: "clipping education" exists at $49/month (ClipFlow on Whop, 16,300 members) but nothing exists at $2K+. SMMA courses (the agency director, Charlie Morgan) teach generic agency building but miss the streaming niche's unique trust and hiring dynamics (Discord-native outreach, no long-form contracts, 2 AM response windows). The positioning was engineered to create a subcategory - "Clipping Agency Accelerator" - that no competitor currently occupies, then defend it with a streaming-specific mechanism. This is the actual positioning document produced by the Phase-3 instantiation of ClipScale Academy.
 
 ## The Encoded Positioning Document
 
@@ -75,7 +75,7 @@ The creator stopped thinking of themselves as a "clipper" and started thinking o
 
 ## Why This Is A Good Example
 
-- **Subcategory creation at the intersection of niche + model.** The position isn't "clipping" (dominated by $49 programs) or "SMMA" (dominated by $5K+ programs). It's "clipping agency for the streaming niche" - an intersection no competitor occupies. Sultanic's mechanism-identification discipline applied rigorously.
+- **Subcategory creation at the intersection of niche + model.** The position isn't "clipping" (dominated by $49 programs) or "SMMA" (dominated by $5K+ programs). It's "clipping agency for the streaming niche" - an intersection no competitor occupies. the offer architect's mechanism-identification discipline applied rigorously.
 - **Anti-positioning with structural backing.** "We don't teach tactics AI will replace next month" is backed by the mechanism - the method teaches business-building (sales, positioning, management), which is AI-proof; not editing skill, which isn't. Each anti-positioning claim has a structural justification, not just a marketing claim.
 - **Evidence supports the category claim.** Fujiwara's $7.7M in 2025 (Bloomberg) is the category-proof for agency-scale. The 16,300 ClipFlow members is the demand-proof for education. The two evidence points lock in the "demand exists, education doesn't" thesis.
 
@@ -84,7 +84,7 @@ The creator stopped thinking of themselves as a "clipper" and started thinking o
 - `operations/clipscale-academy/output/foundations/positioning-document.md` - full positioning document
 - `operations/clipscale-academy/output/foundations/signal-report.md` - Phase 3 positioning section
 - `operations/clipscale-academy/output/foundations/icp-document.md` - ICP that grounds the positioning
-- `reference/frameworks/alen-sultanic/7-phase-offer-architecture.md` - Phase 2.2 mechanism identification
+- `reference/frameworks/esoteric-offer-architecture/7-phase-offer-architecture.md` - Phase 2.2 mechanism identification
 
 ---
 *Encoded 2026-04-19. Content is [VERBATIM] from the ClipScale Academy positioning document produced by the Phase-3 instantiation of the Growth OS foundations pipeline. All evidence figures (Fujiwara $7.7M, ClipFlow 16,300 members, Bloomberg source) are pulled from the signal report's primary sources.*

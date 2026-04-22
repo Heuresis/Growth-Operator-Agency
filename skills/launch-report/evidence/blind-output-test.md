@@ -63,7 +63,7 @@ Patterns to look for on any failures:
 
 5. **Missing asset-performance breakdown** — Top-line revenue reported but no per-email, per-ad, per-stage data. Can't diagnose the actual leak. Fix: Asset Performance section mandatory.
 
-6. **Slings 8-stage journey audit not applied** — Skill lists 5 phases but doesn't audit each with the 8-stage customer journey lens. Fix: Phase 2 requires explicit Slings audit mapping per phase.
+6. **the operations director 8-stage journey audit not applied** — Skill lists 5 phases but doesn't audit each with the 8-stage customer journey lens. Fix: Phase 2 requires explicit the operations director audit mapping per phase.
 
 ## Production Validation Cadence
 

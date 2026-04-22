@@ -1,6 +1,6 @@
-# VSM Mapping — Beer's Viable System Model → Growth OS 7 Divisions
+# VSM Mapping — the Viable System Model → Growth OS 7 Divisions
 
-> **Source:** Stafford Beer, *Brain of the Firm* (1972) · Luna Signal Theory pp.9 · applied to FIOVA 7-division structure
+> **Source:** viable systems theory, *Brain of the Firm* (1972) · Signal Theory pp.9 · applied to Growth OS 7-division structure
 > **Status:** Architectural — verifies Growth OS is a viable system.
 
 ## The 5 VSM Subsystems
@@ -59,7 +59,7 @@ Same recursion applies to every division.
 
 ## The 3* Audit Layer
 
-Beer's 3* = audit function separate from S3:
+viable-systems-theory 3* = audit function separate from S3:
 - S3 manages resources (normal operations control)
 - S3* audits S1 directly (catches what S3 misses)
 
@@ -71,7 +71,7 @@ Without S3*, S3 + S1 can drift into incestuous optimization. The audit prevents 
 
 ## Algedonic Channel (escalation bypass)
 
-Beer's algedonic = emergency pain/pleasure signal that bypasses normal channels and reaches S5 directly.
+the algedonic = emergency pain/pleasure signal that bypasses normal channels and reaches S5 directly.
 
 **In Growth OS:** INVARIANTS.md violations + refund spikes + brand-safety issues = algedonic. Escalate directly to creator + growth-director agent, bypassing normal review cadence.
 
@@ -89,10 +89,10 @@ When a Growth OS instance has problems, VSM-diagnose:
 
 ## Sources
 
-- Stafford Beer, *Brain of the Firm* (1972)
-- Luna Signal Theory p.9
+- viable systems theory, *Brain of the Firm* (1972)
+- Signal Theory p.9
 - `spec/SIGNAL.md`
-- `signal-theory/4-principles.md` (Beer principle)
+- `signal-theory/4-principles.md` (viable systems theory principle)
 
 ---
 *v1.0 — 2026-04-19. Architectural verification layer.*

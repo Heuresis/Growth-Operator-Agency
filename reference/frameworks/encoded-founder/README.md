@@ -5,7 +5,7 @@
 > **Extraction:** `pdftotext -layout ENCODED_FOUNDER_V4.pdf` — 46,035 words captured from 6,987-line layout extraction. Six chapters + model section + intro.
 > **Quote fidelity:** All direct quotes verbatim from V4 extracted text. Numerical claims tagged with source study where applicable.
 
-The Encoded Founder thesis is the strategic substrate underneath every Growth OS skill that takes an expert's judgment and ships it as a system that carries it. It answers a different question than Pampa, Hormozi, or Sultanic: not "how do I convert?" but "how do I survive the repricing of expertise that AI just made possible?" The frameworks here sit upstream of the Offer Document, the VSL, and the Funnel. They determine what is worth encoding before /design-offer + /build-vsl + /build-funnel encode it.
+The Encoded Founder thesis is the strategic substrate underneath every Growth OS skill that takes an expert's judgment and ships it as a system that carries it. It answers a different question than the VSL director, the acquisition economist, or the offer architect: not "how do I convert?" but "how do I survive the repricing of expertise that AI just made possible?" The frameworks here sit upstream of the Offer Document, the VSL, and the Funnel. They determine what is worth encoding before /design-offer + /build-vsl + /build-funnel encode it.
 
 ## Why This Directory Exists
 
@@ -71,7 +71,7 @@ The paper's falsifiability claim, from the model section: *"If you score above 3
 All content in this directory derives from:
 
 - **Source:** Syed Hussain, *Encoded Founder V4* (April 2, 2026). Email: syed@heuresis.ai.
-- **Citation format for the paper's own citations:** the paper draws on Levine (Truth-Default Theory), Klein, Endsley, Kosinski (Cambridge/Stanford 86,220-volunteer study), Siemens/Chalmers (Ulan Uulu et al., CAIN'26, ACM — the 206% figure), Shannon, Wiener, Ashby, Beer, Dreyfus (1980 UC Berkeley / Air Force monograph), Polanyi (1966, *The Tacit Dimension*), Aschenbrenner, Amodei, Sutskever, Brynjolfsson (Stanford 5,179 customer support agents, QJE), Dell'Acqua (Harvard/BCG 758 consultants, Jagged Frontier), Vaccaro-Almaatouq-Malone (MIT, *Nature Human Behaviour*, 106 studies meta-analysis, Hedges' g = −0.23), Macnamara deliberate-practice meta-analysis, and two years of direct founder-operation observation (800+ demos).
+- **Citation format for the paper's own citations:** the paper draws on Levine (Truth-Default Theory), Klein, Endsley, Kosinski (Cambridge/Stanford 86,220-volunteer study), Siemens/Chalmers (Ulan Uulu et al., CAIN'26, ACM — the 206% figure), information theory, feedback-loop theory, cybernetics theory, viable systems theory, Dreyfus (1980 UC Berkeley / Air Force monograph), Polanyi (1966, *The Tacit Dimension*), Aschenbrenner, Amodei, Sutskever, Brynjolfsson (Stanford 5,179 customer support agents, QJE), Dell'Acqua (Harvard/BCG 758 consultants, Jagged Frontier), Vaccaro-Almaatouq-Malone (MIT, *Nature Human Behaviour*, 106 studies meta-analysis, Hedges' g = −0.23), Macnamara deliberate-practice meta-analysis, and two years of direct founder-operation observation (800+ demos).
 - **Extraction method:** `pdftotext -layout` on V4 PDF (2.03 MB, 179 pages). Chapter files also available in source as HTML: `Chapters/TITLE_AND_INTRO.html`, `THE_MODEL_SECTION.html`, `CHAPTER_1_FINAL.html` (Truth), `CHAPTER_2_FINAL.html` (Situational Awareness), `CHAPTER_3_KNOWLEDGE.html`, `CHAPTER_4_ARCHITECTURE.html`, `CHAPTER_5_ENCODING.html`, `CHAPTER_6_THE_COMPOUND.html`.
 
 ---

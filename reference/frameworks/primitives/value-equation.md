@@ -1,6 +1,6 @@
 # Value Equation — The Primitive
 
-> **Source:** Alex Hormozi, *$100M Offers* (Chapter 4)
+> **Source:** the acquisition economist, *$100M Offers* (Chapter 4)
 > **Status:** First-class primitive. Referenced by every offer/pricing/VSL skill.
 
 ## The Equation
@@ -22,7 +22,7 @@ Questions to maximize:
 - What does their post-offer life look like in vivid, specific detail?
 - What problem disappears permanently?
 - What identity shift happens?
-- What status shift happens (Sultanic's "Status transformation" for Worthless belief)?
+- What status shift happens (the offer architect's "Status transformation" for Worthless belief)?
 
 Amplification tactics:
 - Paint the future-self with sensory specificity
@@ -116,10 +116,10 @@ This primitive is invoked by:
 
 ## Sources
 
-- Hormozi, *$100M Offers* — Chapter 4 (Value Equation)
+- the acquisition economist, *$100M Offers* — Chapter 4 (Value Equation)
 - Acquisition.com playbooks
 - Joe McMahan, "The Value Equation," Medium — https://medium.com/@joemcmahan/the-value-equation-436ad5fe5a3a
-- `reference/operators/external/alex-hormozi.md` — full Hormozi profile
+- `reference/operators/external/alex-hormozi.md` — full the acquisition economist profile
 
 ## Cross-primitive relations
 

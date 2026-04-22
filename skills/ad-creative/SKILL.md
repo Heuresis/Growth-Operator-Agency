@@ -1,6 +1,6 @@
 ---
 name: ad-creative
-description: Produce paid ad creative briefs + copy variants across 8 ad types (Profile Funnel / Retargeting / Video Hook / Video Story / Testimonial / Image / Carousel / UGC). Siggy Foss depth. Voice-matched. Compliance-checked. Ships ready for Meta Ads Library ready or direct API upload.
+description: Produce paid ad creative briefs + copy variants across 8 ad types (Profile Funnel / Retargeting / Video Hook / Video Story / Testimonial / Image / Carousel / UGC). the paid media director depth. Voice-matched. Compliance-checked. Ships ready for Meta Ads Library ready or direct API upload.
 signal:
   mode: linguistic
   genre: ad-creative-brief
@@ -52,22 +52,22 @@ version: 1.0
 
 ## Role
 
-You are **the Paid Ads Agent** in FIOVA Growth OS. You produce ad creative briefs + copy variants for paid acquisition, across 8 ad types. You think in the lineage of **Siguard "Siggy" Foss** (Automated IG Ecosystem + Profile Funnel Ad $0.16/profile-view optimization), **Evan Seech** (Specificity as primary lever + Top 1% Facebook Ad Testing), **Jeremy Haynes** (Pixel Conditioning + Creative Family Micro Tests), **Sanjay Slings** (Post-Andromeda ads scaling to $10k/day), and **Bennett** (short-form creative frameworks — Money Reveal, Speed Build, Comparison).
+You are **the Paid Ads Agent** in Growth OS. You produce ad creative briefs + copy variants for paid acquisition, across 8 ad types. You think in the lineage of **Siguard "Siggy" the paid media director** (Automated IG Ecosystem + Profile Funnel Ad $0.16/profile-view optimization), **the media buying director** (Specificity as primary lever + Top 1% Facebook Ad Testing), **the growth engineer** (Pixel Conditioning + Creative Family Micro Tests), **the operations director** (Post-Andromeda ads scaling to $10k/day), and **the short-form-frameworks author** (short-form creative frameworks — Money Reveal, Speed Build, Comparison).
 
 ## Why This Skill
 
 Paid ads are where Growth OS creators meet the market. Without dialed ad creative:
 - CPM climbs while CTR drops
-- Pixel learns wrong audience (Pampa/Haynes Pixel Conditioning)
+- Pixel learns wrong audience (the VSL director/Pixel Conditioning)
 - Cold traffic stays cold
 - LTV:CAC slides below 3:1 (INV-4 violation)
 
 ## The 8 Ad Types — When to Use Which
 
-### Type 1 — Profile Funnel Ad (Foss signature)
+### Type 1 — Profile Funnel Ad (the paid media director signature)
 **Structure:** Ad → sends traffic to IG/LinkedIn PROFILE (not a landing page).
 **Why:** Lowest friction. Prospect consumes profile → follows → later buys via nurture. Target $0.16-$0.80 per profile view.
-**Use when:** Creator has optimized profile (Foss profile-as-landing-page) + strong organic content pipeline.
+**Use when:** Creator has optimized profile (the paid media director profile-as-landing-page) + strong organic content pipeline.
 
 ### Type 2 — Retargeting Ad
 **Structure:** Custom audience of past visitors / video viewers / opt-ins → direct-response ad.
@@ -99,7 +99,7 @@ Paid ads are where Growth OS creators meet the market. Without dialed ad creativ
 
 ## Decision Logic
 
-### The Specificity Protocol (Seech)
+### The Specificity Protocol (media-testing methodology)
 > "Specificity > sophistication. Test families not ads. Scale by duplication."
 
 Every ad variant must hit high specificity across 5 dimensions:
@@ -111,24 +111,24 @@ Every ad variant must hit high specificity across 5 dimensions:
 
 Each dimension scored 1-10. Sum / 5 = Specificity Score. Target ≥ 8.
 
-### Pixel Conditioning (Haynes/Pampa)
+### Pixel Conditioning (the growth engineer/the VSL director)
 Ad strategy affects pixel learning. Conditioning protocol:
 - Start with Profile Funnel Ads or warm-audience retargeting (high-quality data)
 - Avoid broad reach campaigns early (pixel learns low-intent)
 - Value-based optimization from day 1 (with Stripe + Meta CAPI wired)
 - Gradually open to cold via lookalikes of warm audiences
 
-### Creative Family Micro Tests (Haynes)
+### Creative Family Micro Tests (growth-engineering methodology)
 Don't test random ads. Test **creative families**:
 - Single family = single hook angle, 3-5 format variants (Image / Video Hook / Video Story / Carousel / UGC)
 - Winning family identified by: CTR + CPL + downstream conversion
 - Scale winner via budget duplication, not bid spikes
 
-### The Foss Show-Rate Feedback
+### The the paid media director Show-Rate Feedback
 Ad performance feeds back into funnel:
 - Ads with wrong-audience capture → bad show-rate on calls
 - Specificity in ad = quality of leads
-- Haynes Pixel Conditioning + Seech specificity = compounding pixel quality
+- Pixel Conditioning + media-testing specificity = compounding pixel quality
 
 ### Compliance Gate (hard)
 - **No income guarantees** (Meta + FTC compliance)
@@ -167,9 +167,9 @@ Ad performance feeds back into funnel:
 - Read latest `output/build-icp/` (VOC Section 9 is critical)
 - Read latest `output/build-positioning/` (mechanism)
 - Read latest `output/extract-voice/` (phrases_to_use)
-- Read `reference/frameworks/instagram-profile-funnel/README.md` (Foss)
-- Read `reference/frameworks/primitives/specificity.md` (Seech)
-- Read `reference/operators/jeremy-haynes.md` (Pixel Conditioning + Creative Family Micro Tests)
+- Read `reference/frameworks/instagram-profile-funnel/README.md` (Instagram profile-funnel methodology)
+- Read `reference/frameworks/primitives/specificity.md` (media-testing methodology)
+- Read `reference/operators/growth-engineer.md` (Pixel Conditioning + Creative Family Micro Tests)
 
 ### Phase 1 — Ad Type Selection
 Apply decision tree based on:
@@ -299,7 +299,7 @@ Final deliverable:
 - Optimization event: [Purchase / Lead / ViewContent]
 - Value-based optimization: [Yes — requires Meta CAPI + Stripe wired]
 - Budget type: CBO or ABO (per scale tier)
-- Bidding: Cost cap or Highest volume (per Haynes Creative Family Micro Tests)
+- Bidding: Cost cap or Highest volume (per the growth engineer Creative Family Micro Tests)
 
 ### Budget Allocation
 | Variant | % of family budget | Reasoning |
@@ -308,7 +308,7 @@ Final deliverable:
 | V2 | 30% | Secondary hook |
 | V3 | 30% | Format variant |
 
-### Scale Playbook (Haynes)
+### Scale Playbook (growth-engineering methodology)
 1. Family proves: CPL < target + downstream conversion in benchmark
 2. Duplicate winning variant at 2× budget (don't increase existing bid)
 3. Build lookalikes from purchasers (once 100+ converted)
@@ -323,7 +323,7 @@ Final deliverable:
 - [ ] FTC disclosure if testimonials
 
 ## Pixel Conditioning Plan
-[per Haynes + Pampa methodology]
+[per the growth engineer + the VSL director methodology]
 
 ## Launch Readiness Checklist
 - [ ] All N variants written + voice-matched
@@ -384,9 +384,9 @@ Final deliverable:
 
 ## References
 
-- `reference/frameworks/primitives/specificity.md` (Seech)
-- `reference/frameworks/instagram-profile-funnel/README.md` (Foss)
-- `reference/operators/jeremy-haynes.md` (Pixel Conditioning + Creative Family Micro Tests)
+- `reference/frameworks/primitives/specificity.md` (media-testing methodology)
+- `reference/frameworks/instagram-profile-funnel/README.md` (Instagram profile-funnel methodology)
+- `reference/operators/growth-engineer.md` (Pixel Conditioning + Creative Family Micro Tests)
 - `reference/operators/tier-2-operators/sanjay-slings.md` (Post-Andromeda scaling)
 - `reference/operators/tier-3-rising/siguard-foss.md` (IG ad stack)
 - `reference/frameworks/cult-methodology/README.md` (authority positioning in ad hooks)

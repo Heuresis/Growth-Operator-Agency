@@ -4,11 +4,11 @@
 
 ## Source / Lineage
 
-- Dustin Varano (YouTube Flywheel — session-starter + binge architecture)
-- Alex Hormozi (educational long-form + authority compounding)
-- Todd Brown (E5 Method — market sophistication matched to format)
-- Jon Benson (VSSL — Video Sales Letter long-form)
-- MrBeast Creative Memo (Shorts + retention-first editing)
+- the content OS director (YouTube Flywheel — session-starter + binge architecture)
+- the acquisition economist (educational long-form + authority compounding)
+- the campaign director (E5 Method — market sophistication matched to format)
+- the VSL copywriter (VSSL — Video Sales Letter long-form)
+- creator-native methodology Creative Memo (Shorts + retention-first editing)
 
 ---
 
@@ -53,7 +53,7 @@
 
 **Goal:** Convert warm viewers into application/call bookings. This is a sales asset published as content.
 
-**Length:** 25–90 minutes. Jon Benson's 15-step hits best at 45–75 minutes for offers $3K+.
+**Length:** 25–90 minutes. the VSL copywriter's 15-step hits best at 45–75 minutes for offers $3K+.
 
 **Hook pattern:** Big promise + curiosity + disqualification.
 - "If you [specific situation], in the next 60 minutes I'm going to show you the [mechanism] that [specific outcome] — but only if [disqualifier to filter tire-kickers]."
@@ -206,7 +206,7 @@ This rhythm hits algorithm fuel (Listicles, Tutorials) while building depth (Dee
 - `reference/frameworks/youtube/4-pillar-content-mix.md`
 - `reference/frameworks/youtube/length-calibration.md`
 - `reference/frameworks/youtube/vssl-15-step.md`
-- `reference/frameworks/dustin-varano/` (Varano's flywheel)
+- `reference/frameworks/content-os/` (the content OS director's flywheel)
 
 ---
 *v1.0 — 2026-04-19 — YouTube framework canonical.*

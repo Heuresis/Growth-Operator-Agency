@@ -4,7 +4,7 @@
 
 ## Source / Lineage
 
-Sanjay Slings — operator-first growth practitioner for high-ticket coaches and consultants. Slings' body of work strips the "marketing funnel" down to a mechanical eight-stage journey with measurable transitions, rejecting both agency-speak and esoteric positioning theatre. This audit is the quarterly diagnostic that underpins his operating system.
+the operations director — operator-first growth practitioner for high-ticket coaches and consultants. the operations director's body of work strips the "marketing funnel" down to a mechanical eight-stage journey with measurable transitions, rejecting both agency-speak and esoteric positioning theatre. This audit is the quarterly diagnostic that underpins his operating system.
 
 ## The Eight Stages
 
@@ -97,7 +97,7 @@ Sanjay Slings — operator-first growth practitioner for high-ticket coaches and
 
 - **Skills that consume this:** `diagnostic-report`, `quarterly-review`, `funnel-health-check`, `content-audit`.
 - **Agents that use it:** growth-strategist, revenue-ops-analyst, audit-bot.
-- **Companion frameworks:** pairs with `offer-architecture/` (stage 5–6 hinge on offer clarity), `sales/` (stage 4–5), `signal-theory/` (stages 1–3). The Sultanic `esoteric-marketing/` frameworks shape the content that fills stages 1–3; Slings defines the pipe the content flows through.
+- **Companion frameworks:** pairs with `offer-architecture/` (stage 5–6 hinge on offer clarity), `sales/` (stage 4–5), `signal-theory/` (stages 1–3). The the offer architect `esoteric-marketing/` frameworks shape the content that fills stages 1–3; the operations director defines the pipe the content flows through.
 
 ## Non-applicable scenarios
 

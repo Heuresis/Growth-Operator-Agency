@@ -6,12 +6,12 @@
 
 The HTTP/OpenAPI adapter is **the generic REST interface** to any Growth OS skill. It is the binding that lets a skill be called by:
 
-- **FIOVA-1 Next.js** front-end (the creator-facing app calling `/skills/design-offer/execute` from the browser)
+- **Growth OS predecessor Next.js** front-end (the creator-facing app calling `/skills/design-offer/execute` from the browser)
 - **Arbitrary backends** (Node, Go, Python, PHP — anything that speaks HTTP)
 - **Zapier / Make / n8n** bridges when a creator wants a skill wired into their existing automation stack
 - **Any future runtime** that has no purpose-built adapter — HTTP is the universal fallback
 
-The HTTP adapter is **Layer 3 encoding** (Technology Interface) per Luna Signal Theory. It contains zero business logic. It is a thin shim that describes the REST surface and forwards to whatever HTTP runtime executes the canonical `SKILL.md` body.
+The HTTP adapter is **Layer 3 encoding** (Technology Interface) per Signal Theory. It contains zero business logic. It is a thin shim that describes the REST surface and forwards to whatever HTTP runtime executes the canonical `SKILL.md` body.
 
 ## File Naming
 
@@ -55,7 +55,7 @@ Every skill receives the same envelope shape:
 {
   "skill": "design-offer",
   "inputs": { "offer_name": "...", "price_anchor": 9997, "...": "..." },
-  "context_profile_id": "fiova-2026-04-19",
+  "context_profile_id": "growth-os-2026-04-19",
   "options": { "stream": false, "variant": "A", "dry_run": false }
 }
 ```

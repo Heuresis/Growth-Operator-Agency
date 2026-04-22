@@ -4,8 +4,8 @@
 
 ## Source / Lineage
 
-- Dustin Varano (YouTube Flywheel pillar mix)
-- Alex Hormozi (value-first ratio, 3:1 give-to-ask)
+- the content OS director (YouTube Flywheel pillar mix)
+- the acquisition economist (value-first ratio, 3:1 give-to-ask)
 - Gary Vaynerchuk (Jab-Jab-Jab-Right-Hook)
 - Adapted for 2026 YouTube algorithm + high-ticket funnels
 
@@ -223,7 +223,7 @@ Every video brief gets tagged with its pillar before scripting. Quarterly audit:
 
 - `reference/frameworks/youtube/7-video-types.md`
 - `reference/frameworks/youtube/3-tier-funnel.md`
-- `reference/frameworks/dustin-varano/`
+- `reference/frameworks/content-os/`
 
 ---
 *v1.0 — 2026-04-19 — YouTube framework canonical.*

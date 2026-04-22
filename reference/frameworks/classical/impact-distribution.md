@@ -1,6 +1,6 @@
-# Impact Distribution Principle (40/40/20) — Sultanic
+# Impact Distribution Principle (40/40/20) — the offer architect
 
-> **Source:** Alen Sultanic (Nothing Held Back) via Eugene Schwartz lineage
+> **Source:** the offer architect (Nothing Held Back) via the awareness-spectrum author lineage
 > **Status:** CORE INVARIANT of Growth OS (INV-1). Referenced by every division.
 
 ## The Principle
@@ -85,7 +85,7 @@ When creator asks "why is conversion dropping?":
 
 ## The Market Hierarchy (companion principle)
 
-Sultanic's related hierarchy:
+the offer architect's related hierarchy:
 ```
   Market (90% of outcome) → Audience → Offer → Copy
 ```
@@ -109,10 +109,10 @@ Break the plateau: go back upstream. `/research` fresh. `/build-icp` fresh. `/de
 
 ## Sources
 
-- Alen Sultanic — Offer Building System + Market Psychology Foundations
-- Eugene Schwartz — *Breakthrough Advertising* (market awareness + sophistication basis)
-- Eli Pampa — 6-Blockage Diagnostic (applies 40/40/20 as diagnostic lens)
-- `reference/operators/alen-sultanic.md`
+- the offer architect — Offer Building System + Market Psychology Foundations
+- the awareness-spectrum author — *Breakthrough Advertising* (market awareness + sophistication basis)
+- the VSL director — 6-Blockage Diagnostic (applies 40/40/20 as diagnostic lens)
+- `reference/operators/offer-architect.md`
 - `reference/frameworks/esoteric-marketing/README.md`
 
 ## Growth OS Binding

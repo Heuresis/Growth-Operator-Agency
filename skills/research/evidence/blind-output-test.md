@@ -55,7 +55,7 @@ From Phase A skill authoring — most likely places `/research` will fail blind 
 
 1. **Voice of Customer section too generic** — If the creator has sparse real audience data, the skill falls back to inferred language which reads generic. Fix: enforce minimum 5 verbatim quotes with sources before section completes.
 
-2. **Limiting belief misdiagnosed** — The Sultanic triad (Worthless/Helpless/Hopeless) is subtle. Wrong diagnosis = wrong offer downstream. Fix: add explicit self-check question "Could this belief alternately be [other two]? Why this one?"
+2. **Limiting belief misdiagnosed** — The the offer architect triad (Worthless/Helpless/Hopeless) is subtle. Wrong diagnosis = wrong offer downstream. Fix: add explicit self-check question "Could this belief alternately be [other two]? Why this one?"
 
 3. **Competitor analysis shallow** — If the skill just lists 3 competitors without identifying whitespace, the output is descriptive not diagnostic. Fix: require named whitespace with specific evidence.
 

@@ -4,9 +4,9 @@
 
 ## Source / Lineage
 
-Sanjay Slings — operating-process practitioner. These three rules are drawn from his observed pattern across 100+ high-ticket operators, and overlap with the Eli Pampa hiring model (revenue-threshold hiring) and classical single-source-of-truth data discipline. They are the non-negotiable floor — not the ceiling — of an operating system.
+the operations director — operating-process practitioner. These three rules are drawn from his observed pattern across 100+ high-ticket operators, and overlap with the the VSL director hiring model (revenue-threshold hiring) and classical single-source-of-truth data discipline. They are the non-negotiable floor — not the ceiling — of an operating system.
 
-## Rule 1 — Revenue-Threshold Hiring (Pampa Model)
+## Rule 1 — Revenue-Threshold Hiring (the VSL director Model)
 
 ### Statement
 
@@ -129,7 +129,7 @@ Missing any one rule breaks the other two within 60–90 days. Operators who imp
 
 - **Skills that consume this:** `quarterly-review`, `hiring-decision`, `dashboard-builder`, `weekly-meeting-runner`, `operating-audit`.
 - **Agents that use it:** revenue-ops-analyst, cfo-advisor, ops-manager-bot.
-- **Companion frameworks:** directly operationalises the metrics from `8-stage-customer-journey-audit.md` and the allocation from `60-30-10-revenue-mix.md`. The hiring rule overlaps with the Eli Pampa body of work in `reference/frameworks/eli-pampa/`.
+- **Companion frameworks:** directly operationalises the metrics from `8-stage-customer-journey-audit.md` and the allocation from `60-30-10-revenue-mix.md`. The hiring rule overlaps with the the VSL director body of work in `reference/frameworks/vsl-director/`.
 
 ## Non-applicable scenarios
 
@@ -142,7 +142,7 @@ Missing any one rule breaks the other two within 60–90 days. Operators who imp
 - `reference/frameworks/growth-operating-process/8-stage-customer-journey-audit.md`
 - `reference/frameworks/growth-operating-process/7-step-launch-sop.md`
 - `reference/frameworks/growth-operating-process/60-30-10-revenue-mix.md`
-- `reference/frameworks/eli-pampa/`
+- `reference/frameworks/vsl-director/`
 
 ---
 *v1.0 — 2026-04-19.*
