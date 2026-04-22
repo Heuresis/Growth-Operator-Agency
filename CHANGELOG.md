@@ -26,7 +26,7 @@ Initial private release of the Growth OS workspace template.
 ### Repository hygiene
 
 - `.gitignore` — covers `.DS_Store`, credentials, runtime outputs, creator-encoded data, build artifacts.
-- `LICENSE` — Heuresis Proprietary License.
+- `LICENSE` — MIT.
 - `SECURITY.md` — credential handling and `_private/` data contract.
 - `CONTRIBUTING.md` — internal contribution workflow.
 - `PROVENANCE.md` — authorship, foundational sources, theoretical roots.
