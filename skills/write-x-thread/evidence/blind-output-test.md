@@ -17,7 +17,7 @@ _v1.0 initial validation: pending (skill is freshly shipped)_
 ### 1. Output Set
 - 3 threads the creator published historically (pick ones with real bookmark + reply traction — not vanity-likes)
 - 3 threads produced by `/write-x-thread` (different types: e.g., one Hot Take, one How-To, one Case Study)
-- 1 generic-LLM thread (control — no Growth Optimal System context)
+- 1 generic-LLM thread (control — no Growth Operating Agency context)
 
 All outputs anonymized. Strip creator names, replace brand names with `[BRAND]`, randomize order.
 
@@ -33,9 +33,9 @@ For each thread, evaluator answers:
 
 ### 3. Pass Criteria
 For `/write-x-thread` to be blind-test-validated:
-- **≥ 2 of 3 Growth Optimal System threads** must have ≥ 1 evaluator say `creator` or `can't tell`
+- **≥ 2 of 3 Growth Operating Agency threads** must have ≥ 1 evaluator say `creator` or `can't tell`
 - **No generic-LLM thread** should be identified as `creator`
-- Average "Would you bookmark this?" ≥ 60% yes for Growth Optimal System threads
+- Average "Would you bookmark this?" ≥ 60% yes for Growth Operating Agency threads
 - Average hook tweet rating ≥ 7/10
 - Average final CTA rating ≥ 7/10
 

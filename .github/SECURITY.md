@@ -2,7 +2,7 @@
 
 ## Data contract — INV-11
 
-Growth Optimal System is structured around a hard split between **template structure** (shippable) and **encoded creator content** (never shippable).
+Growth Operating Agency is structured around a hard split between **template structure** (shippable) and **encoded creator content** (never shippable).
 
 | Layer | What lives there | Safe to commit? |
 |---|---|---|
@@ -45,4 +45,4 @@ Do not open a public issue for security reports. Internal triage happens first.
 
 ---
 
-*Growth Optimal System — a Heuresis workspace template.*
+*Growth Operating Agency — a Heuresis workspace template.*

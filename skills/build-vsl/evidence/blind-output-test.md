@@ -35,7 +35,7 @@ For each VSL, evaluator answers:
 
 ### 3. Pass Criteria
 For `/build-vsl` to be blind-test-validated (sacred tier 3/3):
-- **3/3 Growth Optimal System scripts** must have ≥ 1 evaluator say `creator` or `can't tell`
+- **3/3 Growth Operating Agency scripts** must have ≥ 1 evaluator say `creator` or `can't tell`
 - **No generic-LLM script** should be identified as `creator`
 - Average "Would you run paid traffic?" score ≥ 70% yes
 - Average Hook rating ≥ 7/10

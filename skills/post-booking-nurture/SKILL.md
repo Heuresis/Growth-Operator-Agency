@@ -383,7 +383,7 @@ Per offer price + funnel archetype, decide which components (confirmation page +
 
 - `reference/operators/tier-3-rising/siguard-foss.md` (Infomatic Setting Flow + Show Rate stack)
 - `reference/operators/growth-engineer.md` (Confirmation Page That Converts — 5-function)
-- Growth Optimal System `Show Rates - VSL Call Funnel` canonical source
+- Growth Operating Agency `Show Rates - VSL Call Funnel` canonical source
 - `reference/_archive/spec/INTEGRATIONS.md` (Twilio + Cal.com + GHL)
 
 ---

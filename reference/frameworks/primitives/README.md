@@ -27,7 +27,7 @@ Every operator has a "system" with their name on it. But when you read 17+ opera
 
 Same primitive. Different wrapping.
 
-Growth Optimal System treats the primitive as first-class. Operator files reference which primitives they teach. Skills pull from primitives directly, not from operator files.
+Growth Operating Agency treats the primitive as first-class. Operator files reference which primitives they teach. Skills pull from primitives directly, not from operator files.
 
 **Benefit:** New operator comes out tomorrow with a new named methodology? If they teach the 6 primitives (or a subset), we reference-link their playbook to the primitive pages. No rewrites needed.
 

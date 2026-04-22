@@ -1,11 +1,11 @@
-# Growth Optimal System New Opportunity Framework
+# Growth Operating Agency New Opportunity Framework
 
-> Growth Optimal System domain knowledge — used by Foundation agents for market research,
-> ICP building, and offer architecture. All methodology is Growth Optimal System-branded.
+> Growth Operating Agency domain knowledge — used by Foundation agents for market research,
+> ICP building, and offer architecture. All methodology is Growth Operating Agency-branded.
 
 ---
 
-\t# **🚀 SOP: How to Create an Irresistible New Opportunity (Growth Optimal System Method)**
+\t# **🚀 SOP: How to Create an Irresistible New Opportunity (Growth Operating Agency Method)**
 \t**Purpose**: To create a *new opportunity* that positions your offer as a **completely different vehicle** from anything your audience has tried before — giving them renewed hope and removing objections *before they even arise.*
 \t---
 \t## **✅ SECTION 1: UNDERSTAND THE CORE STRATEGY**

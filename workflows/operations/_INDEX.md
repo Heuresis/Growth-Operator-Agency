@@ -1,6 +1,6 @@
 # Operations — Agency-Layer Index
 
-> **Purpose:** team + process SOPs for running the Growth Optimal System as an operating agency (team-level, not per-client-operation).
+> **Purpose:** team + process SOPs for running the Growth Operating Agency as an operating agency (team-level, not per-client-operation).
 >
 > **Scope note:** this `workflows/operations/` directory is the team-ops surface that every instantiation of the template inherits — the SOPs, cadences, and tool configurations a Heuresis-run operation uses to execute. It is distinct from the per-creator delivery instance that spins up downstream.
 

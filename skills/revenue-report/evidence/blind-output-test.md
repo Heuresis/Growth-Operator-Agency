@@ -33,7 +33,7 @@ For each report, evaluator answers:
 
 ### 3. Pass Criteria
 For `/revenue-report` to be blind-test-validated:
-- **≥ 1 of 3 Growth Optimal System reports** must have ≥ 1 evaluator say `creator` or `can't tell`
+- **≥ 1 of 3 Growth Operating Agency reports** must have ≥ 1 evaluator say `creator` or `can't tell`
 - **No generic-LLM report** should be identified as `creator`
 - Average "Would you make decisions?" score ≥ 50% yes
 - Average Unit Economics rating ≥ 7/10

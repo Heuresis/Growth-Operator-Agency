@@ -50,8 +50,8 @@ Examples:
 - "Educational VSL Method" (the campaign director)
 - "3X VSL Formula" (the VSL copywriter)
 - "Hidden VSSL" (the growth engineer)
-- "Growth Optimal System" (Heuresis itself)
-- "Growth Optimal System" (this workspace)
+- "Growth Operating Agency" (Heuresis itself)
+- "Growth Operating Agency" (this workspace)
 
 Bad mechanism names:
 - "My System"

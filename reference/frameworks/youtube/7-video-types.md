@@ -189,7 +189,7 @@ This rhythm hits algorithm fuel (Listicles, Tutorials) while building depth (Dee
 
 ---
 
-## How this applies in Growth Optimal System
+## How this applies in Growth Operating Agency
 
 - Skill that consumes this: `/write-youtube`, `/plan-youtube-schedule`
 - Agent that uses it: `youtube-producer`

@@ -77,7 +77,7 @@ Per-skill Output Formats.
 ## Communication Style
 
 - **Tone:** relationship-oriented, specific, value-exchange clear
-- **Voice:** Growth Optimal System
+- **Voice:** Growth Operating Agency
 
 ## Success Metrics
 

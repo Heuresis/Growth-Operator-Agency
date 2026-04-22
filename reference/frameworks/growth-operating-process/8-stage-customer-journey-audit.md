@@ -93,7 +93,7 @@ the operations director — operator-first growth practitioner for high-ticket c
 4. **Pick one fix per quarter.** Two is the maximum; most teams over-change and lose attribution.
 5. **Re-audit in 90 days** with identical definitions. Moving the definitions is the number-one way operators fool themselves.
 
-## How this applies in Growth Optimal System
+## How this applies in Growth Operating Agency
 
 - **Skills that consume this:** `diagnostic-report`, `quarterly-review`, `funnel-health-check`, `content-audit`.
 - **Agents that use it:** growth-strategist, revenue-ops-analyst, audit-bot.

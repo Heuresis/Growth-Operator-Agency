@@ -7,7 +7,7 @@
 
 ## Context
 
-This is the starter-template signal report in the Growth Optimal System foundations library. It is the reference operators will look at when building their first Phase-3 instantiation. The research covers a market (executive fitness) that is Solution Aware, has a clear VOC pattern ("I am working 11 hours a day, I am 80kgs, I have no time to exercise" - Quora), and supports a tiered offer at $97 / $3,997 / $9,997 price points. The report below shows the Phase 1 research output that grounds the canonical ICP, Positioning, and Offer documents in the foundations library.
+This is the starter-template signal report in the Growth Operating Agency foundations library. It is the reference operators will look at when building their first Phase-3 instantiation. The research covers a market (executive fitness) that is Solution Aware, has a clear VOC pattern ("I am working 11 hours a day, I am 80kgs, I have no time to exercise" - Quora), and supports a tiered offer at $97 / $3,997 / $9,997 price points. The report below shows the Phase 1 research output that grounds the canonical ICP, Positioning, and Offer documents in the foundations library.
 
 ## The Encoded Signal Report
 
@@ -101,4 +101,4 @@ Tech founders don't fail at fitness from lack of knowledge. They've read the art
 - Primary sources: Hampton Blog, Quartz, Entrepreneur.com, Fortune Business Insights, Cerevity, Crunchbase
 
 ---
-*Encoded 2026-04-19. Content is [VERBATIM] compressed from the canonical Fitness Coaching signal report in the Growth Optimal System foundations library. All market-size figures (Fortune Business Insights, IBIS World, Cerevity), VOC quotes, and competitor pricing are pulled from primary sources captured in the full report.*
+*Encoded 2026-04-19. Content is [VERBATIM] compressed from the canonical Fitness Coaching signal report in the Growth Operating Agency foundations library. All market-size figures (Fortune Business Insights, IBIS World, Cerevity), VOC quotes, and competitor pricing are pulled from primary sources captured in the full report.*

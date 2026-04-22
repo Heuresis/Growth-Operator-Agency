@@ -215,7 +215,7 @@ Total: 40–50 minutes.
 | Verbal yes, no payment | Stage 8 (lock) |
 | Paid, then ghosted before kickoff | Stage 1 (frame) or Stage 4 (vision not owned) |
 
-## How this applies in Growth Optimal System
+## How this applies in Growth Operating Agency
 
 - Skills: `/sales-call-review`, `/sales-script-build`, `/objection-map`, `/offer-price`
 - Agents: `sales-coach`, `sales-ops`, `offer-architect`

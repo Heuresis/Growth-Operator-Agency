@@ -256,7 +256,7 @@ Running this on a draft offer:
 
 Total 18-20 = engineered; the close should feel obvious. 12-17 = functional but with a weak lever the creator is compensating for. <12 = the offer is going to require pressure to close; economics need re-engineering before scaling traffic.
 
-## How this applies in Growth Optimal System
+## How this applies in Growth Operating Agency
 
 - **Skill(s) that consume this:** `/design-offer`, `/build-sales-page`, `/build-vsl`, `/write-checkout-copy`, `/model-unit-economics`, `/audit-offer`
 - **Agent(s) that use it:** offer-architect, copywriter, pricing-strategist, finance-modeler

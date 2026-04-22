@@ -48,7 +48,7 @@ Positioning: *"World-class learning rooted in experience and real-life applicati
 >
 > *Digital Launchpad* positioning: "The world's subscription-first e-learning portal dedicated to helping entrepreneurs start their career." — *launched 2023*
 
-## Growth Optimal System skill bindings
+## Growth Operating Agency skill bindings
 - `/smma-playbook-6-stage` → Niche → Offer → Outreach → Sales → Fulfillment → Scale (Agency architecture)
 - `/retainer-priced-services` → Default pricing model for done-for-you (Offer + Pricing)
 - `/loom-audit-outreach` → Personalized cold outbound (Sales + Outreach)

@@ -102,4 +102,4 @@ budget:
 - `../INVARIANTS.md` — INV-13 revision limit
 
 ---
-*Workspace: Growth Optimal System v1.0 — skill chain protocol*
+*Workspace: Growth Operating Agency v1.0 — skill chain protocol*

@@ -150,7 +150,7 @@ A Growth Operator builds the full 8-component archetype and the 4-marker gravity
 
 If the operator cannot make that commitment and hit revenue targets, the targets are wrong, or the offer is wrong, or the channel mix is wrong. The commitment is load-bearing.
 
-## How this applies in Growth Optimal System
+## How this applies in Growth Operating Agency
 
 - **Skill(s) that consume this:** `/audit-brand-gravity`, `/build-vsl`, `/design-offer`, `/webinar-script`, `/quarterly-ethics-review`
 - **Agent(s) that use it:** ethics-reviewer, brand-strategist, copywriter, compliance-reviewer
@@ -158,7 +158,7 @@ If the operator cannot make that commitment and hit revenue targets, the targets
 
 ## Non-applicable scenarios
 
-- This file applies to every creator operating under the Growth Optimal System frame. There are no "non-applicable" cases for the guardrails themselves.
+- This file applies to every creator operating under the Growth Operating Agency frame. There are no "non-applicable" cases for the guardrails themselves.
 - The *red flags* (not the guardrails) become structurally irrelevant in fully-commodity categories where no identity-layer exists. But those categories also don't support cult-methodology, so the question doesn't arise.
 
 ## Cross-references

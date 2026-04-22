@@ -162,7 +162,7 @@ Top 3 goals:
 1. Scale to $150K attributable revenue
 2. Produce 3 case studies + 1 JV webinar
 3. Build Scale SOPs + first hire brief
-Scope: Growth Optimal System + Scale add-on
+Scope: Growth Operating Agency + Scale add-on
 Cadence: Weekly Tue 14:00 PT + monthly KPI review
 Investment: $40K
 Risks: Founder bandwidth; need to hire delivery ops

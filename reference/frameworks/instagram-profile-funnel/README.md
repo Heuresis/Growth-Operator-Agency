@@ -140,4 +140,4 @@ Used by:
 - 4-layer story anatomy (Notion: `2d539dd823e7800aa97eef7b10569eac`)
 
 ---
-*v1.0 — 2026-04-19. IG funnel stack for Growth Optimal System — depth for ads/profile/DM; does not extend into full IG agency services (separate workspace).*
+*v1.0 — 2026-04-19. IG funnel stack for Growth Operating Agency — depth for ads/profile/DM; does not extend into full IG agency services (separate workspace).*

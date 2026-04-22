@@ -2,7 +2,7 @@
 
 > **Status:** deep-encoded. Five canonical frameworks live in this directory, plus cross-references to YouTube-shared frameworks in `../youtube/`.
 
-the content OS director is the Tier-1 GOAT operator encoded as the primary YouTube-native growth operator in the Growth Optimal System lineage. His unique contributions are the *Nurture Block 4-phase model* (Indoctrination → Value → Conversion → Retention), the *9-area ICP deep-dive* for info-product avatar building, the *YouTube Flywheel Funnel architecture*, and the *business-partner operating model* that distinguishes his engagements from agency-client norms.
+the content OS director is the Tier-1 GOAT operator encoded as the primary YouTube-native growth operator in the Growth Operating Agency lineage. His unique contributions are the *Nurture Block 4-phase model* (Indoctrination → Value → Conversion → Retention), the *9-area ICP deep-dive* for info-product avatar building, the *YouTube Flywheel Funnel architecture*, and the *business-partner operating model* that distinguishes his engagements from agency-client norms.
 
 ## Canonical Frameworks (in this directory)
 
@@ -27,7 +27,7 @@ the content OS director's YouTube-adjacent IP is encoded across `reference/frame
 | 4-pillar content mix (Education / Authority / Entertainment / Offer) | [`../youtube/4-pillar-content-mix.md`](../youtube/4-pillar-content-mix.md) |
 | VSSL 15-step (the VSL copywriter lineage) | [`../youtube/vssl-15-step.md`](../youtube/vssl-15-step.md) |
 | VSSL 5-chapter YouTube adaptation | [`../youtube/vssl-5-chapter-youtube.md`](../youtube/vssl-5-chapter-youtube.md) |
-| Growth Optimal System ICP deep-dive source (9-area canonical) | [`../icp-deep-dive.md`](../icp-deep-dive.md) |
+| Growth Operating Agency ICP deep-dive source (9-area canonical) | [`../icp-deep-dive.md`](../icp-deep-dive.md) |
 
 ## Operator Playbook
 
@@ -46,10 +46,10 @@ Full operator identity + thesis + 3 signature breakdowns + decision rules: [`../
 ## Source Material
 
 - the content OS director public surfaces: `youtube.com/@dustinvarano`, `instagram.com/dustinvarano`, `link.me/dustinvarano`
-- Growth Optimal System Internal Processes canonical: Notion `2ee39dd823e7809bb4ccd41805604ae8`
+- Growth Operating Agency Internal Processes canonical: Notion `2ee39dd823e7809bb4ccd41805604ae8`
 - the content OS director operator hub: Notion `2d939dd823e780cbbb03df339c39c617`
 - Three signature breakdown videos (channel URL above)
-- Growth Optimal System ICP Deep Dive framework file as the 9-area canonical source
+- Growth Operating Agency ICP Deep Dive framework file as the 9-area canonical source
 
 ---
 *v2.0 — 2026-04-19 — the content OS director framework index (deep-encoded).*

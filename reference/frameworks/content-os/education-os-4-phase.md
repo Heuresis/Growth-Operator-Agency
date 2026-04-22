@@ -1,6 +1,6 @@
 # Nurture Block — 4-Phase Lifecycle Model
 
-> **Source / Lineage:** the content OS director (Growth Optimal System Education pillar). The 4-phase lifecycle structures every buyer-journey asset a high-ticket info creator ships — video, email, short-form, community event, pinned post. This is the canonical sequencing reference for `skills/email-sequence` and `skills/content-calendar`.
+> **Source / Lineage:** the content OS director (Growth Operating Agency Education pillar). The 4-phase lifecycle structures every buyer-journey asset a high-ticket info creator ships — video, email, short-form, community event, pinned post. This is the canonical sequencing reference for `skills/email-sequence` and `skills/content-calendar`.
 
 ## Why This Matters
 

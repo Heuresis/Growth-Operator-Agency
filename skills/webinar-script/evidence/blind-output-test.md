@@ -17,7 +17,7 @@ _v1.0 initial validation: pending (skill is freshly shipped)_
 ### 1. Output Set
 - 2 historical webinar scripts / transcripts from the creator's past webinars (ideally ones with known conversion data — one high-converter, one average)
 - 3 scripts produced by `/webinar-script` (different variants: e.g., one Live, one 5-Day Challenge, one Evergreen)
-- 1 generic-LLM webinar script (control — no Growth Optimal System context)
+- 1 generic-LLM webinar script (control — no Growth Operating Agency context)
 
 All outputs anonymized. Strip creator names, replace brand names with `[BRAND]`, randomize order. Reviewers see full 5-section scripts (Intro through Q&A).
 
@@ -35,9 +35,9 @@ For each script, evaluator answers:
 
 ### 3. Pass Criteria (sacred tier — 3/3)
 For `/webinar-script` to be blind-test-validated:
-- **3 of 3 Growth Optimal System scripts** must have ≥ 1 evaluator say `creator` or `can't tell` (sacred tier — no slack)
+- **3 of 3 Growth Operating Agency scripts** must have ≥ 1 evaluator say `creator` or `can't tell` (sacred tier — no slack)
 - **No generic-LLM script** should be identified as `creator`
-- Average "Would you deliver this live?" ≥ 70% yes for Growth Optimal System scripts
+- Average "Would you deliver this live?" ≥ 70% yes for Growth Operating Agency scripts
 - Average Opening Hook rating ≥ 7/10
 - Average Unique Mechanism sell rating ≥ 7/10
 - Average Crossroads Close rating ≥ 7/10

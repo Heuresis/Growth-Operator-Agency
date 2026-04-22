@@ -97,7 +97,7 @@ Has the mix drifted beyond ±10% of target in any bucket for 2 consecutive quart
 
 Most revenue-mix rules break at scale because they assume a consumer model. This one survives because it assumes: (a) the founder's attention is the binding constraint, (b) LTV expansion is where margin lives, and (c) experimentation is a budgeted cost, not a hope. Those three assumptions hold from $500k through $5M, which is the band this rule targets. Above $5M, the business usually needs to split into product lines and this mix no longer applies cleanly.
 
-## How this applies in Growth Optimal System
+## How this applies in Growth Operating Agency
 
 - **Skills that consume this:** `quarterly-review`, `offer-portfolio-audit`, `revenue-allocation-planner`.
 - **Agents that use it:** revenue-ops-analyst, cfo-advisor, offer-strategist.

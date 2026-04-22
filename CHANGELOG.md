@@ -1,10 +1,10 @@
-# Changelog — Growth Optimal System
+# Changelog — Growth Operating Agency
 
 All notable changes to this template are tracked here. Format follows [Keep a Changelog](https://keepachangelog.com). Versioning follows [Semantic Versioning](https://semver.org).
 
 ## [1.0.0] — 2026-04-21
 
-Initial private release of the Growth Optimal System workspace template.
+Initial private release of the Growth Operating Agency workspace template.
 
 ### Added
 
@@ -40,4 +40,4 @@ Initial private release of the Growth Optimal System workspace template.
 
 ---
 
-*Growth Optimal System — a Heuresis workspace template.*
+*Growth Operating Agency — a Heuresis workspace template.*

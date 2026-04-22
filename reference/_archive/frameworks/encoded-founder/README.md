@@ -1,15 +1,15 @@
 # Encoded Founder — Framework Index
 
-> **Status:** imported-thesis. 3 framework files drawn from the Encoded Founder V4 paper (April 2026). Not an operator playbook — a thesis layer that runs underneath the Growth Optimal System encoding stack.
+> **Status:** imported-thesis. 3 framework files drawn from the Encoded Founder V4 paper (April 2026). Not an operator playbook — a thesis layer that runs underneath the Growth Operating Agency encoding stack.
 > **Source:** Syed Hussain, *Encoded Founder V4* (April 2, 2026). ~179,000 words, 179 pages. Heuresis private IP.
 > **Extraction:** `pdftotext -layout ENCODED_FOUNDER_V4.pdf` — 46,035 words captured from 6,987-line layout extraction. Six chapters + model section + intro.
 > **Quote fidelity:** All direct quotes verbatim from V4 extracted text. Numerical claims tagged with source study where applicable.
 
-The Encoded Founder thesis is the strategic substrate underneath every Growth Optimal System skill that takes an expert's judgment and ships it as a system that carries it. It answers a different question than the VSL director, the acquisition economist, or the offer architect: not "how do I convert?" but "how do I survive the repricing of expertise that AI just made possible?" The frameworks here sit upstream of the Offer Document, the VSL, and the Funnel. They determine what is worth encoding before /design-offer + /build-vsl + /build-funnel encode it.
+The Encoded Founder thesis is the strategic substrate underneath every Growth Operating Agency skill that takes an expert's judgment and ships it as a system that carries it. It answers a different question than the VSL director, the acquisition economist, or the offer architect: not "how do I convert?" but "how do I survive the repricing of expertise that AI just made possible?" The frameworks here sit upstream of the Offer Document, the VSL, and the Funnel. They determine what is worth encoding before /design-offer + /build-vsl + /build-funnel encode it.
 
 ## Why This Directory Exists
 
-The Growth Optimal System operates on an assumption the market does not share: that the creator's expertise is a compounding asset, not an expiring commodity. The Encoded Founder paper is where that assumption is defended. The frameworks encode:
+The Growth Operating Agency operates on an assumption the market does not share: that the creator's expertise is a compounding asset, not an expiring commodity. The Encoded Founder paper is where that assumption is defended. The frameworks encode:
 
 - **What gets encoded** (the 3-layer durability model — decision logic vs structured knowledge vs technology interface)
 - **How it gets extracted** (the 30-Minute Expert Download + 5-step Encoding Process)
@@ -44,13 +44,13 @@ The paper's falsifiability claim, from the model section: *"If you score above 3
 ## How These Files Cross-Reference
 
 - **encoded-founder-thesis.md** is the top-level index. Read first.
-- **3-layer-encoding-model.md** is the "what to encode" discipline. Referenced by every Growth Optimal System skill that encodes creator judgment (/extract-voice, /design-offer, /build-vsl, /build-sop).
+- **3-layer-encoding-model.md** is the "what to encode" discipline. Referenced by every Growth Operating Agency skill that encodes creator judgment (/extract-voice, /design-offer, /build-vsl, /build-sop).
 - **encoding-flywheel.md** is the "how it compounds over time" discipline. Referenced by /build-sop, /retention-check, /launch-report, and any skill that asks "what happens after Cycle 1?"
 
 ## Referenced From
 
 - Skill bodies that mention "encoding," "Blind Output Test," "expert judgment," "decision logic" — primarily `skills/build-sop/SKILL.md`, `skills/extract-voice/SKILL.md`, `skills/design-offer/SKILL.md`.
-- The Growth Optimal System INVARIANTS.md Blind Output Test gate (3/3 for sacred formats) is a direct instantiation of the paper's Step 5 validation protocol.
+- The Growth Operating Agency INVARIANTS.md Blind Output Test gate (3/3 for sacred formats) is a direct instantiation of the paper's Step 5 validation protocol.
 - Any skill with the phrase "Cycle 1 hero skill" is referencing the flywheel's first cycle — the hardest and most important.
 
 ## Reading Order (for someone new to the thesis)

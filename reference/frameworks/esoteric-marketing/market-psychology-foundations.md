@@ -222,7 +222,7 @@ A sophisticated funnel can move a buyer across states inside a single asset:
 
 Moving a buyer 2+ states in one asset is ambitious and requires the full Mind Enhanced V2 stack (see `esoteric-marketing/mind-enhanced-v2.md`). Moving them 1 state is routine for a well-built VSL.
 
-## How this applies in Growth Optimal System
+## How this applies in Growth Operating Agency
 
 - **Skill(s) that consume this:** `/diagnose-icp`, `/build-vsl`, `/design-lead-magnet`, `/audit-funnel`, `/write-ad-copy`, `/icp-interview`
 - **Agent(s) that use it:** buyer-psychology-analyst, copywriter, research-lead, funnel-architect

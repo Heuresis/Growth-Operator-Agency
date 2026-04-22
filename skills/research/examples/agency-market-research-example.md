@@ -104,8 +104,8 @@ Market is Sophisticated. Generic positioning fails fast. The offer must lean int
 
 - `reference/frameworks/market-sophistication-overview.md` - 4-stage sophistication taxonomy
 - `reference/frameworks/vsl-director/6-blockage-diagnostic.md` - blockage diagnosis applied to agency scaling
-- `reference/frameworks/market-research-method.md` - Growth Optimal System market-research methodology
+- `reference/frameworks/market-research-method.md` - Growth Operating Agency market-research methodology
 - Primary sources: IBIS World, US Census, Inc 5000, YEC, Reddit r/Entrepreneur + r/Agency + r/SMMA, IndieHackers
 
 ---
-*Encoded 2026-04-19. [SYNTHESIZED] market research for the Agency category. Framework structure (market-sizing table, the VSL director 4-stage sophistication diagnosis, VOC capture, competitor landscape) is [VERBATIM] from the Growth Optimal System research methodology. Competitor names, pricing tiers, and community membership figures are from public sources. Specific illustrative VOC quotes are composite examples calibrated to the Reddit and YEC community patterns.*
+*Encoded 2026-04-19. [SYNTHESIZED] market research for the Agency category. Framework structure (market-sizing table, the VSL director 4-stage sophistication diagnosis, VOC capture, competitor landscape) is [VERBATIM] from the Growth Operating Agency research methodology. Competitor names, pricing tiers, and community membership figures are from public sources. Specific illustrative VOC quotes are composite examples calibrated to the Reddit and YEC community patterns.*

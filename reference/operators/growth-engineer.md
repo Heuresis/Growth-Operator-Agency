@@ -82,7 +82,7 @@ Triad. Architecture = structural offer design. Math = pricing floor/ceiling from
 > "We don't believe in get-rich-quick programs or short cuts. We believe in hard work, adding value and serving others."
 > — jeremyhaynes.com
 
-## Growth Optimal System skill bindings
+## Growth Operating Agency skill bindings
 - `/hidden-vssl-framework` → Hidden VSSL (Marketing department, Content)
 - `/call-funnel-blueprint` → Call Funnel Blueprint (Sales department)
 - `/fix-revenue-plateau` → Fix Revenue Plateau (Strategy/Ops diagnostic)
@@ -97,4 +97,4 @@ Triad. Architecture = structural offer design. Math = pricing floor/ceiling from
 - `/customer-lifetime-value` + `/coaching-delivery-model` → Delivery department
 - `/free-community-pipeline` + `/partner-webinar-system` → Partnerships
 
-**Encoding status:** COMPLETE — 38-skill catalog verified, 6 canonical frameworks mapped, Growth Optimal System bindings drafted for all core skills.
+**Encoding status:** COMPLETE — 38-skill catalog verified, 6 canonical frameworks mapped, Growth Operating Agency bindings drafted for all core skills.

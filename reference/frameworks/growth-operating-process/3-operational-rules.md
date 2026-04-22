@@ -125,7 +125,7 @@ Leading indicators predict next week's lagging indicators. If the weekly meeting
 
 Missing any one rule breaks the other two within 60–90 days. Operators who implement one at a time should do so in the order: Rule 2 (data) → Rule 3 (rhythm) → Rule 1 (hiring).
 
-## How this applies in Growth Optimal System
+## How this applies in Growth Operating Agency
 
 - **Skills that consume this:** `quarterly-review`, `hiring-decision`, `dashboard-builder`, `weekly-meeting-runner`, `operating-audit`.
 - **Agents that use it:** revenue-ops-analyst, cfo-advisor, ops-manager-bot.

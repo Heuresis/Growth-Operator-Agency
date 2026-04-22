@@ -3,7 +3,7 @@
 > **Case:** the HNWI client Capital - HNWI Tax-Deferral Advisory
 > **Framework applied:** the offer architect Mechanism Identification + Anti-Positioning + Category Design
 > **Audience:** High-net-worth individuals with $2M-$25M liquid assets facing capital-gains events
-> **Outcome:** [SYNTHESIZED] canonical positioning-document example for the Growth Optimal System library
+> **Outcome:** [SYNTHESIZED] canonical positioning-document example for the Growth Operating Agency library
 
 ## Context
 
@@ -86,4 +86,4 @@ This is the canonical positioning example for a high-ticket advisory offer servi
 - IRS Section 1400Z-2 (Qualified Opportunity Zones) - regulatory reference for the mechanism claim
 
 ---
-*Encoded 2026-04-19. [SYNTHESIZED] canonical HNWI positioning example constructed using the offer architect's Phase 2 mechanism-identification + anti-positioning architecture [VERBATIM]. "the HNWI client Capital" is an illustrative brand used across the Growth Optimal System library. Opportunity-zone and 1031 regulatory references are real; specific client figures are not.*
+*Encoded 2026-04-19. [SYNTHESIZED] canonical HNWI positioning example constructed using the offer architect's Phase 2 mechanism-identification + anti-positioning architecture [VERBATIM]. "the HNWI client Capital" is an illustrative brand used across the Growth Operating Agency library. Opportunity-zone and 1031 regulatory references are real; specific client figures are not.*

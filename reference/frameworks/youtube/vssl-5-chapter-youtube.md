@@ -216,7 +216,7 @@ Problem → Mechanism → Offer → Guarantee → CTA. Fast.
 
 ---
 
-## How this applies in Growth Optimal System
+## How this applies in Growth Operating Agency
 
 - Skill that consumes this: `/write-vssl`, `/write-youtube-vssl`
 - Agent that uses it: `vssl-writer`, `youtube-producer`

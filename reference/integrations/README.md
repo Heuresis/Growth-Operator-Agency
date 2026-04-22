@@ -1,6 +1,6 @@
 # Integrations Reference — Tech Stack for Growth Operators
 
-> **Catalog of APIs, MCPs, and services** Growth Optimal System skills can bind to. Every creator's actual stack is a subset of this catalog — fill in only what they use.
+> **Catalog of APIs, MCPs, and services** Growth Operating Agency skills can bind to. Every creator's actual stack is a subset of this catalog — fill in only what they use.
 
 ## Contents
 
@@ -133,7 +133,7 @@ Skills query this to route integration calls to the right services.
 2. `reference/integrations/mcps.md` — MCP catalog
 3. `reference/integrations/apis.md` — API catalog
 4. `reference/integrations/credentials-template.md` — security + setup
-5. `reference/integrations/stack-recommendations/stack-for-high-ticket-coach.md` — default starting stack for Growth Optimal System's primary ICP
+5. `reference/integrations/stack-recommendations/stack-for-high-ticket-coach.md` — default starting stack for Growth Operating Agency's primary ICP
 
 ---
 

@@ -35,12 +35,12 @@ The archetype has four structural properties:
 **Notable quotes / phrases:**
 - [UNVERIFIED — no specific quote captured; operator identity not confirmed]
 
-**Takeaways for Growth Optimal System operators:**
+**Takeaways for Growth Operating Agency operators:**
 - If a high-ticket offer depends on trust and consumption depth, long-form YouTube is the correct primary surface — even if short-form would grow subscriber count faster.
 - Design the monetization ladder as three rungs (free → community → high-ticket), not five. Each extra rung taxes the funnel.
 - Treat the minute-60 retention number on a long-form video as a more meaningful KPI than total views.
 
-**What does NOT apply to most Growth Optimal System operators:**
+**What does NOT apply to most Growth Operating Agency operators:**
 - Operators serving ICPs who do not consume long-form YouTube (enterprise procurement, time-starved executives) should not import the long-form-first thesis wholesale.
 - Operators with catalog-based offers (many SKUs, many price points) cannot run a three-rung ladder — the narrow monetization structure assumes offer concentration.
 
@@ -62,7 +62,7 @@ Invariant: each rung is a consumption-depth escalation, not only a price escalat
 - Identity-led positioning — the operator is the brand.
 - [SPECULATIVE] Narrow offer catalog, high per-unit depth.
 
-## Growth Optimal System skill bindings (provisional, pending identity resolution)
+## Growth Operating Agency skill bindings (provisional, pending identity resolution)
 
 - `/long-form-qualification-funnel` → Long-form content as qualification layer (Marketing/Content)
 - `/consumption-depth-kpi` → Minute-60 retention as primary KPI (Analytics)

@@ -40,7 +40,7 @@ version: 1.0
 
 ## Role
 
-You are **the ICP Builder Agent** in Growth Optimal System. You convert the Market Research Brief into a **13-section ICP Document** with an explicit Completeness Score >= 80/100. You think in the lineage of **the VSL director** (Avatar Deep Dive 12-question framework), **the content OS director** (ICP deep-dive across 9 areas), **the offer architect** (limiting belief diagnostic + emotional state mapping), **the awareness-spectrum author** (5 awareness levels), and **the copy director** (voice-of-customer extraction from Amazon reviews + forum threads).
+You are **the ICP Builder Agent** in Growth Operating Agency. You convert the Market Research Brief into a **13-section ICP Document** with an explicit Completeness Score >= 80/100. You think in the lineage of **the VSL director** (Avatar Deep Dive 12-question framework), **the content OS director** (ICP deep-dive across 9 areas), **the offer architect** (limiting belief diagnostic + emotional state mapping), **the awareness-spectrum author** (5 awareness levels), and **the copy director** (voice-of-customer extraction from Amazon reviews + forum threads).
 
 The ICP Document is **the second sacred format** in Foundations (after Market Research Brief). Every copy, funnel, sales script, VSL, and ad downstream uses this document as its audience ground truth. If this document is wrong or generic, every downstream asset is corrupted.
 
@@ -210,7 +210,7 @@ This section drives the OFFER design in `/design-offer` — the offer must **rem
 - Read `reference/_archive/frameworks/classical/limiting-belief-triad.md`
 - Read `reference/frameworks/esoteric-marketing/README.md` (the offer architect market psychology)
 - Read `reference/frameworks/primitives/specificity.md`
-- Read `reference/sub-agents/market-research-icp/` (Growth Optimal System canonical source content)
+- Read `reference/sub-agents/market-research-icp/` (Growth Operating Agency canonical source content)
 
 ### Phase 1 — Demographic Profile (Section 2)
 From research brief + direct creator input:
@@ -499,7 +499,7 @@ After `/build-icp` delivers the ICP Document (Completeness >= 80):
 - `reference/_archive/frameworks/classical/market-hierarchy.md`
 - `reference/frameworks/esoteric-marketing/README.md` (the offer architect market psychology)
 - `reference/frameworks/primitives/specificity.md`
-- `reference/sub-agents/market-research-icp/` (raw Growth Optimal System methodology source)
+- `reference/sub-agents/market-research-icp/` (raw Growth Operating Agency methodology source)
 
 ---
 *Version 1.0 — 2026-04-19. The second Foundations skill. Every downstream asset uses this document as audience ground truth. Sacred format — requires Blind Output Test pass before shipping published assets.*

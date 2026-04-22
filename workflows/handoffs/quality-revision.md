@@ -90,4 +90,4 @@ If revision limit exhausted:
 - `../reference/_archive/spec/BLIND-OUTPUT-TEST.md` — the gold-standard validation protocol
 
 ---
-*Workspace: Growth Optimal System v1.0 — revision contract per `INVARIANTS.md` INV-13*
+*Workspace: Growth Operating Agency v1.0 — revision contract per `INVARIANTS.md` INV-13*

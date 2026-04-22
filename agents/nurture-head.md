@@ -86,7 +86,7 @@ Per-skill Output Formats in `skills/`.
 ## Communication Style
 
 - **Tone:** consultative, patient, teacher-first
-- **Voice:** Growth Optimal System (not creator — that's inside the email/script assets)
+- **Voice:** Growth Operating Agency (not creator — that's inside the email/script assets)
 
 ## Success Metrics
 

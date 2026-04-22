@@ -1,13 +1,13 @@
 # $97k/mo High-Ticket Mentorship Funnel Playbook
 
-> **Why this matters:** Operators with a defensible $5k–$30k mentorship or coaching offer can reach ~$97k/mo cash collected on LinkedIn alone without ads, a team, or paid traffic — provided the funnel is built around authority content, a tight application, and a full-stack 40–50 minute sales call. This playbook documents the exact architecture that works as of Dec 2025 (post-algo-shift) and is the default path Growth Optimal System recommends for founders selling expertise, transformation, or productized coaching.
+> **Why this matters:** Operators with a defensible $5k–$30k mentorship or coaching offer can reach ~$97k/mo cash collected on LinkedIn alone without ads, a team, or paid traffic — provided the funnel is built around authority content, a tight application, and a full-stack 40–50 minute sales call. This playbook documents the exact architecture that works as of Dec 2025 (post-algo-shift) and is the default path Growth Operating Agency recommends for founders selling expertise, transformation, or productized coaching.
 
 ## Source / Lineage
 
 - Synthesized from LinkedIn operator patterns observed across 2024–2025 (the offer architect, the content OS director, the VSL director school and adjacent operators)
 - Calibrated to the Dec 2025 LinkedIn algorithm change (reach favors personal-narrative + mechanism posts, penalizes pure-sales CTAs)
 - Economics verified against 6-figure/mo operator P&Ls in the $5k–$30k offer tier
-- Downstream of the Growth Optimal System offer-architecture + signal-theory frameworks in `reference/frameworks/`
+- Downstream of the Growth Operating Agency offer-architecture + signal-theory frameworks in `reference/frameworks/`
 
 ## Funnel Architecture
 
@@ -33,7 +33,7 @@ Two viable routes:
 - **DM route:** "Comment [word] and I'll DM the [resource]" → manual DM → qualify → invite application. Higher-touch, higher conversion, does not scale past ~$150k/mo solo.
 - **Link-in-bio route:** Featured section links to a gated long-form (VSL or written sales page) → application form. Lower-touch, scales further, ~30–40% lower conversion than DM route.
 
-Growth Optimal System default: DM route until operator crosses $50k/mo, then introduce link-in-bio as secondary.
+Growth Operating Agency default: DM route until operator crosses $50k/mo, then introduce link-in-bio as secondary.
 
 ### [4] Application
 8–10 question form. See Application section below.
@@ -186,7 +186,7 @@ Every call will hit at least one. Memorize responses.
 - No case studies and no founder-story to lean on (build credibility first)
 - Product is a SaaS / PLG / usage-based offer (wrong funnel shape)
 
-## How this applies in Growth Optimal System
+## How this applies in Growth Operating Agency
 
 - **Skills:** `signal-crafter` (content pillars + post generation), `funnel-architect` (full funnel spec), `qualifier-designer` (application + call script)
 - **Agents:** `content-department-agent` drives cadence and pillar rotation. `offer-department-agent` owns price + application + call script. `sales-department-agent` runs call-review loop.
@@ -196,7 +196,7 @@ Every call will hit at least one. Memorize responses.
 
 ## INV-8 Scope Note
 
-**This playbook is scoped to the operator posting about THEIR OWN offer on THEIR OWN LinkedIn profile.** It is not a LinkedIn agency service, a done-for-you ghostwriting engagement, or a social-media-management retainer. Growth Optimal System template assumes the operator is the subject-matter authority and is the one appearing in content. If a founder wants to sell LinkedIn services TO others, that is a separate workspace (`linkedin-agency-os`, not yet built) with different economics, team structure, and delivery model.
+**This playbook is scoped to the operator posting about THEIR OWN offer on THEIR OWN LinkedIn profile.** It is not a LinkedIn agency service, a done-for-you ghostwriting engagement, or a social-media-management retainer. Growth Operating Agency template assumes the operator is the subject-matter authority and is the one appearing in content. If a founder wants to sell LinkedIn services TO others, that is a separate workspace (`linkedin-agency-os`, not yet built) with different economics, team structure, and delivery model.
 
 ## Non-applicable scenarios
 
@@ -204,7 +204,7 @@ Every call will hit at least one. Memorize responses.
 - **Low-ticket info products.** $47–$497 products need a tripwire/webinar funnel, not an application-call funnel.
 - **Consumer (B2C) offers.** LinkedIn buyer intent is B2B / prosumer.
 - **Enterprise 6-figure deals.** These need ABM + multi-stakeholder cycles, not one-call-close.
-- **Founder refuses to be on camera/in content.** Growth Optimal System cannot generate synthetic authority; founder presence is load-bearing.
+- **Founder refuses to be on camera/in content.** Growth Operating Agency cannot generate synthetic authority; founder presence is load-bearing.
 
 ## Cross-references
 

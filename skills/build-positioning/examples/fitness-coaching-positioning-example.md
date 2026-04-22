@@ -1,13 +1,13 @@
 # Fitness Coaching - Canonical Positioning Example
 
-> **Case:** Fitness Coaching - canonical starter example in the Growth Optimal System foundations library
+> **Case:** Fitness Coaching - canonical starter example in the Growth Operating Agency foundations library
 > **Built from:** ICP (90/100 completeness)
 > **Framework applied:** Subcategory creation + named mechanism + belief-stack as positioning engine
 > **Outcome:** Positioning validated - 8 sections complete, mechanism named (FFOS), belief stack anchored to ICP
 
 ## Context
 
-Canonical starter-template positioning for the Growth Optimal System foundations library. ICP is tech founders (28-45, $150K-$1M+ income), Solution Aware, HELPLESS-dominant (70%) with WORTHLESS secondary (30%). The positioning engineers a defensible subcategory, "Performance Fitness for Tech Founders," where no competitor currently exists at scale. Dan Go (adjacent, generic); Dr. Galpin's Arete (adjacent, $20K+). The subcategory between them is the opportunity.
+Canonical starter-template positioning for the Growth Operating Agency foundations library. ICP is tech founders (28-45, $150K-$1M+ income), Solution Aware, HELPLESS-dominant (70%) with WORTHLESS secondary (30%). The positioning engineers a defensible subcategory, "Performance Fitness for Tech Founders," where no competitor currently exists at scale. Dan Go (adjacent, generic); Dr. Galpin's Arete (adjacent, $20K+). The subcategory between them is the opportunity.
 
 ## The Encoded Positioning Document
 
@@ -92,4 +92,4 @@ The label passes the 5-second test: a founder hears "Founder Fitness Operating S
 - `reference/frameworks/acquisition-economics/grand-slam-offer.md` - mechanism naming rule
 
 ---
-*Encoded 2026-04-19. Content is [VERBATIM] from the canonical Fitness Coaching positioning document in the Growth Optimal System foundations library. All competitor names (Dan Go, Dr. Galpin, Michael Sheedy), evidence quotes (Hampton Blog, Entrepreneur.com, Startups.com), and framework applications are pulled from the source document.*
+*Encoded 2026-04-19. Content is [VERBATIM] from the canonical Fitness Coaching positioning document in the Growth Operating Agency foundations library. All competitor names (Dan Go, Dr. Galpin, Michael Sheedy), evidence quotes (Hampton Blog, Entrepreneur.com, Startups.com), and framework applications are pulled from the source document.*

@@ -186,7 +186,7 @@ Use BOTH: absolute for specific problems, relative for overall performance.
 
 ---
 
-## Binding into the Growth Optimal System
+## Binding into the Growth Operating Agency
 
 - **Weekly cadence:** Monday = observation (last week's uploads), Tuesday = hypothesis, Wednesday-Friday = script with hypothesis applied, Saturday = film, Monday after = publish and monitor on the 30min/1hr/3hr/6hr/12hr schedule.
 - **Thumbnail matrix:** no video publishes without the 3x3 = 9 thumbnails pre-built.

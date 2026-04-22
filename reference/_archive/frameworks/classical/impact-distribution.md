@@ -1,7 +1,7 @@
 # Impact Distribution Principle (40/40/20) — the offer architect
 
 > **Source:** the offer architect (Nothing Held Back) via the awareness-spectrum author lineage
-> **Status:** CORE INVARIANT of Growth Optimal System (INV-1). Referenced by every department.
+> **Status:** CORE INVARIANT of Growth Operating Agency (INV-1). Referenced by every department.
 
 ## The Principle
 
@@ -92,7 +92,7 @@ the offer architect's related hierarchy:
 
 A rising market lifts mediocre offers. A declining market sinks great offers. Before audience/offer/copy, check the MARKET.
 
-Growth Optimal System `/research` Section 2 (Market State) is this check. If market is declining, repositioning is urgent — not copy tweaks.
+Growth Operating Agency `/research` Section 2 (Market State) is this check. If market is declining, repositioning is urgent — not copy tweaks.
 
 ## Invariants
 
@@ -115,7 +115,7 @@ Break the plateau: go back upstream. `/research` fresh. `/build-icp` fresh. `/de
 - `reference/operators/offer-architect.md`
 - `reference/frameworks/esoteric-marketing/README.md`
 
-## Growth Optimal System Binding
+## Growth Operating Agency Binding
 
 - `INVARIANTS.md` INV-1 (Impact Distribution 40/40/20) is this principle codified
 - `spec/CONTEXT-THRESHOLDS.md` enforces upstream-gate blocking via compartment thresholds

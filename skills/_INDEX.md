@@ -1,4 +1,4 @@
-# Skills Index — Growth Optimal System
+# Skills Index — Growth Operating Agency
 
 > **29 shipped skills**, organized by department. Each skill is a **folder**:
 > `skills/{slug}/SKILL.md + reference/ + examples/ + evidence/ + adapters/`

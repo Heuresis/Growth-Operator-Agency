@@ -160,4 +160,4 @@ Body sections: Identity (Personality + Memory + Experience) → Core Mission →
 ---
 *v1.0.0 — 2026-04-21 — 41 agents (1 director + 7 department heads + 33 specialists).*
 
-*Growth Optimal System — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*
+*Growth Operating Agency — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*

@@ -47,7 +47,7 @@ Workspace: [Company Name]
 └── Space: 07 — Personal Tasks (private per user)
 ```
 
-One space per department, matching the Growth Optimal System department model. Cross-department work lives in the "owning" space; dependencies get linked tasks, not duplicates.
+One space per department, matching the Growth Operating Agency department model. Cross-department work lives in the "owning" space; dependencies get linked tasks, not duplicates.
 
 ## List Templates — Standard Fields
 

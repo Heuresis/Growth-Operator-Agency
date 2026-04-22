@@ -5,7 +5,7 @@ Notion is the team's long-term memory: SOPs, playbooks, decisions, meeting notes
 
 ## Workspace Structure
 
-Top-level pages (one per area). Mirrors the Growth Optimal System departments + operating needs.
+Top-level pages (one per area). Mirrors the Growth Operating Agency departments + operating needs.
 
 ```
 / Home

@@ -35,7 +35,7 @@ For each reel, evaluator answers:
 
 ### 3. Pass Criteria
 For `/write-reel` to be blind-test-validated (external tier 2/3):
-- **2/3 Growth Optimal System scripts** must have ≥ 1 evaluator say `creator` or `can't tell`
+- **2/3 Growth Operating Agency scripts** must have ≥ 1 evaluator say `creator` or `can't tell`
 - **No generic-LLM script** should be identified as `creator`
 - Average "Would you post?" score ≥ 60% yes
 - Average Hook specificity rating ≥ 7/10

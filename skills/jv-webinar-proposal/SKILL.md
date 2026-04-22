@@ -88,7 +88,7 @@ the growth engineer *Partner Webinar System* (trust-transfer mechanic as the def
 
 **Ship gate:** aggregate >= 7/10. Below 7, refuse to draft proposal — route to higher-fit partner or drop.
 
-## Revenue Split Rules (Growth Optimal System canonical defaults)
+## Revenue Split Rules (Growth Operating Agency canonical defaults)
 
 | Scenario | Default Split (Partner / Creator) |
 |---|---|
@@ -395,7 +395,7 @@ A proposal with any of these signals the creator is either AI-assisted-without-e
 - Full-Stack Sales Call 8-Stage (`reference/frameworks/sales/full-stack-sales-call-8-stage.md`)
 - 8 Required Beliefs — the VSL director (`reference/frameworks/sales/8-required-beliefs.md`)
 - the agency director Loom-audit outreach pattern (`reference/operators/agency-director.md`)
-- Partnerships department Department canonical (internal) `[UNVERIFIED — Growth Optimal System canonical doc path not located during encoding]`
+- Partnerships department Department canonical (internal) `[UNVERIFIED — Growth Operating Agency canonical doc path not located during encoding]`
 - the backend economist benchmarking discipline (`reference/operators/backend-economist.md`)
 
 ---

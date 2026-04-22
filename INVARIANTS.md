@@ -1,4 +1,4 @@
-# INVARIANTS — Sacred Rules for Growth Optimal System
+# INVARIANTS — Sacred Rules for Growth Operating Agency
 
 > **Load-bearing.** These rules are enforced at every skill invocation. Violation = reject + revise. No exceptions without creator-sign-off. This file is always loaded (L0).
 
@@ -42,7 +42,7 @@ Every claim in a creator's assets must survive the **30-second screenshot test**
 **Never use:** unlock, unleash, supercharge, game-changing, revolutionary, next-level, dive into, harness, leverage (as verb), dive deep, explore, navigate (metaphorical), journey (generic). Full list: `spec/BANNED-VOCABULARY.md`. *(Foundations department)*
 
 ### INV-8 — Platform-Specific Restraint
-Growth Optimal System is for **high-ticket offer launch + scale operations**, not vertical agency services. Platform-specific skills (LinkedIn/IG/X/TikTok/YouTube) are scoped to **helping operators post about their own offers** — not full platform agency services. Deep platform expertise lives in vertical workspaces (LinkedIn Agency, IG Agency, X Agency — separate templates). **Do not expand platform skills beyond the operator's own offer-promotion needs.**
+Growth Operating Agency is for **high-ticket offer launch + scale operations**, not vertical agency services. Platform-specific skills (LinkedIn/IG/X/TikTok/YouTube) are scoped to **helping operators post about their own offers** — not full platform agency services. Deep platform expertise lives in vertical workspaces (LinkedIn Agency, IG Agency, X Agency — separate templates). **Do not expand platform skills beyond the operator's own offer-promotion needs.**
 
 ### INV-9 — Rigid Skills, Not Chatty Agents
 Skills are **deterministic procedures** with Decision Logic + Tacit Principles + Output Format. Skills do not chat. Skills do not skip steps. Skills do not invent steps. If the creator asks for something outside a skill, the agent routes to the right skill or requests a skill creation — never freestyles.
@@ -101,7 +101,7 @@ Every agent must never:
 5. **NEVER** skip upstream work to jump to downstream tactics
 6. **NEVER** use banned vocabulary (see `spec/BANNED-VOCABULARY.md`)
 7. **NEVER** violate the Truth gate (30-second screenshot test)
-8. **NEVER** expand a Growth Optimal System skill into full-vertical agency scope
+8. **NEVER** expand a Growth Operating Agency skill into full-vertical agency scope
 9. **NEVER** bind to a specific runtime in SKILL.md body (runtime concerns → `adapters/`)
 10. **NEVER** push creator data or `_private/` content to GitHub
 11. **NEVER** guarantee income / earnings / revenue (regulatory / brand safety)
@@ -126,4 +126,4 @@ Any change to this file is a **sacred-formats change** requiring creator sign-of
 
 ---
 
-*Growth Optimal System — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*
+*Growth Operating Agency — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*

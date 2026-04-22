@@ -17,7 +17,7 @@ _v1.0 initial validation: pending (skill is freshly shipped)_
 ### 1. Output Set
 - 2 historical Brand Voice Documents produced by the creator's team or a hired ghostwriter
 - 3 Brand Voice Documents produced by `/extract-voice` (different creator contexts)
-- 1 generic-LLM voice doc (control — no Growth Optimal System context, no real sample library)
+- 1 generic-LLM voice doc (control — no Growth Operating Agency context, no real sample library)
 
 All outputs anonymized. Strip creator names, replace brand names with `[BRAND]`, randomize order.
 
@@ -33,7 +33,7 @@ For each document, evaluator answers:
 
 ### 3. Pass Criteria
 For `/extract-voice` to be blind-test-validated (sacred tier 3/3):
-- **3/3 Growth Optimal System documents** must have ≥ 1 evaluator say `creator` or `can't tell`
+- **3/3 Growth Operating Agency documents** must have ≥ 1 evaluator say `creator` or `can't tell`
 - **No generic-LLM document** should be identified as `creator`
 - Average "Would you use this to brief a copywriter?" score ≥ 70% yes
 - Average phrases_to_use accuracy rating ≥ 7/10
