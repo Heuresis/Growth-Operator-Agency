@@ -45,7 +45,7 @@
 
     <line x1="0" y1="420" x2="72" y2="420" stroke="#d97706" stroke-width="2" stroke-linecap="square"/>
 
-    <text class="hb-tagline" x="0" y="470" font-size="17">workspace = ROM · agent = RAM · skills are stacked</text>
+    <text class="hb-tagline" x="0" y="470" font-size="17">offer · funnel · vsl · ads · email · launch · sop · retention</text>
 
     <text class="hb-meta" x="0" y="510" font-size="13">29 skills  ·  41 agents  ·  29 commands  ·  runtime-agnostic</text>
   </g>
