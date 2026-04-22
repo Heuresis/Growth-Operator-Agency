@@ -22,6 +22,8 @@ A folder that produces the specific documents a high-ticket creator business run
 
 You fill in the context. AI writes the documents. You review, edit, and ship.
 
+**Every cycle, the folder runs more of the work. You stay in the loop only where your judgment counts.**
+
 No subscription. No signup. No platform to learn. A folder you own, forever.
 
 ## Try it
