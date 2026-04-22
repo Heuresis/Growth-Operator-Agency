@@ -1,18 +1,18 @@
 # the acquisition economist - Framework Index
 
-Deep-encoded frameworks from the 2025 Acquisition.com private-collection playbooks plus the *$100M Offers Implementation Guide*. These files go deeper than the generic primitives in `reference/frameworks/primitives/`; use them when the operator context is specifically acquisition-economics-style direct response.
+Deep-encoded frameworks from the 2025 a portfolio holding company private-collection playbooks plus the *a high-value offer canon Implementation Guide*. These files go deeper than the generic primitives in `reference/frameworks/primitives/`; use them when the operator context is specifically acquisition-economics-style direct response.
 
 ## Files
 
 | File | Source PDF | Use When |
 |---|---|---|
-| [`value-equation.md`](./value-equation.md) | *$100M Offers* Impl. Guide | Scoring an offer; diagnosing offer failure; comparing two offers |
-| [`grand-slam-offer.md`](./grand-slam-offer.md) | *$100M Offers* Impl. Guide (21-day, 15-step) | Building an offer from a market-assessment scorecard |
-| [`core-four.md`](./core-four.md) | *$100M Leads* + Marketing Machine framing | Selecting a lead-gen channel; blocking invented 5th channels |
-| [`hooks-playbook.md`](./hooks-playbook.md) | *$100M Playbook: Hooks* | Writing ads, content, email, Twitter openers |
-| [`closing-playbook.md`](./closing-playbook.md) | *$100M Playbook: Closing* | Training sales reps on objection handling |
-| [`lead-nurture-system.md`](./lead-nurture-system.md) | *$100M Playbook: Lead Nurture* | Fixing schedule/show rate; building appointment sequences |
-| [`marketing-machine.md`](./marketing-machine.md) | *$100M Playbook: Marketing Machine* | Turning customer base into an ad-creative pipeline |
+| [`value-equation.md`](./value-equation.md) | a high-value offer canon Impl. Guide | Scoring an offer; diagnosing offer failure; comparing two offers |
+| [`grand-slam-offer.md`](./grand-slam-offer.md) | a high-value offer canon Impl. Guide (21-day, 15-step) | Building an offer from a market-assessment scorecard |
+| [`core-four.md`](./core-four.md) | a lead-generation canon + Marketing Machine framing | Selecting a lead-gen channel; blocking invented 5th channels |
+| [`hooks-playbook.md`](./hooks-playbook.md) | *the hooks canon* | Writing ads, content, email, Twitter openers |
+| [`closing-playbook.md`](./closing-playbook.md) | *the closing canon* | Training sales reps on objection handling |
+| [`lead-nurture-system.md`](./lead-nurture-system.md) | *the lead-nurture canon* | Fixing schedule/show rate; building appointment sequences |
+| [`marketing-machine.md`](./marketing-machine.md) | *the marketing-machine canon* | Turning customer base into an ad-creative pipeline |
 
 ## Cross-references
 

@@ -123,7 +123,7 @@ If economics fail, iterate Steps 6-7 (pricing + upsell ecosystem) — OR acknowl
 
 - `reference/operators/offer-architect.md`
 - `reference/frameworks/esoteric-marketing/README.md`
-- Notion: the offer architect 7-Phase Offer Building System JSON `30539dd823e78117a601fe06fcefd38d`
+- Notion: the offer architect 7-Phase Offer Building System JSON `{NOTION_ID}`
 
 ---
 *v1.0 — 2026-04-19.*

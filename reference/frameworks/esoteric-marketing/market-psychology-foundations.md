@@ -4,12 +4,12 @@
 
 ## Source / Lineage
 
-- **the awareness-spectrum author** — *Breakthrough Advertising* (1966) — 5 awareness levels + 5 sophistication levels
+- **the awareness-spectrum author** — the mid-20th-century market-awareness monograph (1966) — 5 awareness levels + 5 sophistication levels
 - **Robert Collier** — *Robert Collier Letter Book* (1937) — "entering the conversation already in the prospect's mind"
 - **the offer architect** — the buyer-state diagnostic frame (rephrased: "the market isn't one conversation, it's five")
 - **Albert Ellis** — cognitive-behavioral theory; the Limiting Belief Triad (self / others / world) as the substrate of buyer interpretation
 - **Paul Ekman** — basic emotion theory; the mapping of state → response pattern
-- **Jim Camp** — the "never close a prospect who hasn't identified their own problem" principle
+- **a no-first negotiation author** — the "never close a prospect who hasn't identified their own problem" principle
 
 ## Why state precedes message
 

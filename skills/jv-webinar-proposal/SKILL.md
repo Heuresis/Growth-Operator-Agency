@@ -354,7 +354,7 @@ A proposal with any of these signals the creator is either AI-assisted-without-e
 
 ## Cross-References
 
-- `reference/operators/growth-engineer.md` (Partner Webinar System + Hidden VSSL + trust-transfer mechanic)
+- `reference/operators/growth-engineer.md` (Partner Webinar System + hidden-pitch long-form video + trust-transfer mechanic)
 - `reference/operators/operations-director.md` (60/30/10 revenue mix — JV bucket allocation)
 - `reference/operators/agency-director.md` (Loom-audit outreach pattern — personalization discipline)
 - `reference/operators/backend-economist.md` (benchmarking discipline — economics model must be specific)

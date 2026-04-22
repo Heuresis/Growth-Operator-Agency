@@ -29,7 +29,7 @@
 \t**Signs and symbols rule the world.**
 \t1. **Signature Music/Sounds**
 \t\t- Choose specific tracks that become YOUR brand
-\t\t- Example: Cobratate's specific music selection = instant recognition
+\t\t- Example: a creator-economy program's specific music selection = instant recognition
 \t2. **Visual Anchors**
 \t\t- Color schemes
 \t\t- Logo/symbol usage

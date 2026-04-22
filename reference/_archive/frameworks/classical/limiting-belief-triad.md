@@ -1,6 +1,6 @@
 # Limiting Belief Triad — the offer architect
 
-> **Source:** the offer architect (Nothing Held Back) — offer-architecture diagnostic
+> **Source:** the offer architect (the offer-architecture masterclass) — offer-architecture diagnostic
 > **Status:** Load-bearing for /research, /build-icp, /design-offer, /offer-repositioning.
 
 ## The Three Limiting Beliefs

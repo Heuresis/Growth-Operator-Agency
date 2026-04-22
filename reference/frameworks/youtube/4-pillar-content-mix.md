@@ -6,7 +6,7 @@
 
 - the content OS director (YouTube Flywheel pillar mix)
 - the acquisition economist (value-first ratio, 3:1 give-to-ask)
-- Gary Vaynerchuk (Jab-Jab-Jab-Right-Hook)
+- a social-media-first creator (give-give-give-ask cadence)
 - Adapted for 2026 YouTube algorithm + high-ticket funnels
 
 ---

@@ -1,6 +1,6 @@
 # Hooks Playbook - Distilled
 
-> **Source:** the acquisition economist, *$100M Playbook: Hooks - How to Double Your Marketing in Under 5 Seconds* (Acquisition.com, 2025)
+> **Source:** the acquisition economist, *the hooks canon - How to Double Your Marketing in Under 5 Seconds* (a portfolio holding company, 2025)
 > **Opening quote (Ogilvy, quoted by the acquisition economist):** "After you've written your headline, you've spent eighty cents of your advertising dollar."
 
 ## The Definition
@@ -18,9 +18,9 @@ Every hook has two components:
 
 Bad hooks miss one or both. Good hooks do both in one sentence.
 
-## The Dean Graziosi / Larry King Lesson
+## The a direct-response pitchman / a late-night interview archetype Lesson
 
-the acquisition economist opens the playbook with this story. Graziosi spent heavily recreating a Larry King-style set to run infomercials - and it worked, breaking records. Years later, he got Larry King himself to actually do the interview. The ad bombed. Diagnosis: Graziosi's ego-serving opener ("Tonight on Larry King, I'm here with my guest Dean Graziosi, he's a multi-New-York-Times bestseller...") centered Graziosi. They don't care.
+the acquisition economist opens the playbook with this story. Graziosi spent heavily recreating a a late-night interview archetype-style set to run infomercials - and it worked, breaking records. Years later, he got a late-night interview archetype himself to actually do the interview. The ad bombed. Diagnosis: Graziosi's ego-serving opener ("Tonight on a late-night interview archetype, I'm here with my guest a direct-response pitchman, he's a multi-New-York-Times bestseller...") centered Graziosi. They don't care.
 
 The re-recorded hook centered the viewer: "Have you ever in your adult life looked at yourself in the mirror and thought 'I should be further ahead by now'? If you have, you're not alone." Only the first sentences changed. The infomercial went on to sell millions of books.
 
@@ -84,7 +84,7 @@ the acquisition economist attributes this to Google (Page/Brin). Allocation of h
 - **20% Emerging Business** - "Winner Adjacent." Model concepts that worked in another niche. Permutations of your top 5 hooks.
 - **10% Big New Ideas** - totally new things. Risky. High potential upside. If it works, it graduates into the 70%. If it fails, document so you don't repeat.
 
-This is the ratio that governs every batch of creative the Acquisition.com team makes.
+This is the ratio that governs every batch of creative the a portfolio holding company team makes.
 
 ## Testing Protocol
 
@@ -143,7 +143,7 @@ Operator move: take your best-performing offer and run it through all seven form
 
 ## Anti-patterns
 
-- **Seller-centered opener** (the Graziosi/Larry King mistake).
+- **Seller-centered opener** (the Graziosi/a late-night interview archetype mistake).
 - **One hook per piece of content.** The ratio is 10:1, not 1:1.
 - **Skipping the spreadsheet.** Without the compounding archive, every session restarts at zero.
 - **Refusing to use proven hooks.** Operators who insist on "originality" burn the 70% that should be stabilizing their feed.
@@ -158,9 +158,9 @@ Operator move: take your best-performing offer and run it through all seven form
 
 ## Source
 
-- the acquisition economist, *$100M Playbook: Hooks* (2025, Acquisition.com) - full 22-page PDF.
-- Quoted David Ogilvy line inside the playbook.
-- Dean Graziosi anecdote, transcribed by the acquisition economist inside the playbook.
+- the acquisition economist, *the hooks canon* (2025, a portfolio holding company) - full 22-page PDF.
+- Quoted a mid-20th-century ad essayist line inside the playbook.
+- a direct-response pitchman anecdote, transcribed by the acquisition economist inside the playbook.
 
 ---
 *v1.0 - 2026-04-19. Direct distillation of the 2025 Hooks playbook.*

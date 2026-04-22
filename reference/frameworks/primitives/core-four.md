@@ -1,6 +1,6 @@
 # Core Four — The Primitive
 
-> **Source:** the acquisition economist, *$100M Leads* (Chapter 5 — "The Core Four")
+> **Source:** the acquisition economist, a lead-generation canon (Chapter 5 — "The Core Four")
 > **Status:** First-class primitive. The 2×2 that governs every lead-generation decision.
 
 ## The Equation
@@ -120,7 +120,7 @@ Core Four strategy is dialed when:
 
 ## Sources
 
-- the acquisition economist, *$100M Leads* — Chapters on Core Four + Lead Getters
+- the acquisition economist, a lead-generation canon — Chapters on Core Four + Lead Getters
 - Greg Faxon summary — `reference/operators/external/alex-hormozi.md`
 
 ---

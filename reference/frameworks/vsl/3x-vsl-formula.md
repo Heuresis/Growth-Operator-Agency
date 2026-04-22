@@ -1,6 +1,6 @@
-# 3X VSL Formula VSL Formula — Variant D
+# three-phase VSL formula VSL Formula — Variant D
 
-> **Source:** the VSL copywriter — inventor of modern VSL, *3X VSL Close Formula*, $1B+ attributed sales
+> **Source:** the VSL copywriter — inventor of modern VSL, *three-phase VSL close formula*, $1B+ attributed sales
 > **Best for:** Emotional / transformation niches (health, relationships, personal development), mid-ticket ($497-$3K), creators with strong origin story
 
 ## The Structure
@@ -94,7 +94,7 @@ Standard 5-layer close (see `sales/value-stack-architecture.md`):
 
 ## Signature Quote (3X VSL methodology)
 
-> *"The Exact Formula I Used To Close 6-Figure Hangouts, Webinars, And Product Launch Funnels."* — *3X VSL Close Formula*
+> *"The Exact Formula I Used To Close 6-Figure Hangouts, Webinars, And Product Launch Funnels."* — *three-phase VSL close formula*
 
 ## Skill Binding
 
@@ -103,9 +103,9 @@ Standard 5-layer close (see `sales/value-stack-architecture.md`):
 
 ## Source
 
-- `reference/operators/tier-3-rising/jon-benson.md`
-- jonbenson.com
-- *I Love Marketing* Ep. 122
+- `reference/operators/vsl-copywriter.md`
+- 
+- *a classic marketing podcast* Ep. 122
 
 ---
 *v1.0 — 2026-04-19.*

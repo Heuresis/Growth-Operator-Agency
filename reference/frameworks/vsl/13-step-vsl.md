@@ -1,6 +1,6 @@
 # the 13-step VSL author 13-Step VSL — Variant C
 
-> **Source:** Steven the 13-step VSL author — 13-Step VSL Framework (slide-based, voice-over delivery)
+> **Source:** the 13-step VSL author — 13-Step VSL Framework (slide-based, voice-over delivery)
 > **Best for:** Data-heavy niches (SaaS, finance, analytical B2B), high-production feel, no-camera creators, evergreen repeatability
 
 ## The 13 Steps
@@ -36,7 +36,7 @@
 - **Recording setup** — clean audio > video quality
 - **Editing** — slide timing synced to voice, B-roll only if supports point
 
-See the 13-step VSL author source: `21a39dd823e78187a51fd8c42270d3ca` (Recording), `21a39dd823e781cfbca8d9f61390789a` (Editing).
+See the 13-step VSL author source: `{NOTION_ID}` (Recording), `{NOTION_ID}` (Editing).
 
 ## the 13-step VSL author's Warning
 
@@ -52,7 +52,7 @@ The 13-step is scaffolding, not script. Fill with creator-specific content + voi
 ## Source
 
 - `reference/operators/external/steven-trister.md`
-- Notion: `21a39dd823e780c3895dd3b1a870618b`
+- Notion: `{NOTION_ID}`
 
 ---
 *v1.0 — 2026-04-19.*

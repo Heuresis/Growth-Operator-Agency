@@ -1,12 +1,12 @@
 # Unit Economics Scorecard — Info-Product YouTube Funnels
 
-> **Why this matters:** At 8-figure scale, conversion rate stops being a useful primary metric. Two funnels with identical conversion rates can have 5x different profitability depending on revenue-per-lead, cohort LTV, and per-source LTV:CAC. the backend economist's thesis (EP83 + ClickFunnels Radio #777) is that operators who lead with the scorecard outperform operators who lead with landing-page conversion.
+> **Why this matters:** At 8-figure scale, conversion rate stops being a useful primary metric. Two funnels with identical conversion rates can have 5x different profitability depending on revenue-per-lead, cohort LTV, and per-source LTV:CAC. the backend economist's thesis (EP83 + a funnel-building platform podcast #777) is that operators who lead with the scorecard outperform operators who lead with landing-page conversion.
 
 ## Source / Lineage
 
-- **EP83** — "ClickFunnels Asked How We Made $75M w/ One Funnel" (@RyanClogg, public YouTube).
-- **ClickFunnels Radio #777** — "Effective Email Marketing And Driving Revenue."
-- **WarriorBabe public positioning:** "We've crossed $75M in cash from info/coaching. Did $30M in 2024 B2C with no MMO, no guru model."
+- **EP83** — "a funnel-building-platform podcast episode titled "How We Made $75M w/ One Funnel" (, public YouTube).
+- **a funnel-building platform podcast #777** — "Effective Email Marketing And Driving Revenue."
+- **a women-40+ fitness coaching business public positioning:** "We've crossed $75M in cash from info/coaching. Did $30M in 2024 B2C with no MMO, no guru model."
 
 **Encoding status:** PARTIAL. The scorecard structure (which metrics to track, how they interact, which metric is primary) is canonical and sourced from the backend economist's public episodes. Specific numeric thresholds (target CAC, target LTV, target payback period) are NOT published in the backend economist's public surface — they live inside the Skool community. Every numeric benchmark below is either (a) sourced directly to a public statement, or (b) tagged [UNVERIFIED] with explicit note.
 
@@ -37,13 +37,13 @@
 
 ## Numbers that ARE published
 
-**WarriorBabe / the backend economist portfolio (public positioning):**
+**a women-40+ fitness coaching business / the backend economist portfolio (public positioning):**
 - **$75M+ cash collected** across info/coaching (public YouTube bio + EP83 title).
 - **$30M in 2024** B2C with no MMO or guru model (public channel description).
 - **$72M+ through a single call-funnel model** (public positioning + E56 title referencing $72M+).
 - **$100M+ total revenue crossed January 2025** (public positioning as of encoding date).
 
-**WarriorBabe vertical:** women-40+ fitness coaching. Direct-response + paid-traffic + call-funnel stack.
+**a women-40+ fitness coaching business vertical:** women-40+ fitness coaching. Direct-response + paid-traffic + call-funnel stack.
 
 ---
 
@@ -89,7 +89,7 @@ Scenario B wins the economics contest despite a lower conversion rate. The score
 **the backend economist's EP83 thesis:** at 8-figure scale, the front end pays for itself and the backend pays the company.
 
 - **Front-end economics target:** break-even or slight profit. Not a profit center.
-- **Backend economics target:** the majority of lifetime revenue comes from continuity, ascension, and re-sell. Email is the primary compounding layer (per CFR #777).
+- **Backend economics target:** the majority of lifetime revenue comes from continuity, ascension, and re-sell. Email is the primary compounding layer (per a funnel-building platform podcast #777).
 - **Implication:** a front-end funnel with 1.0x LTV:CAC (break-even on first purchase) plus a backend with 5x first-purchase LTV at 90 days = a healthy 8-figure business.
 
 Operators below $1M/yr often misread this. They try to build backend before the front end is break-even, and they starve the top of funnel. Sequencing: front-end to break-even FIRST, then build backend. Skipping either step collapses the model.

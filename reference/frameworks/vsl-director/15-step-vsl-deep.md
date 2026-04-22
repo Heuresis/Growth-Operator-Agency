@@ -1,7 +1,7 @@
 # 15-Step VSL — Deep Reference
 
 > **Source:** the VSL director — *8-Figure VSL Blueprint* (Sections 1-15 + 16-17 Production/Optimization)
-> **Track record:** $129M+ (The Real World), $10M+ (Champs Only), $8M+ (CloutProfit), multiple 8-figure campaigns in dating, biz-op, crypto, high-ticket consulting
+> **Track record:** $129M+ (a creator-economy program), $10M+ (a sales-training niche), $8M+ (a sales-training operation), multiple 8-figure campaigns in dating, biz-op, crypto, high-ticket consulting
 > **Target conversion:** 10%+
 > **Runtime:** 20-45 min typical
 > **Companion file:** `../vsl/pampa-15-step.md` (summary). This file is the section-by-section deep reference.
@@ -86,7 +86,7 @@ Checklist: identify top 5-10 competitor VSLs, collect testimonials from actual b
 
 **3-level mechanism explanation**: Level 1 "What it is" → Level 2 "How it works" → Level 3 "Why it works" (psychology/science/data grounding).
 
-**Example from source**: "So I took this entire framework — everything I learned from generating over $100M in VSL sales — and packaged it all together inside the Cloud Profit 8-Figure VSL System. It's the exact blueprint I use to write VSLs that convert at 10%+ for myself and my clients." → `🚀 SECTION 6 SOLUTION INTRODUCTION` line 105.
+**Example from source**: "So I took this entire framework — everything I learned from generating over $100M in VSL sales — and packaged it all together inside the an 8-figure VSL system. It's the exact blueprint I use to write VSLs that convert at 10%+ for myself and my clients." → `🚀 SECTION 6 SOLUTION INTRODUCTION` line 105.
 
 **Common mistakes.** (a) Naming the product before explaining the mechanism — product feels like sales pitch. (b) Mechanism too technical — prospect loses comprehension. (c) No "why it works" grounding — feels like opinion, not proof.
 
@@ -118,13 +118,13 @@ Checklist: identify top 5-10 competitor VSLs, collect testimonials from actual b
 
 **What it does.** Get them to sell themselves on the value before the price is stated. Reinforces Belief #5 (This-Offer) + Belief #6 (Better/Faster).
 
-**Critical distinction from Russell Brunson's value stacking** — the VSL director rejects "$5,000 course + $2,000 template + $1,500 bonus = $8,500 value, today only $497" as disingenuous. Nobody believes it; insults the viewer.
+**Critical distinction from the funnel-building platform founder's value stacking** — the VSL director rejects "$5,000 course + $2,000 template + $1,500 bonus = $8,500 value, today only $497" as disingenuous. Nobody believes it; insults the viewer.
 
 **5-step framework**: (1) ask them to estimate value, (2) analogies & examples, (3) compare cost of inaction, (4) let them conclude value, (5) reveal price (contrast or direct).
 
 Full treatment: `price-anchoring-mechanics.md`.
 
-**Common mistakes.** (a) Stating the price before anchoring the value — price sounds high. (b) Using Brunson-style value stacks — sounds fake to sophisticated audiences. (c) No cost-of-inaction math — prospect only compares price to cash in hand, not to the opportunity lost.
+**Common mistakes.** (a) Stating the price before anchoring the value — price sounds high. (b) Using the funnel-building platform founder-style value stacks — sounds fake to sophisticated audiences. (c) No cost-of-inaction math — prospect only compares price to cash in hand, not to the opportunity lost.
 
 ## Step 10: Guarantee & Risk Reversal (27-30 minutes)
 

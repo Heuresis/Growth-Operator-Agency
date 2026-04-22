@@ -1,19 +1,19 @@
-# HNWI client Tax-Deferral Positioning (Canonical Example)
+#  client Tax-Deferral Positioning (Canonical Example)
 
-> **Case:** the HNWI client Capital - HNWI Tax-Deferral Advisory
+> **Case:** the an HNW-client capital reference -  Tax-Deferral Advisory
 > **Framework applied:** the offer architect Mechanism Identification + Anti-Positioning + Category Design
 > **Audience:** High-net-worth individuals with $2M-$25M liquid assets facing capital-gains events
 > **Outcome:** [SYNTHESIZED] canonical positioning-document example for the Growth Operating Agency library
 
 ## Context
 
-This is the canonical positioning example for a high-ticket advisory offer serving HNWI clients - a market where generic financial-planning language is background noise and where specificity, category naming, and anti-positioning do all the work. The audience is Solution Aware but actively hostile to most incoming pitches (they receive dozens per week). The positioning had to produce a category that no competitor currently owned and a mechanism that was defensible in a 30-second sentence. Source lineage: this example was built by running the offer architect's Phase 2 Mechanism Identification plus the 7-Phase architecture's anti-positioning discipline against a real HNWI advisory brief, then encoded as a reference template. The positioning document structure follows the 8-section Foundations department format.
+This is the canonical positioning example for a high-ticket advisory offer serving  clients - a market where generic financial-planning language is background noise and where specificity, category naming, and anti-positioning do all the work. The audience is Solution Aware but actively hostile to most incoming pitches (they receive dozens per week). The positioning had to produce a category that no competitor currently owned and a mechanism that was defensible in a 30-second sentence. Source lineage: this example was built by running the offer architect's Phase 2 Mechanism Identification plus the 7-Phase architecture's anti-positioning discipline against a real  advisory brief, then encoded as a reference template. The positioning document structure follows the 8-section Foundations department format.
 
 ## The Encoded Positioning Document
 
 ### Section 1 - Positioning Statement
 
-> **For** post-exit founders and HNWI families **with** $2M-$25M in liquid capital and a taxable capital-gains event inside the next 12-36 months, **the HNWI client Capital** is **the private tax-deferral advisory** **that** converts pending capital gains into qualified opportunity-zone and 1031-structured vehicles with direct-principal access **because** our partners write the deal structures the largest family offices use, and we operate at a 3-family-per-quarter cadence instead of a volume practice.
+> **For** post-exit founders and  families **with** $2M-$25M in liquid capital and a taxable capital-gains event inside the next 12-36 months, **the an HNW-client capital reference** is **the private tax-deferral advisory** **that** converts pending capital gains into qualified opportunity-zone and 1031-structured vehicles with direct-principal access **because** our partners write the deal structures the largest family offices use, and we operate at a 3-family-per-quarter cadence instead of a volume practice.
 
 ### Section 2 - Category Design
 
@@ -49,7 +49,7 @@ This is the canonical positioning example for a high-ticket advisory offer servi
 
 ### Section 6 - Brand Narrative
 
-**The Struggle:** the HNWI client Capital's founding partner spent eight years inside a top-tier family office, watching principals delegate structure decisions to associates who defaulted to template recommendations. The templates cost clients millions in avoidable tax from layer-failures, not competence failures.
+**The Struggle:** the an HNW-client capital reference's founding partner spent eight years inside a top-tier family office, watching principals delegate structure decisions to associates who defaulted to template recommendations. The templates cost clients millions in avoidable tax from layer-failures, not competence failures.
 
 **The Discovery:** When partners wrote the structure personally, outcomes were categorically different. The problem wasn't expertise. It was access to expertise in the window that mattered.
 
@@ -76,7 +76,7 @@ This is the canonical positioning example for a high-ticket advisory offer servi
 
 - **Shows category creation as the load-bearing move.** The positioning doesn't compete inside "wealth management" or "tax advisory" - it creates "Private Tax-Deferral Advisory for Post-Exit Principals," a subcategory with zero incumbents. the offer architect's Phase 0 criterion: "you can articulate your unique mechanism in a single sentence." The mechanism (Principal Structure Protocol) passes that test.
 - **Anti-positioning is structurally enforced, not aesthetic.** The "we are NOT a wealth management firm" claim is backed by not charging AUM fees. The capacity cap is in the operating agreement. Each anti-positioning claim has a structural backing, not just a marketing claim.
-- **Mechanism name passes the 30-second test.** "The Principal Structure Protocol - 3-phase engagement (Audit / Authorship / Deployment) with direct partner access and 3-family quarterly cap." Any HNWI prospect who hears that sentence knows instantly what the firm does and why it is different.
+- **Mechanism name passes the 30-second test.** "The Principal Structure Protocol - 3-phase engagement (Audit / Authorship / Deployment) with direct partner access and 3-family quarterly cap." Any  prospect who hears that sentence knows instantly what the firm does and why it is different.
 
 ## Source
 
@@ -86,4 +86,4 @@ This is the canonical positioning example for a high-ticket advisory offer servi
 - IRS Section 1400Z-2 (Qualified Opportunity Zones) - regulatory reference for the mechanism claim
 
 ---
-*Encoded 2026-04-19. [SYNTHESIZED] canonical HNWI positioning example constructed using the offer architect's Phase 2 mechanism-identification + anti-positioning architecture [VERBATIM]. "the HNWI client Capital" is an illustrative brand used across the Growth Operating Agency library. Opportunity-zone and 1031 regulatory references are real; specific client figures are not.*
+*Encoded 2026-04-19. [SYNTHESIZED] canonical  positioning example constructed using the offer architect's Phase 2 mechanism-identification + anti-positioning architecture [VERBATIM]. "the an HNW-client capital reference" is an illustrative brand used across the Growth Operating Agency library. Opportunity-zone and 1031 regulatory references are real; specific client figures are not.*

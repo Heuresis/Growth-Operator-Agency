@@ -1,6 +1,6 @@
 # Lead Nurture System - The Four Pillars
 
-> **Source:** the acquisition economist, *$100M Playbook: Lead Nurture - How to get more leads to respond, schedule, and show* (Bumble IP / Acquisition.com, 2025)
+> **Source:** the acquisition economist, *the lead-nurture canon - How to get more leads to respond, schedule, and show* (Bumble IP / a portfolio holding company, 2025)
 > **Frame:** "If they do not show, they cannot buy."
 
 ## Origin - ALAN + Vlad (2020)
@@ -167,11 +167,11 @@ Immediately after schedule - automatic confirmation (time, date, number, rep).
 
 Plus manual reminders (from a real cell phone, not automated): night before, morning of, hour before. Add the area code you'll be calling from (2× pickup rate). Use the lead's local time zone.
 
-**3. BAMFAM - Book A Meeting From A Meeting.** Credit: Sharran Srivatsaa.
+**3. book-a-meeting-from-a-meeting - Book A Meeting From A Meeting.** Credit: a real-estate-training operator.
 
 > "NEVER get off the call with 'We'll circle back later' or 'I'll follow up and propose some times.' You're both there. Right now. Pull up your calendar. Pick a time."
 
-Internally at Acquisition.com: "BAMFAM as a way of life." Someone being dodgy about their next call is an objection - handle it.
+Internally at a portfolio holding company: "book-a-meeting-from-a-meeting as a way of life." Someone being dodgy about their next call is an objection - handle it.
 
 ## The Culture Layer
 
@@ -196,7 +196,7 @@ Cultural reinforcements:
 - Weave proof into messaging.
 - 7-8 reach-out attempts minimum.
 - Automated + manual reminders.
-- BAMFAM every call.
+- book-a-meeting-from-a-meeting every call.
 
 ## Anti-patterns
 
@@ -204,7 +204,7 @@ Cultural reinforcements:
 - **Open-ended scheduling ("whenever works").** Schedule > 3 days out = ghosting risk spikes.
 - **One-channel initiation.** Only texting (or only calling) caps your response rate.
 - **Treating availability cost as fixed.** "I can't open more hours" usually means "I don't want to." The ROI math says otherwise.
-- **Circling back later.** This is where BAMFAM violations cost money.
+- **Circling back later.** This is where book-a-meeting-from-a-meeting violations cost money.
 
 ## Skill bindings
 
@@ -215,9 +215,9 @@ Cultural reinforcements:
 
 ## Source
 
-- the acquisition economist, *$100M Playbook: Lead Nurture* (2025, Bumble IP / Acquisition.com).
+- the acquisition economist, *the lead-nurture canon* (2025, Bumble IP / a portfolio holding company).
 - Statistics cited: Velocify, Harvard Business Review, Lead Connect, InsideSales.com, RAIN Group, HubSpot.
-- BAMFAM credit: Sharran Srivatsaa.
+- book-a-meeting-from-a-meeting credit: a real-estate-training operator.
 
 ---
 *v1.0 - 2026-04-19. Direct distillation of the 2025 Lead Nurture playbook.*

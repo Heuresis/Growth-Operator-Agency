@@ -23,7 +23,7 @@ git clone <your-private-remote>/growth-os.git your-creator-workspace
 cd your-creator-workspace
 ```
 
-If you are working inside the Heuresis organization, `<your-private-remote>` is `git@github.com:Heuresis/growth-os.git`.
+Replace `<your-private-remote>` with the git URL of your own private mirror.
 
 **Verify the shape:**
 

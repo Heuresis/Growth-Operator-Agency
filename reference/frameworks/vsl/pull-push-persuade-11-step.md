@@ -89,8 +89,8 @@ Same as `sales/value-stack-architecture.md`:
 ## Source
 
 - the psychological copywriter — *Claude VSL Prompt Vault*: `ed039dd823e7820b765819d9b4f21ad`
-- Main doc: `e1f39dd823e783d4bbe1010d84091e2a`
-- `reference/operators/external/lucas-hogendoorn.md`
+- Main doc: `{NOTION_ID}`
+- `reference/operators/external/youtube-native-director.md`
 
 ---
 *v1.0 — 2026-04-19.*

@@ -65,7 +65,7 @@ the VSL director's operative quote: **"Making less than $100K/month is solvable 
 - Derivative desire mapping (which primary desire — wealth, status, power, relationships — does this connect to?).
 - Pricing architecture: Low-ticket <$297 (volume play), Mid-ticket $297-$3K (sweet spot), High-ticket $3K-$30K (premium), Ultra-high $30K+ (elite tier).
 
-**Critical rule from source**: don't perfect the offer before launch. Launch within 26 hours like Hostage University did ($5-6 figure MRR Day 1). Traffic > Perfect Offer. Iterate as you sell. → `A1 OFFER ARCHITECTURE` line 32.
+**Critical rule from source**: don't perfect the offer before launch. Launch within 26 hours like a high-ticket sales-training operation did ($5-6 figure MRR Day 1). Traffic > Perfect Offer. Iterate as you sell. → `A1 OFFER ARCHITECTURE` line 32.
 
 **False-positive traps**: blaming offer when the real issue is belief-installation gap in the VSL/webinar — the offer is fine, the prospect just hasn't been brought to the psychological state where it feels fine.
 

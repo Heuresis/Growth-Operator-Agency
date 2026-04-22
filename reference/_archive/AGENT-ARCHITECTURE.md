@@ -10,7 +10,7 @@
 > workspace protocol, Signal Theory quality encoding, and proven growth operator
 > methodologies.
 
-**Author:** Roberto H Signal Theory (MIOSA Research)
+**Author:** Roberto H Signal Theory (the Miosa platform Research)
 **Protocol:** the workspace manifest Workspace Protocol v1
 **Theory:** Signal Theory — Optimal Intent Encoding (Signal Theory, 2026)
 **Generated:** 2026-03-20
@@ -1594,7 +1594,7 @@ Every external API call is a typed procedure:
 ### DeployFunnel → Actions.deploy_funnel/2
   @spec deploy_funnel(context(), %{funnel_type: atom(), pages: list()})
     :: {:ok, funnel_url} | {:error, reason}
-  Runtime: funnel_provider (hot-swap: GoHighLevel, ClickFunnels, Kajabi)
+  Runtime: funnel_provider (hot-swap: GoHighLevel, {FUNNEL_BUILDER}, Kajabi)
   Timeout: 60s
   Approval: governance.funnel_review (if contains payment page)
 
@@ -1849,7 +1849,7 @@ engine/
 ├── config.yaml                    ← Which backends are active
 ├── integrations/
 │   ├── email.yaml                 ← Beehiiv / ConvertKit / ActiveCampaign
-│   ├── funnel.yaml                ← GoHighLevel / ClickFunnels / Kajabi
+│   ├── funnel.yaml                ← GoHighLevel / {FUNNEL_BUILDER} / Kajabi
 │   ├── video.yaml                 ← Bitalytics / Wistia / Vimeo
 │   ├── crm.yaml                   ← GoHighLevel / Close / HubSpot
 │   ├── social.yaml                ← Buffer / Hypefury
@@ -2072,7 +2072,7 @@ These questions must be answered to complete the architecture:
 ### Product Questions
 1. **User #1 profile:** Coach with $5K offer? Agency owner? Growth operator?
 2. **Entry point:** $97/mo research-only (like Cook.ai)? Or full access from day 1?
-3. **Interface:** Terminal (slash-command runtime) MVP? Or GUI (OSA/MIOSA) from launch?
+3. **Interface:** Terminal (slash-command runtime) MVP? Or GUI (OSA/the Miosa platform) from launch?
 4. **Distribution:** Self-hosted (git clone)? Managed SaaS? Both?
 
 ### Technical Questions

@@ -1,6 +1,6 @@
 # Core Four - The Only Four Lead-Gen Mechanisms
 
-> **Source:** the acquisition economist, *$100M Leads* (book) + Marketing Machine PDF framing
+> **Source:** the acquisition economist, a lead-generation canon (book) + Marketing Machine PDF framing
 > **Canonical line:** "There are only four ways to get attention. Stop inventing a fifth."
 
 ## The Matrix
@@ -18,7 +18,7 @@ Every legitimate lead-gen tactic collapses into one of these cells. "LinkedIn DM
 
 the acquisition economist's ordering rule for founders with no existing audience and no ad budget:
 
-**1. Warm Outreach first.** Fastest time-to-first-dollar. Zero cost. Text, call, or DM everyone you already know who might need your thing - or who knows someone who might. The Marketing Machine PDF's postscript says it explicitly: "If you have a small amount of customers, refer to the Warm Outreach chapter in *$100M Leads* - work for free. Get those testimonials."
+**1. Warm Outreach first.** Fastest time-to-first-dollar. Zero cost. Text, call, or DM everyone you already know who might need your thing - or who knows someone who might. The Marketing Machine PDF's postscript says it explicitly: "If you have a small amount of customers, refer to the Warm Outreach chapter in a lead-generation canon - work for free. Get those testimonials."
 
 **2. Posting Content second.** Compounds trust while warm outreach gets you fed. Content is how strangers become warm. You can't start here because there's no signal for what to post until you've sold something.
 
@@ -101,9 +101,9 @@ The Marketing Machine PDF is a specific implementation of "Customers as Lead Get
 
 ## Source
 
-- the acquisition economist, *$100M Leads* (book).
-- the acquisition economist, *$100M Playbook: Marketing Machine* - PS reference to Warm Outreach as starting point.
-- the acquisition economist, *$100M Playbook: Closing* - "advertising can only scale if you close."
+- the acquisition economist, a lead-generation canon (book).
+- the acquisition economist, *the marketing-machine canon* - PS reference to Warm Outreach as starting point.
+- the acquisition economist, *the closing canon* - "advertising can only scale if you close."
 - `reference/operators/acquisition-economist.md` - invocation rules.
 
 ---

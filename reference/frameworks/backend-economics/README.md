@@ -1,6 +1,6 @@
 # the backend economist — Framework Index
 
-Canonical frameworks from the YouTube Architect Blueprint (8 modules, 4 competencies, 3 C's system) plus the backend unit-economics layer from EP83 and ClickFunnels Radio #777. All files source back to `reference/operators/backend-economist.md`.
+Canonical frameworks from the YouTube architecture playbook (8 modules, 4 competencies, 3 C's system) plus the backend unit-economics layer from EP83 and a funnel-building platform podcast #777. All files source back to `reference/operators/backend-economist.md`.
 
 ## Files
 
@@ -27,10 +27,10 @@ The 15 files in `reference/frameworks/youtube/` are platform-general YouTube fra
 - `4-competencies.md` — COMPLETE (source: Competency #1-4 files)
 - `scientific-method-content.md` — COMPLETE (source: Competency #4 + Module 6)
 - `8-module-architecture.md` — COMPLETE (source: Module 1-8 table of contents + root Blueprint)
-- `unit-economics-benchmarks.md` — PARTIAL — structure canonical, specific thresholds [UNVERIFIED] (need internal WarriorBabe/Skool data)
+- `unit-economics-benchmarks.md` — PARTIAL — structure canonical, specific thresholds [UNVERIFIED] (need internal a women-40+ fitness coaching business/Skool data)
 
 ## Source
 
-All files source from the YouTube Architect Blueprint (16 markdown files, ~42,000 words) plus EP83 / E56 on @RyanClogg and ClickFunnels Radio #777.
+All files source from the YouTube architecture playbook (16 markdown files, ~42,000 words) plus EP83 / E56 on  and a funnel-building platform podcast #777.
 
-Attribution note: The Blueprint itself is credited as "synthesized from publicly shared knowledge from Dragonfruit Media's presentations, interviews, and educational content, by Syed Hussain | TheFounderOS." the backend economist operates WarriorBabe and publishes on @RyanClogg and the Skool community; the 8-module blueprint was not authored by the backend economist directly. Where mechanisms are explicitly from the backend economist's own video/podcast appearances (EP83, E56, CFR #777), they are marked as such; where mechanisms are from the Blueprint source, they are marked as Blueprint-sourced.
+Attribution note: The Blueprint itself is credited as "synthesized from publicly shared knowledge from a creator-media shop's presentations, interviews, and educational content, by the workspace author." the backend economist operates a women-40+ fitness coaching business and publishes on  and the Skool community; the 8-module blueprint was not authored by the backend economist directly. Where mechanisms are explicitly from the backend economist's own video/podcast appearances (EP83, E56, a funnel-building platform podcast #777), they are marked as such; where mechanisms are from the Blueprint source, they are marked as Blueprint-sourced.

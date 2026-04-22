@@ -23,7 +23,7 @@
 | CRM | GoHighLevel | HubSpot, Close, Salesforce |
 | Email | ConvertKit | ActiveCampaign, Beehiiv, Klaviyo |
 | Payment | Stripe | PayPal, Chargebee |
-| Funnel builder | GoHighLevel | ClickFunnels, Systeme, Webflow, Framer |
+| Funnel builder | GoHighLevel | a funnel-building platform, a European funnel tool, Webflow, Framer |
 | Analytics | GA4 + Meta CAPI | Mixpanel, Segment, Plausible |
 | Automation | Zapier | Make, n8n, Activepieces |
 | Community | Skool | Circle, Discord, Slack |
@@ -48,7 +48,7 @@
 - Email platform (ConvertKit/AC/Beehiiv), SMS (Twilio), community (Skool/Circle/Discord)
 
 ### Sales / Convert (funnel + CRM + calendar)
-- CRM (GHL/HubSpot), payment (Stripe), calendar (Cal.com/Calendly), funnel builder (GHL/ClickFunnels)
+- CRM (GHL/HubSpot), payment (Stripe), calendar (Cal.com/Calendly), funnel builder (GHL / a funnel-building platform)
 
 ### Launch (cross-department orchestration)
 - Automation layer (Zapier/Make/n8n) to coordinate all the above

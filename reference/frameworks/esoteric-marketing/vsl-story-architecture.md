@@ -1,6 +1,6 @@
 # VSL Story Architecture — the offer architect's Emotional Beat Structure
 
-> **Why this matters:** Eli the 15-step VSL (see `vsl/eli-pampa-15-step.md`) is the **structural** blueprint — the boxes you fill in. the offer architect's story architecture is the **emotional** blueprint — the arc that runs through those boxes. A 15-step VSL with no emotional arc converts at 1-2%. With the arc properly mapped, the same structure converts at 4-8%. This file maps the 6 emotional beats to persuasion mechanics.
+> **Why this matters:** the VSL director 15-step VSL (see `vsl/vsl-director-15-step.md`) is the **structural** blueprint — the boxes you fill in. the offer architect's story architecture is the **emotional** blueprint — the arc that runs through those boxes. A 15-step VSL with no emotional arc converts at 1-2%. With the arc properly mapped, the same structure converts at 4-8%. This file maps the 6 emotional beats to persuasion mechanics.
 
 ## Source / Lineage
 
@@ -218,7 +218,7 @@ Data point — aggregate: "across the last 200 buyers, [specific metric]"
 
 ### Persuasion mechanics recruited
 
-- **Jim Camp — "start with no"** — explicit permission to decline
+- **a no-first negotiation author — "start with no"** — explicit permission to decline
 - **Offer stack + value math** (see `esoteric-marketing/engineering-economics-offer.md`)
 - **Risk reversal** — guarantee stated in mission language
 - **Specific action** — clear, singular CTA
@@ -282,7 +282,7 @@ Minute-by-minute:
 
 - **Skill(s) that consume this:** `/build-vsl`, `/webinar-script`, `/audit-vsl`, `/email-sequence`, `/sales-page-copy`
 - **Agent(s) that use it:** copywriter, vsl-architect, video-director, buyer-psychology-analyst
-- **Companion framework(s):** `vsl/eli-pampa-15-step.md` (structural layer), `esoteric-marketing/mind-enhanced-v2.md` (persuasion stack), `esoteric-marketing/market-psychology-foundations.md` (state diagnostic), `esoteric-marketing/engineering-economics-offer.md` (economic close math)
+- **Companion framework(s):** `vsl/vsl-director-15-step.md` (structural layer), `esoteric-marketing/mind-enhanced-v2.md` (persuasion stack), `esoteric-marketing/market-psychology-foundations.md` (state diagnostic), `esoteric-marketing/engineering-economics-offer.md` (economic close math)
 
 ## Non-applicable scenarios
 
@@ -292,7 +292,7 @@ Minute-by-minute:
 
 ## Cross-references
 
-- `vsl/eli-pampa-15-step.md`
+- `vsl/vsl-director-15-step.md`
 - `esoteric-marketing/mind-enhanced-v2.md`
 - `esoteric-marketing/market-psychology-foundations.md`
 - `esoteric-marketing/offer-building-system.md`

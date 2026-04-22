@@ -4,10 +4,10 @@
 
 ## Source / Lineage
 
-- Claude Hopkins, *Scientific Advertising* (1923) — Reason-Why copy, testing discipline
-- the awareness-spectrum author, *Breakthrough Advertising* (1966) — Awareness, Sophistication, the "already in the market" thesis
+- an early-20th-century copy essayist, the early-20th-century reason-why essay (1923) — Reason-Why copy, testing discipline
+- the awareness-spectrum author, the mid-20th-century market-awareness monograph (1966) — Awareness, Sophistication, the "already in the market" thesis
 - the direct-response copywriter, *The Boron Letters* (1984–86) — A-Pile/B-Pile, list > offer > copy, the 33 principles
-- John Carlton, *Kick-Ass Copywriting Secrets of a Marketing Rebel* (various) — Johnson Box, one-to-one voice
+- a Johnson-box tradition copywriter, *Kick-Ass Copywriting Secrets of a Marketing Rebel* (various) — Johnson Box, one-to-one voice
 - the direct-response tradition, *No B.S. Direct Marketing* (various) — Market > Message > Media, Proof-Promise-Story, the magnetic-marketing triangle
 
 ## The Three Pillars

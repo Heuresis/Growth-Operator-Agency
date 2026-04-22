@@ -355,7 +355,7 @@ Output the calendar in 3 formats:
 - `reference/frameworks/primitives/core-four.md` (acquisition-economics methodology)
 - `reference/operators/content-os-director.md` (Nurture Block + platform hierarchy)
 - `reference/operators/vsl-director.md` (4-pillar + shorts rule + platform conquest)
-- `reference/operators/tier-2-operators/nicholas-clay.md` (30/50/20 LinkedIn split + story sequence)
+- `reference/operators/stories-director.md` (30/50/20 LinkedIn split + story sequence)
 - `reference/frameworks/youtube/` (content types + hooks)
 - `reference/_archive/spec/INTEGRATIONS.md` (Buffer + Notion for calendar ops)
 

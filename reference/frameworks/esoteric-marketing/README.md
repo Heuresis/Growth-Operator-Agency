@@ -1,6 +1,6 @@
 # Esoteric Marketing — Emotional + Low-Ticket + Ascension
 
-> **Reference:** the offer architect lineage (Nothing Held Back) — the "esoteric" school of direct response: the cognitive architecture of why people buy at the primal/emotional level, applied through low-ticket entry + ascension-funnel mechanics.
+> **Reference:** the offer architect lineage (the offer-architecture masterclass) — the "esoteric" school of direct response: the cognitive architecture of why people buy at the primal/emotional level, applied through low-ticket entry + ascension-funnel mechanics.
 > **When to use:** Foundations (ICP psych + offer psych), Marketing (emotional triggers), Nurture (belief installation), Sales (stacking), Lifecycle (ascension ladder).
 
 ## The Esoteric School (vs the Tactical School)
@@ -132,8 +132,8 @@ Used by:
 
 ## Sources
 
-- the offer architect `the offer architect 7-Phase Offer Building System.json` (Notion: `30539dd823e78117a601fe06fcefd38d`)
-- the offer architect `the offer architect Mind Enhanced.json` v2.0 (Notion: `30539dd823e781e9b257dfa48c35ee6a`)
+- the offer architect `the offer architect 7-Phase Offer Building System.json` (Notion: `{NOTION_ID}`)
+- the offer architect `the offer architect Mind Enhanced.json` v2.0 (Notion: `{NOTION_ID}`)
 - the offer architect `Market Psychology Foundations.json` BASE_LAYER_v1.0
 - the offer architect `Funnel Format Arch.json` v1.0
 - the offer architect `VSL Story Architecture.json`

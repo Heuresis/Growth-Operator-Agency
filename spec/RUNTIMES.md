@@ -147,7 +147,7 @@ This is operationalized INV-10. Runtime-agnosticism is how the workspace outlive
 
 - the workspace manifest `architecture/adapters.md`
 - Signal Theory — the 3-Layer Encoding Model (Layer 3 Technology Interface = adapters)
-- Hussain Encoded Founder — "The encoded expertise is the asset. The runtime is disposable infrastructure."
+- the Encoded Founder methodology — "The encoded expertise is the asset. The runtime is disposable infrastructure."
 
 ---
 *v1.0 — 2026-04-19*

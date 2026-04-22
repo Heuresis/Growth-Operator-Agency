@@ -9,7 +9,7 @@ the operations director — operating-process practitioner for coach and consult
 ## Scope
 
 - Applies to: high-ticket offers, $2k–$50k, book-a-call or application-to-call sales motion.
-- Does not apply to: product launches (Jeff Walker PLF-style), physical-product drops, app launches, or low-ticket tripwires.
+- Does not apply to: product launches (the launch-formula originator PLF-style), physical-product drops, app launches, or low-ticket tripwires.
 - Assumed channels: email list (1k+), social profile (IG + one other), existing warm audience. Cold-only launches need a different SOP.
 
 ## The Seven Weeks

@@ -1,4 +1,4 @@
-# the operations director (Sanjay Hemwani / Emwani)
+# the operations director
 
 > **Tier:** 2 (Operator)
 > **Core IP:** Straight Growth Operating Process + 8-Stage Customer Journey Audit + 60/30/10 Revenue Mix + "Death by Papercuts"
@@ -6,8 +6,8 @@
 
 ## Canonical Sources
 
-- **Deep Dive (10 videos, encoded):** `2d739dd823e78001b1ccfa16d35e3ce3`
-- **Authority Plan:** `30539dd823e781229180dc607cfd828a` (Authority-Building Plan for Sanjay Hemwani)
+- **Deep Dive (10 videos, encoded):** `{NOTION_ID}`
+- **Authority Plan:** `{NOTION_ID}` (authority-building plan)
 
 ## Canonical Frameworks
 
@@ -126,7 +126,7 @@ Meta algorithm shift + scaling protocol — V9.
 
 ## Framework Folder Reference
 
-Primary lineage source for `reference/frameworks/growth-operating-process/` — Sanjay is the named operator for that concept-thematic folder.
+Primary lineage source for `reference/frameworks/growth-operating-process/` — the operations director is the named operator for that concept-thematic folder.
 
 ## Growth Operating Agency Pillar Assignment
 

@@ -9,7 +9,7 @@
 - **George Hormel / Hormel brand archetypes** — the consumer-brand precursor: product as the vessel of a settled identity
 - **Joe Sugarman** — *Triggers* and *Advertising Secrets of the Written Word*: 30 psychological triggers that produce involuntary response (linking, greed, guilt, curiosity)
 - **influence-principles research** — *Influence* + *Pre-Suasion*: consistency, social proof, liking, authority, and (most underused) **identity-unity**
-- **Modern Growth Operator lineage** — Dan Henry, Russell Brunson, Sabri Suby, the campaign director, the content OS director, the acquisition economist (softer), Chris the growth engineer (post-Apollo)
+- **Modern Growth Operator lineage** — a polarising info operator, the funnel-building platform founder, the Southern-hemisphere performance operator, the campaign director, the content OS director, the acquisition economist (softer), Chris the growth engineer (post-earlier-brand)
 
 The archetype predates social media. Social media just collapsed the distribution cost from "own a nightclub" to "own a ring light."
 
@@ -17,7 +17,7 @@ The archetype predates social media. Social media just collapsed the distributio
 
 | # | Component | What it actually is | Example from the field |
 |---|-----------|---------------------|------------------------|
-| 1 | Polarizing stance | One non-negotiable worldview the creator will die on | the authority-provocation archetype: masculinity. Sabri Suby: "most marketing is rubbish." Dan Henry: "stop creating courses, run ads." |
+| 1 | Polarizing stance | One non-negotiable worldview the creator will die on | the authority-provocation archetype: masculinity. the Southern-hemisphere performance operator: "most marketing is rubbish." a polarising info operator: "stop creating courses, run ads." |
 | 2 | Public identity | A name, a nickname, a silhouette, a uniform | "Top G," the cigar, the sunglasses, the Bugatti — visual dogma |
 | 3 | Villain mystique | A credible enemy — ideally one that *returns fire* | The Matrix, mainstream media, fake experts, the 9-to-5 grind |
 | 4 | Broadcast daily | Output volume past saturation (5-20 pieces/day) | Enough that the audience self-references: "he said this yesterday" |
@@ -47,13 +47,13 @@ The "pure" authority-provocation archetype is maximal — designed for a 500M-fo
 
 ### Case studies — who dialed what
 
-**Dan Henry** — Polarizing stance: "courses don't work, ads + offers work." Villain: fake course marketers. Product: identity of the "ad-running operator." Broadcast: daily email list + YouTube. Signature: straight-to-camera, home office.
+**a polarising info operator** — Polarizing stance: "courses don't work, ads + offers work." Villain: fake course marketers. Product: identity of the "ad-running operator." Broadcast: daily email list + YouTube. Signature: straight-to-camera, home office.
 
-**Russell Brunson** — Polarizing stance: "everyone needs a funnel." Villain: the traditional website + agency model. Product: ClickFunnels as the vessel of a methodology. Signature: Funnel Hacker identity, orange branding, whiteboard.
+**the funnel-building platform founder** — Polarizing stance: "everyone needs a funnel." Villain: the traditional website + agency model. Product: a funnel-building platform as the vessel of a methodology. Signature: funnel-modelling practitioner identity, orange branding, whiteboard.
 
-**Sabri Suby** — Polarizing stance: "direct response is the only honest marketing." Villain: branding agencies. Product: King Kong as the category challenger. Signature: Australian bluntness, book-led authority.
+**the Southern-hemisphere performance operator** — Polarizing stance: "direct response is the only honest marketing." Villain: branding agencies. Product: a category-challenging performance agency. Signature: Australian bluntness, book-led authority.
 
-**Chris the growth engineer (post-Apollo)** — Polarizing stance: "high-ticket offers are the only path for operators." Villain: low-ticket-ecosystem coaches. Product: Apollo method → post-Apollo identity program. Signature: plain white background, measured delivery.
+**Chris the growth engineer (post-earlier-brand)** — Polarizing stance: "high-ticket offers are the only path for operators." Villain: low-ticket-ecosystem coaches. Product: Apollo method → post-earlier-brand identity program. Signature: plain white background, measured delivery.
 
 **the content OS director** — Polarizing stance: "most VSLs are structurally broken." Villain: bad copywriting orthodoxy. Product: VSL framework + coaching. Signature: dense narrated breakdowns.
 

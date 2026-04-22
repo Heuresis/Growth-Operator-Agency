@@ -114,7 +114,7 @@ Watch the S/N score over time. Watch compartment completeness. Watch blind-test 
 
 ### What is Heuresis?
 
-The studio that built Growth Operating Agency. Principal architect is Syed Hussain. Heuresis builds encoded workspaces as the deliverable product — not consulting engagements, not a SaaS platform. See [PROVENANCE.md](../PROVENANCE.md).
+The studio that built Growth Operating Agency. Heuresis builds encoded workspaces as the deliverable product — not consulting engagements, not a SaaS platform. See [PROVENANCE.md](../PROVENANCE.md).
 
 ### Why is this private?
 

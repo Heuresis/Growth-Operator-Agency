@@ -109,18 +109,18 @@ WORKED
 3. SMS during close-cart 24h captured $18K extra vs email-only baseline
 
 DIDN'T WORK
-1. Runway webinar #2 had 14% show-rate (target 40%) — root cause: email sequence sent webinar link 3 days early, audience forgot — fix: consolidate webinar reminders to 48h + 4h + 30min — owner: Syed
-2. Dead-middle day-4 email dip (12% open rate vs 32% baseline) — root cause: subject-line too salesy — fix: value-led subject line tests — owner: Alex
-3. Tech: checkout flickered at 18:00 UTC Day 0, 22 min downtime — owner: Syed to add failover processor
+1. Runway webinar #2 had 14% show-rate (target 40%) — root cause: email sequence sent webinar link 3 days early, audience forgot — fix: consolidate webinar reminders to 48h + 4h + 30min — owner: {OWNER}
+2. Dead-middle day-4 email dip (12% open rate vs 32% baseline) — root cause: subject-line too salesy — fix: value-led subject line tests — owner: {OWNER}
+3. Tech: checkout flickered at 18:00 UTC Day 0, 22 min downtime — owner: {OWNER} to add failover processor
 
 SURPRISE
 The "bonus reveal" on Day 5 recovered 6 sales we had written off. Next cycle: plan bonus reveals Day 3 AND Day 5 (not only Day 5).
 
 NEXT-CYCLE DECISIONS
-- Failover payment processor live before next cycle — Syed — by 2026-05-15
-- Webinar reminder sequence rework — Syed — by 2026-05-01
-- JV partner Y approached for next cycle — Alex — by 2026-05-10
-- Bonus reveal cadence: Day 3 + Day 5 — Alex — by next cycle
+- Failover payment processor live before next cycle — {OWNER} — by 2026-05-15
+- Webinar reminder sequence rework — {OWNER} — by 2026-05-01
+- JV partner Y approached for next cycle — {OWNER} — by 2026-05-10
+- Bonus reveal cadence: Day 3 + Day 5 — {OWNER} — by next cycle
 ```
 
 ## Anti-patterns (block these)

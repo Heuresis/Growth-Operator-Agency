@@ -1,13 +1,13 @@
-# Grand Slam Offer - the acquisition economist Implementation Guide Distillation
+# high-value stacked offer - the acquisition economist Implementation Guide Distillation
 
-> **Source:** the acquisition economist, *$100M Offers: Complete Implementation Guide* (21-day, 15-step, 6-phase build)
+> **Source:** the acquisition economist, *a high-value offer canon: Complete Implementation Guide* (21-day, 15-step, 6-phase build)
 > **Companion:** `reference/frameworks/offer-architecture/hormozi-grand-slam-offer.md` (the offer architect vs. the acquisition economist comparison)
 
 This file captures what the Implementation Guide actually prescribes, phase by phase. Use it as a build checklist, not a concept explainer.
 
 ## Definition
 
-A Grand Slam Offer is an offer that cannot be comparison-shopped. It combines an attractive promise, a Value Equation that produces a 150+ score, stacked bonuses that each kill one objection, a guarantee that reverses risk, scarcity and urgency that are both true, and a name that signals who it's for and what they get.
+A high-value stacked offer is an offer that cannot be comparison-shopped. It combines an attractive promise, a Value Equation that produces a 150+ score, stacked bonuses that each kill one objection, a guarantee that reverses risk, scarcity and urgency that are both true, and a name that signals who it's for and what they get.
 
 ## The 6-Phase 15-Step Build
 
@@ -185,8 +185,8 @@ Recommended: Lead Magnet, Email Sequences, Social Proof stack.
 
 ## Source
 
-- the acquisition economist, *$100M Offers: Complete Implementation Guide* (21-day build PDF).
-- the acquisition economist, *$100M Offers* (book, 2021).
+- the acquisition economist, *a high-value offer canon: Complete Implementation Guide* (21-day build PDF).
+- the acquisition economist, a high-value offer canon (book, 2021).
 - `reference/frameworks/acquisition-economics/value-equation.md` - the scoring engine this builds on.
 - `reference/frameworks/offer-architecture/hormozi-grand-slam-offer.md` - the offer architect vs. the acquisition economist comparison.
 

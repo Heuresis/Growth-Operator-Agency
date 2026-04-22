@@ -153,7 +153,7 @@ funnel_systems:
           objection_pre_framing: [string]
         decision:
           sales_mechanism: string     # VSL | Webinar | Challenge | Call
-          vsl_structure: string       # 11-step / 15-step / 13-step / 3X / Hidden VSSL
+          vsl_structure: string       # 11-step / 15-step / 13-step / 3X / hidden-pitch long-form video
           sales_page_framework: string
           closing_mechanism: string
         action:
@@ -333,7 +333,7 @@ operational_intelligence:
   tech_stack:
     crm: string                       # HubSpot / GoHighLevel / Close / Custom
     email_platform: string            # ConvertKit / ActiveCampaign / Beehiiv / Klaviyo
-    funnel_builder: string            # ClickFunnels / HighLevel / Custom
+    funnel_builder: string            # GoHighLevel / {FUNNEL_BUILDER} / Custom
     payment_processor: string         # Stripe / PayPal / Custom
     analytics_tools: [string]
     automation_tools: [string]        # Zapier / Make / n8n / Custom
@@ -403,6 +403,6 @@ This file is the **authoritative schema**. `company.yaml` must conform. If a cre
 
 ---
 
-*Version: 1.0.0 — 2026-04-21. Based on Creator Context Profile Architecture + Signal Theory. Derived from Notion page 2f139dd8-23e7-8062-955e-fa6a004461a5.*
+*Version: 1.0.0 — 2026-04-21. Based on Creator Context Profile Architecture + Signal Theory. Derived from Notion page {NOTION_ID}.*
 
 *Growth Operating Agency — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*

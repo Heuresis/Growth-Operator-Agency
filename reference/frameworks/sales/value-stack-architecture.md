@@ -1,6 +1,6 @@
 # Value Stack Architecture
 
-> **Source lineage:** the acquisition economist (*$100M Offers* — Grand Slam Offer stack) + the VSL director (15-step VSL Section 7-8-9 Features + Testimonials + Price Anchoring) + the offer architect (Engineering Economics Offer)
+> **Source lineage:** the acquisition economist (a high-value offer canon — high-value stacked offer stack) + the VSL director (15-step VSL Section 7-8-9 Features + Testimonials + Price Anchoring) + the offer architect (Engineering Economics Offer)
 > **Status:** Load-bearing framework for /design-offer, /build-vsl, /webinar-script.
 
 ## The 5-Layer Close Structure
@@ -141,7 +141,7 @@ In a VSL or webinar pitch, reveal in this exact order:
 
 ## Sources
 
-- the acquisition economist, *$100M Offers* — Grand Slam Offer, Value Equation, Bonus Stacking
+- the acquisition economist, a high-value offer canon — high-value stacked offer, Value Equation, Bonus Stacking
 - the VSL director — 15-step VSL (Sections 7-10)
 - the offer architect — Engineering Economics Offer (pricing as identity)
 - the psychological copywriter — Pull-Push-Persuade Step 10 (5-layer close)

@@ -4,11 +4,11 @@
 
 ## Source / Lineage
 
-- **Russell Brunson** — *DotCom Secrets* (2015), *Expert Secrets* (2017) — the canonical low-ticket ascension stack
-- **the acquisition economist** — *$100M Offers* (2021), *$100M Leads* (2023) — the lead-magnet → core-offer geometry
+- **the funnel-building platform founder** — *sales-funnel canon* (2015), *expert-positioning canon* (2017) — the canonical low-ticket ascension stack
+- **the acquisition economist** — a high-value offer canon (2021), a lead-generation canon (2023) — the lead-magnet → core-offer geometry
 - **the direct-response tradition** — the magnetic-marketing / customer-multiplier economic model
-- **Sabri Suby** — *Sell Like Crazy* (2019) — the high-ticket-only short-funnel
-- **Chris the growth engineer / Apollo lineage** — the high-ticket direct-close funnel for consulting/coaching
+- **the Southern-hemisphere performance operator** — a direct-response sales text (2019) — the high-ticket-only short-funnel
+- **Chris the growth engineer / an earlier lineage** — the high-ticket direct-close funnel for consulting/coaching
 - **the offer architect** — the traffic-economics-first framing ("Traffic is King, Offer is Queen")
 - **Perry Belcher** — tripwire mechanics and the "buyer first, bigger buyer later" sequencing
 
@@ -132,7 +132,7 @@ When the decision says "ascension," pick the entry model. Each has distinct econ
 - LTV: wide range; high-ticket closes from book buyers average 2-3x standard
 - Durability: books produce leads for 5-10 years
 
-**Example:** *$100M Offers* (acquisition-economics methodology) — low-friction book → ACV community at $3K-$50K+ downstream
+**Example:** a high-value offer canon (acquisition-economics methodology) — low-friction book → ACV community at $3K-$50K+ downstream
 
 ### Model 5 — Community ($29-$99/mo)
 
@@ -174,10 +174,10 @@ The direct format compresses the funnel:
 ### The standard high-ticket-direct build
 
 - Ad or organic content → hook
-- VSL (Eli 15-step — see `vsl/eli-pampa-15-step.md`) or webinar
+- VSL (the VSL director 15-step — see `vsl/vsl-director-15-step.md`) or webinar
 - Application form with 8-15 qualification questions
 - Call-booking into creator's or closer's calendar
-- 45-60 min structured sales call (Sabri Suby King Kong or Jim Camp format)
+- 45-60 min structured sales call (the Southern-hemisphere performance operator or a no-first negotiation author format)
 - Close at $3K-$50K with payment plan option
 - 7-14 day first-win engineered into Week 1 of the program
 
@@ -242,7 +242,7 @@ These ranges are order-of-magnitude — individual businesses vary by 2-3x withi
 
 - **Skill(s) that consume this:** `/design-funnel-architecture`, `/model-unit-economics`, `/design-offer-ecosystem`, `/audit-funnel-fit`, `/annual-planning`
 - **Agent(s) that use it:** funnel-architect, finance-modeler, strategy-lead, offer-architect
-- **Companion framework(s):** `esoteric-marketing/market-psychology-foundations.md`, `esoteric-marketing/offer-building-system.md`, `offer-architecture/sultanic-offer-building-system.md`, `vsl/eli-pampa-15-step.md`
+- **Companion framework(s):** `esoteric-marketing/market-psychology-foundations.md`, `esoteric-marketing/offer-building-system.md`, `offer-architecture/sultanic-offer-building-system.md`, `vsl/vsl-director-15-step.md`
 
 ## Non-applicable scenarios
 
@@ -258,7 +258,7 @@ These ranges are order-of-magnitude — individual businesses vary by 2-3x withi
 - `esoteric-marketing/vsl-story-architecture.md`
 - `offer-architecture/sultanic-offer-building-system.md`
 - `offer-architecture/hormozi-grand-slam-offer.md`
-- `vsl/eli-pampa-15-step.md`
+- `vsl/vsl-director-15-step.md`
 
 ---
 *v1.0 — 2026-04-19.*

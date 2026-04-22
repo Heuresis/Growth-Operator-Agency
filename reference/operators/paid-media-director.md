@@ -1,16 +1,16 @@
-# Siguard "Siggy" the paid media director — Stallion Media
+# the paid media director
 
 > **Tier:** 3 (Rising)
 > **Core IP:** Automated IG Ecosystem + Profile Funnel Ads + Show-Rate Stack + Content Studio + Client Portal V12
-> **Channel:** @siggyfoss
+> **Channel:** 
 
 ## Canonical Sources (5 Playbooks)
 
-1. **Automated IG Ecosystem Implementation Playbook:** `28839dd823e78162b94cdd55e963cd6b`
-2. **Stallion Media Content Studio:** `28839dd823e7817aa171d67ce1bdf8fd`
-3. **YouTube Planner:** `28839dd823e7812baa17cf6ffd200800`
-4. **Infomatic Setting Flow Liam:** `28b39dd823e780b6ab38cef1f12acbb6`
-5. **(NAME) Client Portal V12:** `31139dd823e78077884dc1d89552a691`
+1. **Automated IG Ecosystem Implementation Playbook:** `{NOTION_ID}`
+2. **a paid-media content studio:** `{NOTION_ID}`
+3. **YouTube Planner:** `{NOTION_ID}`
+4. **Infomatic Setting Flow Liam:** `{NOTION_ID}`
+5. **(NAME) Client Portal V12:** `{NOTION_ID}`
 
 ## Core Thesis — "Profile = Landing Page"
 
@@ -34,7 +34,7 @@ Profile optimized to convert on first view:
 - **Link:** Lead magnet or offer
 - **Highlights:** About / Testimonials / Results / Process / Offer / Free Training
 
-### 2. Content Studio (Stallion Media approach)
+### 2. Content Studio ( approach)
 Weekly production system:
 - **Reels:** 3-5/week, 60-90s, hook in first 3s, value-dense
 - **Stories:** 2-4 daily (rotating 4-layer anatomy)

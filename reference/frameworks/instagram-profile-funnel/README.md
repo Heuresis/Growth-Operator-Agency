@@ -1,6 +1,6 @@
 # Instagram Profile Funnel — The the paid media director Stack
 
-> **Reference:** Siguard (Siggy) the paid media director — Stallion Media / Automated IG Ecosystem
+> **Reference:** the paid media director —  / Automated IG Ecosystem
 > **Purpose:** IG as a direct-response funnel — profile-as-landing-page, ads stack, DM-setter flow, content studio.
 > **When to use:** Marketing (IG-driven acquisition), Sales (profile-funnel mechanics), Ads (IG-specific creative).
 
@@ -30,7 +30,7 @@ Profile optimized to convert from first-view. Structure:
 - **Link:** Lead magnet or offer
 - **Highlights:** Logical journey (About / Testimonials / Results / Process / Offer / Free Training)
 
-### 2. Content Studio (Stallion Media approach)
+### 2. Content Studio ( approach)
 Weekly content production system:
 - **Reels:** 3-5/week, 60-90s, hook in first 3s, value-dense
 - **Stories:** 2-4 daily, rotating through 4-layer anatomy (text + image + proof-screenshots + visuals)
@@ -128,16 +128,16 @@ Used by:
 
 ## Operator Reference
 
-- `reference/operators/tier-3-rising/siguard-foss.md` — full operator profile (5 playbooks)
+- `reference/operators/paid-media-director.md` — full operator profile (5 playbooks)
 
 ## Sources
 
-- the paid media director `Automated IG Ecosystem Implementation Playbook` (Notion: `28839dd823e78162b94cdd55e963cd6b`)
-- the paid media director `Stallion Media Content Studio` (Notion: `28839dd823e7817aa171d67ce1bdf8fd`)
-- the paid media director `YouTube Planner` (Notion: `28839dd823e7812baa17cf6ffd200800`)
-- the paid media director `Infomatic Setting Flow Liam` (Notion: `28b39dd823e780b6ab38cef1f12acbb6`)
-- the paid media director `(NAME) Client Portal V12` (Notion: `31139dd823e78077884dc1d89552a691`)
-- 4-layer story anatomy (Notion: `2d539dd823e7800aa97eef7b10569eac`)
+- the paid media director `Automated IG Ecosystem Implementation Playbook` (Notion: `{NOTION_ID}`)
+- the paid media director `a paid-media content studio` (Notion: `{NOTION_ID}`)
+- the paid media director `YouTube Planner` (Notion: `{NOTION_ID}`)
+- the paid media director `Infomatic Setting Flow Liam` (Notion: `{NOTION_ID}`)
+- the paid media director `(NAME) Client Portal V12` (Notion: `{NOTION_ID}`)
+- 4-layer story anatomy (Notion: `{NOTION_ID}`)
 
 ---
 *v1.0 — 2026-04-19. IG funnel stack for Growth Operating Agency — depth for ads/profile/DM; does not extend into full IG agency services (separate workspace).*

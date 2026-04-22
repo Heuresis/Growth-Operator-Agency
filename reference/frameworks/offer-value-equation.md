@@ -36,7 +36,7 @@ If any condition is missing, the offer is not stupid to say no to. It is merely 
 
 Build reductively: design the complete $50K offer first (everything the buyer could need), then strip away elements for lower tiers. This ensures cohesive architecture versus bolting random products together.
 
-## Grand Slam Offer Elements
+## high-value stacked offer Elements
 
 Every compelling offer stacks these components:
 

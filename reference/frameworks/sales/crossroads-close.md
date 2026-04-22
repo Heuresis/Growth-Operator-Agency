@@ -114,7 +114,7 @@ Works when audience is sophisticated / sales-aware (they hate being sold, so tak
 
 ## Skill Bindings
 
-- `/build-vsl` — Step 12 (variants A, B, C, D) or structural equivalent (variant E Hidden VSSL has soft variant)
+- `/build-vsl` — Step 12 (variants A, B, C, D) or structural equivalent (variant E hidden-pitch long-form video has soft variant)
 - `/webinar-script` — Transition section, non-optional
 - `/sales-script` — closer script, post-objection variant
 - `/design-offer` — guarantee copy echoes Crossroads logic

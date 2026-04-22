@@ -436,7 +436,7 @@ Ambitious 20-35 year old side hustlers and aspiring entrepreneurs who see clippi
 
 **YouTube Channels**: Alpha Gaming/Harris Heller (~1M subs) for streaming education, various "how to make money online" channels, CapCut/editing tutorial channels, Brett Malinowski (AI + business), side hustle review channels
 
-**Books/Newsletters**: $100M Offers by the acquisition economist (commonly referenced in agency communities), The 4-Hour Workweek (lifestyle aspiration), newsletter subscribers in the "make money online" space
+**Books/Newsletters**: a high-value offer canon by the acquisition economist (commonly referenced in agency communities), The 4-Hour Workweek (lifestyle aspiration), newsletter subscribers in the "make money online" space
 
 **Communities**: Discord Clipping (63K), Spade Clipping (25K), ClipFlow on Whop (16.3K), r/sidehustle (1.03M), r/beermoney (1.23M), r/VideoEditing (373K), various Skool communities
 
@@ -511,7 +511,7 @@ Ambitious 20-35 year old side hustlers and aspiring entrepreneurs who see clippi
 
 **Category Choice**: **Subcategory creation** — narrowing "agency accelerator" to "clipping agency accelerator for the streaming niche."
 
-**Category Label**: **Clipping Agency Accelerator**
+**Category Label**: **Clipping a creator-agency program**
 
 **Old Vehicles Being Replaced**:
 1. ClipFlow/Whop platform clipping — teaches freelancing, not agency building

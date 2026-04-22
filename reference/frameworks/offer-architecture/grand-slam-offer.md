@@ -1,11 +1,11 @@
-# Grand Slam Offer
+# high-value stacked offer
 
-> **Source:** the acquisition economist — *$100M Offers* (Chapters 4-10)
+> **Source:** the acquisition economist — a high-value offer canon (Chapters 4-10)
 > **Status:** Companion to the offer architect's 7-step. Primary Value Equation operator.
 
 ## The Definition
 
-> *"A Grand Slam Offer is an offer you present to the marketplace that cannot be compared to any other product or service available, combining an attractive promise with an unmatchable value equation, incredible bonuses, unbeatable guarantees, and a supportive payment plan (if applicable) to allow as many buyers as possible to take advantage of your service."*
+> *"A high-value stacked offer is an offer you present to the marketplace that cannot be compared to any other product or service available, combining an attractive promise with an unmatchable value equation, incredible bonuses, unbeatable guarantees, and a supportive payment plan (if applicable) to allow as many buyers as possible to take advantage of your service."*
 
 ## The Construction
 
@@ -59,7 +59,7 @@ Strongest possible guarantee:
 Specific named offer that implies the mechanism + outcome.
 
 Examples:
-- "The $25K MRR Agency Accelerator"
+- "The $25K MRR a creator-agency program"
 - "Million-Dollar Coaching Method"
 - "The Operator OS"
 
@@ -80,7 +80,7 @@ Both the offer architect + the acquisition economist design high-ticket offers. 
 |---|---|---|
 | Primary lens | Market psychology + identity | Value equation math |
 | Focus | Offer-ICP congruency | Grand Slam value stacking |
-| Mechanism name | "Offer Building System" | "Grand Slam Offer" |
+| Mechanism name | "Offer Building System" | "high-value stacked offer" |
 | Pricing | Identity-aligned | Value-equation-aligned |
 | Guarantee | Risk Reversal architecture | Unbeatable guarantees |
 | Best for | Complex high-ticket ($10K+) | Simpler high-ticket ($2K-$50K) |
@@ -102,8 +102,8 @@ Both the offer architect + the acquisition economist design high-ticket offers. 
 
 ## Sources
 
-- the acquisition economist, *$100M Offers* (Chapters 4-10)
-- the acquisition economist, *$100M Leads* (companion — Core Four)
+- the acquisition economist, a high-value offer canon (Chapters 4-10)
+- the acquisition economist, a lead-generation canon (companion — Core Four)
 - `reference/operators/external/alex-hormozi.md`
 - `reference/frameworks/primitives/value-equation.md`
 

@@ -82,11 +82,11 @@ Agenda:
 - `{start_date}`: 2026-04-22
 - `{success_metric}`: Full foundations + live funnel + first 5 cold demos booked by Day 60
 - `{kickoff_datetime}`: 2026-04-24 at 14:00 PT
-- `{primary_contact}`: Alex (founder)
+- `{primary_contact}`: {FOUNDER_NAME} ({FOUNDER_ROLE})
 - `{delivery_lead}`: Syed
 - `{weekly_cadence}`: Tuesdays 14:00 PT (60 min)
 
-Day-1 email opens: "Alex — welcome to Heuresis Growth Operating Agency. Here is what we are going to do in the next 90 days, starting Tuesday..."
+Day-1 email opens: "{FOUNDER_NAME} — welcome to {WORKSPACE_NAME}. Here is what we are going to do in the next 90 days, starting Tuesday..."
 
 ## Common Risks to Pre-empt
 - Client over-scoped their own goals in sales process — surface + re-contract at kickoff

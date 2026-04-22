@@ -273,7 +273,7 @@ Running a live asset through the stack:
 
 - **Skill(s) that consume this:** `/build-vsl`, `/webinar-script`, `/email-sequence`, `/sales-page-copy`, `/audit-persuasion-arc`
 - **Agent(s) that use it:** copywriter, vsl-architect, email-strategist, buyer-psychology-analyst
-- **Companion framework(s):** `esoteric-marketing/offer-building-system.md`, `esoteric-marketing/vsl-story-architecture.md`, `esoteric-marketing/market-psychology-foundations.md`, `vsl/eli-pampa-15-step.md`
+- **Companion framework(s):** `esoteric-marketing/offer-building-system.md`, `esoteric-marketing/vsl-story-architecture.md`, `esoteric-marketing/market-psychology-foundations.md`, `vsl/vsl-director-15-step.md`
 
 ## Non-applicable scenarios
 
@@ -286,7 +286,7 @@ Running a live asset through the stack:
 - `esoteric-marketing/offer-building-system.md`
 - `esoteric-marketing/vsl-story-architecture.md`
 - `esoteric-marketing/market-psychology-foundations.md`
-- `vsl/eli-pampa-15-step.md`
+- `vsl/vsl-director-15-step.md`
 - `primitives/unique-mechanism.md`
 - `cult-methodology/cult-to-customer-translation.md`
 

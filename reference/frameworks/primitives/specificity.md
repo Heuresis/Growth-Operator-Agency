@@ -1,6 +1,6 @@
 # Specificity — The Primitive
 
-> **Source lineage:** the media buying director (*"Specificity > sophistication"* — explicit principle), the acquisition economist (specific Grand Slam promises), the copy director (Amazon review research extracts specific language), the offer architect (numeric specificity in VSLs), Claude Hopkins / the direct-response tradition (classical direct response).
+> **Source lineage:** the media buying director (*"Specificity > sophistication"* — explicit principle), the acquisition economist (specific Grand Slam promises), the copy director (Amazon review research extracts specific language), the offer architect (numeric specificity in VSLs), an early-20th-century copy essayist / the direct-response tradition (classical direct response).
 > **Status:** First-class primitive. The anti-generic filter.
 
 ## The Principle
@@ -126,10 +126,10 @@ Copy passes specificity gate when:
 ## Sources
 
 - the media buying director — LinkedIn longform 2025: *"Specificity is the primary lever"*
-- the acquisition economist — *$100M Offers* + *$100M Leads* (specificity-heavy copy throughout)
-- the copy director — *RMBC Method* (Research phase = specificity extraction from Amazon reviews)
+- the acquisition economist — a high-value offer canon + a lead-generation canon (specificity-heavy copy throughout)
+- the copy director — *research-mechanism-brief-copy process* (Research phase = specificity extraction from Amazon reviews)
 - the offer architect — *Anatomy of Ads* (numeric specificity)
-- Classical: Claude Hopkins *Scientific Advertising*, the direct-response tradition direct response lineage
+- Classical: an early-20th-century copy essayist the early-20th-century reason-why essay, the direct-response tradition direct response lineage
 - `reference/operators/media-buying-director.md`
 - `reference/operators/external/alex-hormozi.md`
 - `reference/operators/copy-director.md`

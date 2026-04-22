@@ -1,5 +1,5 @@
 ---
-description: Design a lead magnet in one of 9 types (Guide / Checklist / Cheat Sheet / Swipe File / Mini Course / Quiz / Calculator / Free Training / Custom). the acquisition economist $100M Leads. Opt-in target 30%+.
+description: Design a lead magnet in one of 9 types (Guide / Checklist / Cheat Sheet / Swipe File / Mini Course / Quiz / Calculator / Free Training / Custom). the acquisition economist a lead-generation canon. Opt-in target 30%+.
 argument-hint: [optional: --type=1-9 or describe desired magnet]
 allowed-tools: Read, Write, Edit, Grep, Glob
 ---

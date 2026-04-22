@@ -1,13 +1,13 @@
-# Clipping Agency Positioning - Clipping Agency Accelerator
+# Clipping Agency Positioning - Clipping a creator-agency program
 
-> **Case:** Clipping Agency - Clipping Agency Accelerator for the Streaming Niche
+> **Case:** Clipping Agency - Clipping a creator-agency program for the Streaming Niche
 > **Built from:** Signal Report (85/100 viability) → ICP (90/100 completeness)
 > **Framework applied:** Subcategory creation + category-defining mechanism name + structural anti-positioning
 > **Outcome:** Positioning validated - all 8 sections complete, mechanism named and defensible
 
 ## Context
 
-Clipping Agency operates in a market with a clear category gap: "clipping education" exists at $49/month (ClipFlow on Whop, 16,300 members) but nothing exists at $2K+. SMMA courses (the agency director, Charlie Morgan) teach generic agency building but miss the streaming niche's unique trust and hiring dynamics (Discord-native outreach, no long-form contracts, 2 AM response windows). The positioning was engineered to create a subcategory - "Clipping Agency Accelerator" - that no competitor currently occupies, then defend it with a streaming-specific mechanism. This is the actual positioning document produced by the Phase-3 instantiation of Clipping Agency.
+Clipping Agency operates in a market with a clear category gap: "clipping education" exists at $49/month (ClipFlow on Whop, 16,300 members) but nothing exists at $2K+. SMMA courses (the agency director, Charlie Morgan) teach generic agency building but miss the streaming niche's unique trust and hiring dynamics (Discord-native outreach, no long-form contracts, 2 AM response windows). The positioning was engineered to create a subcategory - "Clipping a creator-agency program" - that no competitor currently occupies, then defend it with a streaming-specific mechanism. This is the actual positioning document produced by the Phase-3 instantiation of Clipping Agency.
 
 ## The Encoded Positioning Document
 
@@ -17,7 +17,7 @@ Clipping Agency operates in a market with a clear category gap: "clipping educat
 
 ### Section 2 - Category Design
 
-**Category Choice:** Subcategory creation. **Category Label:** Clipping Agency Accelerator.
+**Category Choice:** Subcategory creation. **Category Label:** Clipping a creator-agency program.
 
 **Old Vehicles:** ClipFlow/Whop (teaches freelancing); generic SMMA courses (not clipping-specific); YouTube tutorials (fragmented); AI tools (make clips, not businesses); Fiverr/Upwork (commodity pricing).
 

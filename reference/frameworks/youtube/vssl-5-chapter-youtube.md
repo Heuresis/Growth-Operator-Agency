@@ -6,7 +6,7 @@
 
 - the VSL copywriter (compressed VSSL)
 - the content OS director (YouTube pacing)
-- the campaign director (Big Idea copy patterns)
+- the campaign director (big idea copy patterns)
 - the acquisition economist (offer stack + guarantee)
 
 ---

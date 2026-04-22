@@ -1,12 +1,12 @@
 # the VSL director
 
-the VSL director is the operator behind CloutProfit Academy and the former head of sales at Cobratate. He wrote and architected the VSL infrastructure behind The Real World ($129M+ generated), Champs Only ($10M+), and CloutProfit ($8M+ and growing). His curriculum is a 78-file, ~47,386-word private operator playbook covering offer architecture, VSL construction, funnel selection, lead generation through organic content, team building, and oration. the VSL director's core claim: "Making less than $100K/month is solvable through systematic elimination of 6 core blockages." He treats VSL writing as a belief-installation problem, not a copywriting problem, and he treats scale as a traffic problem, not a tactics problem.
+the VSL director is the operator behind a sales-training academy and the former head of sales at a creator-economy program. He wrote and architected the VSL infrastructure behind a creator-economy program ($129M+ generated), a sales-training niche ($10M+), and a sales-training operation ($8M+ and growing). His curriculum is a 78-file, ~47,386-word private operator playbook covering offer architecture, VSL construction, funnel selection, lead generation through organic content, team building, and oration. the VSL director's core claim: "Making less than $100K/month is solvable through systematic elimination of 6 core blockages." He treats VSL writing as a belief-installation problem, not a copywriting problem, and he treats scale as a traffic problem, not a tactics problem.
 
 ## Thesis
 
 the VSL director's uniquely-held thesis is that **conversion is sequential belief installation, not persuasion.** Most marketers try to argue 8-10 things simultaneously and lose the prospect's brain in the middle of the pitch. the VSL director's formulation: every sale requires 8 specific beliefs to be installed in a specific order (Reproduction → Derivative Desire → Can-Fulfill → Urgency → This-Offer → Better/Faster → Trust-Person → Trust-Expertise). Skip one, or install them out of order, and the sale collapses — not because the offer was weak, but because the prospect's brain defaulted to "no" mid-sequence. This reframes conversion from "writing better copy" to "engineering a specific psychological journey."
 
-The second thesis is that **traffic is king and offer is queen, in that exact order.** the VSL director rejects the common creator instinct to perfect the offer before launching. Quote from source: "Traffic > Perfect Offer. Iterate as you sell." → see `A1 OFFER ARCHITECTURE` line 32. His proof-point: Hostage University launched an offer in 26 hours and did $5-6 figure MRR on Day 1. The implication: an operator's time-to-first-dollar is a function of how fast they get eyes on a pitch, not how polished the pitch is. You can swap an offer; you cannot recover lost traffic.
+The second thesis is that **traffic is king and offer is queen, in that exact order.** the VSL director rejects the common creator instinct to perfect the offer before launching. Quote from source: "Traffic > Perfect Offer. Iterate as you sell." → see `A1 OFFER ARCHITECTURE` line 32. His proof-point: a high-ticket sales-training operation launched an offer in 26 hours and did $5-6 figure MRR on Day 1. The implication: an operator's time-to-first-dollar is a function of how fast they get eyes on a pitch, not how polished the pitch is. You can swap an offer; you cannot recover lost traffic.
 
 The third thesis is that **scale is an organizational problem disguised as a marketing problem.** Once the VSL converts at 10%+, the bottleneck moves to team, then mindset, then aura. the VSL director's 6-Blockage Diagnostic reads downstream — if leads are flowing but revenue isn't, the blockage is further right than you think. Most operators misdiagnose a Sales or Mindset blockage as a Traffic blockage and pour money into lead-gen that was never the constraint. Correct diagnosis is the meta-skill.
 
@@ -32,7 +32,7 @@ Every $100K/mo bottleneck maps to exactly one of: Lead Generation (traffic volum
 
 ### Price Anchoring Mechanics
 
-the VSL director explicitly rejects the Russell Brunson "value stacking" approach as "completely disingenuous" — nobody believes the "$8,500 total value, today $497" framing anymore. His replacement is a 5-step mechanic: (1) ask them to estimate value, (2) use analogies to their world, (3) compare cost of inaction, (4) let them conclude the value, (5) reveal price. The prospect sells themselves on the number before the number is stated. → see `reference/frameworks/vsl-director/price-anchoring-mechanics.md`.
+the VSL director explicitly rejects the the funnel-building platform founder "value stacking" approach as "completely disingenuous" — nobody believes the "$8,500 total value, today $497" framing anymore. His replacement is a 5-step mechanic: (1) ask them to estimate value, (2) use analogies to their world, (3) compare cost of inaction, (4) let them conclude the value, (5) reveal price. The prospect sells themselves on the number before the number is stated. → see `reference/frameworks/vsl-director/price-anchoring-mechanics.md`.
 
 ### Hero Story Architecture
 
@@ -84,19 +84,19 @@ the VSL director's 5-phase story architecture: Setup (relatability) → Escalati
 
 ## Real Cases
 
-**The Real World (the authority-provocation archetype Speech / Cobratate era)** — $129M+ generated. the VSL director's canonical proof case. Channel at ~50K subscribers converting to multiple 7-figures/month. → `🎯 SECTION C LEAD GENERATION ENGINE` line 89-93. Demonstrates that subscriber count is a vanity metric; qualified-lead flow is the operative number.
+**a creator-economy program (the authority-provocation archetype Speech / the creator-economy era)** — $129M+ generated. the VSL director's canonical proof case. Channel at ~50K subscribers converting to multiple 7-figures/month. → `🎯 SECTION C LEAD GENERATION ENGINE` line 89-93. Demonstrates that subscriber count is a vanity metric; qualified-lead flow is the operative number.
 
-**Champs Only (ChampT)** — $10M+ total, with $449K/month MRR cited in source. → `🎯 SECTION C` line 100-103. Mid-sized channel, disproportionately profitable. The same 15-step VSL structure applied to a different niche (men's self-improvement vs. biz-op).
+**a sales-training niche** — $10M+ total, with $449K/month MRR cited in source. → `🎯 SECTION C` line 100-103. Mid-sized channel, disproportionately profitable. The same 15-step VSL structure applied to a different niche (men's self-improvement vs. biz-op).
 
-**CloutProfit Academy** — <6,000 subscribers → multiple 6-figures/month, on track for 8-figures in Year 1, cumulatively $8M+ at time of curriculum writing. → `🎯 SECTION C` line 110-114, `B2 VSL ARCHITECTURE` line 103. the VSL director's own brand — the case he is inside of.
+**a sales-training academy** — <6,000 subscribers → multiple 6-figures/month, on track for 8-figures in Year 1, cumulatively $8M+ at time of curriculum writing. → `🎯 SECTION C` line 110-114, `B2 VSL ARCHITECTURE` line 103. the VSL director's own brand — the case he is inside of.
 
-**Hostage University** — launched offer in 26 hours and hit $5-6 figure MRR on Day 1. → `A1 OFFER ARCHITECTURE` line 32. The proof-of-thesis for "Traffic > Perfect Offer." The offer was not polished; it was in market.
+**a high-ticket sales-training operation** — launched offer in 26 hours and hit $5-6 figure MRR on Day 1. → `A1 OFFER ARCHITECTURE` line 32. The proof-of-thesis for "Traffic > Perfect Offer." The offer was not polished; it was in market.
 
 **Robin Ritter** — <1,000 subscribers generating $73.5K in first 45 days. → `🎯 SECTION C` line 105-108. Proves the system works at small-channel scale before subscriber flywheel exists.
 
 **Daniel's Channel** — 27K subscribers → $1M+/month. → `🎯 SECTION C` line 95-98. Middle-case proof point.
 
-Note on existing operator file's claims of `$50M+ (Jordan Lee AI Education)` and `$25M+ (the agency director's Digital Launchpad)`: [UNVERIFIED] — these figures are not present in the sourced 78-file curriculum. The curriculum references the agency director only in the context of the "the agency director x Jordan Welch Dubai visit" as a belief-installation example (`🎯 PART 3 THE CONTENT PLANNING SYSTEM` line 106-110), not as a the VSL director-attributable revenue case. Jordan Lee is not mentioned in the 78-file archive. These claims should be re-sourced or removed.
+Note on existing operator file's claims of `$50M+ (a high-ticket operator AI Education)` and `$25M+ (the agency director's a creator-agency program)`: [UNVERIFIED] — these figures are not present in the sourced 78-file curriculum. The curriculum references the agency director only in the context of the "the agency director x Jordan Welch Dubai visit" as a belief-installation example (`🎯 PART 3 THE CONTENT PLANNING SYSTEM` line 106-110), not as a the VSL director-attributable revenue case. a high-ticket operator is not mentioned in the 78-file archive. These claims should be re-sourced or removed.
 
 Cross-portfolio claim from curriculum: "Every funnel we've touched has done 8-figures minimum." → `🎯 PART 2 PREREQUISITES FOR LEAD GENERATION` line 80. This is a blanket claim, not a specific case, but it provides the portfolio-scale context for the individual cases above.
 
@@ -104,9 +104,9 @@ Aggregate revenue figure the VSL director cites for the methodology: **$165M+** 
 
 ## When To Invoke the VSL director's Thinking
 
-**When the funnel has 8+ required beliefs to install before a purchase can happen** — the VSL director's sequential belief-installation is purpose-built for this. the acquisition economist's Grand Slam Offer is better when the problem is value perception; the VSL director is better when the problem is trust+belief stack.
+**When the funnel has 8+ required beliefs to install before a purchase can happen** — the VSL director's sequential belief-installation is purpose-built for this. the acquisition economist's high-value stacked offer is better when the problem is value perception; the VSL director is better when the problem is trust+belief stack.
 
-**When the revenue target is $100K/month and the operator is stuck below** — the 6-Blockage Diagnostic is the direct instrument. Other operators (the acquisition economist, Brunson) fix one blockage at a time; the VSL director diagnoses which blockage is actually binding.
+**When the revenue target is $100K/month and the operator is stuck below** — the 6-Blockage Diagnostic is the direct instrument. Other operators (the acquisition economist, the funnel-building platform founder) fix one blockage at a time; the VSL director diagnoses which blockage is actually binding.
 
 **When building a VSL that must carry a $1K-$5K offer cold** — the 15-step structure with Price Anchoring at Step 9 and Crossroads + Takeaway close is the highest-conversion-rate pattern in the lineage. For $10K+ offers, switch to Application Funnel + human closer (still using 8 beliefs).
 
@@ -118,7 +118,7 @@ Aggregate revenue figure the VSL director cites for the methodology: **$165M+** 
 
 **When setting VSL quality standards for a team / freelancer** — 10%+ conversion or iterate. If the VSL is below that after optimization, the problem is one of the 15 steps — go find the drop-off and rewrite that step, not the whole VSL.
 
-**When testing whether an offer is real or fake-ready** — the VSL director's Hostage University test: can you launch it in 26 hours? If not, the offer is not an offer yet — it's a plan disguised as an offer. Ship, iterate as you sell.
+**When testing whether an offer is real or fake-ready** — the VSL director's a high-ticket sales-training operation test: can you launch it in 26 hours? If not, the offer is not an offer yet — it's a plan disguised as an offer. Ship, iterate as you sell.
 
 **When designing content strategy for a creator-led business** — the VSL director's "5 Content Levers" (human effort / knowing-what / knowing-how / efficiency / mass distribution) and "9 Needle Movers" are the content-side cousin of the 8-belief model. Every video has a primary belief assignment + a target avatar + a CPM tier. Generic "value content" without this structure creates follower count without revenue.
 
@@ -162,10 +162,10 @@ Aggregate revenue figure the VSL director cites for the methodology: **$165M+** 
 ## Source
 
 - the VSL director — *8-Figure VSL Blueprint* (78-file, ~47,386-word curriculum)
-- the VSL director Notion process hub: `2d939dd823e780199a38f34fd05f6bd2`
-- VSL Architecture Complete System: `30539dd823e781b19c0aff6d1a41b62b`
-- Funnel Mastery – Authority Method: `2d539dd823e781d9af33c5cc6c90b229`
-- CloutProfit × the VSL director Custom GPT
+- the VSL director Notion process hub: `{NOTION_ID}`
+- VSL Architecture Complete System: `{NOTION_ID}`
+- Funnel Mastery – Authority Method: `{NOTION_ID}`
+- a sales-training operation × the VSL director Custom GPT
 
 ---
 *v2.0 — 2026-04-19. Tier 1 operator. Primary lineage source for VSL + Funnel Archetypes + 8 Required Beliefs + 6-Blockage Diagnostic.*

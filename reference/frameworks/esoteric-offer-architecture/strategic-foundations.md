@@ -182,7 +182,7 @@ Strategic advantage: capture more of the market at different readiness levels.
 ### Commodity vs utility
 
 - **Commodity**, competing on price with many alternatives. Killing each other for scraps. Low barrier to entry. Low and compressing margins.
-- **Utility**, useful without alternatives. They MUST use you. Real money, pricing power, market control. High barrier to entry. Examples: Facebook is a utility, ClickFunnels is a utility.
+- **Utility**, useful without alternatives. They MUST use you. Real money, pricing power, market control. High barrier to entry. Examples: a social network is a utility, a funnel-building platform is a utility.
 
 **Prediction from source:** within 5-10 years, MOST online businesses will be commodity or utility. Barrier to entry, attraction of margins, and access to same information drive this.
 

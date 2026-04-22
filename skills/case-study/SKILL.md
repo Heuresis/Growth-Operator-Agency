@@ -160,7 +160,7 @@ Pick the primary distribution channel before writing the derivatives, not after 
 - **Organic YouTube** — story arc, 5-7 min (the content OS director Value content, no external CTA)
 - **LinkedIn** — data-first hook (the backend economist benchmarking discipline — "specific number" opening)
 - **Paid ad** — 30s, high-retention edit, client voice only
-- **Email broadcast** — story + offer link (Sanjay 10% email revenue bucket)
+- **Email broadcast** — story + offer link (the operations director 10% email revenue bucket)
 - **Landing page** — static proof block, one per page max (cognitive load)
 
 ## Decision Logic

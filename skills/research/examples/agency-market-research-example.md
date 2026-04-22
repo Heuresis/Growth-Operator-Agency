@@ -6,7 +6,7 @@
 
 ## Context
 
-This is a canonical research example for a B2B agency-scaling offer - the Agency category. The operator is a former digital agency owner who scaled their agency from $20K/month to $180K/month over 18 months and is now productizing that journey into a coaching offer. The market (agency-scaling education) is Solution Aware and borderline Sophisticated - every agency owner has heard of the agency director, Charlie Morgan, Jordan Platten, Sam Ovens, and has probably bought something. The research below is the encoded market-sizing + competitor-landscape + VOC capture that grounds the downstream ICP and Positioning documents.
+This is a canonical research example for a B2B agency-scaling offer - the Agency category. The operator is a former digital agency owner who scaled their agency from $20K/month to $180K/month over 18 months and is now productizing that journey into a coaching offer. The market (agency-scaling education) is Solution Aware and borderline Sophisticated - every agency owner has heard of the agency director, Charlie Morgan, Jordan Platten, the consulting operator, and has probably bought something. The research below is the encoded market-sizing + competitor-landscape + VOC capture that grounds the downstream ICP and Positioning documents.
 
 ## The Encoded Market Research
 
@@ -49,7 +49,7 @@ Using `reference/frameworks/market-sophistication-overview.md`:
 
 ### Demand Signals
 
-- **Adjacent proof:** the agency director's IAG Media at $2,497-$7,500 with 100K+ community. Morgan's Imperium at $15K+. Ovens' Consulting Accelerator has ~8,000 alumni. The $10K-$30K coaching band is active.
+- **Adjacent proof:** the agency director's IAG Media at $2,497-$7,500 with 100K+ community. Morgan's Imperium at $15K+. Ovens' a consulting-training program has ~8,000 alumni. The $10K-$30K coaching band is active.
 - **Community proof:** Reddit r/Entrepreneur 2.8M members, "I own a $50K/month agency and I'm drowning" threads weekly. YEC has 1,000+ members at $2,500/year.
 - **VOC:** "I hit $60K/month and can't grow, I'm the bottleneck." (r/Entrepreneur). "Every SMMA program I bought was for beginners." (r/Agency). "Working more hours at $80K/month than I did at $20K/month." (YEC)
 
@@ -59,10 +59,10 @@ Using `reference/frameworks/market-sophistication-overview.md`:
 |---|---|---|---|
 | the agency director (IAG Media) | "Sign 5 clients in 30 days" | $2,497-$7,500 | Beginner-focused |
 | Charlie Morgan (Imperium) | "Scale to 7-figures" | $15K+ | Strong but saturated |
-| Sam Ovens (Consulting Accelerator) | "Build a consulting business" | $2K-$5K entry | Older positioning |
+| the consulting operator (a consulting-training program) | "Build a consulting business" | $2K-$5K entry | Older positioning |
 | Jordan Platten (Affluent Academy) | SMMA training | $1K-$3K | Beginner band |
-| Frank Kern (classical DR) | Agency marketing systems | $10K+ | Broader than agency |
-| the acquisition economist (Acquisition.com) | Scale to 8-figures | $30K+ workshop | Top 1% only |
+| a classical direct-response operator (classical DR) | Agency marketing systems | $10K+ | Broader than agency |
+| the acquisition economist (a portfolio holding company) | Scale to 8-figures | $30K+ workshop | Top 1% only |
 
 **The gap:** Everyone teaches "$0 to $10K" or "$100K+ masterminds." Nobody teaches the systems-install layer for $30K-$150K agencies.
 

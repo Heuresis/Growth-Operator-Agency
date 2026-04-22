@@ -5,11 +5,11 @@
 ## Source / Lineage
 
 - the content OS director (session-starter hooks)
-- the acquisition economist ($100M Offers — lead magnet + curiosity patterns)
-- the campaign director (E5 Method — Big Idea opens)
+- the acquisition economist (a high-value offer canon — lead magnet + curiosity patterns)
+- the campaign director (educational-VSL method — big idea opens)
 - the VSL copywriter (VSSL — Ancient Story hook, Crisis hook)
 - creator-native methodology Creative Memo (retention curves in first 30s)
-- the awareness-spectrum author (Breakthrough Advertising — awareness-level matching)
+- the awareness-spectrum author (the mid-20th-century market-awareness monograph — awareness-level matching)
 
 ---
 
@@ -104,7 +104,7 @@ Examples:
 Pattern: "[Credible third party] said [specific claim]. Here's why I think [stance] and what it means for [audience]."
 
 Examples:
-- "Naval said 'specific knowledge compounds.' Here's the exact 3-step system I used to turn one piece of specific knowledge into $380K in 8 months."
+- "a contemporary tech essayist said 'specific knowledge compounds.' Here's the exact 3-step system I used to turn one piece of specific knowledge into $380K in 8 months."
 - "the acquisition economist posted last week that most offers are priced an order of magnitude too low. I ran the math on 47 of my clients. He's right — and here's the exact method to reprice without losing deals."
 
 ### 11. Question Hook
@@ -155,7 +155,7 @@ Examples:
 - "My lawyer told me not to publish this. I'm publishing it anyway because it's the single biggest reason high-ticket offers fail."
 - "I'm about to say something that will make half my industry hate me. Here it is."
 
-### 17. Big Idea / Thesis
+### 17. big idea / Thesis
 
 Pattern: "I believe [claim that reframes the entire category]. Here's why — and what it means for you."
 
@@ -184,7 +184,7 @@ Examples:
 Pattern: "[Historical figure, story, or analog]. Here's what they knew about [modern problem] that we forgot."
 
 Examples:
-- "In 1923, Claude Hopkins wrote a book that predicted every trick TikTok creators use today. Page 47 is the one that changes everything."
+- "In 1923, an early-20th-century copy essayist wrote a book that predicted every trick TikTok creators use today. Page 47 is the one that changes everything."
 - "Napoleon's generals had a rule about when to attack. It's the same rule that separates $100K and $1M offers."
 
 ---

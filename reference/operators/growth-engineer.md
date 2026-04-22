@@ -1,7 +1,7 @@
 # the growth engineer — Canonical Operator Playbook
 
-**URL:** https://jeremyhaynes.com/skills/ · https://jeremyhaynes.com/
-**Business:** Megalodon Marketing — CEO & Founder. Coaching and done-with-you scaling for high-ticket coaching / consulting / agency owners aiming $100K→$1M/month.
+**URL:**  · https:///
+**Business:** the growth engineer — CEO & Founder. Coaching and done-with-you scaling for high-ticket coaching / consulting / agency owners aiming $100K→$1M/month.
 **Core IP:** Systematized transition from "firefighting founder" to "operator of a million-dollar-month machine" via call-funnel mechanics, offer architecture, paid media discipline, and hiring/operations cadence.
 
 ## Catalog — 38 named skills (verified from /skills/ archive, 2026-04-19)
@@ -9,7 +9,7 @@
 | # | Skill | One-line |
 |---|---|---|
 | 1 | AI First Visibility | Build daily visibility in an AI-first search environment where two-thirds of searches end without a click. |
-| 2 | Call Funnel Blueprint | Build and scale a call funnel that converts high-ticket offers into million-dollar months. |
+| 2 | call-funnel architecture | Build and scale a call funnel that converts high-ticket offers into million-dollar months. |
 | 3 | Client Communication Cadence | Build a client communication system that prevents quiet churn. |
 | 4 | Coaching Delivery Model | Design a coaching delivery model that scales without burning coaches out. |
 | 5 | Competitive Advantages | Audit and build 5 competitive advantages (ownership, pixels, messaging, tech, hiring). |
@@ -21,13 +21,13 @@
 | 11 | Fix Your Call Funnel | Troubleshoot call funnel conversion gaps. |
 | 12 | Free Community Pipeline | Turn free communities into million-dollar pipelines via trust architecture. |
 | 13 | Generate 40-50 Calls Daily | Systems for qualified sales call volume. |
-| 14 | Hidden VSSL Framework | Content that sells without triggering "this guy is selling me" resistance. |
+| 14 | hidden-pitch long-form video framework | Content that sells without triggering "this guy is selling me" resistance. |
 | 15 | Hiring Roadmap Coaches | 5-stage hiring ladder from solo coach to real company. |
 | 16 | Low Ticket To High Ticket | Ascension funnel using the Costco model. |
 | 17 | Meta Ad Restrictions Prep | Prepare health/wellness or financial services for Meta's new restrictions. |
 | 18 | Multiple Funnels To Scale | Chunk Method for breaking revenue ceilings. |
 | 19 | Offer Architecture | Million-dollar-month offer design with fewer moving parts. |
-| 20 | Offer Math Pricing | Raise prices using data, not guesswork. |
+| 20 | offer economics Pricing | Raise prices using data, not guesswork. |
 | 21 | Offer Proof Flywheel | Self-reinforcing flywheel where customer wins create proof. |
 | 22 | Operating Cadence | 3-layer cadence — daily execution, weekly optimization, monthly strategy. |
 | 23 | Operator Mindset | Transition from firefighting to operating; bottleneck audit. |
@@ -36,7 +36,7 @@
 | 26 | Pipeline Triage Desk | Daily system identifying at-risk deals. |
 | 27 | Pixel Conditioning | Train ad pixel with quality data to find qualified leads. |
 | 28 | Planning Offsite | Two-day cross-functional alignment offsite. |
-| 29 | Recruit Top Closers | Recruit high-ticket closers without placement agencies. |
+| 29 | closer-recruitment playbook | Recruit high-ticket closers without placement agencies. |
 | 30 | Scale 100K To 1M | 10-section framework from $100K to $1M/month. |
 | 31 | Scale 200K To 1M | Diagnose stuck high-ticket scaling. |
 | 32 | Scaling Ads 15K Day | Scale Facebook ad spend to $15K/day without shutdowns. |
@@ -51,11 +51,11 @@
 
 ## Canonical frameworks (priority bindings)
 
-### 1. Hidden VSSL Framework
+### 1. hidden-pitch long-form video framework
 Content that *sells* (not just informs) without triggering resistance. Structural idea: embed the sales letter mechanics (story, stakes, mechanism, proof, offer-shape) inside educational/entertainment content so the viewer experiences persuasion as insight.
 
-### 2. Call Funnel Blueprint
-Canonical high-ticket funnel stack: cold traffic → optin/VSL → qualification/application → confirmation page that converts → booked call → show-up → closed deal. Companion skills: *Fix Your Call Funnel*, *Confirmation Page That Converts*, *Generate 40-50 Calls Daily*, *Recruit Top Closers*.
+### 2. call-funnel architecture
+Canonical high-ticket funnel stack: cold traffic → optin/VSL → qualification/application → confirmation page that converts → booked call → show-up → closed deal. Companion skills: *Fix Your Call Funnel*, *Confirmation Page That Converts*, *Generate 40-50 Calls Daily*, *closer-recruitment playbook*.
 
 ### 3. Fix Revenue Plateau
 Diagnostic: offer math → funnel leak → delivery drag → hiring stage gap. Ships a specific rebuild plan rather than a generic "scale" prescription.
@@ -66,7 +66,7 @@ Response to "two-thirds of searches end without a click." Daily distribution acr
 ### 5. Scale 100K to 1M (10-section framework)
 Companion to *Scale 200K To 1M* (diagnostic entry) and *Three Commitments To Scale* (founder-level shifts). Treats $100K→$1M as a structural re-architecture, not volume.
 
-### 6. Offer Architecture + Offer Math + Offer Proof Flywheel
+### 6. Offer Architecture + offer economics + Offer Proof Flywheel
 Triad. Architecture = structural offer design. Math = pricing floor/ceiling from unit economics. Proof Flywheel = customer-wins-feeding-offer-strength loop.
 
 ## Invariants
@@ -80,11 +80,11 @@ Triad. Architecture = structural offer design. Math = pricing floor/ceiling from
 ## Signature framing
 > "Turn your high-ticket business into an industry giant through high-converting marketing and sales strategies."
 > "We don't believe in get-rich-quick programs or short cuts. We believe in hard work, adding value and serving others."
-> — jeremyhaynes.com
+> — 
 
 ## Growth Operating Agency skill bindings
-- `/hidden-vssl-framework` → Hidden VSSL (Marketing department, Content)
-- `/call-funnel-blueprint` → Call Funnel Blueprint (Sales department)
+- `/hidden-vssl-framework` → hidden-pitch long-form video (Marketing department, Content)
+- `/call-funnel-blueprint` → call-funnel architecture (Sales department)
 - `/fix-revenue-plateau` → Fix Revenue Plateau (Strategy/Ops diagnostic)
 - `/ai-first-visibility` → AI First Visibility (Marketing/Brand)
 - `/scale-100k-to-1m` → Scale 100K To 1M (Growth architecture)

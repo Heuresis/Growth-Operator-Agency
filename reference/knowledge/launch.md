@@ -56,7 +56,7 @@ Shared vocabulary, 5-phase SOP, launch variants, and tech checklist inherited by
 1. **Cohort Launch** — Fixed start date, students proceed together. Best for: coaching programs, group curricula.
 2. **Rolling Launch** — Always-on with scheduled "open-cart weeks" monthly or quarterly. Best for: evergreen offers with cohort benefits.
 3. **Evergreen Launch** — Automated 14-day window triggered per-lead. Best for: info products, scaled funnels.
-4. **Product Launch Formula (Jeff Walker)** — 3 pre-launch videos → cart open 4–7 days. Best for: info + community.
+4. **multi-video pre-launch runway (the launch-formula originator)** — 3 pre-launch videos → cart open 4–7 days. Best for: info + community.
 5. **Challenge Launch** — 5-day / 7-day challenge → offer at the end. Best for: engagement-driven close, fitness, biz-opp.
 
 Pick based on: offer price, audience size, operational capacity, traffic source.

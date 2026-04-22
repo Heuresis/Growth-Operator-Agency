@@ -50,13 +50,13 @@ You already have most of this in Notion. The job is to **convert and sharpen**, 
 | Document Type | Example | Location |
 |---|---|---|
 | ICP Document | Agency ICP — full Worthless/Helpless/Hopeless framework | Notion: `41539dd8...` |
-| ICP Document | Drysdale "Customer Bubble" — 5-component closer study guide | Notion: `5e039dd8...` |
-| ICP Document | the HNWI client Multi-Segment — 8 segments, JSON structure, LTV estimates | Notion: `30539dd8...` |
+| ICP Document | the HNW-investing coach "Customer Bubble" — 5-component closer study guide | Notion: `5e039dd8...` |
+| ICP Document | the  client Multi-Segment — 8 segments, JSON structure, LTV estimates | Notion: `30539dd8...` |
 | Market Research | Agency 30-section deep dive — competitive positioning, 5 moats, 10-year timeline | Notion: `de639dd8...` |
 | Offer Document | Agency 3-tier ($5.8K/$10.8K/$24.8K) — full value stack + timelines | Notion: `54139dd8...` |
-| Positioning Doc | HNWI client Framework — 8-section BCG-style positioning | Notion: `30539dd8...` |
-| Competitor Analysis | Spencer Donaldson AEO — 5 competitors with SWOT | Notion: `30539dd8...` |
-| Competitor Analysis | Agastya AI Video — 5 competitors with action plan | Notion: `30539dd8...` |
+| Positioning Doc |  client Framework — 8-section BCG-style positioning | Notion: `30539dd8...` |
+| Competitor Analysis | a concierge growth shop — 5 competitors with SWOT | Notion: `30539dd8...` |
+| Competitor Analysis | an AI-video creator tool — 5 competitors with action plan | Notion: `30539dd8...` |
 
 ### Offer Architecture Prompts (from your Claude VSL Prompt Vault):
 - **AI Offer Architecture Builder** — 2-part prompt sequence (Research Brief → Offer Design) with The Value Equation, "Stupid To Say No" Test, Four-Stage Architecture, 6-section output | Notion: `8a839dd8...`
@@ -227,7 +227,7 @@ A finding in only 1 source is noise until corroborated.
 
 ### Step 3: Build the ICP Document Template
 
-Based on your best existing examples (Agency + Drysdale Customer Bubble):
+Based on your best existing examples (Agency + the HNW-investing coach Customer Bubble):
 
 ```
 ICP DOCUMENT

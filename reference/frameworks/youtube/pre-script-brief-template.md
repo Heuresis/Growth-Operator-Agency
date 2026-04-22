@@ -5,7 +5,7 @@
 ## Source / Lineage
 
 - the content OS director (brief-first video production)
-- the acquisition economist (pre-production briefs from acquisition.com)
+- the acquisition economist (pre-production briefs from a portfolio holding company)
 - Standard YouTube agency pre-production workflow
 
 ---

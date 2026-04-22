@@ -4,7 +4,7 @@
 
 ## Source / Lineage
 
-- **MODULE 6: THE SCIENTIFIC METHOD** (The YouTube Architect Blueprint)
+- **MODULE 6: THE SCIENTIFIC METHOD** (The YouTube architecture playbook)
 - **COMPETENCY #4: DATA ANALYTICS & PATTERN RECOGNITION** (Module 1)
 - **MODULE 6 — Thumbnail Testing Protocol** (native A/B test procedure)
 

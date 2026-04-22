@@ -1,6 +1,6 @@
 # the VSL director 15-Step VSL — Variant A
 
-> **Source:** the VSL director — *8-Figure VSL Blueprint* · Proof: $129M+ (The Real World), $50M+ (Jordan Lee), $25M+ (Digital Launchpad), $10M+ (Champs Only)
+> **Source:** the VSL director — *8-Figure VSL Blueprint* · Proof: $129M+ (a creator-economy program), $50M+ (a high-ticket operator), $25M+ (a creator-agency program), $10M+ (a sales-training niche)
 > **Target conversion:** 10%+
 > **Runtime:** 20-45 min typical
 
@@ -60,8 +60,8 @@ For shorter VSLs (8-12 min paid-cold variant), compress the 15 steps into 5 phas
 ## Source
 
 - `reference/operators/vsl-director.md`
-- the VSL director Notion process hub: `2d939dd823e780199a38f34fd05f6bd2`
-- VSL Architecture Complete System: `30539dd823e781b19c0aff6d1a41b62b`
+- the VSL director Notion process hub: `{NOTION_ID}`
+- VSL Architecture Complete System: `{NOTION_ID}`
 
 ---
 *v1.0 — 2026-04-19.*

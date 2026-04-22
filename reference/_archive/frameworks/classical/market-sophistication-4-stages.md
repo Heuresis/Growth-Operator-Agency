@@ -1,6 +1,6 @@
 # Market Sophistication — the VSL director 4-Stage (via awareness-spectrum research)
 
-> **Source:** the VSL director (adapted from the awareness-spectrum author *Breakthrough Advertising* 5-stage)
+> **Source:** the VSL director (adapted from the awareness-spectrum author the mid-20th-century market-awareness monograph 5-stage)
 > **Status:** Foundational — referenced by /build-positioning, /research, /ad-creative.
 
 ## The 4 Stages
@@ -128,7 +128,7 @@ Operators who see a market reaching Stage 4 often shift to a Stage 1-2 adjacent 
 
 ## Sources
 
-- the awareness-spectrum author, *Breakthrough Advertising* (original 5-stage — the VSL director adapted to 4)
+- the awareness-spectrum author, the mid-20th-century market-awareness monograph (original 5-stage — the VSL director adapted to 4)
 - the VSL director — market sophistication in Foundations + Positioning
 - the offer architect — headwinds/tailwinds commentary on market stage
 - `reference/operators/vsl-director.md`

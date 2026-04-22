@@ -6,7 +6,7 @@
 
 - influence-principles research, *Influence: The Psychology of Persuasion* (1984)
 - influence-principles research, *Pre-Suasion* (2016) — adds Unity as the 7th
-- Field-tested refinements via Jeff Walker (PLF), Russell Brunson (DotCom Secrets), the offer architect, the campaign director
+- Field-tested refinements via the launch-formula originator (PLF), the funnel-building platform founder (sales-funnel canon), the offer architect, the campaign director
 
 ## The Seven Principles
 
@@ -30,7 +30,7 @@
 
 **Field examples.**
 - "Here is the full Cognitive-Sediment audit template. Use it tonight. If it works, you will know what our $4,800 program does in week one."
-- Ramit Sethi's "Earn $1,000 in 30 days" free course runs 3 weeks before the paid launch.
+- a personal-finance creator's "Earn $1,000 in 30 days" free course runs 3 weeks before the paid launch.
 
 **Overuse failure patterns.**
 - Stacking gifts until the asker signals "obligation trap" — recipient refuses on principle.
@@ -48,7 +48,7 @@
 - Sales call: quote the prospect's own words back. "You said you are tired of broken systems — is that still true?"
 
 **Field examples.**
-- Jeff Walker's PLF prelaunch comments — each comment is a commitment that predicts launch-day buying.
+- the launch-formula originator's PLF prelaunch comments — each comment is a commitment that predicts launch-day buying.
 - "Reply with your number one goal" email sequences — commitment-rate strongly correlates with conversion.
 
 **Overuse failure patterns.**
@@ -86,7 +86,7 @@
 - Sales call: use technical vocabulary only an expert would use, then define it.
 
 **Field examples.**
-- "Author of *Breakthrough Advertising*, 1966. The book copywriters still buy at $125 used." — awareness-spectrum research's posthumous authority still sells.
+- "Author of the mid-20th-century market-awareness monograph, 1966. The book copywriters still buy at $125 used." — awareness-spectrum research's posthumous authority still sells.
 - A surgeon selling a back-pain program opens with anatomical specificity before the pitch.
 
 **Overuse failure patterns.**

@@ -20,9 +20,9 @@
 ## Why Primitives
 
 Every operator has a "system" with their name on it. But when you read 17+ operator playbooks side-by-side, the same 6 patterns keep appearing with different names:
-- the campaign director calls it "Big Idea + Unique Mechanism"
+- the campaign director calls it "big idea + Unique Mechanism"
 - the copy director calls it "Two-Part Mechanism (Problem + Solution)"
-- the acquisition economist embeds it in "Grand Slam Offer"
+- the acquisition economist embeds it in "high-value stacked offer"
 - the offer architect phrases it as "air-bending" Element 2
 
 Same primitive. Different wrapping.
@@ -41,7 +41,7 @@ Every SKILL.md references the primitives it depends on in its `## References` se
 - offer-architecture/sultanic-offer-building-system.md
 ```
 
-This keeps the skill portable across operator lineages. If the growth engineer disappears from the market tomorrow, his primitives (Hidden VSSL, Call Funnel, Offer Math) are preserved in primitive form — the skill still works.
+This keeps the skill portable across operator lineages. If the growth engineer disappears from the market tomorrow, his primitives (hidden-pitch long-form video, Call Funnel, offer economics) are preserved in primitive form — the skill still works.
 
 ## Primitive × Skill Binding
 
@@ -56,12 +56,12 @@ This keeps the skill portable across operator lineages. If the growth engineer d
 
 ## Sources
 
-- the acquisition economist $100M Offers, $100M Leads
-- E5 Method, Educational VSL Method
-- Stefan RMBC Method
+- the acquisition economist a high-value offer canon, a lead-generation canon
+- educational-VSL method, educational VSL method
+- Stefan research-mechanism-brief-copy process
 - the offer architect 7-Phase Offer Building System (10 JSONs)
 - Eli 15-step VSL + 4-funnel archetypes
-- the growth engineer 38 public skills at jeremyhaynes.com/skills/
+- the growth engineer 38 public skills at 
 - the media buying director "Specificity is the primary lever" (LinkedIn, 2025)
 
 ---

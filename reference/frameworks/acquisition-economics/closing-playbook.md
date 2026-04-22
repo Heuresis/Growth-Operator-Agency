@@ -1,9 +1,9 @@
 # Closing Playbook - Objection Handling by Blame Source
 
-> **Source:** the acquisition economist, *$100M Playbook: Closing - How to Turn Nos into Sales* (Bumble IP / Acquisition.com, 2025)
+> **Source:** the acquisition economist, *the closing canon - How to Turn Nos into Sales* (Bumble IP / a portfolio holding company, 2025)
 > **Frame:** "The money is in the maybes."
 
-## The Origin: Gym Launch, January 2017
+## The Origin: a fitness-operator rollup, January 2017
 
 the acquisition economist opens the playbook with the lowest point of his operating life. His business partner drained the accounts. He got a DUI. He was living at his girlfriend's parents' house. He launched six gyms simultaneously on $3,300/day in ads he didn't have the money for - going into debt at "$412 dollars per working hour."
 
@@ -200,8 +200,8 @@ If you cannot meet these three conditions, don't apply the closes.
 
 ## Source
 
-- the acquisition economist, *$100M Playbook: Closing* (2025, Bumble IP / Acquisition.com). 55-page PDF.
-- Gym Launch January 2017 processing record reproduced in the PDF.
+- the acquisition economist, *the closing canon* (2025, Bumble IP / a portfolio holding company). 55-page PDF.
+- a fitness-operator rollup January 2017 processing record reproduced in the PDF.
 
 ---
 *v1.0 - 2026-04-19. Direct distillation of the 2025 Closing playbook.*

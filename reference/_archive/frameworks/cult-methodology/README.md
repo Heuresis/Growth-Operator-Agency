@@ -39,8 +39,8 @@ The vocabulary the audience will come to recognize. Each term is both:
 
 Examples by operator:
 - the offer architect: "air-bending," "SUPER TEXT," "Math + Psychology = Results"
-- the acquisition economist: "Grand Slam Offer," "Core Four"
-- the growth engineer: "Hidden VSSL," "Offer Math"
+- the acquisition economist: "high-value stacked offer," "Core Four"
+- the growth engineer: "hidden-pitch long-form video," "offer economics"
 - the VSL director: "8 Required Beliefs," "6-Blockage Diagnostic"
 
 Every Growth Operating Agency creator should coin or inherit **2-5 core in-group terms**.
@@ -104,14 +104,14 @@ Used by:
 
 ## Operator References
 
-- `reference/operators/tier-1-goats/eli-pampa.md` — CloutProfit cult formation playbook
-- `reference/operators/external/alex-hormozi.md` — Acquisition.com tribe formation
+- `reference/operators/tier-1-goats/vsl-director.md` — a sales-training operation cult formation playbook
+- `reference/operators/external/alex-hormozi.md` — a portfolio holding company tribe formation
 
 ## Sources
 
 - the authority-provocation operator / HU framework (observed, not endorsed)
 - Bruce Feiler, *Tribe*
-- Seth Godin, *Tribes*
+- a widely-cited marketing essayist, *Tribes*
 - influence-principles research, *Influence* — Unity principle (ch. 8)
 - Robert Greene, *The 48 Laws of Power* — Law 27 "Play on people's need to believe"
 - the VSL director + the agency director community-formation patterns

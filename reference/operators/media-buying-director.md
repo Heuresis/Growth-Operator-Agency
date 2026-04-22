@@ -1,8 +1,8 @@
 # the media buying director — Canonical Operator Playbook
 
-**URL:** https://www.youtube.com/@EvanSeech12 · https://www.linkedin.com/in/evan-seech-307a59151/ · https://x.com/evanseech · https://www.skool.com/@evan-seech-8768 · podcast: *Sell More Online w/ the media buying director*
-**Business:** Founder, **Sell More Online**. 8+ years paid-media operator. $50M+ client revenue generated through ads (LinkedIn positioning). Focus verticals: B2B, coaching, consulting, agencies, info-product, law firms.
-**Core IP:** Facebook/Meta ad **testing and scaling** methodology. Canonical thesis: "the main difference between ads that scale and ads that flop is **specificity**."
+**URL:** https://www. · https://www.linkedin.com/in// · https:// · https://www.skool.com/@ · podcast: *the media buying director podcast*
+**Business:** Founder, **a paid-media podcast**. 8+ years paid-media operator. $50M+ client revenue generated through ads (LinkedIn positioning). Focus verticals: B2B, coaching, consulting, agencies, info-product, law firms.
+**Core IP:** Meta-ad **testing and scaling** methodology. Canonical thesis: "the main difference between ads that scale and ads that flop is **specificity**."
 
 ## Canonical frameworks (extracted from LinkedIn posts, podcast, bio)
 
@@ -10,7 +10,7 @@
 Stated canonical principle (LinkedIn, 2025):
 > "After 7 years running ads across B2B and coaching... the main difference between ads that scale and ads that flop is **specificity**."
 
-Specificity applies across five dimensions Evan teaches:
+Specificity applies across five dimensions:
 1. **Audience specificity** — named avatar > demographic cluster.
 2. **Problem specificity** — one precise pain > a category of pain.
 3. **Mechanism specificity** — named method > generic outcome.
@@ -21,7 +21,7 @@ Specificity applies across five dimensions Evan teaches:
 From his signature LinkedIn post/template. The protocol (reconstructed from public post titles + podcast themes): test at the **creative-family** level, not the ad level. Hold audience + placement constant; vary hook/angle/offer positioning on disciplined cycles. Scale winners via budget duplication, not manual bid increases.
 
 ### 3. Multi-channel Specificity Stack
-*Sell More Online* covers funnels, ads, content, cold outreach, sales, landing pages, email, across Facebook, Instagram, YouTube, TikTok, LinkedIn. Invariant held across channels: *specificity wins on every surface.*
+*a paid-media podcast* covers funnels, ads, content, cold outreach, sales, landing pages, email, across Facebook, Instagram, YouTube, TikTok, LinkedIn. Invariant held across channels: *specificity wins on every surface.*
 
 ### 4. Vertical-Specific Ad Playbooks
 Named verticals: coaching, consulting, agencies, info-product, law firms. Each has a the media buying director playbook (public podcast episodes). Law-firm and coaching playbooks are the most publicly documented.
@@ -51,9 +51,9 @@ Named verticals: coaching, consulting, agencies, info-product, law firms. Each h
 
 ## YouTube Content Encoding
 
-> Added 2026-04-19 — Phase J external encoding. Sources: the media buying director's "Top-1% Facebook Ad Testing" LinkedIn post/template and three representative podcast episodes from *Sell More Online w/ the media buying director*. Specific CPR thresholds and vertical-level KPI numbers are tagged `[UNVERIFIED]` unless corroborated from his public LinkedIn positioning.
+> Added 2026-04-19 — Phase J external encoding. Sources: the media buying director's "Top-1% Facebook Ad Testing" LinkedIn post/template and three representative podcast episodes from *the media buying director podcast*. Specific CPR thresholds and vertical-level KPI numbers are tagged `[UNVERIFIED]` unless corroborated from his public LinkedIn positioning.
 
-### Methodology — "How to test Facebook ads like the top 1%" — `https://www.linkedin.com/in/evan-seech-307a59151/` (LinkedIn post/template) + podcast reinforcement
+### Methodology — "How to test Facebook ads like the top 1%" — `https://www.linkedin.com/in//` (LinkedIn post/template) + podcast reinforcement
 
 **Runtime:** [UNVERIFIED — podcast treatment estimated 30–60 min; LinkedIn post is a written template]
 **Core thesis:** The bottom 99% of Facebook ad operators test at the ad level and scale by raising budgets; the top 1% test at the creative-family level and scale by duplication. Specificity is the single lever that separates ads that scale from ads that flop.
@@ -79,7 +79,7 @@ Named verticals: coaching, consulting, agencies, info-product, law firms. Each h
 - Operators at <$5K/mo ad spend do not have the creative throughput to run 5–10 creative families per test cycle — the protocol requires a minimum production rate.
 - Brand/awareness campaigns on longer attribution windows will not show clean CPR signals inside the test cycle; the protocol is direct-response-native.
 
-### Podcast Episode — Agency-scaling vertical — `https://www.skool.com/@evan-seech-8768` / podcast *Sell More Online w/ the media buying director*
+### Podcast Episode — Agency-scaling vertical — `https://www.skool.com/@` / podcast *the media buying director podcast*
 
 **Runtime:** [UNVERIFIED — typical episode estimated 30–50 min]
 **Core thesis:** Agency owners plateau not because ads stop working, but because the agency's own acquisition funnel is a derivative of client work rather than a first-class system. The fix is to treat the agency's own ads with the same rigor applied to clients.
@@ -100,7 +100,7 @@ Named verticals: coaching, consulting, agencies, info-product, law firms. Each h
 - Book the agency's own creative review into the same cadence as the top client's creative review.
 - If the agency's positioning is horizontal, decide whether to narrow — or accept a CPR penalty as structural.
 
-### Podcast Episode — Ad-buying vertical — podcast *Sell More Online w/ the media buying director*
+### Podcast Episode — Ad-buying vertical — podcast *the media buying director podcast*
 
 **Runtime:** [UNVERIFIED]
 **Core thesis:** Media-buying skill is often a camouflage for offer weakness. A strong offer runs profitably on average buying; a weak offer cannot be rescued by elite buying.
@@ -121,7 +121,7 @@ Named verticals: coaching, consulting, agencies, info-product, law firms. Each h
 - Plan creative production capacity to match the scale trajectory — otherwise the scale trajectory caps itself.
 - Treat $50/day → $5K/day as a 2–4 month engineered ramp, not a single campaign decision.
 
-### Podcast Episode — High-ticket client acquisition — podcast *Sell More Online w/ the media buying director*
+### Podcast Episode — High-ticket client acquisition — podcast *the media buying director podcast*
 
 **Runtime:** [UNVERIFIED]
 **Core thesis:** High-ticket client acquisition via Meta requires the ad account to hand off to a disciplined call funnel; the ad account and the call funnel are one system, not two.

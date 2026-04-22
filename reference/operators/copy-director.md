@@ -1,10 +1,10 @@
 # the copy director — Canonical Operator Playbook
 
-**URL:** https://www.stefanpaulgeorgi.com/the-rmbc-method-for-better-copy/ · https://www.rmbcmethod.com/
-**Business:** Direct-response copywriter; created **RMBC Method** in 2014 to produce 12+ sales letters per month. Claims his method has "generated over $100M annually for a publisher" and produced several top-10 ClickBank offers.
-**Core IP:** **RMBC Method** — a 4-phase, modular framework that decomposes sales-letter writing into research, unique-mechanism design, a structured brief, and finally the copy itself. Canonical contribution to modern direct response: *the Mechanism as a two-part structure* (problem mechanism + solution mechanism).
+**URL:** https://www. · https://www./
+**Business:** Direct-response copywriter; created **research-mechanism-brief-copy process** in 2014 to produce 12+ sales letters per month. Claims his method has "generated over $100M annually for a publisher" and produced several top-10 ClickBank offers.
+**Core IP:** **research-mechanism-brief-copy process** — a 4-phase, modular framework that decomposes sales-letter writing into research, unique-mechanism design, a structured brief, and finally the copy itself. Canonical contribution to modern direct response: *the Mechanism as a two-part structure* (problem mechanism + solution mechanism).
 
-## Canonical framework — The RMBC Method
+## Canonical framework — The research-mechanism-brief-copy process
 
 ### R — Research
 Gain a deep understanding of prospect demographics, beliefs, pain points, prior solutions tried.
@@ -64,7 +64,7 @@ Stefan's full outline is 53 bullets underneath these seven headers.
 
 ## Signature framing
 > "RMBC stands for Research, Mechanism, Brief, and Copy. A four-step process to consistently write better-converting sales copy in less time."
-> — stefanpaulgeorgi.com/the-rmbc-method-for-better-copy
+> — /research-mechanism-brief-copy process
 >
 > "Replicable, modular, and templatized" — Stefan's self-descriptor for the method.
 
@@ -75,4 +75,4 @@ Stefan's full outline is 53 bullets underneath these seven headers.
 - `/rmbc-7-section-copy-outline` → Lead → Story → Problem Mech → Solution Mech → Build-up → Close → FAQ (Copy structure)
 - `/copy-velocity-12-per-month` → Operator-level output cadence (Copy ops)
 
-**Encoding status:** COMPLETE — the 4 phases, 7-section copy outline, and two-part mechanism captured verbatim from stefanpaulgeorgi.com. The 53-bullet full outline sits behind the RMBC course paywall; not a web-encoding gap.
+**Encoding status:** COMPLETE — the 4 phases, 7-section copy outline, and two-part mechanism captured verbatim from . The 53-bullet full outline sits behind the RMBC course paywall; not a web-encoding gap.

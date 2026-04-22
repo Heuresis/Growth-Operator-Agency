@@ -4,8 +4,8 @@
 
 ## Source / Lineage
 
-- **The YouTube Architect Blueprint** — root file (8 modules across 4 parts).
-- Synthesis of 15+ years of testing, 10,000+ videos, 1+ billion views. Tested against creator-native methodology, Ali Abdaal, the acquisition economist, Y Combinator, ClickUp and more.
+- **The YouTube architecture playbook** — root file (8 modules across 4 parts).
+- Synthesis of 15+ years of testing, 10,000+ videos, 1+ billion views. Tested against creator-native methodology, an education-creator, the acquisition economist, Y Combinator, ClickUp and more.
 
 ---
 
@@ -63,7 +63,7 @@
 
 **Scope:** Pre-production execution. The content brief template (60-90 min to fill, saves 3-5 hours of revisions). The production-ready script format (host + editor + reviewer audiences). Writing for voice vs. reading. 20-formula hook library. 7 transition types. Script review checklist (STRUCTURE / FLOW / VOICE / ENGAGEMENT / PRODUCTION / FULFILLMENT / LENGTH).
 
-**The Dragonfruit Script Structure:**
+**The the YouTube-architect script structure:**
 - **Intro (max 50 words, 20 sec):** 0-4s restate title keywords, 4-15s state EQ, 15-20s promise unique value.
 - **Body:** YouTube 3-act = Hook + EQ → Rising Tension + Value Delivery → Climax. No denouement.
 - **Answer structure (repeat 3x):** abstract → specific → problem with it → necessitates next answer.
@@ -111,7 +111,7 @@
 
 **Encoding status:** The Module 7 file in the source export is empty (marker: UNDER CONSTRUCTION). The above scope is taken from the root Blueprint's Part 4 outline. [UNVERIFIED — Module 7 body content not present in the source export.]
 
-**the backend economist-specific extension (from EP83 and CFR #777, not in the Blueprint file):**
+**the backend economist-specific extension (from EP83 and a funnel-building platform podcast #777, not in the Blueprint file):**
 - At 8-figure scale, backend carries the P&L. Front-end pays for itself.
 - Email marketing is the backend compounding layer.
 - Call-funnel architecture is the 8-figure coaching stack.
@@ -162,5 +162,5 @@ The Blueprint's root file explicitly states: "Each module stands alone but stren
 ## What the 8-Module Architecture does NOT include
 
 - Unit-economics scorecard (not in the Blueprint; see `unit-economics-benchmarks.md` for the backend economist-specific thresholds and [UNVERIFIED] tags).
-- Call-funnel architecture (the backend economist's WarriorBabe IP, lives in `reference/operators/backend-economist.md` EP83 breakdown).
-- Specific offer design (see the campaign director's E5 Method or the acquisition economist's $100M Offers for offer economics).
+- Call-funnel architecture (the backend economist's a women-40+ fitness coaching business IP, lives in `reference/operators/backend-economist.md` EP83 breakdown).
+- Specific offer design (see the campaign director's educational-VSL method or the acquisition economist's a high-value offer canon for offer economics).
