@@ -49,8 +49,6 @@ No subscription. No signup. No platform to learn. A folder you own, forever.
    /plan-launch       → 5-phase launch plan
    ```
 
-Works with any autonomous agentic runtime — **Paperclip · Canopy · Claude Agent SDK · BusinessOS · Claude Code · Cursor · Codex · Aider · ChatGPT**, or any HTTP-driven orchestrator that reads markdown.
-
 Full setup: **[Quickstart](docs/QUICKSTART.md)** · 30 minutes.
 
 ## Runs as an autonomous agentic system
