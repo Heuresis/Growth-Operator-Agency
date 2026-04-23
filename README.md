@@ -1,13 +1,8 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/growth-operating-agency-wordmark-dark.svg">
-  <img alt="Growth Operating Agency" src="docs/assets/growth-operating-agency-wordmark-light.svg" width="520">
-</picture>
+# Growth Operating Agency
 
-<br/>
-
-<p><strong>A creator business, run by agents. In one folder.</strong></p>
+**A creator business, run by agents. In one folder.**
 
 <p>
   <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/version-1.0.0-09090b?style=flat-square&labelColor=09090b&color=52525b" alt="Version"></a>
