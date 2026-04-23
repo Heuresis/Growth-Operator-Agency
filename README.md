@@ -1,6 +1,6 @@
 <div align="center">
 
-# **GROWTH OPERATING AGENCY**
+# **GROWTH OPERATOR AGENCY**
 
 **An autonomous agentic workspace for high-ticket creator businesses. In one folder.**
 
