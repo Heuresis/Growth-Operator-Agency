@@ -2,7 +2,7 @@
 
 # **GROWTH OPERATING AGENCY**
 
-**A creator business, run by agents. In one folder.**
+**An autonomous agentic workspace for high-ticket creator businesses. In one folder.**
 
 <p>
   <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/version-1.0.0-09090b?style=flat-square&labelColor=09090b&color=52525b" alt="Version"></a>
@@ -17,11 +17,15 @@
 
 <br/>
 
-An open-source workspace of 41 agents organized into 7 departments — Foundations, Marketing, Nurture, Sales, Launch, Scale, Partnerships — that run the operations of a high-ticket creator business.
+> **The agent is thin. The workspace is smart. The workspace IS the product.**
 
-You fill in the context. The agents execute. You stay in the loop only where your judgment counts.
+An open-source encoded workspace of **41 agents and 36 skills** that runs the full operations of a high-ticket creator business — research, offer, funnel, content, nurture, sales, launch, scale.
 
-**Every cycle, the folder runs more of the work.**
+Runtime-agnostic. Plug it into any autonomous agentic runtime — **Paperclip · Canopy · Claude Agent SDK · BusinessOS · Claude Code · Cursor · Codex · any HTTP orchestrator** — and the workspace operates as a 24/7 growth team. Agents trigger on cron, webhook, event, or human call.
+
+You fill the context once. The agents execute. You stay in the loop only where your judgment counts.
+
+**Every cycle, more of the work runs without you.**
 
 No subscription. No signup. No platform to learn. A folder you own, forever.
 
@@ -45,9 +49,26 @@ No subscription. No signup. No platform to learn. A folder you own, forever.
    /plan-launch       → 5-phase launch plan
    ```
 
-Works with Claude Code, Cursor, Aider, ChatGPT, Paperclip, or any agent runtime that reads markdown.
+Works with any autonomous agentic runtime — **Paperclip · Canopy · Claude Agent SDK · BusinessOS · Claude Code · Cursor · Codex · Aider · ChatGPT**, or any HTTP-driven orchestrator that reads markdown.
 
 Full setup: **[Quickstart](docs/QUICKSTART.md)** · 30 minutes.
+
+## Runs as an autonomous agentic system
+
+Every skill ships three adapters so the same workspace runs across every execution surface:
+
+- `adapters/claude-code.md` — slash-command runtime (developer-driven, interactive)
+- `adapters/manifest.yaml` — workspace-manifest runtime (Paperclip, Canopy, BusinessOS, Cursor, any agent-ops platform)
+- `adapters/http.openapi.yaml` — REST contract (Claude Agent SDK, HTTP-driven orchestrators, serverless functions)
+
+Wire it to a scheduler + data triggers (CRM, email, ad platforms, webhooks) and the creator's role compresses from *"produce the work"* to *"approve the work."* The same workspace operates as:
+
+- A **slash-command session** — interactive, creator-driven
+- A **scheduled agent** — cron-triggered, autonomous
+- A **webhook-responsive worker** — event-triggered, reactive
+- An **agent-managed pipeline** — orchestrated across specialists, long-running
+
+Runtime-swappable. Encoding is the asset.
 
 ## Inside the workspace
 
