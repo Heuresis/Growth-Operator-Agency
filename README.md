@@ -1,6 +1,6 @@
 <div align="center">
 
-# Growth Operating Agency
+# **GROWTH OPERATING AGENCY**
 
 **A creator business, run by agents. In one folder.**
 
