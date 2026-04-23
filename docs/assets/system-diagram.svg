@@ -95,7 +95,7 @@
 
   <!-- Runtime row -->
   <text class="mono spec-label graphite" x="120" y="882">Runtime</text>
-  <text class="mono ink spec" x="290" y="882">claude-code · cursor · codex · http+openapi · workspace-manifest · any orchestrator</text>
+  <text class="mono ink spec" x="290" y="882">paperclip · canopy · claude agent sdk · claude-code · cursor · http+openapi · any agent runtime</text>
 
   <!-- Thin rule below runtime -->
   <line class="hair" x1="120" y1="908" x2="1480" y2="908"/>
