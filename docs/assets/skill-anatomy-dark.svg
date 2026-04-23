@@ -13,10 +13,6 @@
 
   <rect width="1200" height="760" fill="#000000"/>
 
-  <text class="s-label" x="600" y="56" font-size="12" fill="#71717a" text-anchor="middle">Growth  ·  skill anatomy</text>
-  <text class="s-title" x="600" y="96" font-size="34" fill="#fafafa" text-anchor="middle">Every skill is a folder.</text>
-  <text class="s-sub" x="600" y="130" font-size="16" fill="#a1a1aa" text-anchor="middle">One runtime-agnostic canonical. Four supporting directories. One binding per runtime.</text>
-
   <g transform="translate(450 200)">
     <rect x="0" y="0" width="300" height="100" fill="#fafafa" stroke="#fafafa" stroke-width="1.5" rx="12"/>
     <text class="s-label" x="150" y="30" font-size="10" fill="#b45309" text-anchor="middle">RUNTIME-AGNOSTIC CANONICAL</text>
@@ -73,8 +69,5 @@
 
   <g transform="translate(100 610)">
     <rect x="0" y="0" width="1000" height="96" fill="none" stroke="#27272a" stroke-width="1" rx="10" stroke-dasharray="4 4"/>
-    <text class="s-label" x="32" y="32" font-size="11" fill="#d97706">INV-10  ·  RUNTIME-AGNOSTIC FILE CONTRACT</text>
-    <text class="s-sub" x="32" y="58" font-size="14" fill="#fafafa">Skills are written once. Adapters bind the same skill into whatever runtime is reading the workspace.</text>
-    <text class="s-code" x="32" y="80" font-size="12" fill="#a1a1aa">A skill written today works unchanged on any future runtime that reads markdown + YAML.</text>
-  </g>
+    </g>
 </svg>

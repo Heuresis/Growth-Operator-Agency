@@ -37,11 +37,7 @@
   </g>
 
   <g transform="translate(560 0)">
-    <text class="hb-label" x="0" y="200" font-size="13">A  HEURESIS  WORKSPACE</text>
-
     <text class="hb-title" x="0" y="324" font-size="90">Growth Operating Agency</text>
-
-    <text class="hb-subtitle" x="0" y="380" font-size="26">The encoded workspace template for high-ticket operators.</text>
 
     <line x1="0" y1="420" x2="72" y2="420" stroke="#d97706" stroke-width="2" stroke-linecap="square"/>
 

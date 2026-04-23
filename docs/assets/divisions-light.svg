@@ -15,10 +15,6 @@
 
   <rect width="1200" height="760" fill="#ffffff"/>
 
-  <text class="d-label" x="600" y="56" font-size="12" fill="#71717a" text-anchor="middle">Growth  ·  7 departments</text>
-  <text class="d-title" x="600" y="96" font-size="34" fill="#09090b" text-anchor="middle">One CEO. Seven departments.</text>
-  <text class="d-sub" x="600" y="130" font-size="16" fill="#52525b" text-anchor="middle">Each department is a self-functioning business block.</text>
-
   <g transform="translate(40 180)">
     <rect x="0" y="0" width="265" height="240" fill="#fafafa" stroke="#e4e4e7" stroke-width="1" rx="12"/>
     <text class="d-num" x="24" y="48" font-size="28" fill="#d4d4d8">01</text>
