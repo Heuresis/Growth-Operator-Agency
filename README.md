@@ -13,7 +13,7 @@
 
 <br/>
 
-<img alt="Growth Operator Agency workspace — live VSL drafting, agent activity, signals" src="docs/assets/hero-workspace-dark.png" width="100%">
+<img alt="Growth Operator Agency workspace — live VSL drafting, agent activity, signals" src="docs/assets/hero-workspace.png" width="100%">
 
 <p align="center"><em>Your creator business, in one folder.</em></p>
 
@@ -21,7 +21,7 @@
 
 > **The agent is thin. The workspace is smart. The workspace IS the product.**
 
-**41 agents running 7 departments** of your creator business — research, offer, funnel, content, nurture, sales, launch, scale, partnerships. Each agent carries *your* judgement. Your pricing logic. Your sales scripts. Your quality standards.
+A team of AI agents running every department of your creator business. Each agent carries *your* judgement. Your pricing logic. Your sales scripts. Your quality standards.
 
 Not workflow automation. Encoded intent. The agents don't just follow rules — they make decisions the way you would, read signals the way you read them, and get sharper every cycle.
 
@@ -54,9 +54,25 @@ Works with Claude, ChatGPT, Cursor, or any AI tool that reads files.
 
 Full setup: **[Quickstart](docs/QUICKSTART.md)** · 30 minutes.
 
+## What's inside the folder
+
+```
+growth-operator-agency/
+├── SYSTEM.md             ← who the agents are, how they think, the hard rules
+├── company.yaml          ← your business, your voice, your context
+├── departments/          ← 7 folders — sales, marketing, nurture, launch, scale…
+├── agents/               ← 41 AI specialists, one per job
+├── skills/               ← 36 skills the agents know how to run
+├── reference/            ← playbooks, frameworks, swipe files, templates
+├── workflows/            ← multi-step automations (cron, webhook, event)
+└── outputs/              ← every document the folder produces
+```
+
+Each file is plain text. Each folder is owned by you. Nothing is locked behind an app.
+
 ## Every layer of the funnel. Every angle tested.
 
-<img alt="Growth Operator Agency — landing page, 7 funnel layers, and 8 variants live-tested" src="docs/assets/hero-funnel-light.png" width="100%">
+<img alt="Growth Operator Agency — landing page, 7 funnel layers, and 8 variants live-tested" src="docs/assets/hero-funnel.png" width="100%">
 
 <p align="center"><em>Launch every angle. Ship the winners.</em></p>
 
@@ -102,12 +118,12 @@ Each department is not a set of rules. Each is a full department rebuilt as agen
 
 ## Runs in any compatible agent runtime
 
-The workspace is files. Files run anywhere that reads files. Every skill ships three adapters so the same workspace operates across every execution surface:
+The workspace is files. Files run anywhere that reads files.
 
 - **[Paperclip](https://github.com/paperclip-dev/paperclip)** — open-source agentic runtime with cron, webhook, and event triggers
-- **Claude** · **ChatGPT** · **Cursor** — for interactive sessions and slash-command execution
-- **Claude Agent SDK** — for API-driven orchestration
-- **BusinessOS** — the desktop operating environment for operator teams
+- **Claude** · **ChatGPT** · **Cursor** — interactive sessions and slash-command execution
+- **Claude Agent SDK** — API-driven orchestration
+- **BusinessOS** — desktop operating environment for operator teams
 - Any HTTP orchestrator that speaks OpenAPI
 
 Runtime-swappable. Your workspace is the asset. The runtime is replaceable.
