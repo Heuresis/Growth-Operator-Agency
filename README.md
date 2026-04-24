@@ -1,8 +1,12 @@
 <div align="center">
 
-# **GROWTH OPERATOR AGENCY**
+<img alt="Growth Operator Agency" src="docs/assets/hero-banner-light.svg" width="100%">
 
-**An autonomous agentic workspace for high-ticket creator businesses. In one folder.**
+<br/>
+
+<h1>Growth Operator Agency</h1>
+
+<p><strong>Launch every angle. Ship the winners.</strong></p>
 
 <p>
   <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/version-1.0.0-09090b?style=flat-square&labelColor=09090b&color=52525b" alt="Version"></a>
@@ -13,19 +17,17 @@
 
 <br/>
 
-<img alt="Growth Operating Agency — system diagram" src="docs/assets/system-diagram.svg" width="100%">
+<img alt="Growth Operator Agency workspace — live VSL drafting, agent activity, signals" src="docs/assets/hero-workspace-dark.png" width="100%">
+
+<p align="center"><em>Your creator business, in one folder.</em></p>
 
 <br/>
 
-> **The agent is thin. The workspace is smart. The workspace IS the product.**
+A folder of **41 agents and 36 skills** that produces every document a high-ticket creator business runs on — landing pages, video sales letters, email sequences, ads, sales scripts, launch plans, team SOPs.
 
-An open-source encoded workspace of **41 agents and 36 skills** that runs the full operations of a high-ticket creator business — research, offer, funnel, content, nurture, sales, launch, scale.
+You fill in the context once. AI writes the documents. You review, approve, ship.
 
-Runtime-agnostic. Plug it into any autonomous agentic runtime — **Paperclip · Canopy · Claude Agent SDK · BusinessOS · Claude Code · Cursor · Codex · any HTTP orchestrator** — and the workspace operates as a 24/7 growth team. Agents trigger on cron, webhook, event, or human call.
-
-You fill the context once. The agents execute. You stay in the loop only where your judgment counts.
-
-**Every cycle, more of the work runs without you.**
+**Launch funnels in minutes. Launch creatives in hundreds. Test every angle.**
 
 No subscription. No signup. No platform to learn. A folder you own, forever.
 
@@ -39,38 +41,46 @@ No subscription. No signup. No platform to learn. A folder you own, forever.
 
 2. Fill in `company.yaml` with your business context.
 
-3. Call a department or invoke a skill:
+3. Ask for what you need:
 
    ```
-   /research          → market research brief
-   /build-icp         → customer profile
-   /design-offer      → offer document
-   /build-vsl         → video sales letter
-   /plan-launch       → 5-phase launch plan
+   /research          a market research brief
+   /build-icp         a customer profile
+   /design-offer      an offer document
+   /build-landing     a landing page
+   /build-vsl         a video sales letter
+   /launch-funnel     a 7-layer funnel
+   /generate-ads      hundreds of ad variants
+   /plan-launch       a launch plan
    ```
+
+Works with Claude, ChatGPT, Cursor, or any AI tool that reads files.
 
 Full setup: **[Quickstart](docs/QUICKSTART.md)** · 30 minutes.
 
-## Runs as an autonomous agentic system
+## Every layer of the funnel. Every angle tested.
 
-Every skill ships three adapters so the same workspace runs across every execution surface:
+<img alt="Growth Operator Agency — landing page, 7 funnel layers, and 8 variants live-tested" src="docs/assets/hero-funnel-light.png" width="100%">
 
-- `adapters/claude-code.md` — slash-command runtime (developer-driven, interactive)
-- `adapters/manifest.yaml` — workspace-manifest runtime (Paperclip, Canopy, BusinessOS, Cursor, any agent-ops platform)
-- `adapters/http.openapi.yaml` — REST contract (Claude Agent SDK, HTTP-driven orchestrators, serverless functions)
+<p align="center"><em>Launch every angle. Ship the winners.</em></p>
 
-Wire it to a scheduler + data triggers (CRM, email, ad platforms, webhooks) and the creator's role compresses from *"produce the work"* to *"approve the work."* The same workspace operates as:
+<br/>
 
-- A **slash-command session** — interactive, creator-driven
-- A **scheduled agent** — cron-triggered, autonomous
-- A **webhook-responsive worker** — event-triggered, reactive
-- An **agent-managed pipeline** — orchestrated across specialists, long-running
+Each offer ships with:
 
-Runtime-swappable. Encoding is the asset.
+- **Landing page** — multiple variants, live A/B tested
+- **Video sales letter** — embedded in the landing page, scripted from your ICP and offer
+- **Email sequence** — 7 emails, scheduled across LinkedIn, X, and email
+- **Retargeting ads** — hundreds of creatives, tested by angle
+- **Sales call script** — tuned on objection patterns captured from your calls
+- **Follow-up sequence** — triggered 48 hours after the call
+- **Upsell page** — shipped once the funnel proves out
 
-## Inside the workspace
+Every action leaves a receipt. Every variant tracks its own conversion. Every winner gets promoted. Every paused variant tells you why.
 
-**7 departments. 41 agents. 29 skills.**
+## What you get
+
+**7 departments. 41 agents. 36 skills.**
 
 - **Foundations** — research · ICP · niche · offer · brand voice
 - **Marketing** — content · YouTube · short-form · X · LinkedIn · stories · paid ads · SEO · podcast
@@ -81,18 +91,6 @@ Runtime-swappable. Encoding is the asset.
 - **Partnerships** — JV webinars · affiliate · referral
 
 Built from the playbooks of operators who've run this at scale.
-
-## Every skill is specced
-
-Each of the 36 capabilities ships with the same contract: required inputs, variants, gates, runtime adapters. One example:
-
-<img alt="Skill spec card — /build-vsl" src="docs/assets/skill-spec-card.svg" width="100%">
-
-## The map
-
-<img alt="File tree specimen" src="docs/assets/file-tree-specimen.svg" width="100%">
-
-Full annotated tree: [docs/FILE-TREE.md](docs/FILE-TREE.md)
 
 ## Documentation
 
