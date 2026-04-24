@@ -2,10 +2,10 @@
 
 <h1>Growth Operator Agency</h1>
 
-<p><strong>Launch every angle. Ship the winners.</strong></p>
+<p><strong>A team of agents running your creator business.</strong></p>
 
 <p>
-  <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/version-1.0.0-09090b?style=flat-square&labelColor=09090b&color=52525b" alt="Version"></a>
+  <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/version-1.1.0-09090b?style=flat-square&labelColor=09090b&color=52525b" alt="Version"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-09090b?style=flat-square&labelColor=09090b&color=52525b" alt="License"></a>
 </p>
 
@@ -19,13 +19,13 @@
 
 <br/>
 
-A folder of **41 agents and 36 skills** that produces every document a high-ticket creator business runs on — landing pages, video sales letters, email sequences, ads, sales scripts, launch plans, team SOPs.
+> **The agent is thin. The workspace is smart. The workspace IS the product.**
 
-You fill in the context once. AI writes the documents. You review, approve, ship.
+**41 agents running 7 departments** of your creator business — research, offer, funnel, content, nurture, sales, launch, scale, partnerships. Each agent carries *your* judgement. Your pricing logic. Your sales scripts. Your quality standards.
 
-**Launch funnels in minutes. Launch creatives in hundreds. Test every angle.**
+Not workflow automation. Encoded intent. The agents don't just follow rules — they make decisions the way you would, read signals the way you read them, and get sharper every cycle.
 
-No subscription. No signup. No platform to learn. A folder you own, forever.
+You stay in the loop where your judgement counts. The rest runs while you sleep.
 
 ## Try it
 
@@ -69,14 +69,26 @@ Each offer ships with:
 - **Email sequence** — 7 emails, scheduled across LinkedIn, X, and email
 - **Retargeting ads** — hundreds of creatives, tested by angle
 - **Sales call script** — tuned on objection patterns captured from your calls
-- **Follow-up sequence** — triggered 48 hours after the call
+- **Follow-up sequence** — triggered 48 hours after every call
 - **Upsell page** — shipped once the funnel proves out
 
 Every action leaves a receipt. Every variant tracks its own conversion. Every winner gets promoted. Every paused variant tells you why.
 
+## Runs while you sleep
+
+Wire the workspace into a runtime with **cron, webhook, and event triggers**. The agents keep working without you in the room.
+
+- **Monday 09:00 (cron)** — retention-agent runs a health check on every active client
+- **On `lead.captured` (webhook)** — ICP-match scoring fires, nurture sequence routed
+- **On `launch.cart.closed` (event)** — launch-report generated within 48 hours
+- **Daily 06:00 (cron)** — content-agent queues 4 LinkedIn posts, 2 short-form hooks
+- **Continuous (event)** — retargeting-agent swaps creatives based on CTR
+
+Triggers are declared in [`paperclip.manifest.yaml`](paperclip.manifest.yaml). Wire them to your scheduler and the workspace operates as a 24/7 growth team.
+
 ## What you get
 
-**7 departments. 41 agents. 36 skills.**
+**7 agent-first departments. 41 agents. 36 skills.**
 
 - **Foundations** — research · ICP · niche · offer · brand voice
 - **Marketing** — content · YouTube · short-form · X · LinkedIn · stories · paid ads · SEO · podcast
@@ -86,7 +98,29 @@ Every action leaves a receipt. Every variant tracks its own conversion. Every wi
 - **Scale** — SOPs · team hiring · competitor intel · financial · retention · case studies
 - **Partnerships** — JV webinars · affiliate · referral
 
-Built from the playbooks of operators who've run this at scale.
+Each department is not a set of rules. Each is a full department rebuilt as agent-first — agents that carry your intent, read signals, and make decisions.
+
+## Runs in any compatible agent runtime
+
+The workspace is files. Files run anywhere that reads files. Every skill ships three adapters so the same workspace operates across every execution surface:
+
+- **[Paperclip](https://github.com/paperclip-dev/paperclip)** — open-source agentic runtime with cron, webhook, and event triggers
+- **Claude** · **ChatGPT** · **Cursor** — for interactive sessions and slash-command execution
+- **Claude Agent SDK** — for API-driven orchestration
+- **BusinessOS** — the desktop operating environment for operator teams
+- Any HTTP orchestrator that speaks OpenAPI
+
+Runtime-swappable. Your workspace is the asset. The runtime is replaceable.
+
+## Why this matters
+
+Every founder-led creator business eventually hits the same wall: the founder IS every department. The firm stops when the founder stops.
+
+Encoding changes the shape of the week. Your expertise — pricing logic, qualification instincts, quality standards, the patterns you carry in your head — gets written into agents that run each department on your judgement. The founder stays. The judgement scales. The business compounds.
+
+Every cycle, each department runs it gets sharper. The gap between your firm and every competitor operating off memory widens.
+
+This is the first template in the library. More shipping, vertical by vertical.
 
 ## Documentation
 
