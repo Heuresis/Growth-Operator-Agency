@@ -1,9 +1,5 @@
 <div align="center">
 
-<img alt="Growth Operator Agency" src="docs/assets/hero-banner-light.svg" width="100%">
-
-<br/>
-
 <h1>Growth Operator Agency</h1>
 
 <p><strong>Launch every angle. Ship the winners.</strong></p>
