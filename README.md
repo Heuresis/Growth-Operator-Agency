@@ -120,7 +120,7 @@ Encoding changes the shape of the week. Your expertise — pricing logic, qualif
 
 Every cycle, each department runs it gets sharper. The gap between your firm and every competitor operating off memory widens.
 
-This is the first template in the library. More shipping, vertical by vertical.
+This is the first template in the library. More shipping, vertical by vertical. Every outcome claim we publish traces to a real deployment with a real operator. Thesis, method, and source go public on ideas. Receipts wait their turn.
 
 ## Documentation
 
