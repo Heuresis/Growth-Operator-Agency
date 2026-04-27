@@ -42,7 +42,7 @@ components:
             positioning_doc_ref: { type: string }
             brand_voice_doc_ref: { type: string }
             icp_doc_ref: { type: string }
-            variant_hint: { type: string, enum: [A, B, C, D, E], description: A=Pampa15, B=Hogendoorn11, C=Trister13, D=Benson3X, E=the growth engineer-Hidden }
+            variant_hint: { type: string, enum: [A, B, C, D, E], description: A=15-step-narrative-VSL, B=11-step-pull-push-persuade-VSL, C=13-step-mechanism-VSL, D=3X-conversion-VSL, E=hidden-pitch-long-form-VSL }
         context_profile_id: { type: string }
         options:
           type: object

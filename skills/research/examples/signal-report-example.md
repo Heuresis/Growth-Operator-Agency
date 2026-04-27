@@ -55,7 +55,7 @@ Market: teaching people to build clipping agencies serving live streamers by rep
 | Competitor | Offer | Gap |
 |---|---|---|
 | ClipFlow ($49/mo) | Platform clipping | Teaches freelancing, not agency |
-| IAG Media ($2,497) | Generic SMMA | Not clipping-specific |
+| mid-tier SMMA program ($2,497) | Generic SMMA | Not clipping-specific |
 | YouTube micro-educators | Tutorials | No system |
 | Opus Clip ($29/mo) | AI tool | Makes clips, not businesses |
 | Fujiwara ($2,500-$10K/mo) | Direct service | Agency, not education |

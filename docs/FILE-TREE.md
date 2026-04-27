@@ -191,9 +191,9 @@ reference/
 │
 ├── frameworks/          → 99+ methodology docs, 12 sub-folders
 │   ├── primitives/           → awareness spectrum · impact distribution · limiting-belief triad ·
-│   │                           market hierarchy · market maturity · Cialdini · value equation
+│   │                           market hierarchy · market maturity · the influence canon · value equation
 │   ├── offer-architecture/   → offer system · value stack · mechanism design · risk reversal
-│   ├── esoteric-marketing/   → Sultanic speech acts · engineered dissonance · market psychology
+│   ├── esoteric-marketing/   → esoteric speech-act methodology · engineered dissonance · market psychology
 │   ├── esoteric-offer-architecture/
 │   │                        → esoteric-school of offer building (ritual · initiation · revelation)
 │   ├── vsl/                  → pull-push-persuade · 15-step · 11-belief · hidden-pitch VSSL
@@ -202,17 +202,18 @@ reference/
 │   ├── growth-operating-process/
 │   │                        → 60/40 rule · 40/40/20 impact · sequential dependency
 │   ├── instagram-profile-funnel/
-│   │                        → Foss profile funnel · bio stack · DM conversation → call
+│   │                        → the IG-DM-funnel methodology · bio stack · DM conversation → call
 │   ├── content-os/           → 1→20 repurposing · pillar ratios · platform algorithms
 │   ├── youtube/              → 7 video types · algorithm signals · thumbnail-title testing
 │   ├── backend-economics/    → LTV · CAC · payback · client-financed acquisition
 │   └── acquisition-economics/
 │                            → paid-org blend · 60/30/10 revenue mix · unit econ thresholds
 │
-├── operators/           → 18 archetyped operator playbooks (no names — archetypes)
-│                          Sultanic · Pampa · Varano · Clogg · Haynes · Brunson · Schwartz ·
-│                          Halbert · Hormozi · Slings · Foss · Gadzhi · Hogendoorn · Benson ·
-│                          Trister · Kennedy · Cialdini · Kahneman
+├── operators/           → 18 archetyped operator playbooks (methodology-named, no individuals)
+│                          esoteric-marketing · narrative-VSL · funnel-platform · awareness-spectrum ·
+│                          direct-mail · acquisition-economics · IG-DM-funnel · agency-direction ·
+│                          pull-push-persuade · 3X-conversion · mechanism-VSL · direct-response ·
+│                          influence-canon · cognitive-bias
 │
 ├── platforms/           → 6 platform playbooks
 │                          LinkedIn · Instagram · TikTok · X · Meta Ads · YouTube
@@ -373,7 +374,7 @@ docs/
 ├── SKILL_AUTHORING.md       → how to add a new skill (the 3-layer pattern)
 ├── GLOSSARY.md              → every term in one place
 ├── FAQ.md                   → runtime · privacy · instantiation · quality gates
-├── PROVENANCE.md            → what it rests on + credits (Sultanic · Pampa · Varano · Luna ...)
+├── PROVENANCE.md            → what it rests on + methodology lineage (see PROVENANCE.md)
 └── FILE-TREE.md             → this file
 ```
 
