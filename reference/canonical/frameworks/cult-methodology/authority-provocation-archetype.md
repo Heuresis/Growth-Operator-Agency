@@ -5,11 +5,11 @@
 ## Source / Lineage
 
 - **the authority-provocation operator** — the modern maximal expression of the archetype
-- **Robert Beck "Iceberg Slim"** — the Pimp archetype (1967, *Pimp: The Story of My Life*): frame control, grooming the mark through spectacle, public-identity warfare
-- **George Hormel / Hormel brand archetypes** — the consumer-brand precursor: product as the vessel of a settled identity
-- **Joe Sugarman** — *Triggers* and *Advertising Secrets of the Written Word*: 30 psychological triggers that produce involuntary response (linking, greed, guilt, curiosity)
+- **the original frame-control archetype operator** — the mid-20th-century underworld memoirist (1967): frame control, grooming the mark through spectacle, public-identity warfare
+- **the consumer-brand archetype lineage** — the consumer-brand precursor: product as the vessel of a settled identity
+- **the direct-response trigger framework** — *Triggers* and *Advertising Secrets of the Written Word*: 30 psychological triggers that produce involuntary response (linking, greed, guilt, curiosity)
 - **influence-principles research** — *Influence* + *Pre-Suasion*: consistency, social proof, liking, authority, and (most underused) **identity-unity**
-- **Modern Growth Operator lineage** — a polarising info operator, the funnel-building platform founder, the Southern-hemisphere performance operator, the campaign director, the content OS director, the acquisition economist (softer), Chris the growth engineer (post-earlier-brand)
+- **Modern Growth Operator lineage** — a polarising info operator, the funnel-building platform founder, the Southern-hemisphere performance operator, the campaign director, the content OS director, the acquisition economist (softer), the growth engineer (post-earlier-brand)
 
 The archetype predates social media. Social media just collapsed the distribution cost from "own a nightclub" to "own a ring light."
 
@@ -21,7 +21,7 @@ The archetype predates social media. Social media just collapsed the distributio
 | 2 | Public identity | A name, a nickname, a silhouette, a uniform | "Top G," the cigar, the sunglasses, the Bugatti — visual dogma |
 | 3 | Villain mystique | A credible enemy — ideally one that *returns fire* | The Matrix, mainstream media, fake experts, the 9-to-5 grind |
 | 4 | Broadcast daily | Output volume past saturation (5-20 pieces/day) | Enough that the audience self-references: "he said this yesterday" |
-| 5 | Product as transformation | The product is identity delivery, not education | The War Room sells *becoming one of us*, not a course |
+| 5 | Product as transformation | The product is identity delivery, not education | the maximalist polarizing community product sells *becoming one of us*, not a course |
 | 6 | Anti-establishment frame | "They don't want you to know" + "I'll tell you anyway" | Positioned against: banks, schools, agencies, big tech, the media |
 | 7 | Contradictions as proof | Public failures/arrests/bans become lore, not liability | "They silenced me because I was right" — martyrdom math |
 | 8 | Signature visuals | 3-5 recurring aesthetic motifs the audience can redraw from memory | Cigars, Bugattis, white shirt, the specific camera angle |
