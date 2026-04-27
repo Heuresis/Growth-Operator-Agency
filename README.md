@@ -56,16 +56,68 @@ Full setup: **[Quickstart](docs/QUICKSTART.md)** · 30 minutes.
 
 ## What's inside the folder
 
-```
+```text
 growth-operator-agency/
-├── SYSTEM.md             ← who the agents are, how they think, the hard rules
-├── company.yaml          ← your business, your voice, your context
-├── departments/          ← 7 folders — sales, marketing, nurture, launch, scale…
-├── agents/               ← 41 AI specialists, one per job
-├── skills/               ← 36 skills the agents know how to run
-├── reference/            ← playbooks, frameworks, swipe files, templates
-├── workflows/            ← multi-step automations (cron, webhook, event)
-└── outputs/              ← every document the folder produces
+│
+├── README.md            ←  the pitch
+├── SYSTEM.md            ←  boot file · any AI becomes a growth operator
+├── INVARIANTS.md        ←  28 sacred rules
+├── ENCODING.md          ←  11-compartment schema
+├── company.yaml         ←  YOUR business · fill once
+│
+├── agents/              ←  41 AI specialists · an org chart of a real company
+│      growth-ceo               top orchestrator
+│      7 department heads  ·  33 specialists
+│
+├── skills/              ←  36 capabilities · each produces one asset
+│   │
+│   │   FOUNDATIONS
+│   ├── /research                 Market Research Brief
+│   ├── /build-icp                Ideal Customer Profile
+│   ├── /build-positioning        Positioning Document
+│   ├── /design-offer             Offer Document
+│   └── /extract-voice            Brand Voice Architecture
+│   │
+│   │   MARKETING
+│   ├── /content-calendar         30-day content plan
+│   ├── /ad-creative              Paid ad brief (8 ad types)
+│   ├── /write-linkedin-post      LinkedIn post
+│   ├── /write-reel               Short-form script (10 frameworks)
+│   ├── /write-youtube            Long-form video (7 types)
+│   ├── /write-x-thread           X thread (7 types)
+│   └── /story-sequence           IG story sequence
+│   │
+│   │   NURTURE
+│   ├── /lead-magnet              Lead magnet (9 types)
+│   ├── /email-sequence           Email sequence (8 types)
+│   ├── /webinar-script           Webinar / challenge (6 formats)
+│   └── /post-booking-nurture     Show-rate stack
+│   │
+│   │   SALES
+│   ├── /build-vsl                Video Sales Letter (5 variants)
+│   ├── /build-funnel             Funnel Architecture (15 archetypes)
+│   ├── /sales-script             Discovery → pitch → close
+│   ├── /objection-library        20+ objections × reframes
+│   ├── /call-prep                Pre-call brief
+│   ├── /proposal                 Post-call proposal
+│   ├── /application-form         Qualifying application
+│   ├── /tripwire-design          $7–$97 entry offer
+│   ├── /landing-page             4-page stack
+│   └── /competitor-intel         Competitor teardown
+│   │
+│   │   LAUNCH  ·  SCALE  ·  PARTNERSHIPS
+│   ├── /plan-launch  ·  /launch-report  ·  /build-sop  ·  /hiring-brief
+│   ├── /retention-check  ·  /case-study  ·  /revenue-report
+│   └── /jv-webinar-proposal  ·  /affiliate-program  ·  /referral-program
+│
+└── reference/           ←  the brain that makes skills smart
+    ├── frameworks/             99 methodology docs
+    ├── operators/              18 archetyped playbooks
+    ├── platforms/              6 platform playbooks
+    ├── swipe-file/             170+ hooks · templates · threads · testimonials
+    ├── templates/              20 output templates
+    ├── verticals/              11 vertical packs
+    └── legal-templates/        11 starter legal docs
 ```
 
 Each file is plain text. Each folder is owned by you. Nothing is locked behind an app.
