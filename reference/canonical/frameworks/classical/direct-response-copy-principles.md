@@ -1,4 +1,4 @@
-# the direct-response tradition, the direct-response tradition, Carlton, Hopkins, awareness-spectrum research — Direct-Response Canon
+# Direct-Response Canon — the canonical lineage
 
 > **Why this matters:** The five named below wrote the source code of modern direct-response copywriting. Every VSL, every cold email sequence, every long-form sales page running today is a remix of their rules. Skipping the canon means reinventing broken versions of solved problems.
 
@@ -58,9 +58,9 @@ B-Pile markers:
 - Image-heavy HTML
 - "Hope this finds you well"
 
-## Reason-Why Copy (Hopkins)
+## Reason-Why Copy (the early-20th-century reason-why essayist)
 
-Hopkins, 1923: "Mere claims are worthless. The reader demands the reason."
+The early-20th-century reason-why essay, 1923: "Mere claims are worthless. The reader demands the reason."
 
 Every claim needs a because. Every offer needs a because. Every deadline needs a because.
 
@@ -72,7 +72,7 @@ Every claim needs a because. Every offer needs a because. Every deadline needs a
 
 Rule: no claim ships without a because.
 
-## The Johnson Box (Carlton, inherited from print)
+## The Johnson Box (the Johnson-box tradition, inherited from print)
 
 A boxed pre-headline, top of page, summarizing the pitch in 3–7 lines. Modern landing-page equivalent: the hero section summary beneath the H1.
 
@@ -130,9 +130,9 @@ Before shipping any long-form sales asset:
 | Proof element present and specific | the direct-response tradition |  |
 | Promise stated in headline | the direct-response tradition |  |
 | Story element present (origin/mechanism/villain) | the direct-response tradition |  |
-| Reason-why attached to every claim | Hopkins |  |
+| Reason-why attached to every claim | the reason-why tradition |  |
 | A-Pile hook at entry (subject / headline) | the direct-response tradition |  |
-| Johnson Box or hero summary present | Carlton |  |
+| Johnson Box or hero summary present | the Johnson-box tradition |  |
 | Reading level ≤ 7 (Flesch-Kincaid) | the direct-response tradition |  |
 | P.S. contains close or curiosity hook | the direct-response tradition |  |
 | Specific numbers, not round numbers | the direct-response tradition |  |

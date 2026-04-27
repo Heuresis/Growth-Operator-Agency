@@ -55,7 +55,7 @@ Isomorphic testimonials matched to the prospect. Video of a founder who lost 22 
 
 ### Step 9 - Price Anchoring (22-26 min) [Beliefs #5, #6]
 
-"How much is it worth for your decision quality at 9 of 10 vs 5 of 10? $5M ARR and 40% below peak: 5% growth-trajectory hit is $250K/year. Compare to Equinox Optimize at $40K/year, Dr. Galpin's Arete at $20K+, or assembled separately at $11,900-$18,500/quarter. **FFOS Group Coaching is $3,997/quarter.**"
+"How much is it worth for your decision quality at 9 of 10 vs 5 of 10? $5M ARR and 40% below peak: 5% growth-trajectory hit is $250K/year. Compare to Equinox Optimize at $40K/year, the ultra-premium science-based founder-fitness program at $20K+, or assembled separately at $11,900-$18,500/quarter. **FFOS Group Coaching is $3,997/quarter.**"
 
 ### Step 10 - Guarantee (26-28 min) [Beliefs #3, #7]
 

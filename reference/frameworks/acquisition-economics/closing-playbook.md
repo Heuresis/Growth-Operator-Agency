@@ -107,7 +107,7 @@ If they give a real detail, fix it and close. If they can't, pivot: "Right, well
 - **"Better To Start When You're Busy"**: "The busier you are, the better time it is to start. Because life is always going to have busy seasons, and if you can't figure out how to do it during busy seasons, then this isn't going to last."
 - **"You're Gonna Get Busy Again"**: "Even if you waited until it wasn't busy, you'd get busy again. So you'd stop again the moment you were busy."
 - **"It's Not About Timing, It's About Priorities"**: "Either [goal] is more important than these interruptions, or it's not."
-- **"The Smartphone Close"** (the acquisition economist's personal story): Leila caught him whining about being too busy, pulled out his phone, showed him 20 hours/week on social media. "At the end of the day, you, me, and Jeff Bezos all had the same 24 hours when we started out."
+- **"The Smartphone Close"** (the acquisition economist's personal story): his partner caught him whining about being too busy, pulled out his phone, showed him 20 hours/week on social media. "At the end of the day, you, me, and the wealthiest entrepreneurs all had the same 24 hours when we started out."
 - **"When/Then"**: "Saying 'I'll do it when I have more time' is like 'When I get healthy, then I'll go to the doctor.' It flips the order."
 
 ### Circumstances - Money (Not Enough Value)
@@ -157,7 +157,7 @@ Best closes:
 ### Self (Own Preferences - "not right for me")
 
 - **"Isolate And Solve"**: "What specifically would make it for you vs. not for you?"
-- **"We Vote With Our Dollars About The Things That We Care About"**: Leila/Sephora story about 13-year-old girls being told "women budget for this stuff every month" - the identity-shift reframe.
+- **"We Vote With Our Dollars About The Things That We Care About"**: the partner's beauty-retailer story about 13-year-old girls being told "women budget for this stuff every month" - the identity-shift reframe.
 - **"Pain Of Change Is Less Than The Pain Of Staying The Same"**: "We change when the pain of staying the same is greater than the pain of change."
 - **"You Gotta Change To Change"**: "What you have been doing has been getting you what you've been getting, and you gotta change to change."
 - **"Change The Variables - Change The Outcome"**: "We know these variables, in this order, create this outcome. If you change the variables, you change the outcome."

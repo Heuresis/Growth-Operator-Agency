@@ -6,10 +6,10 @@
 
 - **the offer architect** — *Offer Building System v1.0* (primary), plus the deeper "identity-layer" and "buyer-state" commentary in his private cohort material
 - **the awareness-spectrum author** — the mid-20th-century market-awareness monograph (1966) — market awareness + sophistication
-- **Joe Sugarman** — *Triggers* (30 psychological triggers underlying response)
+- **the direct-response trigger framework** — *Triggers* (30 psychological triggers underlying response)
 - **influence-principles research** — *Influence* (reciprocity, liking, consistency, social proof, authority, scarcity, unity)
 - **a no-first negotiation author** — a no-first negotiation text — buyer agency as the substrate of persuasion
-- **Robert Collier** — *The Robert Collier Letter Book* (1937) — entering the conversation already in the prospect's mind
+- **the early-20th-century mail-order copywriter** — *the Letter Book* (1937) — entering the conversation already in the prospect's mind
 
 ## The Psychological Architecture — Three Load-Bearing Columns
 
