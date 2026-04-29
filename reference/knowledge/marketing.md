@@ -68,7 +68,7 @@ Shared context for every content and acquisition skill in the Marketing departme
 
 ## Cross-references
 - Skills: `skills/ad-creative/SKILL.md`, `skills/content-calendar/SKILL.md`, `skills/write-reel/SKILL.md`, `skills/write-youtube/SKILL.md`, `skills/write-linkedin-post/SKILL.md`, `skills/write-x-thread/SKILL.md`, `skills/story-sequence/SKILL.md`
-- Frameworks: `reference/frameworks/core-four.md`, `reference/frameworks/pillar-mix-40-30-20-10.md`, `reference/frameworks/hook-retention-payoff.md`
+- Frameworks: `reference/frameworks/primitives/core-four.md`, `reference/frameworks/pillar-mix-40-30-20-10.md`, `reference/frameworks/hook-retention-payoff.md`
 - Swipe: `reference/swipe-file/hooks.md`, `reference/swipe-file/proof-stacks.md`
 - Pipeline: `workflows/divisions/marketing-pipeline.md`
 

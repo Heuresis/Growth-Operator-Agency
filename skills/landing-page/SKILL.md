@@ -632,8 +632,8 @@ After `/landing-page` ships (and passes 3/3 Blind Output Test):
 - `reference/operators/copy-director.md` (research-mechanism-brief-copy methodology)
 - `reference/operators/campaign-director.md` (educational-VSL copy)
 - `reference/operators/vsl-director.md` (value-stack architecture)
-- `reference/operators/awareness-spectrum-author.md` (5 Awareness Levels)
-- `reference/operators/direct-response-copywriter.md` (direct-response discipline)
+- `reference/operators/copy-director.md` (5 Awareness Levels)
+- `reference/operators/copy-director.md` (direct-response discipline)
 - `reference/operators/acquisition-economist.md` (high-value offer canon)
 
 ## Blind Output Test — Sacred Format Tier (3/3 required)

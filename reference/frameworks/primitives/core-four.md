@@ -121,7 +121,7 @@ Core Four strategy is dialed when:
 ## Sources
 
 - the acquisition economist, a lead-generation canon — Chapters on Core Four + Lead Getters
-- Greg Faxon summary — `reference/operators/external/alex-hormozi.md`
+- summary — `reference/operators/acquisition-economist.md`
 
 ---
 *v1.0 — 2026-04-19. Primitive — referenced across skills.*

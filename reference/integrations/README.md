@@ -4,14 +4,7 @@
 
 ## Contents
 
-- `mcps.md` — MCP server catalog with installation + config
-- `apis.md` — External API catalog with auth + rate limits + key endpoints
-- `credentials-template.md` — `.env.template` + secret management
-- `stack-recommendations/` — Recommended stack per creator archetype
-  - `stack-for-high-ticket-coach.md`
-  - `stack-for-agency.md`
-  - `stack-for-info-creator.md`
-  - `stack-for-saas.md`
+This file is the catalog. Detailed per-MCP and per-API pages are populated as they get wired into a live workspace — start with the matrix and the tier strategy below; expand into per-platform files only when a skill needs the depth.
 
 ## Quick Reference — Integration Matrix
 
@@ -55,7 +48,7 @@
 - Analytics dashboards (GA4, Mixpanel)
 
 ### Scale (ops + hiring + finance)
-- Project mgmt (Notion/ClickUp/Linear), hiring (LinkedIn Jobs, Greenhouse), finance (QuickBooks/Xero), analytics deep-dive
+- Project mgmt (Notion/a productivity-software brand/Linear), hiring (LinkedIn Jobs, Greenhouse), finance (QuickBooks/Xero), analytics deep-dive
 
 ### Partnerships (CRM + contracts)
 - CRM with partnership pipeline, contract tools (PandaDoc, DocuSign)
@@ -129,11 +122,10 @@ Skills query this to route integration calls to the right services.
 
 ## Recommended Reading Path
 
-1. `reference/canonical/spec/INTEGRATIONS.md` — the contract
-2. `reference/integrations/mcps.md` — MCP catalog
-3. `reference/integrations/apis.md` — API catalog
-4. `reference/integrations/credentials-template.md` — security + setup
-5. `reference/integrations/stack-recommendations/stack-for-high-ticket-coach.md` — default starting stack for Growth Operating Agency's primary ICP
+1. `reference/canonical/spec/INTEGRATIONS.md` — the runtime contract for how skills bind to external services
+2. The Integration Matrix above — pick defaults per capability
+3. The Tiered Stack Strategy above — match infrastructure to current revenue tier
+4. `.env.template` (top-level) — environment-variable scaffolding for secrets
 
 ---
 

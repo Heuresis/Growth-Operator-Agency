@@ -42,7 +42,7 @@ If `$ARGUMENTS` contains `--archetype=T1-T7`, force that archetype. Otherwise ap
 
 ## Tool usage patterns
 
-- **Read** for SKILL.md, Offer Doc, Funnel Blueprint, ICP, Brand Voice Doc, economics frameworks
+- **Read** for SKILL.md, Offer Doc, Funnel a longevity-protocol, ICP, Brand Voice Doc, economics frameworks
 - **Write / Edit** for producing the Tripwire Design (typically 4,000-6,000 words including economics model + 5-phase ascension + 5 appendices) and updating company.yaml
 - **WebSearch** for current-market benchmark validation (industry-vertical tripwire conversion norms, SLO math verification) — optional but supports Truth Gate
 - **Grep** across `output/` for existing ascension-path references + ICP ascension-history signals

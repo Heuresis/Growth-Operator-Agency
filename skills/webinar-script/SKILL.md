@@ -177,7 +177,7 @@ If you teach HOW (step-by-step implementation), attendee thinks they can do it a
 - Offer Doc (value stack, bonuses, guarantee, mechanism)
 - Positioning Doc (core belief, Big Enemy)
 - Brand Voice Doc
-- `reference/canonical/frameworks/classical/schwartz-awareness-spectrum.md`
+- `reference/canonical/frameworks/classical/awareness-spectrum-5-levels.md`
 - `reference/frameworks/sales/8-required-beliefs.md`
 - `reference/operators/vsl-director.md`
 

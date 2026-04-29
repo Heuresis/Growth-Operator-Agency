@@ -33,7 +33,7 @@ This example walks the 15-Step VSL sequence through the canonical Fitness Coachi
 
 *Setup:* "Three years ago I was running a Series A SaaS company. 18 months in, 207 pounds, 22 heavier than when I started."
 
-*Escalation:* "Noom for six weeks. An in-person trainer at $300/session, canceled eight times last month. A keto-coach on Twitter, $1,500 program, quit Week 4 during a launch."
+*Escalation:* "a behavior-change app for six weeks. An in-person trainer at $300/session, canceled eight times last month. A keto-coach on Twitter, $1,500 program, quit Week 4 during a launch."
 
 *Dark Night:* "March 14, 9:42 PM, hotel bathroom in San Francisco. Shirt didn't button. Accepting a design award next morning. Texted my wife: 'I don't know what to do.'"
 
@@ -41,7 +41,7 @@ This example walks the 15-Step VSL sequence through the canonical Fitness Coachi
 
 ### Step 6 - Solution Introduction (10-14 min) [Beliefs #3, #5]
 
-"It's called the Founder Fitness Operating System, FFOS. Three layers. Founder-Calibrated Training: 30-minute sessions with gym, hotel, and home variants. Executive Nutrition Protocol: high-protein frameworks for restaurants, delivery, travel, zero meal prep. Recovery Intelligence: WHOOP/Oura data integrated into coaching decisions. You don't need more discipline. You need delegation, metrics, and infrastructure."
+"It's called the Founder Fitness Operating System, FFOS. Three layers. Founder-Calibrated Training: 30-minute sessions with gym, hotel, and home variants. Executive Nutrition Protocol: high-protein frameworks for restaurants, delivery, travel, zero meal prep. Recovery Intelligence: a wearables brand/a wearables brand data integrated into coaching decisions. You don't need more discipline. You need delegation, metrics, and infrastructure."
 
 ### Step 7 - Features & Benefits (14-18 min) [Beliefs #3, #6]
 
@@ -51,11 +51,11 @@ This example walks the 15-Step VSL sequence through the canonical Fitness Coachi
 
 ### Step 8 - Testimonials & Receipts (18-22 min) [Beliefs #3, #7, #8]
 
-Isomorphic testimonials matched to the prospect. Video of a founder who lost 22 lbs during a fundraising year. WHOOP HRV trend. Case study: 3am to 10pm sleep over 60 days with ARR chart showing company growth in the same window.
+Isomorphic testimonials matched to the prospect. Video of a founder who lost 22 lbs during a fundraising year. a wearables brand HRV trend. Case study: 3am to 10pm sleep over 60 days with ARR chart showing company growth in the same window.
 
 ### Step 9 - Price Anchoring (22-26 min) [Beliefs #5, #6]
 
-"How much is it worth for your decision quality at 9 of 10 vs 5 of 10? $5M ARR and 40% below peak: 5% growth-trajectory hit is $250K/year. Compare to Equinox Optimize at $40K/year, Dr. Galpin's Arete at $20K+, or assembled separately at $11,900-$18,500/quarter. **FFOS Group Coaching is $3,997/quarter.**"
+"How much is it worth for your decision quality at 9 of 10 vs 5 of 10? $5M ARR and 40% below peak: 5% growth-trajectory hit is $250K/year. Compare to a premium-gym brand Optimize at $40K/year, a K+ longevity-coach program at $20K+, or assembled separately at $11,900-$18,500/quarter. **FFOS Group Coaching is $3,997/quarter.**"
 
 ### Step 10 - Guarantee (26-28 min) [Beliefs #3, #7]
 
@@ -90,7 +90,7 @@ Isomorphic testimonials matched to the prospect. Video of a founder who lost 22 
 ## Source
 
 - `reference/frameworks/vsl-director/15-step-vsl-deep.md`
-- `reference/frameworks/vsl/pampa-15-step.md`
+- `reference/frameworks/vsl/15-step-vsl.md`
 - `reference/frameworks/vsl-director/hero-story-architecture.md`
 - `reference/frameworks/vsl-director/price-anchoring-mechanics.md`
 - `reference/examples/foundations/offer-document.md`

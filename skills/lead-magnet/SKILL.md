@@ -285,7 +285,7 @@ Index: `variants/_INDEX.md`.
 
 ## References
 
-- `reference/operators/external/alex-hormozi.md` (a lead-generation canon)
+- `reference/operators/acquisition-economist.md` (a lead-generation canon)
 - `reference/operators/growth-engineer.md` (Lead Magnet framework)
 - `reference/frameworks/primitives/value-equation.md`
 

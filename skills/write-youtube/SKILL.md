@@ -473,7 +473,7 @@ Follow for more:
 - `reference/frameworks/youtube/` (7-video-types, hook library, VSSL, title/thumbnail, session starter, Shorts, binge loop, algo-phase)
 - `reference/operators/content-os-director.md` (Nurture Block, YouTube Flywheel, platform hierarchy)
 - `reference/operators/vsl-director.md` (MODULE 4 + VSSL)
-- `reference/operators/external/bennett.md` (short-form derivatives)
+- `reference/operators/content-os-director.md` (short-form derivatives)
 - `reference/canonical/spec/INTEGRATIONS.md` (YouTube Data API)
 
 ---

@@ -38,7 +38,7 @@ Every SKILL.md references the primitives it depends on in its `## References` se
 ## References
 - primitives/unique-mechanism.md
 - primitives/value-equation.md
-- offer-architecture/sultanic-offer-building-system.md
+- offer-architecture/7-phase-offer-building-system.md
 ```
 
 This keeps the skill portable across operator lineages. If the growth engineer disappears from the market tomorrow, his primitives (hidden-pitch long-form video, Call Funnel, offer economics) are preserved in primitive form — the skill still works.

@@ -26,7 +26,7 @@ DIY self-paced course + community access. Lifetime course access, 6 months commu
 **Deliverables:**
 1. The Clip-to-Agency Method™ video curriculum - 8 modules covering Phases 1-2 of the method
 2. The Streamer Client Outreach Kit - 10 proven DM scripts, 3 proposal templates, pricing calculator, objection-handling guides
-3. The AI+Human Hybrid Workflow Blueprint - setup guide for Opus Clip + CapCut/Premiere + posting calendar
+3. The AI+Human Hybrid Workflow a longevity-protocol - setup guide for Opus Clip + CapCut/Premiere + posting calendar
 4. The Clip Agency Starter Pack - contract templates, invoice templates, onboarding checklist
 5. Private community access
 

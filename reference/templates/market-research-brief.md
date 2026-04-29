@@ -53,7 +53,7 @@ Primary segmentation axis: [demographic / firmographic / psychographic / behavio
 
 ## 2. Market Sophistication Stage
 
-> Reference `reference/frameworks/primitives/market-sophistication.md`.
+> Reference `reference/canonical/frameworks/classical/market-sophistication-4-stages.md`.
 
 **Diagnosis:** [Naive | Aware | Skeptical | Exhausted]
 

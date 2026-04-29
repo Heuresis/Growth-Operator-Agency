@@ -1,6 +1,6 @@
 # hidden-pitch long-form video - YouTube-Native Variant for Clipping Agency Education
 
-> **Framework:** Jeremy hidden-pitch long-form video framework (Variant E) - `reference/frameworks/vsl/haynes-hidden-vssl.md`
+> **Framework:** the hidden-pitch architect hidden-pitch long-form video framework (Variant E) - `reference/frameworks/vsl/hidden-vssl.md`
 > **Runtime target:** 28-32 minutes (within the 20-45 min window)
 > **Best for:** Organic YouTube distribution, content-first brand, audience expects teaching
 > **Applied to:** Clipping Agency - the Clipping a creator-agency program offer
@@ -79,7 +79,7 @@ Chapter 5 is soft. Two-options framing, no countdown, no fake urgency. CTA in pi
 
 ## Source
 
-- `reference/frameworks/vsl/haynes-hidden-vssl.md` - framework structure
+- `reference/frameworks/vsl/hidden-vssl.md` - framework structure
 - `reference/operators/growth-engineer.md` - the growth engineer lineage
 - `reference/operators/content-os-director.md` - 3 Content Types (VSSL as the only video with external CTA)
 - `workflows/operations/clipping-agency/output/foundations/offer-document.md` - the offer this VSSL sells

@@ -51,7 +51,7 @@ The 13-step is scaffolding, not script. Fill with creator-specific content + voi
 
 ## Source
 
-- `reference/operators/external/steven-trister.md`
+- `reference/operators/copy-director.md`
 - Notion: `{NOTION_ID}`
 
 ---

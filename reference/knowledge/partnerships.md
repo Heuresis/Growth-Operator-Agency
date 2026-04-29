@@ -76,7 +76,7 @@ If any test fails, decline the partnership — even with short-term revenue upsi
 - Skills: `skills/jv-webinar-proposal/SKILL.md`, `skills/affiliate-program/SKILL.md`, `skills/referral-program/SKILL.md`
 - Frameworks: `reference/frameworks/partner-fit-test.md`, `reference/frameworks/rev-split-economics.md`
 - Knowledge: `reference/knowledge/sales.md` (funnel), `reference/knowledge/nurture.md` (post-partner sequences), `reference/knowledge/launch.md` (JV timing)
-- Agents: `agents/partnerships/partner-manager.md`, `agents/partnerships/affiliate-ops.md`
+- Agents: `agents/jv-outreach.md`, `agents/affiliate-architect.md`
 - Pipeline: `workflows/divisions/partnerships-pipeline.md`
 
 ---

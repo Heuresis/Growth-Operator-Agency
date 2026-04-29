@@ -580,7 +580,7 @@ The Foundations are DONE when:
 4. The system produces an Offer Document with economics validation (LTV:CAC >= 3:1)
 5. All outputs reference the user's specific business context (not generic)
 6. All outputs use the user's audience's actual language (from research)
-7. The ICP and Offer are written to `reference/icp.md` and `reference/offers.md`
+7. The ICP and Offer are written to `reference/knowledge/foundations.md` and `reference/knowledge/foundations.md`
 8. Every downstream agent can load these files and produce calibrated output
 
 **If the Foundation outputs are wrong, every VSL, email, funnel, and ad built on top of them will be wrong.** This is why we build one thing really well before building anything else.

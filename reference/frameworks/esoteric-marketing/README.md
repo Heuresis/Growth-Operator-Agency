@@ -127,7 +127,7 @@ Used by:
 
 ## Operator References
 
-- `reference/operators/external/alex-hormozi.md` — the acquisition economist is the tactical school; the offer architect is the esoteric. Both ship results; different paths.
+- `reference/operators/acquisition-economist.md` — the acquisition economist is the tactical school; the offer architect is the esoteric. Both ship results; different paths.
 - the offer architect's 10 JSON playbooks are encoded across specific framework files under this folder
 
 ## Sources

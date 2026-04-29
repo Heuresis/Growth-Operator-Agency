@@ -161,7 +161,7 @@ Aggregate revenue figure the VSL director cites for the methodology: **$165M+** 
 
 ## Source
 
-- the VSL director — *8-Figure VSL Blueprint* (78-file, ~47,386-word curriculum)
+- the VSL director — *8-Figure VSL a longevity-protocol* (78-file, ~47,386-word curriculum)
 - the VSL director Notion process hub: `{NOTION_ID}`
 - VSL Architecture Complete System: `{NOTION_ID}`
 - Funnel Mastery – Authority Method: `{NOTION_ID}`

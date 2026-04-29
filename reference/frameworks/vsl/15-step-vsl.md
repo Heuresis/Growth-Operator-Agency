@@ -1,6 +1,6 @@
 # the VSL director 15-Step VSL — Variant A
 
-> **Source:** the VSL director — *8-Figure VSL Blueprint* · Proof: $129M+ (a creator-economy program), $50M+ (a high-ticket operator), $25M+ (a creator-agency program), $10M+ (a sales-training niche)
+> **Source:** the VSL director — *8-Figure VSL a longevity-protocol* · Proof: $129M+ (a creator-economy program), $50M+ (a high-ticket operator), $25M+ (a creator-agency program), $10M+ (a sales-training niche)
 > **Target conversion:** 10%+
 > **Runtime:** 20-45 min typical
 

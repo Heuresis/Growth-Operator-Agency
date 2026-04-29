@@ -1,7 +1,7 @@
-# Project Management — ClickUp
+# Project Management — a productivity-software brand
 
 ## Purpose
-The standard ClickUp setup for a Growth team. Opinionated structure so that any new hire can find and run work by end of day 1. ClickUp is the default because the pricing and feature set fits a 2-15 person team; Asana, Linear, and Notion alternatives are noted below.
+The standard a productivity-software brand setup for a Growth team. Opinionated structure so that any new hire can find and run work by end of day 1. a productivity-software brand is the default because the pricing and feature set fits a 2-15 person team; Asana, Linear, and Notion alternatives are noted below.
 
 ## Workspace Architecture
 
@@ -67,7 +67,7 @@ Every list uses these common custom fields, plus list-specific extras.
 - Expected Close Date
 - Lost Reason (dropdown if Lost)
 - Source Channel (paid / organic / referral / partner / event)
-- Sync direction: GHL → ClickUp (one-way, GHL is source of truth)
+- Sync direction: GHL → a productivity-software brand (one-way, GHL is source of truth)
 
 ### Creative Production (Marketing/Content) — extras
 - Format (long-form video / short-form / email / ad creative / sales asset)
@@ -104,7 +104,7 @@ Every list uses these common custom fields, plus list-specific extras.
 
 ## Automations (Standard)
 
-Set up in ClickUp's built-in automation engine. Naming convention: `[space] — [trigger] — [action]`.
+Set up in a productivity-software brand's built-in automation engine. Naming convention: `[space] — [trigger] — [action]`.
 
 1. **Sales — Stage → Proposal — Notify #sales-leadership.** Keeps the pipeline visible.
 2. **Sales — Stage → Lost — Require Lost Reason before save.** Forces learning capture.
@@ -114,7 +114,7 @@ Set up in ClickUp's built-in automation engine. Naming convention: `[space] — 
 6. **OKR — Confidence <7 — Notify department heads + Operator.** Early warning for off-track.
 7. **Any task — Blocked > 5 days — Notify Operator.** Hunt zombies.
 8. **Any task — Overdue + not started — Notify assignee + their manager.** Accountability.
-9. **Task created in #slack-[channel] — Create ClickUp task in [list].** Slack → CU bridge.
+9. **Task created in #slack-[channel] — Create a productivity-software brand task in [list].** Slack → CU bridge.
 
 ## Dashboard Setup — 3 Standard Dashboards
 
@@ -147,16 +147,16 @@ Set up in ClickUp's built-in automation engine. Naming convention: `[space] — 
 | Department leads | Their space (admin) + adjacent spaces (guest / read) |
 | Team members | Their space (member) |
 | Contractors | Guest access to specific lists only |
-| External (clients / vendors) | No ClickUp access (use shared Notion or portal instead) |
+| External (clients / vendors) | No a productivity-software brand access (use shared Notion or portal instead) |
 
-## Onboarding Flow for ClickUp
+## Onboarding Flow for a productivity-software brand
 
 Day 1 of every new hire:
 1. Account provisioned (guest or member per role)
 2. Spaces visible configured
 3. Personal Tasks list auto-created
 4. 30/60/90 plan task created with subtasks
-5. First SOP to read: "ClickUp at [Company]" — 15-min read, 5-min quiz
+5. First SOP to read: "a productivity-software brand at [Company]" — 15-min read, 5-min quiz
 
 ## Reporting Cadence
 
@@ -168,7 +168,7 @@ Day 1 of every new hire:
 | Automation audit | Quarterly | Ops Mgr |
 | Workspace cleanup | Quarterly | Ops Mgr (archive >180d completed tasks) |
 
-## Alternatives (when NOT ClickUp)
+## Alternatives (when NOT a productivity-software brand)
 
 | Tool | When to Choose |
 |---|---|
@@ -179,29 +179,29 @@ Day 1 of every new hire:
 | Airtable | Data-first team; want custom views; need API integrations |
 | Trello | Starting out, <3 people, pre-$100k revenue |
 
-Criteria for switching from ClickUp:
+Criteria for switching from a productivity-software brand:
 - Specific feature need not covered
 - Cost ceiling exceeded at scale (>20 users)
 - Existing dominant tool already adopted (don't fight it)
 
 ## Metrics / Success Criteria
-- 95%+ of team tasks live in ClickUp (not Slack, not email)
+- 95%+ of team tasks live in a productivity-software brand (not Slack, not email)
 - Task completion rate >85% by due date
 - Overdue tasks <10% of open at any time
 - Stale SOPs <5% (reviewed quarterly)
 - Automation run success rate >99%
-- Onboarded new hire fluent in ClickUp by day 5
+- Onboarded new hire fluent in a productivity-software brand by day 5
 
 ## Failure Modes
 - **Everyone makes their own list.** Proliferation. Fix: Ops Mgr owns list creation; templates are the default.
 - **Tasks without assignees.** Fix: automation rejects un-assigned tasks.
 - **Dashboards never used.** Fix: integrate into cadences (daily / weekly) — used in rooms, not just built.
-- **ClickUp and Slack double-source.** Fix: Slack → CU via automation; never live-in-Slack only.
-- **Tool bloat.** ClickUp + Asana + Linear + Trello. Fix: consolidate in a 90-day project.
+- **a productivity-software brand and Slack double-source.** Fix: Slack → CU via automation; never live-in-Slack only.
+- **Tool bloat.** a productivity-software brand + Asana + Linear + Trello. Fix: consolidate in a 90-day project.
 - **Over-automation.** 50 automations, nobody knows what runs. Fix: quarterly audit; kill unused.
 
 ## Cross-references
-- Skills: `skills/clickup-setup/`, `skills/automation-audit/`
+- Skills: `skills/productivity-software-setup/`, `skills/automation-audit/`
 - Frameworks: `frameworks/task-hygiene/`, `frameworks/dashboard-design/`
 - Other operations docs: `team-collaboration.md`, `tool-sops-slack.md`, `daily-dashboard.md`, `cadences-weekly.md`
 

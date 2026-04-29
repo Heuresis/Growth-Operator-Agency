@@ -19,7 +19,7 @@ Tech founders and startup executives (28-45, $150K-$1M+ income) who gained weigh
 - **Income / Revenue Range:** $150,000-$1,000,000+ personal income. Tech founder salaries range $120K-$250K for early-stage, $300K-$1M+ for Series B+ or post-exit. Evidence: Levels.fyi compensation data; "I make $300k a year" (Quora VOC).
 - **Location / Geography:** Primary: US (SF Bay Area, NYC, Austin, Miami, Seattle). Secondary: UK (London), Canada (Toronto, Vancouver). Language: English. Evidence: Startup density maps (Source: Tracxn).
 - **Occupation / Business Type:** SaaS founders, app founders, AI startup CEOs, CTOs, VP Engineering, senior software engineers at FAANG+, solo technical founders. Evidence: Oliver Anwar's client roster (Amazon, Meta, Tinder, Shopify); tech startup concentration data.
-- **Business Stage:** Scaling ($500K-$10M+ ARR) or post-exit. Pre-revenue founders lack budget for high-ticket. Evidence: Supra Human and Dan Go client profiles skew toward established founders, not bootstrappers.
+- **Business Stage:** Scaling ($500K-$10M+ ARR) or post-exit. Pre-revenue founders lack budget for high-ticket. Evidence: a high-performance coaching brand and a generic-fitness creator client profiles skew toward established founders, not bootstrappers.
 
 ---
 
@@ -28,9 +28,9 @@ Tech founders and startup executives (28-45, $150K-$1M+ income) who gained weigh
 - **Values (ranked):**
   1. **Performance optimization** -- they apply systems thinking to everything. "Why don't you treat your health like your business?" (Entrepreneur.com). Evidence: VOC consistently uses optimization language.
   2. **Time leverage** -- they value efficiency above all. "I am working 11 hours a day... I have no time to exercise" (Quora). Evidence: time scarcity is the #1 mentioned pain across all VOC.
-  3. **Data-driven decisions** -- they distrust "vibes" and want metrics. Evidence: WHOOP popularity among tech professionals; founders reference body fat percentages, not "feeling good."
+  3. **Data-driven decisions** -- they distrust "vibes" and want metrics. Evidence: a wearables brand popularity among tech professionals; founders reference body fat percentages, not "feeling good."
   4. **Status among peers** -- they care how other founders perceive them. "My weight has hurt my business and growth... comments made, looks given" (Entrepreneur.com). Evidence: VOC on confidence in meetings.
-  5. **Freedom and longevity** -- building wealth is meaningless if health fails. "No business win is worth sacrificing the body and mind you need to create it" (Hampton Blog).
+  5. **Freedom and longevity** -- building wealth is meaningless if health fails. "No business win is worth sacrificing the body and mind you need to create it" (a founder peer community blog).
 
 - **Identity Aspirations:** "The founder who has it all together" -- someone who runs a high-growth company AND has visible physical health. Not a bodybuilder identity -- a high-performing, energized, lean leader. "Feel lighter, sleep better, have the energy to lead, speak, travel and serve my community" (Entrepreneur.com). They want to be the person other founders ask: "how do you stay in such great shape while running a company?"
 
@@ -50,7 +50,7 @@ Evidence:
 - "Often, we know what to do to lose weight and stay healthy -- such as eating a healthy diet and exercising -- but we still don't do it." -- Roxstar Fitness
 - "The characteristics making entrepreneurs successful in business tend to make them unsuccessful at weight maintenance." -- Inc.com
 
-These founders are not ignorant about fitness. They've read the articles, listened to Huberman, maybe even tracked macros for a week. The problem is EXECUTION consistency -- they need a system and accountability structure, not more knowledge.
+These founders are not ignorant about fitness. They've read the articles, listened to a leading neuroscience podcast, maybe even tracked macros for a week. The problem is EXECUTION consistency -- they need a system and accountability structure, not more knowledge.
 
 **Secondary Pattern: WORTHLESS (30%)**
 "I should be able to figure this out myself -- the fact that I can't is embarrassing."
@@ -95,14 +95,14 @@ This audience knows:
 ### Pain 2: Cognitive Decline / Brain Fog
 - **Surface Pain:** "I can't focus like I used to."
 - **Deep Pain:** Fear that they're becoming a liability to their own company -- the founder who can't perform.
-- **Compounding Cost:** "Performing at maybe 5 out of 10" (Hampton Blog). If a founder's decision-making quality drops 50%, the business impact is orders of magnitude larger than any coaching investment.
+- **Compounding Cost:** "Performing at maybe 5 out of 10" (a founder peer community blog). If a founder's decision-making quality drops 50%, the business impact is orders of magnitude larger than any coaching investment.
 - **Exact Language:** "Many executives dismiss symptoms like brain fog, fatigue, and trouble bouncing back as the inevitable price of leadership." -- Entrepreneur.com
 
 ### Pain 3: The Identity Paradox
 - **Surface Pain:** "I've gained weight since starting the company."
 - **Deep Pain:** Shame that they can build a million-dollar company but can't lose 20 pounds. Feels like a personal failure they can't solve with intelligence or money.
-- **Compounding Cost:** Weight gain documented at 10 lbs/year for entrepreneurs (Leslie Bradshaw, Quartz). Over 3 years of building: 30 lbs gained, back pain, reduced confidence in high-stakes meetings.
-- **Exact Language:** "I gained 60 pounds over 6 years -- approximately 10 pounds per year or $216,667 in gross revenue generated per pound of weight gained." -- Leslie Bradshaw (Quartz)
+- **Compounding Cost:** Weight gain documented at 10 lbs/year for entrepreneurs (a founder, a business publication). Over 3 years of building: 30 lbs gained, back pain, reduced confidence in high-stakes meetings.
+- **Exact Language:** "I gained 60 pounds over 6 years -- approximately 10 pounds per year or $216,667 in gross revenue generated per pound of weight gained." -- a founder (a business publication)
 
 ### Pain 4: Burnout-Body Connection
 - **Surface Pain:** "I'm burned out and my body shows it."
@@ -144,8 +144,8 @@ They want to be ABLE to maintain fitness consistently while running a company --
 
 | Solution Attempted | Why It Failed (Their Perspective) | Estimated Spend |
 |---|---|---|
-| Generic online fitness apps (Noom, MyFitnessPal, WHOOP) | "Too generic. Doesn't account for my schedule, stress, or travel." | $200-$500/yr |
-| Personal trainer at high-end gym (Equinox, etc.) | "Had to show up at specific times. Stopped going after 6 weeks when work got crazy." | $3,000-$8,000 |
+| Generic online fitness apps (a behavior-change app, a calorie-tracking app, a wearables brand) | "Too generic. Doesn't account for my schedule, stress, or travel." | $200-$500/yr |
+| Personal trainer at high-end gym (a premium-gym brand, etc.) | "Had to show up at specific times. Stopped going after 6 weeks when work got crazy." | $3,000-$8,000 |
 | Self-paced online courses / YouTube programs | "Started strong, lost motivation by Week 3. No accountability." | $0-$500 |
 | Hiring a nutritionist | "Gave me a meal plan I couldn't follow with my schedule. Couldn't meal prep." | $500-$2,000 |
 | Biohacking / supplement stacking | "Spent thousands on nootropics and supplements. Didn't address the fundamentals." | $1,000-$5,000 |
@@ -177,19 +177,19 @@ They want to be ABLE to maintain fitness consistently while running a company --
 ### Objection 4: "It's expensive."
 - **Surface:** The dollar amount feels high.
 - **Real:** Not confident the outcome justifies the investment based on past failures. ROI uncertainty, not income limitation.
-- **Response Framework:** Cost of inaction framing: "You're losing $5K-$15K/month in diminished cognitive performance, missed opportunities from low energy, and future healthcare costs." Comparison stack: "A personal trainer at Equinox is $8K/quarter. Equinox Optimize is $40K/year. This is a fraction of that with better results."
+- **Response Framework:** Cost of inaction framing: "You're losing $5K-$15K/month in diminished cognitive performance, missed opportunities from low energy, and future healthcare costs." Comparison stack: "A personal trainer at a premium-gym brand is $8K/quarter. a premium-gym brand Optimize is $40K/year. This is a fraction of that with better results."
 
 ### Objection 5: "I'll start after [funding round / launch / Q4]."
 - **Surface:** Timing isn't right.
 - **Real:** Fear of adding another thing to an already overwhelming plate. Using business milestones as procrastination anchors.
-- **Response Framework:** "Leslie Bradshaw said 'eat right and exercise once I sell my company' -- and gained 60 lbs in 6 years. There will never be a 'right time.' The protocol is designed to start during your busiest season, not after it."
+- **Response Framework:** "a founder said 'eat right and exercise once I sell my company' -- and gained 60 lbs in 6 years. There will never be a 'right time.' The protocol is designed to start during your busiest season, not after it."
 
 ---
 
 ## Section 10: Buying Intelligence
 
-- **Research Sources:** They'll Google "[coach name] reviews," check Reddit, look at Instagram content depth, and ask in private founder communities (Hampton, Y Combinator alumni, private Slack groups). They may check the coach's LinkedIn for credibility signals.
-- **Trusted Recommenders:** Other founders who've transformed (peer proof > expert proof). Huberman mentions. Y Combinator / Hampton community endorsements. Not fitness influencers -- they trust business peers who also got fit.
+- **Research Sources:** They'll Google "[coach name] reviews," check Reddit, look at Instagram content depth, and ask in private founder communities (a founder peer community, startup-accelerator alumni, private Slack groups). They may check the coach's LinkedIn for credibility signals.
+- **Trusted Recommenders:** Other founders who've transformed (peer proof > expert proof). a leading neuroscience podcast mentions. a startup accelerator / a founder peer community community endorsements. Not fitness influencers -- they trust business peers who also got fit.
 - **Purchase Triggers:** (1) Health scare or doctor warning, (2) embarrassing photo or video of themselves, (3) seeing a peer founder transform, (4) burnout breaking point where they can't perform, (5) major life event (turning 40, new baby, divorce). Evidence: "Why don't you treat your health like your business?" -- one CEO-to-CEO question triggered a transformation (Entrepreneur.com).
 - **Decision Timeline:** Considered purchase, 1-4 weeks. They'll consume 5-10 pieces of content, check pricing against alternatives, and look for proof from people like them. Not impulse -- but also not 3-month deliberation if the pain is acute.
 - **Other Decision Makers:** Spouse is often involved, especially for $3K+ investments. Spouse is usually supportive ("I've been telling you to take care of yourself") but may scrutinize another failed fitness investment. Frame: "This is different because [mechanism]."
@@ -198,11 +198,11 @@ They want to be ABLE to maintain fitness consistently while running a company --
 
 ## Section 11: Information Diet
 
-- **Podcasts:** Huberman Lab (5.4M+ subscribers), The Tim Ferriss Show (900M+ downloads), My First Million, All-In Podcast, The Human Upgrade (Dave Asprey), How I Built This, Lex Fridman Podcast
-- **YouTube Channels:** Huberman Lab, Thomas DeLauer (biohacking/keto, 3.5M+), Jeff Nippard (science-based fitness, 5M+), Peter Attia clips, Y Combinator channel
-- **Books / Newsletters:** Outlive by Peter Attia, The 4-Hour Body (Tim Ferriss), Dan Go's "High Performance Founder" newsletter (500K subs), Fitt Insider newsletter, Stratechery (Ben Thompson)
-- **Communities:** Hampton (founders), Y Combinator alumni Slack/Bookface, r/Entrepreneur (3M+), r/startups (1M+), r/Biohackers, private founder WhatsApp groups, Founders Network
-- **Influencers / Thought Leaders:** Andrew Huberman (neuroscience + protocols), Peter Attia (longevity medicine), Dan Go (entrepreneur fitness), Bryan Johnson (Blueprint/don't die), Garry Tan (YC CEO, spoke about founder burnout), Sahil Lavingia (Gumroad, transparent about health journey)
+- **Podcasts:** a leading neuroscience podcast (5.4M+ subscribers), a long-form interview podcast (900M+ downloads), a startup interview podcast, a tech VC roundtable podcast, a biohacking podcast (a biohacking podcaster), a founder interview podcast, a long-form interview podcast
+- **YouTube Channels:** a leading neuroscience podcast, a biohacking-fitness creator (biohacking/keto, 3.5M+), a science-based fitness creator (science-based fitness, 5M+), a longevity-medicine creator clips, a startup accelerator channel
+- **Books / Newsletters:** a longevity-medicine bestseller by a longevity-medicine creator, a high-performance-lifestyle bestseller (a high-performance-lifestyle creator), a generic-fitness creator's "High Performance Founder" newsletter (500K subs), a fitness-industry newsletter newsletter, a tech-strategy newsletter (a tech-strategy analyst)
+- **Communities:** a founder peer community (founders), startup-accelerator alumni Slack/Bookface, r/Entrepreneur (3M+), r/startups (1M+), r/Biohackers, private founder WhatsApp groups, Founders Network
+- **Influencers / Thought Leaders:** a leading neuroscience podcaster (neuroscience + protocols), a longevity-medicine creator (longevity medicine), a generic-fitness creator (entrepreneur fitness), a longevity-protocol public figure (a longevity-protocol/don't die), a startup-accelerator CEO (startup-accelerator CEO, spoke about founder burnout), a transparent-startup founder (a creator-commerce platform, transparent about health journey)
 
 ---
 
@@ -210,7 +210,7 @@ They want to be ABLE to maintain fitness consistently while running a company --
 
 ### Problem Language
 1. "I started a business about a year ago and I've gained over 20 pounds" -- Fox Business
-2. "I was 18 pounds heavier, constantly tired, and performing at maybe 5 out of 10" -- Hampton Blog
+2. "I was 18 pounds heavier, constantly tired, and performing at maybe 5 out of 10" -- a founder peer community blog
 3. "80-plus-hour weeks, with late nights on my laptop, sitting hunched over on my couch" -- OneZero/Medium
 4. "The startup/techie lifestyle is designed to make you gain weight" -- The Hustle
 5. "My weight has hurt my business and growth" -- Entrepreneur.com
@@ -225,7 +225,7 @@ They want to be ABLE to maintain fitness consistently while running a company --
 12. "Treat your health like your business" -- Entrepreneur.com
 
 ### Emotional Trigger Words
-13. "Operating at half capacity" -- Hampton Blog
+13. "Operating at half capacity" -- a founder peer community blog
 14. "Silent epidemic" -- OneZero/Medium
 15. "The hustle trap" -- OneZero/Medium
 16. "Ticking time bomb" -- Entrepreneur.com
@@ -233,7 +233,7 @@ They want to be ABLE to maintain fitness consistently while running a company --
 
 ### Purchase Readiness Indicators
 18. "Why don't you treat your health like your business?" -- Entrepreneur.com (CEO-to-CEO)
-19. "No business win is worth sacrificing the body and mind you need to create it" -- Hampton Blog
+19. "No business win is worth sacrificing the body and mind you need to create it" -- a founder peer community blog
 20. "I set a clear goal: lose 10 kilos in 90 days" -- Entrepreneur.com
 21. "Exercising became a huge part of my life -- something I do every day" -- Tammy Hawk-Bridges
 22. "I decided I wanted to change my goal to 155 pounds" -- Joshua Davidson, ChopDawg CEO

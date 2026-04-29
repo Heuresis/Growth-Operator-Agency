@@ -13,7 +13,7 @@ This is the canonical "starter template" example in the Growth Operating Agency 
 
 **Transformation Statement:** "Go from gaining weight every quarter, running on caffeine and brain fog, and operating at half your capacity - to lean, energized, and performing at your peak, losing 15-25 lbs and reclaiming all-day energy in 90 days."
 
-**Unique Mechanism:** The Founder Fitness Operating System (FFOS) - a 90-day performance protocol with three integrated layers: (1) Founder-Calibrated Training (30-minute sessions with gym, hotel, and home variants), (2) Executive Nutrition Protocol (high-protein frameworks for restaurants, delivery, travel - zero meal prep), (3) Recovery Intelligence (wearable data from WHOOP/Oura/Apple Watch integrated into coaching decisions).
+**Unique Mechanism:** The Founder Fitness Operating System (FFOS) - a 90-day performance protocol with three integrated layers: (1) Founder-Calibrated Training (30-minute sessions with gym, hotel, and home variants), (2) Executive Nutrition Protocol (high-protein frameworks for restaurants, delivery, travel - zero meal prep), (3) Recovery Intelligence (wearable data from a wearables brand/a wearables brand/a wearables brand integrated into coaching decisions).
 
 **Why It Works:** Most founders fail at fitness because they treat it as a willpower problem layered on top of an already maxed-out willpower budget. FFOS treats fitness as an operations problem - the same kind of problem founders solve every day. Coach handles programming (delegation), wearable data replaces guessing (metrics), weekly check-ins create external accountability (governance), protocols pre-built for 30-minute windows and travel days (constraints-aware design).
 
@@ -49,7 +49,7 @@ DWY (group coaching + personalized programming). 90 days per quarter, option to 
 1. Complete Founder Fitness Operating System - personalized 90-day training protocol
 2. Executive Nutrition Architecture - personalized macro targets + restaurant/delivery playbook
 3. Weekly group coaching calls (60 min) - hot-seat format, max 20 founders
-4. Wearable data integration - weekly WHOOP/Oura/Apple Watch review
+4. Wearable data integration - weekly a wearables brand/a wearables brand/a wearables brand review
 5. The Founder Fitness Dashboard - monthly performance review
 6. Private Slack community - 50-100 tech founders
 7. 2× monthly 1:1 check-in calls (15 min)

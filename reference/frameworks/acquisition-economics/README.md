@@ -17,7 +17,7 @@ Deep-encoded frameworks from the 2025 a portfolio holding company private-collec
 ## Cross-references
 
 - Generic primitive: `reference/frameworks/primitives/value-equation.md` - use when you want the equation without the acquisition economist framing
-- Companion offer framework: `reference/frameworks/offer-architecture/hormozi-grand-slam-offer.md` - the offer architect vs. the acquisition economist comparison
+- Companion offer framework: `reference/frameworks/offer-architecture/grand-slam-offer.md` - the offer architect vs. the acquisition economist comparison
 - Sales beliefs (15-step VSL methodology): `reference/frameworks/sales/8-required-beliefs.md` - related but not the acquisition economist; don't conflate
 - Operator file: `reference/operators/acquisition-economist.md` - thesis, distinctive moves, invocation rules
 

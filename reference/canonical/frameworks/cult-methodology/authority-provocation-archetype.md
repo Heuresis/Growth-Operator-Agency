@@ -7,7 +7,7 @@
 - **the authority-provocation operator** — the modern maximal expression of the archetype
 - **Robert Beck "Iceberg Slim"** — the Pimp archetype (1967, *Pimp: The Story of My Life*): frame control, grooming the mark through spectacle, public-identity warfare
 - **George Hormel / Hormel brand archetypes** — the consumer-brand precursor: product as the vessel of a settled identity
-- **Joe Sugarman** — *Triggers* and *Advertising Secrets of the Written Word*: 30 psychological triggers that produce involuntary response (linking, greed, guilt, curiosity)
+- **the trigger taxonomist** — *Triggers* and *Advertising Secrets of the Written Word*: 30 psychological triggers that produce involuntary response (linking, greed, guilt, curiosity)
 - **influence-principles research** — *Influence* + *Pre-Suasion*: consistency, social proof, liking, authority, and (most underused) **identity-unity**
 - **Modern Growth Operator lineage** — a polarising info operator, the funnel-building platform founder, the Southern-hemisphere performance operator, the campaign director, the content OS director, the acquisition economist (softer), Chris the growth engineer (post-earlier-brand)
 

@@ -4,7 +4,7 @@ the backend economist is the YouTube architect and co-owner of a women-40+ fitne
 
 ## Thesis
 
-**Long-form YouTube is the primary growth machine for info-product and coaching businesses, and the algorithm is a friend to anyone who aligns with its incentive.** YouTube makes money when more people watch more videos for longer. The operator's job is to make content that increases viewing time from non-subscribers, which is the single signal most correlated with channel growth. Everything else (thumbnails, titles, shorts, community posts) is a sub-optimization inside that one rule. The Blueprint is built on 15+ years of testing, 10,000+ videos, and 1+ billion views generated, tested against creator-native methodology, an education-creator, the acquisition economist, Y Combinator, and ClickUp. It is a category-defining methodology, not a quick-views or pump-and-dump strategy.
+**Long-form YouTube is the primary growth machine for info-product and coaching businesses, and the algorithm is a friend to anyone who aligns with its incentive.** YouTube makes money when more people watch more videos for longer. The operator's job is to make content that increases viewing time from non-subscribers, which is the single signal most correlated with channel growth. Everything else (thumbnails, titles, shorts, community posts) is a sub-optimization inside that one rule. The a longevity-protocol is built on 15+ years of testing, 10,000+ videos, and 1+ billion views generated, tested against creator-native methodology, an education-creator, the acquisition economist, a startup accelerator, and a productivity-software brand. It is a category-defining methodology, not a quick-views or pump-and-dump strategy.
 
 **The scientific method beats intuition for content decisions.** the backend economist's fourth competency (Data Analytics & Pattern Recognition) treats every video as an experiment: observe retention graphs, name the pattern, form a hypothesis, test it in the next video, document the result, and compound the insight. "Insanity is doing the same thing over and over expecting different results" (Module 1). Operators who guess at what works lose to operators who benchmark by view count, by time, and by video type, then run weekly experiments with one variable at a time.
 
@@ -28,7 +28,7 @@ the backend economist is the YouTube architect and co-owner of a women-40+ fitne
 
 ## Distinctive Moves
 
-**Data over opinion.** Every claim in the Blueprint is anchored to a measurable metric with a benchmark. Target CTRs are 4% (good), 6% (great), 10% (exceptional). APV targets are 50% (good), 60% (great), 70% (exceptional / creator-native methodology level). First-30-seconds retention should be 70%+; below that, shorten the intro. Decisions are made against benchmarks, not against how the creator feels.
+**Data over opinion.** Every claim in the a longevity-protocol is anchored to a measurable metric with a benchmark. Target CTRs are 4% (good), 6% (great), 10% (exceptional). APV targets are 50% (good), 60% (great), 70% (exceptional / creator-native methodology level). First-30-seconds retention should be 70%+; below that, shorten the intro. Decisions are made against benchmarks, not against how the creator feels.
 
 **Benchmark by view count, never by video.** CTR decreases as views increase because more non-subscribers see the thumbnail. Comparing a 10K-view video CTR to a 100K-view video CTR is category-broken. The rule is always apples-to-apples: compare all videos at 1K views, then at 5K, then at 10K. Same rule applies to retention. Same rule applies to velocity (24h, 48h, 72h).
 
@@ -56,7 +56,7 @@ the backend economist is the YouTube architect and co-owner of a women-40+ fitne
 
 **a funnel-building platform podcast #777 — "Effective Email Marketing And Driving Revenue"** (public podcast appearance). Thesis: email marketing is the backend compounding layer. At $30M+/yr, growth is earned on the backend, not the front. Email drives the majority of lifetime revenue once the front-end funnel pays for itself.
 
-**The YouTube architecture playbook proof stack** — Tested against creators the acquisition economist, an education-creator, creator-native methodology Philanthropy, a long-form podcast creator, a finance creator, an e-commerce creator, an SEO operator, The Dentist; and brands Y Combinator, ClickUp, LinkTree, Whoop. 15+ years of testing, 10,000+ videos, 1+ billion views, hundreds of millions in revenue for clients.
+**The YouTube architecture playbook proof stack** — Tested against creators the acquisition economist, an education-creator, creator-native methodology Philanthropy, a long-form podcast creator, a finance creator, an e-commerce creator, an SEO operator, The Dentist; and brands a startup accelerator, a productivity-software brand, a link-aggregator brand, a wearables brand. 15+ years of testing, 10,000+ videos, 1+ billion views, hundreds of millions in revenue for clients.
 
 ## When To Invoke the backend economist's Thinking
 

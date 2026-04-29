@@ -96,7 +96,7 @@ Partner promotes ≥ 1 additional time within 180 days. Long-term relationship a
 - Knowledge: `reference/knowledge/partnerships.md`
 - Skills: `skills/jv-webinar-proposal/`, `skills/affiliate-program/`, `skills/referral-program/`
 - Knowledge integration: `reference/knowledge/sales.md` (funnel), `reference/knowledge/nurture.md` (post-partner sequences), `reference/knowledge/launch.md` (JV timing)
-- Agents: `agents/partnerships/partner-manager.md`, `agents/partnerships/affiliate-ops.md`
+- Agents: `agents/jv-outreach.md`, `agents/affiliate-architect.md`
 
 ---
 *v1.0 — 2026-04-19.*

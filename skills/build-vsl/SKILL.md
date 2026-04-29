@@ -471,8 +471,8 @@ After `/build-vsl` ships (and passes Blind Test):
 - `reference/frameworks/sales/crossroads-close.md`
 - `reference/frameworks/sales/value-stack-architecture.md`
 - `reference/operators/vsl-director.md` (Variant A)
-- `reference/operators/external/youtube-native-director.md` (Variant B)
-- `reference/operators/external/steven-trister.md` (Variant C)
+- `reference/operators/youtube-native-director.md` (Variant B)
+- `reference/operators/copy-director.md` (Variant C)
 - `reference/operators/vsl-copywriter.md` (Variant D)
 - `reference/operators/growth-engineer.md` (Variant E)
 - `reference/sub-agents/vsl/` (Growth Operating Agency canonical source)

@@ -6,7 +6,7 @@
 
 - the offer architect, *Ownership Selling* methodology
 - the content OS director, high-ticket closing methodology
-- Jeremy Miner (NEPQ), a hostage-negotiation-school author (a hostage-negotiation text)
+- the hidden-pitch architect Miner (NEPQ), a hostage-negotiation-school author (a hostage-negotiation text)
 - Distilled into eight stages by the Heuresis authoring line (2026), compatible with influence-principles research / cognitive-bias research / 4-belief layer frameworks
 
 ## The Eight Stages

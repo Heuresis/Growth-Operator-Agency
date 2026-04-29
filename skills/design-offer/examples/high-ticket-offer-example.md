@@ -18,7 +18,7 @@ a sales-training academy is the brand the VSL director built to teach his own VS
 **Core Mechanism (unique):** The 15-Step VSL Framework + 8 Required Beliefs + 6-Blockage Diagnostic. Named explicitly in the offer - never generic "coaching" framing. This is the VSL director's signature anti-pattern to the funnel-building platform founder-style value stacks: the mechanism itself is the differentiation.
 
 **Core Deliverables:**
-1. **The 8-Figure VSL Blueprint** - the 78-file written curriculum, ~47,386 words, covering Pre-VSL Market Research through 15-step construction through optimization loops.
+1. **The 8-Figure VSL a longevity-protocol** - the 78-file written curriculum, ~47,386 words, covering Pre-VSL Market Research through 15-step construction through optimization loops.
 2. **The Belief-Installation Audit** - a diagnostic of the operator's current sales asset, identifying which of the 8 beliefs are missing and where.
 3. **The 6-Blockage Diagnostic Call** - a 1-hour intake where the VSL director or a senior closer maps the operator's bottleneck to one of the six blockages (Lead Generation / Lead Quality / Offer Architecture / Sales Mastery / Team / Mindset).
 4. **VSL Rewrite Review** - the operator writes a VSL using the framework; the team reviews it against the 15 steps + 8 beliefs and returns specific rewrites.
@@ -61,7 +61,7 @@ No countdown timers, no "only 3 spots left" that never close. the VSL director's
 
 ## Source
 
-- the VSL director, *8-Figure VSL Blueprint* (78-file curriculum, ~47,386 words)
+- the VSL director, *8-Figure VSL a longevity-protocol* (78-file curriculum, ~47,386 words)
 - `reference/operators/vsl-director.md` - a sales-training operation case attribution
 - `reference/frameworks/vsl-director/15-step-vsl-deep.md`
 - `reference/frameworks/vsl-director/price-anchoring-mechanics.md`

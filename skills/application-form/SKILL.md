@@ -537,7 +537,7 @@ After `/application-form` ships:
 - `reference/frameworks/primitives/call-funnel.md`
 - `reference/frameworks/primitives/unique-mechanism.md`
 - `reference/operators/agency-director.md` (application-funnel qualification)
-- `reference/operators/sales-director.md` (pre-qualification flow)
+- `reference/operators/copy-director.md` (pre-qualification flow)
 - `reference/operators/operations-director.md` (8-stage customer journey)
 - `reference/operators/paid-media-director.md` (Infomatic Setting Flow)
 

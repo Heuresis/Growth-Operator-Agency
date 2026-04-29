@@ -1,7 +1,7 @@
 # high-value stacked offer - the acquisition economist Implementation Guide Distillation
 
 > **Source:** the acquisition economist, *a high-value offer canon: Complete Implementation Guide* (21-day, 15-step, 6-phase build)
-> **Companion:** `reference/frameworks/offer-architecture/hormozi-grand-slam-offer.md` (the offer architect vs. the acquisition economist comparison)
+> **Companion:** `reference/frameworks/offer-architecture/grand-slam-offer.md` (the offer architect vs. the acquisition economist comparison)
 
 This file captures what the Implementation Guide actually prescribes, phase by phase. Use it as a build checklist, not a concept explainer.
 
@@ -110,7 +110,7 @@ Rule from the companion file: total bonus value should be 3-5× the offer price.
 
 Guide examples:
 - "Free 6-Week Busy Mom Debt Freedom Challenge"
-- "New Patient $10K Local Dentist Revenue Blueprint"
+- "New Patient $10K Local Dentist Revenue a longevity-protocol"
 - "21-Day Executive Six-Pack System"
 
 ### Phase 5 - Pricing & Assembly (Days 17-18)
@@ -188,7 +188,7 @@ Recommended: Lead Magnet, Email Sequences, Social Proof stack.
 - the acquisition economist, *a high-value offer canon: Complete Implementation Guide* (21-day build PDF).
 - the acquisition economist, a high-value offer canon (book, 2021).
 - `reference/frameworks/acquisition-economics/value-equation.md` - the scoring engine this builds on.
-- `reference/frameworks/offer-architecture/hormozi-grand-slam-offer.md` - the offer architect vs. the acquisition economist comparison.
+- `reference/frameworks/offer-architecture/grand-slam-offer.md` - the offer architect vs. the acquisition economist comparison.
 
 ---
 *v1.0 - 2026-04-19. Direct distillation of the 15-step Implementation Guide.*

@@ -145,7 +145,7 @@ In a VSL or webinar pitch, reveal in this exact order:
 - the VSL director — 15-step VSL (Sections 7-10)
 - the offer architect — Engineering Economics Offer (pricing as identity)
 - the psychological copywriter — pull-push-persuade Step 10 (5-layer close)
-- `reference/operators/external/alex-hormozi.md`
+- `reference/operators/acquisition-economist.md`
 - `reference/operators/vsl-director.md`
 
 ---

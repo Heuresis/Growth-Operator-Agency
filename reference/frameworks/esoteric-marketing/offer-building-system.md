@@ -1,12 +1,12 @@
 # Offer Building System — Psychological Architecture
 
-> **Why this matters:** The canonical 7-step offer doc (see `offer-architecture/sultanic-offer-building-system.md`) defines the mechanical structure — outcome, mechanism, capability removal, first-win, guarantee, pricing, ecosystem. This file is the **psychological companion**: what each step is *actually doing* inside the buyer's head. The mechanical structure without the psychological substrate produces offers that look right on paper and fail in the market.
+> **Why this matters:** The canonical 7-step offer doc (see `offer-architecture/7-phase-offer-building-system.md`) defines the mechanical structure — outcome, mechanism, capability removal, first-win, guarantee, pricing, ecosystem. This file is the **psychological companion**: what each step is *actually doing* inside the buyer's head. The mechanical structure without the psychological substrate produces offers that look right on paper and fail in the market.
 
 ## Source / Lineage
 
 - **the offer architect** — *Offer Building System v1.0* (primary), plus the deeper "identity-layer" and "buyer-state" commentary in his private cohort material
 - **the awareness-spectrum author** — the mid-20th-century market-awareness monograph (1966) — market awareness + sophistication
-- **Joe Sugarman** — *Triggers* (30 psychological triggers underlying response)
+- **the trigger taxonomist** — *Triggers* (30 psychological triggers underlying response)
 - **influence-principles research** — *Influence* (reciprocity, liking, consistency, social proof, authority, scarcity, unity)
 - **a no-first negotiation author** — a no-first negotiation text — buyer agency as the substrate of persuasion
 - **Robert Collier** — *The Robert Collier Letter Book* (1937) — entering the conversation already in the prospect's mind
@@ -231,7 +231,7 @@ An offer scoring 6-7/7 converts structurally. An offer scoring 3-4/7 can be ad-s
 
 - **Skill(s) that consume this:** `/design-offer`, `/offer-repositioning`, `/audit-offer`, `/build-vsl`, `/webinar-script`
 - **Agent(s) that use it:** offer-architect, copywriter, product-designer, buyer-psychology-analyst
-- **Companion framework(s):** `offer-architecture/sultanic-offer-building-system.md` (mechanical layer), `esoteric-marketing/mind-enhanced-v2.md` (the emotional persuasion stack), `esoteric-marketing/market-psychology-foundations.md`
+- **Companion framework(s):** `offer-architecture/7-phase-offer-building-system.md` (mechanical layer), `esoteric-marketing/mind-enhanced-v2.md` (the emotional persuasion stack), `esoteric-marketing/market-psychology-foundations.md`
 
 ## Non-applicable scenarios
 
@@ -241,8 +241,8 @@ An offer scoring 6-7/7 converts structurally. An offer scoring 3-4/7 can be ad-s
 
 ## Cross-references
 
-- `offer-architecture/sultanic-offer-building-system.md`
-- `offer-architecture/hormozi-grand-slam-offer.md`
+- `offer-architecture/7-phase-offer-building-system.md`
+- `offer-architecture/grand-slam-offer.md`
 - `esoteric-marketing/mind-enhanced-v2.md`
 - `esoteric-marketing/market-psychology-foundations.md`
 - `esoteric-marketing/engineering-economics-offer.md`
