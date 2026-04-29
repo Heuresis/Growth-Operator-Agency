@@ -2,8 +2,6 @@
 
 Growth Operating Agency encodes a specific thesis: a go-to-market operation for a high-ticket creator business can be expressed as a runtime-agnostic workspace that any capable LLM can execute. This document walks the layers, the invariants, and the flywheel.
 
-<img alt="Workspace = ROM. Agent = RAM. Skills are stacked." src="assets/architecture-light.svg" width="100%">
-
 ---
 
 ## The three layers
@@ -139,8 +137,6 @@ See [`reference/canonical/spec/QUALITY.md`](../reference/canonical/spec/QUALITY.
 
 ## The encoding flywheel
 
-<img alt="Encoding flywheel — each cycle deepens the encoding" src="assets/flywheel-light.svg" width="100%">
-
 Every cycle through the workspace makes the next cycle better.
 
 1. **Cycle 1 — manual expert download.** Creator fills compartments via interview.
@@ -154,8 +150,6 @@ Every interaction deepens encoding. The compounding gap to un-encoded operators 
 ---
 
 ## Skill anatomy
-
-<img alt="Skill anatomy — every skill is a folder" src="assets/skill-anatomy-light.svg" width="100%">
 
 Every skill ships as a folder with one runtime-agnostic canonical (`SKILL.md`) and four supporting directories. Runtime-specific concerns live in `adapters/` — never in `SKILL.md` itself. See [SKILL_AUTHORING.md](SKILL_AUTHORING.md) for the full authoring contract.
 
@@ -173,12 +167,6 @@ Agents are thin personas. Business logic lives in skills, not agents. The routin
 6. On pass, artifact ships. On fail, handoff per `workflows/handoffs/quality-revision.md` (max 2 attempts before creator escalation).
 
 See [`agents/_INDEX.md`](../agents/_INDEX.md) for the full roster and reporting chain.
-
----
-
-## The 7 departments
-
-<img alt="7 departments of Growth Operating Agency" src="assets/divisions-light.svg" width="100%">
 
 ---
 

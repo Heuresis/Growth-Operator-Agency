@@ -7,7 +7,7 @@
 
 ## Context
 
-Clipping Agency operates in a market with a clear category gap: "clipping education" exists at $49/month (ClipFlow on Whop, 16,300 members) but nothing exists at $2K+. SMMA courses (the agency director, Charlie Morgan) teach generic agency building but miss the streaming niche's unique trust and hiring dynamics (Discord-native outreach, no long-form contracts, 2 AM response windows). The positioning was engineered to create a subcategory - "Clipping a creator-agency program" - that no competitor currently occupies, then defend it with a streaming-specific mechanism. This is the actual positioning document produced by the Phase-3 instantiation of Clipping Agency.
+Clipping Agency operates in a market with a clear category gap: "clipping education" exists at $49/month (ClipFlow on Whop, 16,300 members) but nothing exists at $2K+. SMMA courses (the agency director, the YouTube-led agency-coaching market leader) teach generic agency building but miss the streaming niche's unique trust and hiring dynamics (Discord-native outreach, no long-form contracts, 2 AM response windows). The positioning was engineered to create a subcategory - "Clipping a creator-agency program" - that no competitor currently occupies, then defend it with a streaming-specific mechanism. This is the actual positioning document produced by the Phase-3 instantiation of Clipping Agency.
 
 ## The Encoded Positioning Document
 

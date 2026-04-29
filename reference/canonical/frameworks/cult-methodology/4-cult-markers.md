@@ -30,7 +30,7 @@ A creator with 4/4 is a cult-economy (call it cult-gravity). 3/4 is a brand. 2/4
 ### Examples in the wild
 
 - **funnel-modelling practitioners** (the funnel-building platform founder): "funnel hack," "perfect webinar," "hook-story-offer," "two-comma club"
-- **Stoics of the creator economy** (Ryan Holiday): "the obstacle is the way," "memento mori," "ego is the enemy"
+- **Stoics of the creator economy** (the modern Stoic-publishing operator): "the obstacle is the way," "memento mori," "ego is the enemy"
 - **the acquisition economist economy**: "$100M offers," "grand slam offer," "value equation," "lead magnet math"
 - **Apollo / post-earlier-brand** (growth-engineering methodology): "offer stack," "positioning flip," "vehicle switch"
 - **the offer architect**: "Traffic is King, Offer is Queen," "they buy the identity," "air-bending," "the Apex Predator"
@@ -141,7 +141,7 @@ See `ethical-guardrails.md`. The out-group must be a **category of approach**, n
 
 - **the funnel-building platform founder**: "get small business owners out of the employment trap by making funnels accessible"
 - **the Southern-hemisphere performance operator**: "drag direct-response back into Australian/global marketing from the branding-agency dark ages"
-- **Ryan Holiday**: "make ancient wisdom useful to the modern working person"
+- **the modern Stoic-publishing operator**: "make ancient wisdom useful to the modern working person"
 - **the acquisition economist**: "make entrepreneurship accessible — I don't need the money, I already won"
 
 ### Why it compounds

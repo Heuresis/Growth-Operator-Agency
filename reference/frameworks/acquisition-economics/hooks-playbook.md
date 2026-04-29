@@ -1,7 +1,7 @@
 # Hooks Playbook - Distilled
 
 > **Source:** the acquisition economist, *the hooks canon - How to Double Your Marketing in Under 5 Seconds* (a portfolio holding company, 2025)
-> **Opening quote (the Madison-Avenue copy archetype, quoted by the acquisition economist):** "After you've written your headline, you've spent eighty cents of your advertising dollar."
+> **Opening quote (the advertising-canon authority, quoted by the acquisition economist):** "After you've written your headline, you've spent eighty cents of your advertising dollar."
 
 ## The Definition
 
