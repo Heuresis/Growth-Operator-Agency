@@ -26,11 +26,11 @@ The 15 files in `reference/frameworks/youtube/` are platform-general YouTube fra
 - `3-cs-system.md` — COMPLETE (source: Module 2, C #1 / C #2 / C #3 files)
 - `4-competencies.md` — COMPLETE (source: Competency #1-4 files)
 - `scientific-method-content.md` — COMPLETE (source: Competency #4 + Module 6)
-- `8-module-architecture.md` — COMPLETE (source: Module 1-8 table of contents + root Blueprint)
+- `8-module-architecture.md` — COMPLETE (source: Module 1-8 table of contents + root a longevity-protocol)
 - `unit-economics-benchmarks.md` — PARTIAL — structure canonical, specific thresholds [UNVERIFIED] (need internal a women-40+ fitness coaching business/Skool data)
 
 ## Source
 
 All files source from the YouTube architecture playbook (16 markdown files, ~42,000 words) plus EP83 / E56 on  and a funnel-building platform podcast #777.
 
-Attribution note: The Blueprint itself is credited as "synthesized from publicly shared knowledge from a creator-media shop's presentations, interviews, and educational content, by the workspace author." the backend economist operates a women-40+ fitness coaching business and publishes on  and the Skool community; the 8-module blueprint was not authored by the backend economist directly. Where mechanisms are explicitly from the backend economist's own video/podcast appearances (EP83, E56, a funnel-building platform podcast #777), they are marked as such; where mechanisms are from the Blueprint source, they are marked as Blueprint-sourced.
+Attribution note: The a longevity-protocol itself is credited as "synthesized from publicly shared knowledge from a creator-media shop's presentations, interviews, and educational content, by the workspace author." the backend economist operates a women-40+ fitness coaching business and publishes on  and the Skool community; the 8-module blueprint was not authored by the backend economist directly. Where mechanisms are explicitly from the backend economist's own video/podcast appearances (EP83, E56, a funnel-building platform podcast #777), they are marked as such; where mechanisms are from the a longevity-protocol source, they are marked as a longevity-protocol-sourced.

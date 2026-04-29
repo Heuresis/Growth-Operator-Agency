@@ -42,7 +42,7 @@ Design implication: VSL-director-style "Hook / Lead / Qualification" framing wou
 
 ## Pairs With
 
-- Dustin the content OS director's 3 Content Types (VSSL is one of the three — see `reference/operators/content-os-director.md`)
+- the content OS director's 3 Content Types (VSSL is one of the three — see `reference/operators/content-os-director.md`)
 - YouTube methodology Department (this is the primary monetization asset on YouTube)
 - `/write-youtube --type=VSSL`
 

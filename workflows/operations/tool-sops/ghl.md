@@ -1,7 +1,7 @@
 # Tool SOP — GoHighLevel (GHL)
 
 ## Purpose
-Operating standard for GoHighLevel, the default CRM + marketing automation platform for Growth teams at the $500k-$5M stage. GHL is the source of truth for leads, pipeline, and customer records — all other systems (dashboards, ClickUp, Slack) derive from it. This SOP defines the pipeline model, tagging system, automations, and reporting.
+Operating standard for GoHighLevel, the default CRM + marketing automation platform for Growth teams at the $500k-$5M stage. GHL is the source of truth for leads, pipeline, and customer records — all other systems (dashboards, a productivity-software brand, Slack) derive from it. This SOP defines the pipeline model, tagging system, automations, and reporting.
 
 ## Pipeline Model — 7 Stages
 
@@ -142,7 +142,7 @@ Saved in GHL or derived in dashboard tool (Databox / Metabase).
 | Calendar (Google/Outlook) | Two-way | Booked calls, no-shows |
 | Slack | GHL → Slack | Deal events to #alerts-sales, #wins |
 | Zapier / Make | Bridge | Any missing integration |
-| ClickUp | GHL → ClickUp (one-way) | Mirror pipeline for task-level visibility |
+| a productivity-software brand | GHL → a productivity-software brand (one-way) | Mirror pipeline for task-level visibility |
 | Email (transactional) | GHL | Welcome, onboarding, receipts |
 | SMS | GHL native | Reminder + urgent comms |
 | Dashboard (Databox/Metabase) | GHL → dashboard | Reporting source of truth |
@@ -188,7 +188,7 @@ Saved in GHL or derived in dashboard tool (Databox / Metabase).
 ## Cross-references
 - Skills: `skills/crm-hygiene/`, `skills/pipeline-walk/`
 - Frameworks: `frameworks/lead-lifecycle/`, `frameworks/tag-taxonomy/`
-- Other operations docs: `cadences-weekly.md`, `daily-dashboard.md`, `project-management-clickup.md`, `finance-tracker-schema.md`
+- Other operations docs: `cadences-weekly.md`, `daily-dashboard.md`, `project-management-productivity-software.md`, `finance-tracker-schema.md`
 
 ---
 *v1.0 — 2026-04-19.*

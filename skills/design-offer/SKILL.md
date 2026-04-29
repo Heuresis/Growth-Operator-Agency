@@ -517,8 +517,8 @@ After `/design-offer` ships:
 - `reference/frameworks/primitives/value-equation.md`
 - `reference/frameworks/primitives/unique-mechanism.md`
 - `reference/frameworks/esoteric-marketing/README.md` (Offer Repositioning (Air-Bending) + 7-step Phase 2 Offer Architecture)
-- `reference/frameworks/offer-architecture/sultanic-offer-building-system.md`
-- `reference/frameworks/offer-architecture/hormozi-grand-slam-offer.md`
+- `reference/frameworks/offer-architecture/7-phase-offer-building-system.md`
+- `reference/frameworks/offer-architecture/grand-slam-offer.md`
 - `reference/frameworks/sales/8-required-beliefs.md` (15-step VSL methodology)
 - `reference/operators/acquisition-economist.md`
 - `reference/operators/vsl-director.md`

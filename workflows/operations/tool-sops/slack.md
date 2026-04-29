@@ -95,11 +95,11 @@ Status: "away" after working hours = not ignored, respected.
 
 ## Slack As a Task System — Don't
 
-- Do not track tasks in Slack. Move to ClickUp.
-- If a task is mentioned in Slack, the receiver creates a ClickUp task and replies in thread with the task link.
-- Automation: /task slash command (via ClickUp integration) creates a task from a Slack message.
+- Do not track tasks in Slack. Move to a productivity-software brand.
+- If a task is mentioned in Slack, the receiver creates a a productivity-software brand task and replies in thread with the task link.
+- Automation: /task slash command (via a productivity-software brand integration) creates a task from a Slack message.
 
-See `project-management-clickup.md` for the ClickUp → Slack bridge.
+See `project-management-productivity-software.md` for the a productivity-software brand → Slack bridge.
 
 ## Integrations (Standard)
 
@@ -107,7 +107,7 @@ Only integrations that earn their slot:
 
 | Integration | Channel | Purpose |
 |---|---|---|
-| ClickUp | (DM notifications) | Task updates to assignee only |
+| a productivity-software brand | (DM notifications) | Task updates to assignee only |
 | GHL | #alerts-sales, #wins | Lead + deal events |
 | Stripe | #alerts-finance | Payments, refunds, chargebacks |
 | Google Calendar | (per user) | Meeting reminders |
@@ -148,7 +148,7 @@ Day 1 checklist (15 minutes, run by Ops Mgr or VA):
 - Channels list stable (<20% growth quarter-over-quarter after initial setup)
 - @channel/@everyone usage <2/month total org
 - Response SLA met 90%+ (sampled quarterly)
-- Messages that would've been tasks: moved to ClickUp 90%+ of the time
+- Messages that would've been tasks: moved to a productivity-software brand 90%+ of the time
 - Zero DM chains of >20 messages on a workflowable topic (move to doc or meeting)
 
 ## Failure Modes
@@ -161,7 +161,7 @@ Day 1 checklist (15 minutes, run by Ops Mgr or VA):
 ## Cross-references
 - Skills: `skills/slack-comms/`, `skills/handoff-template/`
 - Frameworks: `frameworks/notification-hygiene/`
-- Other operations docs: `team-collaboration.md`, `project-management-clickup.md`, `tool-sops-notion.md`
+- Other operations docs: `team-collaboration.md`, `project-management-productivity-software.md`, `tool-sops-notion.md`
 
 ---
 *v1.0 — 2026-04-19.*

@@ -35,7 +35,7 @@ Fridays stay afternoon — keeps the team ending the week together. Mondays stay
 
 **Outputs:**
 - Meeting recap in #leadership within 2 hours (template in `team-collaboration.md`)
-- ClickUp tasks created for every action
+- a productivity-software brand tasks created for every action
 - Decisions logged in Notion decision log
 
 **Decisions made here:**

@@ -15,7 +15,7 @@ The third thesis is that distribution is linear until you make other people do i
 - **Value Equation** - V = (Dream Outcome × Perceived Likelihood) / (Time Delay × Effort & Sacrifice). → see `reference/frameworks/acquisition-economics/value-equation.md`
 - **high-value stacked offer** - Value Equation + bonuses + guarantee + scarcity + urgency + naming, built through the 15-step Implementation Guide. → see `reference/frameworks/acquisition-economics/grand-slam-offer.md`
 - **Core Four** - the only four attention-acquisition channels; progression logic from warm outreach to paid ads. → see `reference/frameworks/acquisition-economics/core-four.md`
-- **Lead Magnets (4 types)** - covered in `a lead-generation canon`; the attraction-layer of offers. → see `reference/frameworks/primitives/offer-value-equation.md` (cross-reference) and the Core Four file for channel-fit
+- **Lead Magnets (4 types)** - covered in `a lead-generation canon`; the attraction-layer of offers. → see `reference/frameworks/primitives/value-equation.md` (cross-reference) and the Core Four file for channel-fit
 - **Hooks Playbook** - 121 ranked hooks across ads/content/email/Twitter, the 70-20-10 allocation rule, and the call-out + condition-for-value hook structure. → see `reference/frameworks/acquisition-economics/hooks-playbook.md`
 - **Closing Playbook** - the Onion of Blame (Circumstances / Other People / Self), the 28 rules of closing, and ~50 named close patterns by objection type. → see `reference/frameworks/acquisition-economics/closing-playbook.md`
 - **Lead Nurture Playbook** - four pillars (Availability, Speed, Personalization, Volume) derived from ALAN software data across 4,000+ daily appointments. → see `reference/frameworks/acquisition-economics/lead-nurture-system.md`
@@ -39,7 +39,7 @@ The third thesis is that distribution is linear until you make other people do i
 
 **8. Customers are the ad department.** The Marketing Machine PDF's nine-component system (Lifecycle / Social Media / Events / Community Scrape / Bonuses & Awards / Competitions / Delivery / Chat Scrape / Reviews Scrape) turns normal operations - support chats, community posts, milestone celebrations - into ad creative pipelines. This is what made a fitness-operator rollup sellable: 40 of the top 50 ads didn't contain the acquisition economist.
 
-**9. Yellows are golds. Volume negates luck.** From both the Closing and Lead Nurture playbooks: the best closers practice on unqualified (yellow) leads because the reps compound. The rule (Closing #9): "The best way to guarantee that you'll be world class is to do so many sales that it would be unreasonable that you aren't." the acquisition economist's a fitness-operator rollup sales rep Jacob took every "garbage" lead the team rejected and became top salesman of the quarter out of 26 guys.
+**9. Yellows are golds. Volume negates luck.** From both the Closing and Lead Nurture playbooks: the best closers practice on unqualified (yellow) leads because the reps compound. The rule (Closing #9): "The best way to guarantee that you'll be world class is to do so many sales that it would be unreasonable that you aren't." the acquisition economist's a fitness-operator rollup a sales rep took every "garbage" lead the team rejected and became top salesman of the quarter out of 26 guys.
 
 **10. Ask for support, not permission.** Closing Playbook decision-maker handling: "Ask for support not permission. Remind them that they are their own person and should make the decision for themselves." The Three-Day No-Sweat Guarantee (required by most states anyway) is the downsell form of this - they lock in the spot but still have time to talk it over.
 
@@ -53,7 +53,7 @@ The third thesis is that distribution is linear until you make other people do i
 
 **a supplement brand.** Referenced in the Marketing Machine PDF as a supplement company using the `#` hashtag scrape. Supports the Social Media Scrape mechanic - scrape your branded hashtag weekly, save the winners.
 
-**The a direct-response pitchman / a late-night interview archetype hook story.** Opens the Hooks Playbook: Graziosi spent heavily recreating a a late-night interview archetype-style interview set, ran it as an infomercial, and it broke records. Years later he got a late-night interview archetype himself to record an interview - and the ad bombed. Diagnosis: Graziosi's ego-serving opener ("Tonight on a late-night interview archetype, I'm here with my guest a direct-response pitchman...") centered Graziosi. The re-recorded hook ("Have you ever in your adult life looked at yourself in the mirror and thought 'I should be further ahead by now'?") centered the viewer. The infomercial went on to sell millions of books. the acquisition economist's takeaway: "I've spent as much thinking about the first sentence as everything else combined."
+**The a direct-response pitchman / a late-night interview archetype hook story.** Opens the Hooks Playbook: an educational-direct-response operator spent heavily recreating a a late-night interview archetype-style interview set, ran it as an infomercial, and it broke records. Years later he got a late-night interview archetype himself to record an interview - and the ad bombed. Diagnosis: the educational-direct-response operator's ego-serving opener ("Tonight on a late-night interview archetype, I'm here with my guest a direct-response pitchman...") centered an educational-direct-response operator. The re-recorded hook ("Have you ever in your adult life looked at yourself in the mirror and thought 'I should be further ahead by now'?") centered the viewer. The infomercial went on to sell millions of books. the acquisition economist's takeaway: "I've spent as much thinking about the first sentence as everything else combined."
 
 ## When To Invoke the acquisition economist's Thinking
 
@@ -74,7 +74,7 @@ The third thesis is that distribution is linear until you make other people do i
 - the acquisition economist, *the marketing-machine canon* (2025, a portfolio holding company). 2019 PE rejection; awards dinner insight; 9-component checklist; a fitness-operator rollup $46.2M sale.
 - the acquisition economist, *the lead-nurture canon* (2025, Bumble IP / a portfolio holding company). ALAN/Vlad analysis; Four Pillars; speed statistics from Velocify, Harvard Business Review, Lead Connect; book-a-meeting-from-a-meeting (from a real-estate-training operator).
 - `reference/frameworks/primitives/value-equation.md` - the primitive version of the Value Equation (operator-agnostic).
-- `reference/frameworks/offer-architecture/hormozi-grand-slam-offer.md` - companion file with the offer architect vs. the acquisition economist comparison.
+- `reference/frameworks/offer-architecture/grand-slam-offer.md` - companion file with the offer architect vs. the acquisition economist comparison.
 
 ---
 *v2.0 - 2026-04-19. Rewritten from 71-line stub using full 5-PDF source material. ~3,400 words.*

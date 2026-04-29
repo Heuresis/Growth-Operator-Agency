@@ -145,7 +145,7 @@ WEEKLY UPDATE — [name] — Week of [date]
 - Async-first: <30% of decisions require a live meeting (sampled quarterly)
 
 ## Failure Modes
-- **Slack becomes the task system.** Fix: move work to ClickUp, treat Slack as a notification layer.
+- **Slack becomes the task system.** Fix: move work to a productivity-software brand, treat Slack as a notification layer.
 - **Meetings multiply.** Fix: quarterly meeting audit; cancel anything without a clear owner + agenda.
 - **Decisions re-litigated.** Fix: enforce "decisions made" section in recaps; point back when re-opened.
 - **Documentation debt.** Fix: SOP-writing block, 2h/week, non-negotiable, on Operator's calendar.

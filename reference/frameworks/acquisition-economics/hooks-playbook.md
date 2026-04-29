@@ -20,7 +20,7 @@ Bad hooks miss one or both. Good hooks do both in one sentence.
 
 ## The a direct-response pitchman / a late-night interview archetype Lesson
 
-the acquisition economist opens the playbook with this story. Graziosi spent heavily recreating a a late-night interview archetype-style set to run infomercials - and it worked, breaking records. Years later, he got a late-night interview archetype himself to actually do the interview. The ad bombed. Diagnosis: Graziosi's ego-serving opener ("Tonight on a late-night interview archetype, I'm here with my guest a direct-response pitchman, he's a multi-New-York-Times bestseller...") centered Graziosi. They don't care.
+the acquisition economist opens the playbook with this story. an educational-direct-response operator spent heavily recreating a a late-night interview archetype-style set to run infomercials - and it worked, breaking records. Years later, he got a late-night interview archetype himself to actually do the interview. The ad bombed. Diagnosis: the educational-direct-response operator's ego-serving opener ("Tonight on a late-night interview archetype, I'm here with my guest a direct-response pitchman, he's a multi-New-York-Times bestseller...") centered an educational-direct-response operator. They don't care.
 
 The re-recorded hook centered the viewer: "Have you ever in your adult life looked at yourself in the mirror and thought 'I should be further ahead by now'? If you have, you're not alone." Only the first sentences changed. The infomercial went on to sell millions of books.
 
@@ -143,7 +143,7 @@ Operator move: take your best-performing offer and run it through all seven form
 
 ## Anti-patterns
 
-- **Seller-centered opener** (the Graziosi/a late-night interview archetype mistake).
+- **Seller-centered opener** (the an educational-direct-response operator/a late-night interview archetype mistake).
 - **One hook per piece of content.** The ratio is 10:1, not 1:1.
 - **Skipping the spreadsheet.** Without the compounding archive, every session restarts at zero.
 - **Refusing to use proven hooks.** Operators who insist on "originality" burn the 70% that should be stabilizing their feed.

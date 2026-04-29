@@ -107,7 +107,7 @@ Pick based on: offer price, audience size, operational capacity, traffic source.
 - Skills: `skills/plan-launch/SKILL.md`, `skills/launch-report/SKILL.md`
 - Knowledge: `reference/knowledge/sales.md` (funnel + VSL), `reference/knowledge/marketing.md` (creative), `reference/knowledge/nurture.md` (email sequences)
 - Frameworks: `reference/frameworks/launch-5-phase.md`, `reference/frameworks/product-launch-formula.md`
-- Agents: `agents/launch/launch-director.md`, `agents/launch/launch-analyst.md`
+- Agents: `agents/launch-manager.md`, `agents/post-launch-analyst.md`
 - Pipeline: `workflows/divisions/launch-pipeline.md`
 
 ---

@@ -112,7 +112,7 @@ VSL approach scales with stage:
 - Stage 4 VSL → open with Big Enemy, demolish category assumptions
 
 ### /cult-methodology framework
-Exhausted markets (Stage 4) are where cult-methodology + Big Enemy positioning dominate. See `reference/frameworks/cult-methodology/README.md`.
+Exhausted markets (Stage 4) are where cult-methodology + Big Enemy positioning dominate. See `reference/canonical/frameworks/cult-methodology/README.md`.
 
 ## Invariants
 
@@ -132,7 +132,7 @@ Operators who see a market reaching Stage 4 often shift to a Stage 1-2 adjacent 
 - the VSL director — market sophistication in Foundations + Positioning
 - the offer architect — headwinds/tailwinds commentary on market stage
 - `reference/operators/vsl-director.md`
-- `reference/frameworks/classical/schwartz-awareness-spectrum.md`
+- `reference/canonical/frameworks/classical/awareness-spectrum-5-levels.md`
 
 ---
 *v1.0 — 2026-04-19. Foundational classical framework.*

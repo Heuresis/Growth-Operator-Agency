@@ -119,7 +119,7 @@ This primitive is invoked by:
 - the acquisition economist, a high-value offer canon — Chapter 4 (Value Equation)
 - a portfolio holding company playbooks
 - Joe McMahan, "The Value Equation," Medium — https://medium.com/@joemcmahan/the-value-equation-436ad5fe5a3a
-- `reference/operators/external/alex-hormozi.md` — full the acquisition economist profile
+- `reference/operators/acquisition-economist.md` — full the acquisition economist profile
 
 ## Cross-primitive relations
 

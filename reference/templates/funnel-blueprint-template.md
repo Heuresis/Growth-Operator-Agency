@@ -1,4 +1,4 @@
-# Funnel Blueprint — 7-Archetype Template
+# Funnel a longevity-protocol — 7-Archetype Template
 
 > **Source skill:** `/build-funnel`
 > **Output location:** `output/build-funnel/{YYYY-MM-DD}-funnel-blueprint.md`
@@ -9,7 +9,7 @@ Replace every `[FILL]` with real content. Do not ship with brackets remaining.
 
 ---
 
-# Funnel Blueprint — [Creator Brand] — [Funnel Name]
+# Funnel a longevity-protocol — [Creator Brand] — [Funnel Name]
 
 **Funnel archetype:** [VSL / Webinar / Application / Book-a-Call / Tripwire / Challenge / Community]
 **Primary offer:** [FILL]
@@ -415,4 +415,4 @@ Benchmarks vary widely by niche. Use ICP Doc + Market Research Brief to calibrat
 
 ---
 
-*Funnel Blueprint template v1.0 — Growth Operating Agency — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*
+*Funnel a longevity-protocol template v1.0 — Growth Operating Agency — a Heuresis workspace template. [heuresis.ai](https://heuresis.ai)*

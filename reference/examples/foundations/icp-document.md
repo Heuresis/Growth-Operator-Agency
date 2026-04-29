@@ -28,7 +28,7 @@ Tech founders and startup executives (28-45, $150K-$1M+ income) who gained weigh
 - **Values (ranked):**
   1. **Performance optimization** -- they apply systems thinking to everything. "Why don't you treat your health like your business?" (Entrepreneur.com). Evidence: VOC consistently uses optimization language.
   2. **Time leverage** -- they value efficiency above all. "I am working 11 hours a day... I have no time to exercise" (Quora). Evidence: time scarcity is the #1 mentioned pain across all VOC.
-  3. **Data-driven decisions** -- they distrust "vibes" and want metrics. Evidence: WHOOP popularity among tech professionals; founders reference body fat percentages, not "feeling good."
+  3. **Data-driven decisions** -- they distrust "vibes" and want metrics. Evidence: a wearables brand popularity among tech professionals; founders reference body fat percentages, not "feeling good."
   4. **Status among peers** -- they care how other founders perceive them. "My weight has hurt my business and growth... comments made, looks given" (Entrepreneur.com). Evidence: VOC on confidence in meetings.
   5. **Freedom and longevity** -- building wealth is meaningless if health fails. "No business win is worth sacrificing the body and mind you need to create it" (founder-community blog).
 
@@ -144,8 +144,8 @@ They want to be ABLE to maintain fitness consistently while running a company --
 
 | Solution Attempted | Why It Failed (Their Perspective) | Estimated Spend |
 |---|---|---|
-| Generic online fitness apps (Noom, MyFitnessPal, WHOOP) | "Too generic. Doesn't account for my schedule, stress, or travel." | $200-$500/yr |
-| Personal trainer at high-end gym (Equinox, etc.) | "Had to show up at specific times. Stopped going after 6 weeks when work got crazy." | $3,000-$8,000 |
+| Generic online fitness apps (a behavior-change app, a calorie-tracking app, a wearables brand) | "Too generic. Doesn't account for my schedule, stress, or travel." | $200-$500/yr |
+| Personal trainer at high-end gym (a premium-gym brand, etc.) | "Had to show up at specific times. Stopped going after 6 weeks when work got crazy." | $3,000-$8,000 |
 | Self-paced online courses / YouTube programs | "Started strong, lost motivation by Week 3. No accountability." | $0-$500 |
 | Hiring a nutritionist | "Gave me a meal plan I couldn't follow with my schedule. Couldn't meal prep." | $500-$2,000 |
 | Biohacking / supplement stacking | "Spent thousands on nootropics and supplements. Didn't address the fundamentals." | $1,000-$5,000 |
@@ -177,7 +177,7 @@ They want to be ABLE to maintain fitness consistently while running a company --
 ### Objection 4: "It's expensive."
 - **Surface:** The dollar amount feels high.
 - **Real:** Not confident the outcome justifies the investment based on past failures. ROI uncertainty, not income limitation.
-- **Response Framework:** Cost of inaction framing: "You're losing $5K-$15K/month in diminished cognitive performance, missed opportunities from low energy, and future healthcare costs." Comparison stack: "A personal trainer at Equinox is $8K/quarter. Equinox Optimize is $40K/year. This is a fraction of that with better results."
+- **Response Framework:** Cost of inaction framing: "You're losing $5K-$15K/month in diminished cognitive performance, missed opportunities from low energy, and future healthcare costs." Comparison stack: "A personal trainer at a premium-gym brand is $8K/quarter. a premium-gym brand Optimize is $40K/year. This is a fraction of that with better results."
 
 ### Objection 5: "I'll start after [funding round / launch / Q4]."
 - **Surface:** Timing isn't right.

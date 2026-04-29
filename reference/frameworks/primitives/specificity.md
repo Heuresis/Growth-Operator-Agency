@@ -131,7 +131,7 @@ Copy passes specificity gate when:
 - the offer architect — *Anatomy of Ads* (numeric specificity)
 - Classical: an early-20th-century copy essayist the early-20th-century reason-why essay, the direct-response tradition direct response lineage
 - `reference/operators/media-buying-director.md`
-- `reference/operators/external/alex-hormozi.md`
+- `reference/operators/acquisition-economist.md`
 - `reference/operators/copy-director.md`
 
 ---

@@ -25,8 +25,8 @@ Each decision with rationale + rejected alternatives. This is the "why" trail.
 
 ### 3. Artifacts produced
 File paths + completeness scores. Format:
-- `reference/market-research.md` — completeness 82/100
-- `reference/icp.md` — completeness 90/100
+- `reference/knowledge/foundations.md` — completeness 82/100
+- `reference/knowledge/foundations.md` — completeness 90/100
 
 ### 4. Quality score (Signal Theory 5-tuple)
 S = (M, G, T, F, W). Each dimension scored 0.0-1.0. Composite S/N must exceed threshold per `reference/canonical/spec/QUALITY.md`.

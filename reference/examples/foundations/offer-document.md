@@ -20,7 +20,7 @@
 
 **Name:** The Founder Fitness Operating System (FFOS)
 
-**Description:** A 90-day performance protocol with three integrated layers: (1) Founder-Calibrated Training -- 30-minute sessions with gym, hotel, and home variants that auto-adjust to your weekly schedule; (2) Executive Nutrition Protocol -- high-protein frameworks for restaurants, delivery, and travel that require zero meal prep; (3) Recovery Intelligence -- wearable data (WHOOP/Oura/Apple Watch) integrated into coaching decisions so training load matches your actual recovery, not a generic spreadsheet.
+**Description:** A 90-day performance protocol with three integrated layers: (1) Founder-Calibrated Training -- 30-minute sessions with gym, hotel, and home variants that auto-adjust to your weekly schedule; (2) Executive Nutrition Protocol -- high-protein frameworks for restaurants, delivery, and travel that require zero meal prep; (3) Recovery Intelligence -- wearable data (a wearables brand/a wearables brand/a wearables brand) integrated into coaching decisions so training load matches your actual recovery, not a generic spreadsheet.
 
 **Differentiation:** Generic programs fail founders because they assume stable schedules, available kitchens, and predictable stress. The FFOS was designed FOR instability -- it accounts for red-eye flights, board meeting cortisol spikes, and the reality that "consistent" for a founder means "adaptable." the mass-market entrepreneur-fitness 90-day program is static. the ultra-premium science-based founder-fitness program costs $20K+. The FFOS delivers personalized, data-informed coaching at an accessible price point, built for the specific failure patterns that make founders quit by Week 3 of every other program.
 
@@ -83,7 +83,7 @@
   1. The complete Founder Fitness Operating System -- personalized 90-day training protocol with founder-mode variants for travel weeks, launch sprints, and board seasons. Updated monthly based on your progress and schedule.
   2. Executive Nutrition Architecture -- personalized macro targets with a restaurant/delivery playbook custom to your city and preferences. No meal prep. No counting calories at dinner with investors.
   3. Weekly group coaching calls (60 min) -- hot-seat format with a max of 20 founders. Bring your specific blockers: "I have 3 flights next week, how do I adapt?" Real-time problem-solving.
-  4. Wearable data integration -- submit your WHOOP/Oura/Apple Watch data weekly. Coach reviews and adjusts your protocol based on actual recovery, sleep, and stress data. No more guessing.
+  4. Wearable data integration -- submit your a wearables brand/a wearables brand/a wearables brand data weekly. Coach reviews and adjusts your protocol based on actual recovery, sleep, and stress data. No more guessing.
   5. The Founder Fitness Dashboard -- monthly performance review: body composition trending, sleep quality, energy scores, training consistency. Review it like a business report.
   6. Private Slack community -- async access to your coach and a curated group of 50-100 tech founders. Post your wins, ask questions at 11pm after a product launch, get answers from people who get it.
   7. 2x monthly 1:1 check-in calls (15 min) -- personalized course corrections and accountability. Your coach knows your schedule, your stress, and your data.
@@ -159,8 +159,8 @@
 **Comparison Stack:**
 | Component | Market Price | Source |
 |-----------|-------------|--------|
-| Weekly 1:1 personal training (Equinox level) | $6,000-$8,000/quarter | Equinox, Type A Training |
-| Personalized nutrition coaching | $1,500-$2,000/quarter | Noom Concierge, private nutritionists |
+| Weekly 1:1 personal training (a premium-gym brand level) | $6,000-$8,000/quarter | a premium-gym brand, Type A Training |
+| Personalized nutrition coaching | $1,500-$2,000/quarter | a behavior-change app Concierge, private nutritionists |
 | Wearable data analysis & interpretation | $1,200-$1,500/quarter | RAPID Health Optimization benchmarks |
 | Founder peer community | $1,200/quarter | top-tier founder community membership pricing |
 | Executive wellness assessments | $2,000-$5,000 | Cleveland Clinic, Vanderbilt |
@@ -170,7 +170,7 @@
 **ROI Timeline:**
 - Investment: $3,997 for the FFOS Group Coaching quarter.
 - By Day 30: Improved sleep and energy. Founders report being noticeably more effective in meetings and decisions. If better decisions lead to even ONE better hire, one better deal term, or one avoided mistake -- the program has paid for itself.
-- By Day 90: 15-25 lbs lost, cognitive performance at a measurably higher baseline. Equinox Optimize charges $40K/year for similar outcomes. The FFOS delivers the same transformation at 1/10th the price.
+- By Day 90: 15-25 lbs lost, cognitive performance at a measurably higher baseline. a premium-gym brand Optimize charges $40K/year for similar outcomes. The FFOS delivers the same transformation at 1/10th the price.
 - Breakeven scenario: If the founder's improved performance generates just $4,000 of additional business value in 90 days (a trivially low bar for a company doing $1M+ ARR), the investment returns 1:1. Realistic ROI: 5-25x based on cognitive performance improvements.
 
 ---
@@ -217,7 +217,7 @@
 
 ### Objection 1: Price -- "It's $4K for fitness coaching?"
 - **What They Really Mean:** "I've spent money on fitness before and it failed. I'm not confident this will be different enough to justify the investment."
-- **Reframe:** "You've already spent $5K-$15K on fitness that didn't work -- gym memberships, apps, courses, personal trainers. The question isn't whether you'll spend money on your health. It's whether you'll keep spending on systems built for someone else, or invest once in a system built for how you actually work. Equinox Optimize charges $40K/year. the ultra-premium science-based founder-fitness program charges $20K+. The FFOS is $3,997 for a quarter because it's specifically engineered for the 30-minute windows and unpredictable schedules that make founders quit everything else."
+- **Reframe:** "You've already spent $5K-$15K on fitness that didn't work -- gym memberships, apps, courses, personal trainers. The question isn't whether you'll spend money on your health. It's whether you'll keep spending on systems built for someone else, or invest once in a system built for how you actually work. a K/yr biomarker-integrated gym program charges $40K/year. the ultra-premium science-based founder-fitness program charges $20K+. The FFOS is $3,997 for a quarter because it's specifically engineered for the 30-minute windows and unpredictable schedules that make founders quit everything else."
 
 ### Objection 2: Fit -- "Will this work for my specific situation?"
 - **What They Really Mean:** "I'm a special case. My schedule / travel / stress is uniquely intense. I need to know this was designed for someone EXACTLY like me."
@@ -229,7 +229,7 @@
 
 ### Objection 4: Trust -- "I've tried coaching before and it didn't work."
 - **What They Really Mean:** "I got burned by a cookie-cutter program sold as 'personalized.' I'm skeptical that this is any different."
-- **Reframe:** "Fair. Here's what makes this different: your coach reviews your WHOOP/Oura data every week and adjusts your protocol based on your actual recovery and stress -- not a template. Your nutrition plan is built for restaurants and travel -- not meal prep. And if you complete the 90-day protocol and don't lose at least 10 lbs and measurably improve your energy, we coach you for another 90 days free. We put our time on the line because the system works when you work it."
+- **Reframe:** "Fair. Here's what makes this different: your coach reviews your a wearables brand/a wearables brand data every week and adjusts your protocol based on your actual recovery and stress -- not a template. Your nutrition plan is built for restaurants and travel -- not meal prep. And if you complete the 90-day protocol and don't lose at least 10 lbs and measurably improve your energy, we coach you for another 90 days free. We put our time on the line because the system works when you work it."
 
 ---
 

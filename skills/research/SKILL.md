@@ -445,9 +445,9 @@ After `/research` delivers the Market Research Brief:
 
 ## References
 
-- `reference/frameworks/esoteric-marketing/sultanic-market-psychology.md` (the offer architect Market Psychology Foundations)
-- `reference/frameworks/schwartz-awareness-spectrum.md`
-- `reference/frameworks/pampa-market-sophistication.md`
+- `reference/frameworks/esoteric-marketing/market-psychology-foundations.md` (the offer architect Market Psychology Foundations)
+- `reference/canonical/frameworks/classical/awareness-spectrum-5-levels.md`
+- `reference/canonical/frameworks/classical/market-sophistication-4-stages.md`
 - `reference/frameworks/limiting-belief-triad.md`
 - `reference/frameworks/impact-distribution.md` (40/40/20)
 - `reference/frameworks/rmbc-method.md` (the copy director — Amazon reviews + forum discussion research method)

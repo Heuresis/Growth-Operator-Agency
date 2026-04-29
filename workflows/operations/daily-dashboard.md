@@ -146,7 +146,7 @@ Set in your dashboard tool (Databox, Geckoboard) or via Zapier if on Sheets.
 ## Cross-references
 - Skills: `skills/dashboard-builder/`, `skills/alerting-rules/`
 - Frameworks: `frameworks/leading-lagging-ops/`
-- Other operations docs: `cadences-daily.md`, `finance-tracker-schema.md`, `tool-sops-ghl.md`, `project-management-clickup.md`
+- Other operations docs: `cadences-daily.md`, `finance-tracker-schema.md`, `tool-sops-ghl.md`, `project-management-productivity-software.md`
 
 ---
 *v1.0 — 2026-04-19.*

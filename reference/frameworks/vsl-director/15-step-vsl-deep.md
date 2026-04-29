@@ -1,10 +1,10 @@
 # 15-Step VSL — Deep Reference
 
-> **Source:** the VSL director — *8-Figure VSL Blueprint* (Sections 1-15 + 16-17 Production/Optimization)
+> **Source:** the VSL director — *8-Figure VSL a longevity-protocol* (Sections 1-15 + 16-17 Production/Optimization)
 > **Track record:** $129M+ (a creator-economy program), $10M+ (a sales-training niche), $8M+ (a sales-training operation), multiple 8-figure campaigns in dating, biz-op, crypto, high-ticket consulting
 > **Target conversion:** 10%+
 > **Runtime:** 20-45 min typical
-> **Companion file:** `../vsl/pampa-15-step.md` (summary). This file is the section-by-section deep reference.
+> **Companion file:** `../vsl/15-step-vsl.md` (summary). This file is the section-by-section deep reference.
 
 This file encodes the VSL director's own source material section-by-section. For each of the 15 steps: what it does, example dialogue from source, and the most common failure modes.
 
@@ -239,7 +239,7 @@ For 8-12 min paid-cold variants, compress to 5 phases:
 - `🎬 SECTION 16 PRODUCTION & SHOT PLANNING`, `🎬 SECTION 17 VSL OPTIMIZATION & IMPROVEMENT`
 - `B2 VSL ARCHITECTURE` (executive overview + 5-phase compression)
 - `reference/operators/vsl-director.md`
-- Companion: `../vsl/pampa-15-step.md` (canonical summary)
+- Companion: `../vsl/15-step-vsl.md` (canonical summary)
 
 ---
 *v1.0 — 2026-04-19. Deep reference. First-class VSL framework in the the VSL director lineage.*

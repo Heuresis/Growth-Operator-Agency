@@ -104,7 +104,7 @@ Both the offer architect + the acquisition economist design high-ticket offers. 
 
 - the acquisition economist, a high-value offer canon (Chapters 4-10)
 - the acquisition economist, a lead-generation canon (companion — Core Four)
-- `reference/operators/external/alex-hormozi.md`
+- `reference/operators/acquisition-economist.md`
 - `reference/frameworks/primitives/value-equation.md`
 
 ---
