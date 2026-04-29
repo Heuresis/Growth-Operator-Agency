@@ -41,7 +41,7 @@ If `$ARGUMENTS` contains `--archetype=A1|A2|A3`, force that archetype. Otherwise
 
 ## Tool usage patterns
 
-- **Read** for SKILL.md, Offer Doc, Funnel Blueprint, ICP avatars, Brand Voice Doc
+- **Read** for SKILL.md, Offer Doc, Funnel a longevity-protocol, ICP avatars, Brand Voice Doc
 - **Write / Edit** for producing the form schema + DQ logic + branching + confirmation copy (typically 2,000-3,500 words across schema + 5 appendices) and updating company.yaml
 - **Grep** across `output/build-icp/` for avatar archetype language + across `output/extract-voice/` for phrases_to_use
 

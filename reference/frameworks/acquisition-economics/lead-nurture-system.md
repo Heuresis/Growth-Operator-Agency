@@ -175,7 +175,7 @@ Internally at a portfolio holding company: "book-a-meeting-from-a-meeting as a w
 
 ## The Culture Layer
 
-The playbook's closing chapter is about execution as culture. the acquisition economist's rep Jacob (hired at 15) became top salesman out of 26 by taking every "garbage" lead the other reps rejected. Coined "Yellows are the new gold" and "Volume negates luck." These -isms permeate the team.
+The playbook's closing chapter is about execution as culture. the acquisition economist's a top closer (hired at 15) became top salesman out of 26 by taking every "garbage" lead the other reps rejected. Coined "Yellows are the new gold" and "Volume negates luck." These -isms permeate the team.
 
 Cultural reinforcements:
 - **Money:** small commission bump for show-up rates (5-30% of sale commission).

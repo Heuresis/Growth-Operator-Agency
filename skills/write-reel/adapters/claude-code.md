@@ -14,7 +14,7 @@ Load and execute `skills/write-reel/SKILL.md` in the current workspace.
    - read `SYSTEM.md`, `INVARIANTS.md`, `ENCODING.md`, `company.yaml`
    - read `skills/write-reel/SKILL.md` (full body)
    - `Read` upstream: calendar brief from `output/content-calendar/` (identifies which slot this reel fills), `output/extract-voice/` (phrases_to_use), `output/build-positioning/` (mechanism thread)
-   - read `reference/frameworks/youtube/hook-library-20-formulas.md`, `reference/operators/external/bennett.md` (10 frameworks)
+   - read `reference/frameworks/youtube/hook-library-20-formulas.md`, `reference/operators/content-os-director.md` (10 frameworks)
 
 2. **Pre-flight check:** Verify `audience_intelligence_system >= 60`, `offer_architecture >= 40`, `copy_messaging >= 30` in `company.yaml`. Confirm calendar brief ID + pillar + conversion stage are specified (if invoked standalone without brief, prompt for these).
 

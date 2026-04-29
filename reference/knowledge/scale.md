@@ -75,9 +75,9 @@ Guardrail: if churn > 5%/mo, shift to 40/50/10 until stabilized.
 
 ## Cross-references
 - Skills: `skills/build-sop/SKILL.md`, `skills/hiring-brief/SKILL.md`, `skills/retention-check/SKILL.md`, `skills/case-study/SKILL.md`, `skills/competitor-intel/SKILL.md`, `skills/revenue-report/SKILL.md`
-- Frameworks: `reference/frameworks/pampa-thresholds.md`, `reference/frameworks/slings-60-30-10.md`
+- Frameworks: `reference/frameworks/sequential-dependency.md`, `reference/frameworks/slings-60-30-10.md`
 - Knowledge: `reference/knowledge/foundations.md` (ICP for hiring), `reference/knowledge/nurture.md` (retention sequences)
-- Agents: `agents/scale/ops-director.md`, `agents/scale/cs-lead.md`, `agents/scale/finance-analyst.md`
+- Agents: `agents/sop-builder.md`, `agents/client-success.md`, `agents/financial-modeler.md`
 - Pipeline: `workflows/divisions/scale-pipeline.md`
 
 ---

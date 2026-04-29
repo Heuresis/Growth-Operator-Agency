@@ -31,7 +31,7 @@ the content OS director's YouTube-adjacent IP is encoded across `reference/frame
 
 ## Operator Playbook
 
-Full operator identity + thesis + 3 signature breakdowns + decision rules: [`../../operators/dustin-varano.md`](../../operators/dustin-varano.md).
+Full operator identity + thesis + 3 signature breakdowns + decision rules: [`../../operators/content-os-director.md`](../../operators/content-os-director.md).
 
 ## Referenced From
 

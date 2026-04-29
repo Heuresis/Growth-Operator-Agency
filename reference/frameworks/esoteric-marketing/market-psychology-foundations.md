@@ -226,7 +226,7 @@ Moving a buyer 2+ states in one asset is ambitious and requires the full Mind En
 
 - **Skill(s) that consume this:** `/diagnose-icp`, `/build-vsl`, `/design-lead-magnet`, `/audit-funnel`, `/write-ad-copy`, `/icp-interview`
 - **Agent(s) that use it:** buyer-psychology-analyst, copywriter, research-lead, funnel-architect
-- **Companion framework(s):** `esoteric-marketing/mind-enhanced-v2.md`, `esoteric-marketing/vsl-story-architecture.md`, `primitives/icp-compartments.md`, `primitives/schwartz-awareness.md`
+- **Companion framework(s):** `esoteric-marketing/mind-enhanced-v2.md`, `esoteric-marketing/vsl-story-architecture.md`, `primitives/icp-compartments.md`, `../canonical/frameworks/classical/awareness-spectrum-5-levels.md`
 
 ## Non-applicable scenarios
 
@@ -241,7 +241,7 @@ Moving a buyer 2+ states in one asset is ambitious and requires the full Mind En
 - `esoteric-marketing/vsl-story-architecture.md`
 - `esoteric-marketing/funnel-format-arch.md`
 - `primitives/icp-compartments.md`
-- `primitives/schwartz-awareness.md`
+- `../canonical/frameworks/classical/awareness-spectrum-5-levels.md`
 - `primitives/limiting-belief-triad.md`
 
 ---

@@ -104,8 +104,8 @@ Used by:
 
 ## Operator References
 
-- `reference/operators/tier-1-goats/vsl-director.md` — a sales-training operation cult formation playbook
-- `reference/operators/external/alex-hormozi.md` — a portfolio holding company tribe formation
+- `reference/operators/vsl-director.md` — a sales-training operation cult formation playbook
+- `reference/operators/acquisition-economist.md` — a portfolio holding company tribe formation
 
 ## Sources
 

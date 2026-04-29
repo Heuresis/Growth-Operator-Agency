@@ -88,7 +88,7 @@ W(competitor-intel) =
 |---|---|---|---|
 | **Tier 1 — Direct** | Offer-for-offer substitute. Same ICP, same transformation, overlapping price tier. | Another women-40+ direct-response fitness coach at $8K-$15K | Positioning differentiation — mechanism, angle, proof stack |
 | **Tier 2 — Adjacent** | Same ICP, different category. Pulls the same budget and attention window. | Premium nutrition coach, hormone specialist, functional-medicine MD, $150/mo gym chain | Budget competition — why pick this over that, sequencing |
-| **Tier 3 — Alternative** | Same outcome, different vehicle. Often free or DIY. | Free YouTube workouts, MyFitnessPal, doctor's advice, sibling-in-the-same-situation | Choice-set competition — why pay at all |
+| **Tier 3 — Alternative** | Same outcome, different vehicle. Often free or DIY. | Free YouTube workouts, a calorie-tracking app, doctor's advice, sibling-in-the-same-situation | Choice-set competition — why pay at all |
 
 ## The 10-Dimension Per-Competitor Teardown
 
@@ -241,7 +241,7 @@ Before starting, read:
 - `output/positioning/` — existing Positioning Doc, if any (existing mechanism claim)
 - `reference/canonical/frameworks/classical/market-hierarchy.md` — awareness-spectrum research × the VSL director 25-cell matrix
 - `reference/frameworks/market-sophistication-overview.md` — the VSL director 4-stage application
-- `reference/canonical/frameworks/classical/schwartz-awareness-spectrum.md` — 5 awareness levels
+- `reference/canonical/frameworks/classical/awareness-spectrum-5-levels.md` — 5 awareness levels
 - `reference/frameworks/primitives/unique-mechanism.md` — two-part mechanism primitive
 - `company.yaml` — Compartments 2 (Audience) + 3 (Offer)
 
@@ -469,9 +469,9 @@ After `/competitor-intel` delivers the Whitespace Map:
 
 - `reference/canonical/frameworks/classical/market-hierarchy.md` (awareness-spectrum research × the VSL director 25-cell matrix)
 - `reference/frameworks/market-sophistication-overview.md` (the VSL director 4-stage)
-- `reference/canonical/frameworks/classical/schwartz-awareness-spectrum.md` (5 awareness levels)
+- `reference/canonical/frameworks/classical/awareness-spectrum-5-levels.md` (5 awareness levels)
 - `reference/frameworks/primitives/unique-mechanism.md` (two-part mechanism — Part 1 + Part 2)
-- `reference/canonical/frameworks/classical/pampa-market-sophistication.md`
+- `reference/canonical/frameworks/classical/market-sophistication-4-stages.md`
 - `reference/operators/campaign-director.md` (category-failure framing, educational-VSL method, big idea)
 - `reference/operators/copy-director.md` (research-mechanism-brief-copy method, two-part mechanism, competitor-copy teardown discipline)
 - `reference/operators/offer-architect.md` (positioning-as-mechanism lineage)

@@ -11,12 +11,12 @@ In January 2017, the acquisition economist was $10K in debt after three days of 
 
 ## The Encoded Offer
 
-**Offer Name (M-A-G-I-C applied):** "New Gym Owner 30-Day $100K Cash Injection Blueprint"
+**Offer Name (M-A-G-I-C applied):** "New Gym Owner 30-Day $100K Cash Injection a longevity-protocol"
 - **M**agnet: "New" - reason why anyone should care
 - **A**vatar: Gym owners
 - **G**oal: $100K cash injection
 - **I**nterval: 30 days
-- **C**ontainer: Blueprint
+- **C**ontainer: a longevity-protocol
 
 **Dream Outcome (Step 3):** Gym owner goes from $20K-$40K monthly gross to adding $100K in new member cash within 30 days, reinstating financial runway and removing the daily fear of missing rent.
 

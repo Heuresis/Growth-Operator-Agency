@@ -149,7 +149,7 @@ Script is written once; Platform Adaptations section specifies the platform-spec
 - Read `output/extract-voice/`
 - Read `output/build-positioning/` (mechanism thread)
 - Read `reference/frameworks/youtube/hook-library-20-formulas.md`
-- Read the short-form-frameworks author references in `reference/operators/external/bennett.md`
+- Read the short-form-frameworks author references in `reference/operators/content-os-director.md`
 
 ### Phase 1 — Framework Selection
 Apply decision table or honor `--framework=N` argument.
@@ -344,7 +344,7 @@ For creator/editor:
 
 ## References
 
-- `reference/operators/external/bennett.md` (10 frameworks)
+- `reference/operators/content-os-director.md` (10 frameworks)
 - `reference/frameworks/youtube/shorts-mrbeast-strategy.md` (4-strategy creator-native methodology)
 - `reference/operators/vsl-director.md` (5 Content Levers + 9 Needle Movers + shorts scaling)
 - `reference/operators/paid-media-director.md` (Content Studio)

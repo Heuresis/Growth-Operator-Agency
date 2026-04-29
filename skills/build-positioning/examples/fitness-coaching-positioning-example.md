@@ -19,11 +19,11 @@ Canonical starter-template positioning for the Growth Operating Agency foundatio
 
 **Category Choice:** Subcategory Creation. **Category Label:** "Founder Performance Fitness" or "The Founder Fitness Operating System."
 
-Not "fitness coaching" (too broad). Not "biohacking" (too fringe). A new subcategory combining: founder-schedule programming (30-45 min, travel-friendly), cognitive performance optimization (sleep, stress, HRV), data-integrated accountability (WHOOP/Oura/Apple Watch), peer community of tech founders.
+Not "fitness coaching" (too broad). Not "biohacking" (too fringe). A new subcategory combining: founder-schedule programming (30-45 min, travel-friendly), cognitive performance optimization (sleep, stress, HRV), data-integrated accountability (a wearables brand/a wearables brand/a wearables brand), peer community of tech founders.
 
 The label passes the 5-second test: a founder hears "Founder Fitness Operating System" and understands (a) for people like them, (b) systematic, (c) performance not aesthetics.
 
-**Old Vehicles Replaced:** Generic coaching (the mass-market entrepreneur-fitness program, IG coaches); Equinox / boutique gyms; self-paced fitness courses; apps (Noom, MyFitnessPal); biohacking supplement stacks without fitness foundations.
+**Old Vehicles Replaced:** Generic coaching (the mass-market entrepreneur-fitness program, IG coaches); a premium-gym brand / boutique gyms; self-paced fitness courses; apps (a behavior-change app, a calorie-tracking app); biohacking supplement stacks without fitness foundations.
 
 ### Section 3 - Core Belief Statement
 
@@ -49,7 +49,7 @@ The label passes the 5-second test: a founder hears "Founder Fitness Operating S
 
 **2. Cognitive Performance as Primary Outcome.** the mass-market entrepreneur-fitness program sells "get lean." an adjacent founder-fitness coach sells "lose stubborn fat." FFOS leads with cognitive performance. Body composition is a byproduct.
 
-**3. Wearable Data Integration.** No major competitor integrates WHOOP/Oura/Apple Watch into coaching. A coach who says "trust the process" loses to one who says "your HRV dropped 15% this week, here's what we're adjusting."
+**3. Wearable Data Integration.** No major competitor integrates a wearables brand/a wearables brand/a wearables brand into coaching. A coach who says "trust the process" loses to one who says "your HRV dropped 15% this week, here's what we're adjusting."
 
 **4. Peer Founder Community.** Private community exclusively for tech founders. Shared travel/fundraising/meeting challenges.
 

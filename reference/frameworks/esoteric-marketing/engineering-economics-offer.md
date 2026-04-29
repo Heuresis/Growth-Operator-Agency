@@ -260,7 +260,7 @@ Total 18-20 = engineered; the close should feel obvious. 12-17 = functional but 
 
 - **Skill(s) that consume this:** `/design-offer`, `/build-sales-page`, `/build-vsl`, `/write-checkout-copy`, `/model-unit-economics`, `/audit-offer`
 - **Agent(s) that use it:** offer-architect, copywriter, pricing-strategist, finance-modeler
-- **Companion framework(s):** `offer-architecture/sultanic-offer-building-system.md`, `offer-architecture/hormozi-grand-slam-offer.md`, `esoteric-marketing/offer-building-system.md`, `esoteric-marketing/vsl-story-architecture.md`, `sales/value-stack-architecture.md`
+- **Companion framework(s):** `offer-architecture/7-phase-offer-building-system.md`, `offer-architecture/grand-slam-offer.md`, `esoteric-marketing/offer-building-system.md`, `esoteric-marketing/vsl-story-architecture.md`, `sales/value-stack-architecture.md`
 
 ## Non-applicable scenarios
 
@@ -270,8 +270,8 @@ Total 18-20 = engineered; the close should feel obvious. 12-17 = functional but 
 
 ## Cross-references
 
-- `offer-architecture/sultanic-offer-building-system.md`
-- `offer-architecture/hormozi-grand-slam-offer.md`
+- `offer-architecture/7-phase-offer-building-system.md`
+- `offer-architecture/grand-slam-offer.md`
 - `esoteric-marketing/offer-building-system.md`
 - `esoteric-marketing/mind-enhanced-v2.md`
 - `esoteric-marketing/vsl-story-architecture.md`

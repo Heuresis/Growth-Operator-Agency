@@ -1,11 +1,11 @@
 # The 8-Module Architecture
 
-> **Why this matters:** The Blueprint is not a linear course. It is 8 interconnected modules organized across 4 parts (Theory → Strategy → Post-production → Monetization). Modules reference each other. Working on a script? Reference Module 2 (metrics) + Module 3 (concept) + Module 6 (patterns). Analyzing performance? Reference Module 2 + Module 6 + Module 3. Each module stands alone but strengthens when integrated.
+> **Why this matters:** The a longevity-protocol is not a linear course. It is 8 interconnected modules organized across 4 parts (Theory → Strategy → Post-production → Monetization). Modules reference each other. Working on a script? Reference Module 2 (metrics) + Module 3 (concept) + Module 6 (patterns). Analyzing performance? Reference Module 2 + Module 6 + Module 3. Each module stands alone but strengthens when integrated.
 
 ## Source / Lineage
 
 - **The YouTube architecture playbook** — root file (8 modules across 4 parts).
-- Synthesis of 15+ years of testing, 10,000+ videos, 1+ billion views. Tested against creator-native methodology, an education-creator, the acquisition economist, Y Combinator, ClickUp and more.
+- Synthesis of 15+ years of testing, 10,000+ videos, 1+ billion views. Tested against creator-native methodology, an education-creator, the acquisition economist, a startup accelerator, a productivity-software brand and more.
 
 ---
 
@@ -109,9 +109,9 @@
 
 **Scope (per source root ToC):** Delayed Gratification Doctrine. The 3 I's of CTAs (Integrated, Invaluable, Infrequent). Funnel Hierarchy (Email → DMs → Community). When to Start Selling (10,000+ subs minimum).
 
-**Encoding status:** The Module 7 file in the source export is empty (marker: UNDER CONSTRUCTION). The above scope is taken from the root Blueprint's Part 4 outline. [UNVERIFIED — Module 7 body content not present in the source export.]
+**Encoding status:** The Module 7 file in the source export is empty (marker: UNDER CONSTRUCTION). The above scope is taken from the root a longevity-protocol's Part 4 outline. [UNVERIFIED — Module 7 body content not present in the source export.]
 
-**the backend economist-specific extension (from EP83 and a funnel-building platform podcast #777, not in the Blueprint file):**
+**the backend economist-specific extension (from EP83 and a funnel-building platform podcast #777, not in the a longevity-protocol file):**
 - At 8-figure scale, backend carries the P&L. Front-end pays for itself.
 - Email marketing is the backend compounding layer.
 - Call-funnel architecture is the 8-figure coaching stack.
@@ -123,7 +123,7 @@
 
 **Scope (per source root ToC):** Content Cadence (2 long-form + 60-80 shorts weekly). In-House vs Agency vs Hybrid. The A-Team Structure. Systems Documentation.
 
-**Encoding status:** The Module 8 file in the source export is empty. The above scope is taken from the root Blueprint's Part 4 outline. [UNVERIFIED — Module 8 body content not present in the source export.]
+**Encoding status:** The Module 8 file in the source export is empty. The above scope is taken from the root a longevity-protocol's Part 4 outline. [UNVERIFIED — Module 8 body content not present in the source export.]
 
 **the backend economist-specific extension:**
 - Team structure at 8-figure scale splits by function (media buying, closing, CS/backend), not by funnel, because there is only one funnel (EP83).
@@ -133,7 +133,7 @@
 
 ## How the modules reference each other
 
-The Blueprint's root file explicitly states: "Each module stands alone but strengthens when integrated." Cross-reference patterns:
+The a longevity-protocol's root file explicitly states: "Each module stands alone but strengthens when integrated." Cross-reference patterns:
 
 - **Working on a script?** Reference Module 2 (metrics) + Module 3 (concept) + Module 6 (patterns).
 - **Analyzing performance?** Reference Module 2 (3 C's) + Module 6 (scientific method) + Module 3 (concept testing).
@@ -161,6 +161,6 @@ The Blueprint's root file explicitly states: "Each module stands alone but stren
 
 ## What the 8-Module Architecture does NOT include
 
-- Unit-economics scorecard (not in the Blueprint; see `unit-economics-benchmarks.md` for the backend economist-specific thresholds and [UNVERIFIED] tags).
+- Unit-economics scorecard (not in the a longevity-protocol; see `unit-economics-benchmarks.md` for the backend economist-specific thresholds and [UNVERIFIED] tags).
 - Call-funnel architecture (the backend economist's a women-40+ fitness coaching business IP, lives in `reference/operators/backend-economist.md` EP83 breakdown).
 - Specific offer design (see the campaign director's educational-VSL method or the acquisition economist's a high-value offer canon for offer economics).

@@ -54,7 +54,7 @@ Brand voice tone: {{BRAND_VOICE_TONE}}
 
 # Constraints
 - No copyrighted framework names (don't mimic other operators' named frameworks).
-- No generic filler ("System", "Secret", "Blueprint" alone don't pass).
+- No generic filler ("System", "Secret", "a longevity-protocol" alone don't pass).
 - 2–5 words.
 - Pronounceable. Memorable. Ownable.
 

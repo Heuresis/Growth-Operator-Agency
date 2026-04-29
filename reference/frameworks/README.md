@@ -78,7 +78,7 @@ awareness-spectrum research, influence-principles research, cognitive-bias resea
 | Output quality verification | `signal-theory/` |
 | Offer design | `offer-architecture/` + `primitives/unique-mechanism.md` + `primitives/value-equation.md` |
 | VSL writing | `vsl/` (pick variant) + `primitives/educate-before-pitch.md` |
-| Audience research | `classical/schwartz-awareness-spectrum.md` + `classical/limiting-belief-triad.md` + `esoteric-marketing/sultanic-market-psychology.md` |
+| Audience research | `../canonical/frameworks/classical/awareness-spectrum-5-levels.md` + `../canonical/frameworks/classical/limiting-belief-triad.md` + `esoteric-marketing/market-psychology-foundations.md` |
 | Sales process | `sales/` + `primitives/call-funnel.md` |
 | Paid ads | `primitives/specificity.md` + `instagram-profile-funnel/` (for IG ads) |
 | Content strategy | `youtube/` + `primitives/core-four.md` |

@@ -190,6 +190,20 @@ Every cycle, each department runs it gets sharper. The gap between your firm and
 
 This is the first template in the library. More shipping, vertical by vertical. Every outcome claim we publish traces to a real deployment with a real operator. Thesis, method, and source go public on ideas. Receipts wait their turn.
 
+## Repository layout
+
+| Folder | What it is |
+|---|---|
+| [`.claude/commands/`](.claude/commands/) | Claude Code slash-command shims — one `.md` per skill, wires `/skill-name` to its runtime |
+| [`.github/`](.github/) | GitHub-native config: issue templates, PR template, contribution guide |
+| [`agents/`](agents/) | 41 agent role definitions — CEO, 7 department heads, 33 specialists |
+| [`docs/`](docs/) | User documentation: quickstart, architecture, FAQ, glossary, file tree, skill authoring guide |
+| [`prompts/`](prompts/) | Domain-indexed prompt library: research, sales, content, email, ads, analytics, voice |
+| [`reference/`](reference/) | Methodology library: frameworks, operator playbooks, swipe files, templates, vertical playbooks, legal templates |
+| [`skills/`](skills/) | 36 skill packages — each with `SKILL.md`, variants, examples, evidence, runtime adapters |
+| [`spec/`](spec/) | Workspace specifications: banned vocabulary, context thresholds, runtime contracts |
+| [`workflows/`](workflows/) | Operational workflows: client onboarding, division pipelines, automations, handoffs, ops cadences |
+
 ## Documentation
 
 - [Quickstart](docs/QUICKSTART.md) — setup in 30 minutes

@@ -1552,7 +1552,7 @@ L0 (already loaded):
   company.yaml → ICP summary + offer summary + brand voice summary
 
 L1 (loaded on demand):
-  agents/sales/vsl-builder.md → agent identity + methodology + rules
+  agents/vsl-builder.md → agent identity + methodology + rules
   skills/sales/build-vsl/SKILL.md → execution workflow + wave activation
 
 L2 (loaded for this specific task):
@@ -2159,14 +2159,14 @@ cp library/agents/marketing/linkedin-content-creator.md agents/marketing/linkedi
 cp library/agents/marketing/tiktok-strategist.md      agents/marketing/short-form.md
 cp library/agents/marketing/seo-specialist.md         agents/marketing/seo-blog.md
 cp library/agents/marketing/podcast-strategist.md     agents/marketing/podcast.md
-cp library/agents/sales/outbound-prospector.md        agents/sales/dm-sales.md
-cp library/agents/sales/proposal-writer.md            agents/sales/proposal.md
-cp library/agents/support/finance-tracker.md          agents/scale/financial.md
-cp library/agents/design/brand-guardian.md            agents/foundations/brand-voice.md
+cp library/agents/sales/outbound-prospector.md        agents/sales-ops.md
+cp library/agents/sales/proposal-writer.md            agents/sales-ops.md
+cp library/agents/support/finance-tracker.md          agents/financial-modeler.md
+cp library/agents/design/brand-guardian.md            agents/brand-voice.md
 cp library/agents/paid-media/creative-strategist.md   agents/marketing/paid-ads.md
-cp library/agents/specialized/workflow-architect.md   agents/scale/sop-builder.md
-cp library/agents/product/trend-researcher.md         agents/scale/competitor.md
-cp library/agents/specialized/corporate-training-designer.md agents/scale/team-builder.md
+cp library/agents/specialized/workflow-architect.md   agents/sop-builder.md
+cp library/agents/product/trend-researcher.md         agents/competitor-analyst.md
+cp library/agents/specialized/corporate-training-designer.md agents/talent-recruiter.md
 
 # Import these skills directly (no modification needed):
 cp -r library/skills/paid-media/    skills/paid-media/

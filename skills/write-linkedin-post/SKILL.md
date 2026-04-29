@@ -80,7 +80,7 @@ Weekly balance, not daily. A Friday offer post = fine. Monday, Tuesday, Thursday
 
 ## The 4-Post Weekly Cycle (the outreach director)
 
-Per `$100K/Month LinkedIn Growth Blueprint`:
+Per `$100K/Month LinkedIn Growth a longevity-protocol`:
 1. **Value Bomb** — deep teaching, saves-optimized
 2. **Lead Magnet Giveaway** — "comment [word] for the playbook"
 3. **Case Study** — real client result, isomorphic-story compliant

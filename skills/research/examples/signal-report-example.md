@@ -18,7 +18,7 @@ This is the research output for the Clipping Agency instantiation of the Growth 
 - **ICP:** 20-35 year old ambitious side hustlers and aspiring entrepreneurs who know clipping is a real business opportunity but lack the system, SOPs, and client acquisition skills. They've tried Fiverr or platform clipping on Whop/Vyro but can't break past $1K-$2K/month.
 - **Core Insight:** AI commoditized basic clip editing - but accidentally created a bigger opportunity. The market now needs people who can build clipping BUSINESSES, not just cut clips. The $15/clip freelancer is dying. The $5K/month clipping agency owner is being born.
 - **The Offer:** "Go from posting random clips for pennies to running a $10K/month clipping agency with paying streamer clients in 90 days" - $2,997-$4,997 high-ticket program.
-- **Next 3 Moves:** (1) Build 3 case studies in 30 days; (2) Create a "Clipping Agency Blueprint" lead magnet; (3) Launch the high-ticket offer with application funnel + sales call.
+- **Next 3 Moves:** (1) Build 3 case studies in 30 days; (2) Create a "Clipping Agency a longevity-protocol" lead magnet; (3) Launch the high-ticket offer with application funnel + sales call.
 
 ### Market Definition & Sizing
 

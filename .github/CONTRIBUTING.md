@@ -2,6 +2,8 @@
 
 Contribution guide for this workspace template. The main line is authored by the maintainers; external contributions are accepted when they preserve the invariants below.
 
+The `.github/` directory holds the GitHub-native config for this repository: this contribution guide, the security policy, code-owners, the pull-request template, and issue templates.
+
 ## Before you change anything
 
 1. **Read `SYSTEM.md`, `INVARIANTS.md`, and `ENCODING.md` end to end.** These three files are load-bearing. An edit that contradicts them cascades through every skill output.

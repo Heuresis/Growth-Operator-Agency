@@ -59,7 +59,7 @@ Owner: _______
 **Outputs:**
 - Q-plan doc in Notion `/quarterly-plans/YYYY-QX/`
 - Each leader's OKRs posted in their department channel
-- Tasks created in ClickUp for Q1 milestones of big bets
+- Tasks created in a productivity-software brand for Q1 milestones of big bets
 
 ---
 

@@ -112,7 +112,7 @@ Referenced by:
 
 ## Sources
 
-- the VSL director — *8-Figure VSL Blueprint* (canonical source)
+- the VSL director — *8-Figure VSL a longevity-protocol* (canonical source)
 - `reference/operators/vsl-director.md`
 
 ---

@@ -369,8 +369,8 @@ After `/call-prep` ships (per-call):
 - `reference/frameworks/primitives/unique-mechanism.md`
 - `reference/frameworks/primitives/call-funnel.md`
 - `reference/frameworks/sales/crossroads-close.md`
-- `reference/operators/sales-director.md` (Full-Stack Sales Call pre-framing)
-- `reference/operators/consultative-sales-operator.md` (diagnostic-first + tension-setting)
+- `reference/operators/copy-director.md` (Full-Stack Sales Call pre-framing)
+- `reference/operators/sales-scripter.md` (diagnostic-first + tension-setting)
 - `reference/operators/copy-director.md` (pain-language mapping)
 
 ## Blind Output Test — Internal Tier (No 3/3 required)

@@ -372,7 +372,7 @@ After `/proposal` ships:
 - `reference/frameworks/primitives/unique-mechanism.md`
 - `reference/operators/offer-architect.md` (risk reversal architecture)
 - `reference/operators/acquisition-economist.md` (guarantee mechanics)
-- `reference/operators/sales-director.md` (post-call commitment documentation)
+- `reference/operators/copy-director.md` (post-call commitment documentation)
 
 ## Blind Output Test — External Tier (2/3 required)
 

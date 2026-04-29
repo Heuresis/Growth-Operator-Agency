@@ -30,7 +30,7 @@ We're narrowing "online fitness coaching" into a defensible subcategory: **Perfo
 This isn't "fitness coaching" (too broad, commoditized, triggers past failure associations). This isn't "biohacking" (too fringe, too supplement-heavy). This is a new subcategory that combines:
 - Fitness programming calibrated for founder schedules (30-45 min, travel-friendly)
 - Cognitive performance optimization (sleep, stress, HRV, energy management)
-- Data-integrated accountability (WHOOP/Oura/Apple Watch integration)
+- Data-integrated accountability (a wearables brand/a wearables brand/a wearables brand integration)
 - Peer community of other tech founders
 
 **Category Label:** "Founder Performance Fitness" or "The Founder Fitness Operating System"
@@ -39,16 +39,16 @@ The label passes the 5-second test: a tech founder hears "Founder Fitness Operat
 
 **Old Vehicles Being Replaced:**
 1. Generic online fitness coaching (the mass-market entrepreneur-fitness program, random IG coaches)
-2. High-end personal trainers at Equinox / boutique gyms
+2. High-end personal trainers at a premium-gym brand / boutique gyms
 3. Self-paced fitness courses and YouTube programs
-4. Fitness apps (Noom, MyFitnessPal, WHOOP alone)
+4. Fitness apps (a behavior-change app, a calorie-tracking app, a wearables brand alone)
 5. Biohacking supplement stacks without fitness foundations
 
 **Why the Old Vehicles Fail:**
 1. Generic coaching doesn't account for 80-hour weeks, global travel, or cognitive performance needs. "The characteristics making entrepreneurs successful in business tend to make them unsuccessful at weight maintenance" (Inc.com). The programs aren't broken -- they're built for someone else.
 2. In-person training requires showing up at fixed times. Founders cancel when work gets intense, then quit from guilt. A gym membership for a founder is a $6,000/year reminder of failure.
 3. Self-paced programs have 5-15% completion rates (competitive analysis). Without accountability, founders deprioritize health the moment a fire starts at work.
-4. Apps provide data without interpretation or action. A WHOOP showing "poor recovery" without a human saying "here's what to change today" is just expensive anxiety.
+4. Apps provide data without interpretation or action. A a wearables brand showing "poor recovery" without a human saying "here's what to change today" is just expensive anxiety.
 5. Biohacking without movement, nutrition, and sleep foundations is like optimizing code before writing the architecture. It's premature optimization -- and founders should know better.
 
 ---
@@ -103,10 +103,10 @@ The label passes the 5-second test: a tech founder hears "Founder Fitness Operat
 
 ### Differentiator 3: Wearable Data Integration
 - **Dimension:** Use of technology in coaching
-- **Their Approach:** No major competitor systematically integrates WHOOP/Oura/Apple Watch data into coaching decisions. Apps provide data; coaches provide programs. They don't talk to each other.
+- **Their Approach:** No major competitor systematically integrates a wearables brand/a wearables brand/a wearables brand data into coaching decisions. Apps provide data; coaches provide programs. They don't talk to each other.
 - **Your Approach:** Wearable data (HRV, sleep quality, recovery scores) informs weekly programming adjustments. Low recovery = lighter training day. Poor sleep trending = protocol adjustment. The coach reads the data so the founder doesn't have to.
 - **Why It Matters:** Tech founders are data-native. A coach who says "trust the process" loses to a coach who says "your HRV dropped 15% this week, here's what we're adjusting and why." Data builds trust with analytical minds.
-- **Evidence:** WHOOP has 25%+ of tech-professional wearable market share. Equinox Optimize ($40K/yr) integrates biomarker data -- proving the model at ultra-premium price points.
+- **Evidence:** a wearables brand has 25%+ of tech-professional wearable market share. a premium-gym brand Optimize ($40K/yr) integrates biomarker data -- proving the model at ultra-premium price points.
 
 ### Differentiator 4: Peer Founder Community
 - **Dimension:** Social/community element

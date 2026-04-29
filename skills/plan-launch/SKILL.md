@@ -197,7 +197,7 @@ Phase 1 cannot exit (to Phase 2 / Runway) until every upstream asset is validate
 ```
 Offer Document            → /design-offer at Gate PASS (LTV:CAC ≥ 3)
 VSL Script + Production   → /build-vsl at Blind Output Test 3/3
-Funnel Blueprint          → /build-funnel at Gate PASS (all pages live + tracking verified)
+Funnel a longevity-protocol          → /build-funnel at Gate PASS (all pages live + tracking verified)
 Email Sequence            → /email-sequence (runway + daily-during + cart-close + SCA + post-purchase all drafted)
 SMS / Post-Booking Nurture → /post-booking-nurture wired
 Ad Creative               → /ad-creative with 20+ approved assets minimum
@@ -298,7 +298,7 @@ The plan tolerates 2 revision passes before escalating to the creator. After 2 i
 ### Phase 0 — Load Dependencies
 
 Read:
-- `output/build-funnel/` (latest Funnel Blueprint — require gate PASS)
+- `output/build-funnel/` (latest Funnel a longevity-protocol — require gate PASS)
 - `output/design-offer/` (latest Offer Document — require LTV:CAC ≥ 3 gate)
 - `output/build-vsl/` (VSL Script — require Blind Output Test 3/3)
 - `output/build-icp/` (ICP Document — Completeness ≥ 80)
@@ -460,7 +460,7 @@ Dead Middle Daily Spikes table: one scheduled spike per day minimum. Example seq
 |---|---|---|---|---|
 | Offer Document | /design-offer | LTV:CAC ≥ 3 | PASS | link |
 | VSL Script | /build-vsl | Blind Output 3/3 | PASS | link |
-| Funnel Blueprint | /build-funnel | Pages live + tracking | PASS | link |
+| Funnel a longevity-protocol | /build-funnel | Pages live + tracking | PASS | link |
 | Email Sequence | /email-sequence | 5 sequences drafted | PASS | link |
 | Ad Creative | /ad-creative | 20+ approved | PASS | link |
 | Post-Booking Nurture | /post-booking-nurture | SMS + stack wired | PASS | link |
@@ -633,4 +633,4 @@ After `/plan-launch` ships (and passes gates):
 
 ---
 
-*Version 1.0 — 2026-04-19. The Cycle 6 Deploy hero skill. Sacred runbook — cart-close deadline is immutable per the launch-pipeline FSM. Layers Growth Operating Agency 5-Phase SOP over the operations director 7-Step rollout with the growth strategist Whisper/Tease/Shout cadence and Jeremy Call Funnel discipline.*
+*Version 1.0 — 2026-04-19. The Cycle 6 Deploy hero skill. Sacred runbook — cart-close deadline is immutable per the launch-pipeline FSM. Layers Growth Operating Agency 5-Phase SOP over the operations director 7-Step rollout with the growth strategist Whisper/Tease/Shout cadence and the hidden-pitch architect Call Funnel discipline.*

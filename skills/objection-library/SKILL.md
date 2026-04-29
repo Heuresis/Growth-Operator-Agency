@@ -541,7 +541,7 @@ After `/objection-library` ships:
 - `reference/frameworks/sales/crossroads-close.md`
 - `reference/operators/copy-director.md` (two-part mechanism + objection pre-framing)
 - `reference/operators/offer-architect.md` (bonuses-as-objection-counter)
-- `reference/operators/sales-director.md` (8-stage objection handling)
+- `reference/operators/copy-director.md` (8-stage objection handling)
 
 ## Blind Output Test — Sacred Format Sales-Ops Tier
 

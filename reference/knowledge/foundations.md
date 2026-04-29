@@ -54,8 +54,8 @@ Shared vocabulary, frameworks, KPIs, and handoff patterns inherited by every ski
 
 ## Cross-references
 - Skills: `skills/research/SKILL.md`, `skills/build-icp/SKILL.md`, `skills/build-positioning/SKILL.md`, `skills/extract-voice/SKILL.md`, `skills/design-offer/SKILL.md`
-- Frameworks: `reference/frameworks/value-equation.md`, `reference/frameworks/8-required-beliefs.md`, `reference/frameworks/limiting-belief-triad.md`
-- Agents: `agents/foundations/research-lead.md`, `agents/foundations/offer-architect.md`
+- Frameworks: `reference/frameworks/primitives/value-equation.md`, `reference/frameworks/vsl-director/8-required-beliefs-deep.md`, `reference/frameworks/limiting-belief-triad.md`
+- Agents: `agents/researcher.md`, `agents/offer-architect.md`
 - Pipeline: `workflows/divisions/foundations-pipeline.md`
 
 ---

@@ -27,7 +27,7 @@ Times shown in Pacific. Shift to your team's dominant time zone; protect a 3-hou
 
 **Outputs:**
 - Slack post in #team-daily with the numbers + focus list
-- Action items go into ClickUp, not the meeting notes
+- Action items go into a productivity-software brand, not the meeting notes
 - Any topic that needs >60 seconds is parked to a follow-up call booked in the meeting
 
 **Rules:**
@@ -78,7 +78,7 @@ Number I own today: [metric + target]
 - Afternoon plan adjustment (3 min)
 
 **Outputs:**
-- Setter scoreboard updated (Notion or ClickUp dashboard)
+- Setter scoreboard updated (Notion or a productivity-software brand dashboard)
 - New objection + reframe added to objection library
 - Slack post in #sales-pipeline with end-of-day totals
 

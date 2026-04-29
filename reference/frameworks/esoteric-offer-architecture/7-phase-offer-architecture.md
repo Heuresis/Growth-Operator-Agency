@@ -1,6 +1,6 @@
 # The 7-Phase Offer Architecture
 
-> The systematic, sequential, diagnostic framework the offer architect uses to build offers from nothing. Phase 0 through Phase 6. Each phase has explicit decision criteria, checkpoints, and red flags. This file goes deeper than the mechanical summary in `reference/frameworks/offer-architecture/sultanic-offer-building-system.md`, here the focus is the *decision logic at each phase*, not just the output artifacts.
+> The systematic, sequential, diagnostic framework the offer architect uses to build offers from nothing. Phase 0 through Phase 6. Each phase has explicit decision criteria, checkpoints, and red flags. This file goes deeper than the mechanical summary in `reference/frameworks/offer-architecture/7-phase-offer-building-system.md`, here the focus is the *decision logic at each phase*, not just the output artifacts.
 >
 > The foundational truth driving the whole architecture (direct quote from source): *We don't launch offers, we launch PROBLEMS. We don't scale offers, we scale PROBLEMS.*
 

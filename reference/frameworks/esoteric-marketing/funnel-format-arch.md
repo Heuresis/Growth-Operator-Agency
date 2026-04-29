@@ -242,7 +242,7 @@ These ranges are order-of-magnitude — individual businesses vary by 2-3x withi
 
 - **Skill(s) that consume this:** `/design-funnel-architecture`, `/model-unit-economics`, `/design-offer-ecosystem`, `/audit-funnel-fit`, `/annual-planning`
 - **Agent(s) that use it:** funnel-architect, finance-modeler, strategy-lead, offer-architect
-- **Companion framework(s):** `esoteric-marketing/market-psychology-foundations.md`, `esoteric-marketing/offer-building-system.md`, `offer-architecture/sultanic-offer-building-system.md`, `vsl/vsl-director-15-step.md`
+- **Companion framework(s):** `esoteric-marketing/market-psychology-foundations.md`, `esoteric-marketing/offer-building-system.md`, `offer-architecture/7-phase-offer-building-system.md`, `vsl/vsl-director-15-step.md`
 
 ## Non-applicable scenarios
 
@@ -256,8 +256,8 @@ These ranges are order-of-magnitude — individual businesses vary by 2-3x withi
 - `esoteric-marketing/market-psychology-foundations.md`
 - `esoteric-marketing/engineering-economics-offer.md`
 - `esoteric-marketing/vsl-story-architecture.md`
-- `offer-architecture/sultanic-offer-building-system.md`
-- `offer-architecture/hormozi-grand-slam-offer.md`
+- `offer-architecture/7-phase-offer-building-system.md`
+- `offer-architecture/grand-slam-offer.md`
 - `vsl/vsl-director-15-step.md`
 
 ---
