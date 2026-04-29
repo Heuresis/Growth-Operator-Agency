@@ -1,6 +1,6 @@
 # `skills/` — Skill packages
 
-36 skill packages. Each is one capability that produces one specific business asset (a research brief, a VSL, a launch plan, an ICP, etc.).
+36 skill packages. Each is one capability that produces one specific business asset (a research brief, a VSL, a launch plan, an ICP, etc.). Skills are runtime-agnostic — the same skill runs as a Claude Code slash command, as a Paperclip / Canopy / BusinessOS workspace step, or as an HTTP endpoint behind the Claude Agent SDK.
 
 Every skill folder follows the same contract:
 
