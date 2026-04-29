@@ -18,14 +18,14 @@ Evolution: a creator-agency program → a creator-agency program → a creator-a
 
 ### 2. a creator-agency program (2023 → current)
 Subscription-first e-learning portal. Progressive unlock model:
-- **Month 4** — live monthly calls with the agency director.
+- **Month 4** — live monthly calls with the founder.
 - **Month 6** — private chat channels with millionaire mentors.
 - **Month 12** — advanced content, events, premium tiers.
 - **Month 24** — "Emperor" status.
-Catalog beyond the agency director includes 10+ business-model courses: copywriting, web design, affiliate, e-commerce, media buying, personal branding, trading, etc.
+Catalog beyond the founder's flagship includes 10+ business-model courses: copywriting, web design, affiliate, e-commerce, media buying, personal branding, trading, etc.
 
 ### 3. Educate (the umbrella brand)
-Positioning: *"World-class learning rooted in experience and real-life application at a fraction of the cost of traditional academic institutions."* Platform for 13+ courses from vetted operators — the agency director productized not just his own IP but a *course-distribution network*.
+Positioning: *"World-class learning rooted in experience and real-life application at a fraction of the cost of traditional academic institutions."* Platform for 13+ courses from vetted operators — the founder productized not just personal IP but a *course-distribution network*.
 
 ## Canonical frameworks embedded across programs
 - **SMMA playbook** (Niche → Offer → Outreach → Sales → Fulfillment → Scale) — the original the agency director 6-stage model.

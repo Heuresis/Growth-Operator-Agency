@@ -2,8 +2,6 @@
 
 Get Growth Operating Agency running against a real creator in under 30 minutes. This guide assumes slash-command runtime. For other runtimes, see [RUNTIMES](../spec/RUNTIMES.md).
 
-<img alt="Growth Operating Agency architecture" src="assets/architecture-light.svg" width="100%">
-
 ---
 
 ## Prerequisites

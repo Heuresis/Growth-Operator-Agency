@@ -7,7 +7,7 @@
 
 ## Context
 
-Canonical starter-template positioning for the Growth Operating Agency foundations library. ICP is tech founders (28-45, $150K-$1M+ income), Solution Aware, HELPLESS-dominant (70%) with WORTHLESS secondary (30%). The positioning engineers a defensible subcategory, "Performance Fitness for Tech Founders," where no competitor currently exists at scale. a generic-fitness creator (adjacent, generic); a K+ longevity-coach program (adjacent, $20K+). The subcategory between them is the opportunity.
+Canonical starter-template positioning for the Growth Operating Agency foundations library. ICP is tech founders (28-45, $150K-$1M+ income), Solution Aware, HELPLESS-dominant (70%) with WORTHLESS secondary (30%). The positioning engineers a defensible subcategory, "Performance Fitness for Tech Founders," where no competitor currently exists at scale. the mass-market entrepreneur-fitness program (adjacent, generic); the ultra-premium science-based founder-fitness program (adjacent, $20K+). The subcategory between them is the opportunity.
 
 ## The Encoded Positioning Document
 
@@ -23,15 +23,15 @@ Not "fitness coaching" (too broad). Not "biohacking" (too fringe). A new subcate
 
 The label passes the 5-second test: a founder hears "Founder Fitness Operating System" and understands (a) for people like them, (b) systematic, (c) performance not aesthetics.
 
-**Old Vehicles Replaced:** Generic coaching (a generic-fitness creator, IG coaches); a premium-gym brand / boutique gyms; self-paced fitness courses; apps (a behavior-change app, a calorie-tracking app); biohacking supplement stacks without fitness foundations.
+**Old Vehicles Replaced:** Generic coaching (the mass-market entrepreneur-fitness program, IG coaches); Equinox / boutique gyms; self-paced fitness courses; apps (Noom, MyFitnessPal); biohacking supplement stacks without fitness foundations.
 
 ### Section 3 - Core Belief Statement
 
 **The Core Belief:** "The reason tech founders fail at fitness isn't lack of knowledge or discipline. It's that no fitness system has ever been built for how they actually work. When fitness operates like a startup, with systems, metrics, delegation, and accountability, it becomes as inevitable as product-market fit."
 
-**Why It Must Be True:** Tech founders manage complex systems every day. The problem isn't capability, it's that fitness has been sold as willpower when it should be sold as operations. Every transformed founder (a founder, Joshua Davidson, Anthony Ng Monica) treated health like a business project.
+**Why It Must Be True:** Tech founders manage complex systems every day. The problem isn't capability, it's that fitness has been sold as willpower when it should be sold as operations. Every transformed founder (a documented founder-weight-gain case, a documented founder-transformation case, another documented founder-transformation case) treated health like a business project.
 
-**Evidence:** "Why don't you treat your health like your business?" triggered a CEO's 10kg transformation in 90 days (Entrepreneur.com). a founder: "eat right and exercise once I sell my company," gained 60 lbs over 6 years. "I'll do it later" is the competitor.
+**Evidence:** "Why don't you treat your health like your business?" triggered a CEO's 10kg transformation in 90 days (Entrepreneur.com). a documented founder-weight-gain case: "eat right and exercise once I sell my company," gained 60 lbs over 6 years. "I'll do it later" is the competitor.
 
 ### Section 4 - Unique Mechanism
 
@@ -39,15 +39,15 @@ The label passes the 5-second test: a founder hears "Founder Fitness Operating S
 
 **What It Is:** A 90-day protocol for tech founders. 30-minute daily training (gym or travel-friendly), founder-calibrated nutrition (no meal prep), sleep/stress optimization via wearable data, weekly accountability with a coach who understands startup life. Adapts to board weeks, launch sprints, fundraising travel.
 
-**Why It's Different:** Every competing approach treats fitness as separate from work. a generic-fitness creator is excellent general fitness but doesn't account for Series B stress. a K+ longevity-coach program is $20K+. Generic coaches send a PDF and disappear. FFOS (1) speaks tech-native language, (2) adapts in real-time, (3) integrates wearable data, (4) leads with cognitive performance.
+**Why It's Different:** Every competing approach treats fitness as separate from work. the mass-market entrepreneur-fitness program is excellent general fitness but doesn't account for Series B stress. the ultra-premium science-based founder-fitness program is $20K+. Generic coaches send a PDF and disappear. FFOS (1) speaks tech-native language, (2) adapts in real-time, (3) integrates wearable data, (4) leads with cognitive performance.
 
 **Why It Works:** Most founders fail at fitness because they try to add "working out" on willpower. FFOS removes willpower: coach handles programming (delegation), wearable handles tracking (metrics), weekly check-ins create accountability (governance), protocols pre-built for 30-minute windows (constraints-aware design). It works for the same reason startups work: systems, not discipline.
 
 ### Section 5 - Competitive Differentiation
 
-**1. Founder-Schedule Architecture.** a generic-fitness creator assumes 45-60 min sessions. Every FFOS protocol has a "founder mode": 30-min, hotel-room, compressed travel-day variants.
+**1. Founder-Schedule Architecture.** the mass-market entrepreneur-fitness program assumes 45-60 min sessions. Every FFOS protocol has a "founder mode": 30-min, hotel-room, compressed travel-day variants.
 
-**2. Cognitive Performance as Primary Outcome.** a generic-fitness creator sells "get lean." a stubborn-fat-loss coach sells "lose stubborn fat." FFOS leads with cognitive performance. Body composition is a byproduct.
+**2. Cognitive Performance as Primary Outcome.** the mass-market entrepreneur-fitness program sells "get lean." an adjacent founder-fitness coach sells "lose stubborn fat." FFOS leads with cognitive performance. Body composition is a byproduct.
 
 **3. Wearable Data Integration.** No major competitor integrates a wearables brand/a wearables brand/a wearables brand into coaching. A coach who says "trust the process" loses to one who says "your HRV dropped 15% this week, here's what we're adjusting."
 
@@ -81,7 +81,7 @@ The label passes the 5-second test: a founder hears "Founder Fitness Operating S
 ## Why This Is A Good Example
 
 - **ICP limiting-belief diagnosis drives the positioning.** HELPLESS-dominant (70%) audience needs named mechanism + step-by-step path. Position leads with "FFOS" and "30 min/day, 3 layers." A WORTHLESS-dominant ICP would produce status-heavy positioning; HOPELESS would lead with hope-injection.
-- **Subcategory creation via filling the gap between competitors.** a generic-fitness creator (generic) and a K+ longevity coach (ultra-premium $20K+) define the range. "Performance Fitness for Tech Founders" sits between them, defensible and scalable.
+- **Subcategory creation via filling the gap between competitors.** the mass-market entrepreneur-fitness program (generic) and the ultra-premium science-based founder-fitness program (ultra-premium $20K+) define the range. "Performance Fitness for Tech Founders" sits between them, defensible and scalable.
 - **Anti-positioning is specific.** "NOT a bodybuilding program" with "we're not trying to put you on stage" is concrete. Each NOT claim has a what-instead behind it.
 
 ## Source
@@ -92,4 +92,4 @@ The label passes the 5-second test: a founder hears "Founder Fitness Operating S
 - `reference/frameworks/acquisition-economics/grand-slam-offer.md` - mechanism naming rule
 
 ---
-*Encoded 2026-04-19. Content is [VERBATIM] from the canonical Fitness Coaching positioning document in the Growth Operating Agency foundations library. All competitor names (a generic-fitness creator, a K+ longevity coach, a stubborn-fat-loss coach), evidence quotes (a founder peer community blog, Entrepreneur.com, Startups.com), and framework applications are pulled from the source document.*
+*Encoded 2026-04-19. Content is [VERBATIM] from the canonical Fitness Coaching positioning document in the Growth Operating Agency foundations library. All competitor references are anonymized as methodology descriptors; evidence quotes (founder-community blog, business press) and framework applications are pulled from the source document.*
