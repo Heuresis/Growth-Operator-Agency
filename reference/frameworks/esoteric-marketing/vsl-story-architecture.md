@@ -34,7 +34,7 @@ Each beat recruits a specific persuasion mechanism. A VSL that lands all six bea
 
 ### Persuasion mechanics recruited
 
-- **Pattern interrupt** (the trigger taxonomist trigger #1) — unexpected opening
+- **Pattern interrupt** (direct-response trigger #1) — unexpected opening
 - **Curiosity gap** — implicit promise of information the viewer doesn't have
 - **Self-referential hook** — viewer recognizes themselves in the first 15 seconds
 - **Authority signal** — without claiming it, demonstrate it
