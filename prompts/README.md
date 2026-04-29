@@ -1,6 +1,6 @@
-# prompts/
+# `prompts/` — Domain-indexed prompt library
 
-The AI prompt library for Growth Operating Agency. These are battle-tested prompt patterns you can paste into Claude, GPT, or any capable assistant to get on-brand outputs without burning hours.
+The prompt library for Growth Operating Agency. Battle-tested prompt patterns indexed by domain — research, sales, content, content-repurposing, email, ad creative, brand voice, VSL, offer, analytics — that you can paste into Claude, GPT, or any capable assistant to get on-brand outputs without burning hours.
 
 Every prompt here is designed to work alongside the skills in this workspace. Skills run the structured process; these prompts are the cheap, fast way to generate variants, explore ideas, or unstick a specific step.
 
