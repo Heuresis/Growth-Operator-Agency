@@ -279,7 +279,7 @@ workflows/
 │
 ├── operations/              → team operating cadences + tool SOPs
 │   ├── cadences/                 → daily standup · weekly review · monthly QBR · quarterly planning
-│   ├── tool-sops/                → Slack · Notion · Loom · GoHighLevel · ClickUp
+│   ├── tool-sops/                → Slack · Notion · Loom · GoHighLevel · a productivity-software brand
 │   ├── team-leadership/          → hiring · 1:1s · performance · role design
 │   ├── finance-tracker/          → cash-flow schema · forecasting rhythm
 │   ├── competitive-intel-ops/    → ongoing competitor monitoring

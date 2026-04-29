@@ -23,7 +23,7 @@ Not "fitness coaching" (too broad). Not "biohacking" (too fringe). A new subcate
 
 The label passes the 5-second test: a founder hears "Founder Fitness Operating System" and understands (a) for people like them, (b) systematic, (c) performance not aesthetics.
 
-**Old Vehicles Replaced:** Generic coaching (the mass-market entrepreneur-fitness program, IG coaches); Equinox / boutique gyms; self-paced fitness courses; apps (Noom, MyFitnessPal); biohacking supplement stacks without fitness foundations.
+**Old Vehicles Replaced:** Generic coaching (the mass-market entrepreneur-fitness program, IG coaches); a premium-gym brand / boutique gyms; self-paced fitness courses; apps (a behavior-change app, a calorie-tracking app); biohacking supplement stacks without fitness foundations.
 
 ### Section 3 - Core Belief Statement
 
