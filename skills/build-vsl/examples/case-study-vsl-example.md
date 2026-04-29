@@ -41,7 +41,7 @@ He's not unusual. Jason, YC founder, 18 pounds during a Series A close. Priya, f
 
 ### Price Reveal (18-22 min) [Beliefs #5, #6]
 
-"Marcus asked: what's the cost of staying at 5 of 10 for another year? Company at $5M ARR, 5% growth-trajectory hit is $250K. Equinox Optimize is $40K/year. the ultra-premium science-based founder-fitness program is $20K+. Assembled separately, $11,900-$18,500/quarter. **FFOS Group Coaching is $3,997/quarter.** Less than one month of the cognitive performance Marcus was leaving on the table."
+"Marcus asked: what's the cost of staying at 5 of 10 for another year? Company at $5M ARR, 5% growth-trajectory hit is $250K. a K/yr biomarker-integrated gym program is $40K/year. the ultra-premium science-based founder-fitness program is $20K+. Assembled separately, $11,900-$18,500/quarter. **FFOS Group Coaching is $3,997/quarter.** Less than one month of the cognitive performance Marcus was leaving on the table."
 
 ### Guarantee (22-24 min) [Beliefs #3, #7]
 

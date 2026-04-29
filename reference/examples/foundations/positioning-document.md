@@ -39,7 +39,7 @@ The label passes the 5-second test: a tech founder hears "Founder Fitness Operat
 
 **Old Vehicles Being Replaced:**
 1. Generic online fitness coaching (the mass-market entrepreneur-fitness program, random IG coaches)
-2. High-end personal trainers at Equinox / boutique gyms
+2. High-end personal trainers at a premium-gym brand / boutique gyms
 3. Self-paced fitness courses and YouTube programs
 4. Fitness apps (a behavior-change app, a calorie-tracking app, a wearables brand alone)
 5. Biohacking supplement stacks without fitness foundations

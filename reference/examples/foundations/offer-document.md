@@ -217,7 +217,7 @@
 
 ### Objection 1: Price -- "It's $4K for fitness coaching?"
 - **What They Really Mean:** "I've spent money on fitness before and it failed. I'm not confident this will be different enough to justify the investment."
-- **Reframe:** "You've already spent $5K-$15K on fitness that didn't work -- gym memberships, apps, courses, personal trainers. The question isn't whether you'll spend money on your health. It's whether you'll keep spending on systems built for someone else, or invest once in a system built for how you actually work. Equinox Optimize charges $40K/year. the ultra-premium science-based founder-fitness program charges $20K+. The FFOS is $3,997 for a quarter because it's specifically engineered for the 30-minute windows and unpredictable schedules that make founders quit everything else."
+- **Reframe:** "You've already spent $5K-$15K on fitness that didn't work -- gym memberships, apps, courses, personal trainers. The question isn't whether you'll spend money on your health. It's whether you'll keep spending on systems built for someone else, or invest once in a system built for how you actually work. a K/yr biomarker-integrated gym program charges $40K/year. the ultra-premium science-based founder-fitness program charges $20K+. The FFOS is $3,997 for a quarter because it's specifically engineered for the 30-minute windows and unpredictable schedules that make founders quit everything else."
 
 ### Objection 2: Fit -- "Will this work for my specific situation?"
 - **What They Really Mean:** "I'm a special case. My schedule / travel / stress is uniquely intense. I need to know this was designed for someone EXACTLY like me."
