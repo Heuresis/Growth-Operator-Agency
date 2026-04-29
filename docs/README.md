@@ -1,6 +1,6 @@
 # `docs/` — User documentation
 
-Reader-facing documentation for installing, understanding, and extending the workspace.
+Reader-facing documentation for installing, understanding, and extending the workspace. Start with `QUICKSTART.md` if you're new; jump to `ARCHITECTURE.md` if you want the model first; consult `FILE-TREE.md` when you need a map.
 
 | File | Purpose |
 |---|---|
