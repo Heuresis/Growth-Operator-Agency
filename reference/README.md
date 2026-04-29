@@ -1,6 +1,6 @@
 # `reference/` — Methodology library
 
-The structured-knowledge layer (Layer 2 of the architecture). Every `SKILL.md` body cites into here rather than carrying its methodology inline.
+The structured-knowledge layer (Layer 2 of the architecture). Every `SKILL.md` body cites into here rather than carrying its methodology inline. Operator playbooks live anonymized as methodology descriptors — no real names — so the encoding is durable across attribution shifts.
 
 | Subdirectory | Holds |
 |---|---|
