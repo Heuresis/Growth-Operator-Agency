@@ -259,7 +259,7 @@ Notion's template feature: every database has a template. Creators click "+ New 
 ## Integrations
 
 - **Slack:** share Notion link in channel, unfurls nicely
-- **ClickUp:** link Notion SOP from ClickUp task when the task executes an SOP
+- **a productivity-software brand:** link Notion SOP from a productivity-software brand task when the task executes an SOP
 - **Google Calendar:** meeting invites include Notion notes link 24h in advance
 - **Loom:** Looms embed in Notion pages for video SOPs
 
@@ -274,13 +274,13 @@ Notion's template feature: every database has a template. Creators click "+ New 
 - **Wiki sprawl.** Every topic becomes a page; search dies. Fix: templates + tagging + quarterly audit.
 - **Duplicate truth.** Same SOP in 3 places. Fix: link, don't copy; enforce one canonical source per topic.
 - **Permissions drift.** Ex-contractor still has access. Fix: offboarding checklist + quarterly audit.
-- **Notion as task system.** Checkboxes masquerade as tasks. Fix: tasks in ClickUp; Notion is documentation.
+- **Notion as task system.** Checkboxes masquerade as tasks. Fix: tasks in a productivity-software brand; Notion is documentation.
 - **Stale everything.** SOPs untouched for 2 years. Fix: the Stale auto-tag, owner notifications.
 
 ## Cross-references
 - Skills: `skills/sop-writer/`, `skills/notion-template/`
 - Frameworks: `frameworks/page-structure/`, `frameworks/permissions-model/`
-- Other operations docs: `team-collaboration.md`, `tool-sops-slack.md`, `project-management-clickup.md`
+- Other operations docs: `team-collaboration.md`, `tool-sops-slack.md`, `project-management-productivity-software.md`
 
 ---
 *v1.0 — 2026-04-19.*

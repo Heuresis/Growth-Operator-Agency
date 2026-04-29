@@ -118,7 +118,7 @@ This is the inverse of how most operators intuitively work. The Implementation G
 - the acquisition economist, *a high-value offer canon Implementation Guide* - Phase 2 Steps 3-5 (Dream Outcome, Problems List, Solutions), Phase 4 Steps 8-11 (Guarantee, Scarcity, Bonuses, Naming), Phase 5 Step 12 (Pricing).
 - the acquisition economist, a high-value offer canon (book, 2021).
 - `reference/frameworks/primitives/value-equation.md` - generic primitive.
-- `reference/frameworks/offer-architecture/hormozi-grand-slam-offer.md` - how the equation assembles into a full offer.
+- `reference/frameworks/offer-architecture/grand-slam-offer.md` - how the equation assembles into a full offer.
 
 ---
 *v1.0 - 2026-04-19. the acquisition economist-specific operator encoding of the Value Equation.*

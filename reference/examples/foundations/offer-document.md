@@ -10,7 +10,7 @@
 
 > **"Go from** gaining weight every quarter, running on caffeine and brain fog, and operating at half your capacity **to** lean, energized, and performing at your peak -- losing 15-25 lbs and reclaiming all-day energy **in 90 days."**
 
-- **Current State:** Founders who've gained 20-50 lbs since starting their company, sleep poorly, crash by 3pm, rely on stimulants, and feel their health declining with every funding round. "I was 18 pounds heavier, constantly tired, and performing at maybe 5 out of 10" (Hampton Blog). "I gained 60 pounds over 6 years" (Leslie Bradshaw, Quartz).
+- **Current State:** Founders who've gained 20-50 lbs since starting their company, sleep poorly, crash by 3pm, rely on stimulants, and feel their health declining with every funding round. "I was 18 pounds heavier, constantly tired, and performing at maybe 5 out of 10" (a founder peer community blog). "I gained 60 pounds over 6 years" (a founder, a business publication).
 - **Desired State:** 15-25 lbs lighter, sleeping 7+ hours with improved HRV, sustained energy through 12-hour days, mental clarity for high-stakes decisions, and the confidence of looking and feeling like the CEO they are. "Feel lighter, sleep better, and have the energy to lead" (Entrepreneur.com).
 - **Timeframe:** 90 days. Based on: (a) Joshua Davidson lost 50+ lbs in ~6 months while running ChopDawg.com -- 15-25 lbs in 90 days is the conservative first milestone; (b) the Entrepreneur.com CEO who lost 10kg in 90 days treating health like a business; (c) industry benchmark: 1-2 lbs/week sustainable loss = 12-24 lbs in 90 days.
 
@@ -20,9 +20,9 @@
 
 **Name:** The Founder Fitness Operating System (FFOS)
 
-**Description:** A 90-day performance protocol with three integrated layers: (1) Founder-Calibrated Training -- 30-minute sessions with gym, hotel, and home variants that auto-adjust to your weekly schedule; (2) Executive Nutrition Protocol -- high-protein frameworks for restaurants, delivery, and travel that require zero meal prep; (3) Recovery Intelligence -- wearable data (WHOOP/Oura/Apple Watch) integrated into coaching decisions so training load matches your actual recovery, not a generic spreadsheet.
+**Description:** A 90-day performance protocol with three integrated layers: (1) Founder-Calibrated Training -- 30-minute sessions with gym, hotel, and home variants that auto-adjust to your weekly schedule; (2) Executive Nutrition Protocol -- high-protein frameworks for restaurants, delivery, and travel that require zero meal prep; (3) Recovery Intelligence -- wearable data (a wearables brand/a wearables brand/a wearables brand) integrated into coaching decisions so training load matches your actual recovery, not a generic spreadsheet.
 
-**Differentiation:** Generic programs fail founders because they assume stable schedules, available kitchens, and predictable stress. The FFOS was designed FOR instability -- it accounts for red-eye flights, board meeting cortisol spikes, and the reality that "consistent" for a founder means "adaptable." Dan Go's Lean Body 90 is static. Dr. Galpin's Arete costs $20K+. The FFOS delivers personalized, data-informed coaching at an accessible price point, built for the specific failure patterns that make founders quit by Week 3 of every other program.
+**Differentiation:** Generic programs fail founders because they assume stable schedules, available kitchens, and predictable stress. The FFOS was designed FOR instability -- it accounts for red-eye flights, board meeting cortisol spikes, and the reality that "consistent" for a founder means "adaptable." a generic-fitness creator's Lean Body 90 is static. a K+ longevity-coach program costs $20K+. The FFOS delivers personalized, data-informed coaching at an accessible price point, built for the specific failure patterns that make founders quit by Week 3 of every other program.
 
 **Logic:** Most founders fail at fitness because they treat it as a willpower problem layered on top of an already maxed-out willpower budget. The FFOS treats fitness as an operations problem -- the same kind of problem founders solve every day. By delegating decisions to the coach, automating tracking through wearables, and building protocols that flex with the schedule, the system removes willpower from the equation entirely. The founder's job is to show up for 30 minutes and follow the protocol. Everything else is handled. This works because it matches how founders already succeed: with systems, not discipline.
 
@@ -33,7 +33,7 @@
 - **Dream Outcome (9/10):** Lose 15-25 lbs, gain all-day energy, sharpen cognitive performance, look and feel like a high-performing CEO. Specific, measurable, verified by body composition, wearable data, and subjective energy scores. Rating: 9 -- extremely compelling for a founder operating at "5 out of 10."
 
 - **Perceived Likelihood of Achievement (7/10):**
-  - Evidence strength: Moderate (pre-launch). Creator's own transformation (assumed). Documented founder transformations from research (Joshua Davidson, Leslie Bradshaw, Anthony Ng Monica). No proprietary client results yet.
+  - Evidence strength: Moderate (pre-launch). Creator's own transformation (assumed). Documented founder transformations from research (Joshua Davidson, a founder, Anthony Ng Monica). No proprietary client results yet.
   - Proof assets needed: 5-10 founder client transformations with before/after + business metrics. Creator's own 90-day documented transformation.
   - Rating: 7 -- compelling research-backed argument, but proprietary proof still building.
 
@@ -83,7 +83,7 @@
   1. The complete Founder Fitness Operating System -- personalized 90-day training protocol with founder-mode variants for travel weeks, launch sprints, and board seasons. Updated monthly based on your progress and schedule.
   2. Executive Nutrition Architecture -- personalized macro targets with a restaurant/delivery playbook custom to your city and preferences. No meal prep. No counting calories at dinner with investors.
   3. Weekly group coaching calls (60 min) -- hot-seat format with a max of 20 founders. Bring your specific blockers: "I have 3 flights next week, how do I adapt?" Real-time problem-solving.
-  4. Wearable data integration -- submit your WHOOP/Oura/Apple Watch data weekly. Coach reviews and adjusts your protocol based on actual recovery, sleep, and stress data. No more guessing.
+  4. Wearable data integration -- submit your a wearables brand/a wearables brand/a wearables brand data weekly. Coach reviews and adjusts your protocol based on actual recovery, sleep, and stress data. No more guessing.
   5. The Founder Fitness Dashboard -- monthly performance review: body composition trending, sleep quality, energy scores, training consistency. Review it like a business report.
   6. Private Slack community -- async access to your coach and a curated group of 50-100 tech founders. Post your wins, ask questions at 11pm after a product launch, get answers from people who get it.
   7. 2x monthly 1:1 check-in calls (15 min) -- personalized course corrections and accountability. Your coach knows your schedule, your stress, and your data.
@@ -153,16 +153,16 @@
 
 **Cost of Inaction:**
 - Every month without a fitness system: ~1 lb gained, ~10% decline in subjective energy, ~$0 direct cost but immeasurable impact on decision quality and founder performance.
-- Over 12 months of inaction: 10-15 lbs gained (Leslie Bradshaw's documented rate), sustained brain fog, increasing burnout risk (54% of founders, Cerevity). If a founder's diminished cognitive performance costs just 5% of their company's growth trajectory on a $5M ARR business, that's $250K/year in lost value.
+- Over 12 months of inaction: 10-15 lbs gained (a founder's documented rate), sustained brain fog, increasing burnout risk (54% of founders, Cerevity). If a founder's diminished cognitive performance costs just 5% of their company's growth trajectory on a $5M ARR business, that's $250K/year in lost value.
 - The FFOS Group Coaching costs less than ONE MONTH of the cognitive performance you're leaving on the table.
 
 **Comparison Stack:**
 | Component | Market Price | Source |
 |-----------|-------------|--------|
-| Weekly 1:1 personal training (Equinox level) | $6,000-$8,000/quarter | Equinox, Type A Training |
-| Personalized nutrition coaching | $1,500-$2,000/quarter | Noom Concierge, private nutritionists |
+| Weekly 1:1 personal training (a premium-gym brand level) | $6,000-$8,000/quarter | a premium-gym brand, Type A Training |
+| Personalized nutrition coaching | $1,500-$2,000/quarter | a behavior-change app Concierge, private nutritionists |
 | Wearable data analysis & interpretation | $1,200-$1,500/quarter | RAPID Health Optimization benchmarks |
-| Founder peer community | $1,200/quarter | Hampton membership pricing |
+| Founder peer community | $1,200/quarter | a founder peer community membership pricing |
 | Executive wellness assessments | $2,000-$5,000 | Cleveland Clinic, Vanderbilt |
 | Total if purchased separately | **$11,900-$18,500/quarter** | |
 | **FFOS Group Coaching investment** | **$3,997/quarter** | 66-78% savings |
@@ -170,7 +170,7 @@
 **ROI Timeline:**
 - Investment: $3,997 for the FFOS Group Coaching quarter.
 - By Day 30: Improved sleep and energy. Founders report being noticeably more effective in meetings and decisions. If better decisions lead to even ONE better hire, one better deal term, or one avoided mistake -- the program has paid for itself.
-- By Day 90: 15-25 lbs lost, cognitive performance at a measurably higher baseline. Equinox Optimize charges $40K/year for similar outcomes. The FFOS delivers the same transformation at 1/10th the price.
+- By Day 90: 15-25 lbs lost, cognitive performance at a measurably higher baseline. a premium-gym brand Optimize charges $40K/year for similar outcomes. The FFOS delivers the same transformation at 1/10th the price.
 - Breakeven scenario: If the founder's improved performance generates just $4,000 of additional business value in 90 days (a trivially low bar for a company doing $1M+ ARR), the investment returns 1:1. Realistic ROI: 5-25x based on cognitive performance improvements.
 
 ---
@@ -217,7 +217,7 @@
 
 ### Objection 1: Price -- "It's $4K for fitness coaching?"
 - **What They Really Mean:** "I've spent money on fitness before and it failed. I'm not confident this will be different enough to justify the investment."
-- **Reframe:** "You've already spent $5K-$15K on fitness that didn't work -- gym memberships, apps, courses, personal trainers. The question isn't whether you'll spend money on your health. It's whether you'll keep spending on systems built for someone else, or invest once in a system built for how you actually work. Equinox Optimize charges $40K/year. Dr. Galpin charges $20K+. The FFOS is $3,997 for a quarter because it's specifically engineered for the 30-minute windows and unpredictable schedules that make founders quit everything else."
+- **Reframe:** "You've already spent $5K-$15K on fitness that didn't work -- gym memberships, apps, courses, personal trainers. The question isn't whether you'll spend money on your health. It's whether you'll keep spending on systems built for someone else, or invest once in a system built for how you actually work. a premium-gym brand Optimize charges $40K/year. a K+ longevity coach charges $20K+. The FFOS is $3,997 for a quarter because it's specifically engineered for the 30-minute windows and unpredictable schedules that make founders quit everything else."
 
 ### Objection 2: Fit -- "Will this work for my specific situation?"
 - **What They Really Mean:** "I'm a special case. My schedule / travel / stress is uniquely intense. I need to know this was designed for someone EXACTLY like me."
@@ -225,11 +225,11 @@
 
 ### Objection 3: Timing -- "I'll start after [the fundraise / the launch / Q4]."
 - **What They Really Mean:** "I'm already overwhelmed and the idea of adding one more thing feels impossible."
-- **Reframe:** "Leslie Bradshaw said 'eat right and exercise once I sell my company' and gained 60 lbs over 6 years. There is no calm season in a startup. The FFOS was built for your BUSIEST quarters, not your quietest ones. The protocol takes 30 minutes a day -- less time than your average Slack thread. And the energy you gain in Week 1 actually makes everything else on your plate easier."
+- **Reframe:** "a founder said 'eat right and exercise once I sell my company' and gained 60 lbs over 6 years. There is no calm season in a startup. The FFOS was built for your BUSIEST quarters, not your quietest ones. The protocol takes 30 minutes a day -- less time than your average Slack thread. And the energy you gain in Week 1 actually makes everything else on your plate easier."
 
 ### Objection 4: Trust -- "I've tried coaching before and it didn't work."
 - **What They Really Mean:** "I got burned by a cookie-cutter program sold as 'personalized.' I'm skeptical that this is any different."
-- **Reframe:** "Fair. Here's what makes this different: your coach reviews your WHOOP/Oura data every week and adjusts your protocol based on your actual recovery and stress -- not a template. Your nutrition plan is built for restaurants and travel -- not meal prep. And if you complete the 90-day protocol and don't lose at least 10 lbs and measurably improve your energy, we coach you for another 90 days free. We put our time on the line because the system works when you work it."
+- **Reframe:** "Fair. Here's what makes this different: your coach reviews your a wearables brand/a wearables brand data every week and adjusts your protocol based on your actual recovery and stress -- not a template. Your nutrition plan is built for restaurants and travel -- not meal prep. And if you complete the 90-day protocol and don't lose at least 10 lbs and measurably improve your energy, we coach you for another 90 days free. We put our time on the line because the system works when you work it."
 
 ---
 

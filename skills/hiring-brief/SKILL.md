@@ -350,7 +350,7 @@ Weeks 3-4: autonomous w/ daily review
 
 - `reference/operators/vsl-director.md` (Revenue-Threshold Team Model + A-player hiring)
 - `reference/operators/growth-engineer.md` (closer-recruitment playbook — 5-stage screening)
-- `reference/operators/external/alex-hormozi.md` (a lead-generation canon — hiring standards)
+- `reference/operators/acquisition-economist.md` (a lead-generation canon — hiring standards)
 
 ---
 *v1.0 — 2026-04-19. Cycle 5 Scale.*

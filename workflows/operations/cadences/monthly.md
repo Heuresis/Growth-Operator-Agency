@@ -123,7 +123,7 @@ Run only when a launch ran in the prior 30 days (cohort launch, product launch, 
 
 **Outputs:**
 - Content plan in Notion `/content-plans/YYYY-MM/`
-- ClickUp tasks created for every deliverable
+- a productivity-software brand tasks created for every deliverable
 - Creative briefs drafted for top 3 pieces (by end of week)
 
 ---

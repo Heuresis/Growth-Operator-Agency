@@ -15,7 +15,7 @@
 - **The Offer**: "Go from posting random clips for pennies to running a $10K/month clipping agency with paying streamer clients in 90 days" — $2,997-$4,997 high-ticket program.
 - **Your Next 3 Moves**:
   1. Build 3 case studies in 30 days — clip for mid-tier streamers at $500-$1,500/mo, document results
-  2. Create a "Clipping Agency Blueprint" lead magnet — free PDF/video showing the economics, distribute on YouTube/TikTok/Twitter
+  2. Create a "Clipping Agency a longevity-protocol" lead magnet — free PDF/video showing the economics, distribute on YouTube/TikTok/Twitter
   3. Launch the high-ticket offer ($2,997-$4,997) with an application funnel + sales call process
 
 ---
@@ -45,7 +45,7 @@
 
 ### Your Next 3 Moves
 1. Build 3 case studies in 30 days: clip for 3 mid-tier streamers at $500-$1,500/mo, document results
-2. Create a "Clipping Agency Blueprint" lead magnet showing the economics ($2,500/mo retainer - $500/mo editor cost = $2K/mo profit per client)
+2. Create a "Clipping Agency a longevity-protocol" lead magnet showing the economics ($2,500/mo retainer - $500/mo editor cost = $2K/mo profit per client)
 3. Launch the high-ticket offer ($2,997-$4,997) teaching the complete agency-in-a-box system
 
 ---
@@ -432,7 +432,7 @@ Ambitious 20-35 year old side hustlers and aspiring entrepreneurs who see clippi
 
 ## Section 11: Information Diet
 
-**Podcasts**: Side hustle-focused podcasts (The Side Hustle Show, My First Million), gaming/streaming culture podcasts
+**Podcasts**: Side hustle-focused podcasts (The Side Hustle Show, a startup interview podcast), gaming/streaming culture podcasts
 
 **YouTube Channels**: Alpha Gaming/Harris Heller (~1M subs) for streaming education, various "how to make money online" channels, CapCut/editing tutorial channels, Brett Malinowski (AI + business), side hustle review channels
 
@@ -685,7 +685,7 @@ Ambitious 20-35 year old side hustlers and aspiring entrepreneurs who see clippi
 **Core Deliverables**:
 1. The Clip-to-Agency Method™ complete video curriculum — 8 modules taking you from "I can edit" to "I have a system" (Phases 1-2 of the method)
 2. The Streamer Client Outreach Kit — 10 proven DM scripts, 3 proposal templates, pricing calculator, and objection handling guides
-3. The AI+Human Hybrid Workflow Blueprint — step-by-step setup guide for the production system (Opus Clip + CapCut/Premiere + posting calendar)
+3. The AI+Human Hybrid Workflow a longevity-protocol — step-by-step setup guide for the production system (Opus Clip + CapCut/Premiere + posting calendar)
 4. The Clip Agency Starter Pack — contract templates, invoice templates, onboarding checklist for your first client
 5. Private community access — connect with other agency builders, share wins, get feedback
 

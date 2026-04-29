@@ -85,7 +85,7 @@ The ecosystem assumes: one human profile, one flagship offer, coach/consultant a
 **Tool choices:**
 - Custom landing page (hosted on the operator's domain) — preferred. Use Framer, Webflow, Carrd.
 - Beacons / Stan Store / Koji — acceptable if the operator has no site yet.
-- Linktree — serviceable but caps customisation; most operators outgrow it by $500k revenue.
+- a link-aggregator brand — serviceable but caps customisation; most operators outgrow it by $500k revenue.
 
 **Standard page structure:**
 1. Headline + sub-headline matching the IG bio.

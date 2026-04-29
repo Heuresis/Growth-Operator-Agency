@@ -620,7 +620,7 @@ After `/sales-script` ships (and passes 3/3 role-play):
 - `reference/frameworks/primitives/call-funnel.md`
 - `reference/frameworks/sales/crossroads-close.md`
 - `reference/frameworks/sales/value-stack-architecture.md`
-- `reference/operators/sales-director.md` (8-stage Full-Stack Sales Call)
+- `reference/operators/copy-director.md` (8-stage Full-Stack Sales Call)
 - `reference/operators/vsl-director.md` (Crossroads + Help Them Buy)
 - `reference/operators/offer-architect.md` (objection pre-framing)
 - `reference/operators/copy-director.md` (pain-language sourcing)

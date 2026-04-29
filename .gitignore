@@ -54,5 +54,9 @@ scratch/
 # ---- Per-creator company.yaml override (when filled) ----
 # The template company.yaml ships with empty fields.
 # A filled company.yaml is creator IP — never push.
-# Uncomment below when instantiating this template for a creator:
-# company.yaml
+# Template reference preserved at company.template.yaml.
+company.yaml
+
+# ---- Project-specific state + context files (gitignored per INV-11) ----
+PROJECT-STATE.md
+CLAUDE.md

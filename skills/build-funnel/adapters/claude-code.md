@@ -42,7 +42,7 @@ If `$ARGUMENTS` contains `--archetype=N`, force that archetype. Otherwise apply 
 ## Tool usage patterns
 
 - **Read** for loading SKILL.md, all upstream Docs, funnel primitives, operator frameworks
-- **Write / Edit** for producing the Funnel Blueprint and updating company.yaml
+- **Write / Edit** for producing the Funnel a longevity-protocol and updating company.yaml
 - **WebSearch / WebFetch** for benchmark validation (industry-vertical conversion norms) + competitor funnel intelligence
 - **Grep** across `output/` to inventory which dependency assets exist (VSL / landing page / email sequences / ad creative)
 
@@ -64,7 +64,7 @@ If the skill fails verification, follow `workflows/handoffs/quality-revision.md`
 
 ## Cross-skill routing
 
-After the Funnel Blueprint ships:
+After the Funnel a longevity-protocol ships:
 - Default next skills by archetype:
   - Archetype 1 (VSL) → `/landing-page` + `/ad-creative`
   - Archetype 2 (Webinar) → `/webinar-script` + `/email-sequence`

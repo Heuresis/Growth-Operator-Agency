@@ -7,7 +7,7 @@
 
 \t```javascript
 {
-  \"framework_name\": \"THE ALEN SULTANIC OFFER BUILDING SYSTEM\",
+  \"framework_name\": \"THE THE OFFER ARCHITECT OFFER BUILDING SYSTEM\",
   \"version\": \"COMPLETE_v1.0\",
   \"description\": \"The exact, systematic framework Growth Operating Agency uses to build offers from A-Z. Sequential, diagnostic, decision-tree based. Works across all industries, funnel types, and market conditions.\",
   
@@ -635,7 +635,7 @@
       },
       
       \"offer_architecture_output\": {
-        \"required_deliverable\": \"Complete Offer Blueprint containing:\",
+        \"required_deliverable\": \"Complete Offer a longevity-protocol containing:\",
         \"sections\": [
           \"Transformation Statement (from → to in X time)\",
           \"Unique Mechanism (what makes this different)\",

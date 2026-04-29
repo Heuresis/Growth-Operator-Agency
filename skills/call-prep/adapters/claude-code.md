@@ -16,7 +16,7 @@ Load and execute `skills/call-prep/SKILL.md` in the current workspace.
    - `Read` upstream: `output/build-icp/` (Section 3 avatars + Section 10 objections), `output/design-offer/` (mechanism sub-steps), `output/build-positioning/`, `output/objection-library/` if exists
    - read the prospect's application form response (supplied as input, typically referenced in `$ARGUMENTS`)
    - read any prior DM / email / CRM note history if provided
-   - read `reference/operators/consultative-sales-operator.md`, `reference/operators/sales-director.md`, `reference/operators/copy-director.md` for diagnostic patterns
+   - read `reference/operators/sales-scripter.md`, `reference/operators/copy-director.md`, `reference/operators/copy-director.md` for diagnostic patterns
 
 2. **Pre-flight check:** Verify `audience_intelligence_system >= 60`, `offer_architecture >= 60`, `conversion_sales_systems >= 50`. Confirm ICP has 3-5 avatar archetypes + Section 10 has 10+ objection patterns. If application form data is missing or thin, flag + request setter re-qualification.
 

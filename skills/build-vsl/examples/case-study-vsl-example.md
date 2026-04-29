@@ -25,23 +25,23 @@ Qualification: self-select in and out. Problem introduction: names the specific 
 
 ### The Client's Dark Night (5-9 min) [Belief #7]
 
-"Marcus tried Noom, an in-person trainer at $300/session, a keto coach on Twitter. Each worked 3-5 weeks and collapsed during the first startup emergency. Breaking point: March 14, hotel bathroom in San Francisco, 9:42 PM, accepting a design award the next morning. Shirt didn't button. Texted his wife: 'I don't know what to do.' His CTO, who'd lost 30 pounds, said: 'You solve complex systems problems every day. Why are you approaching your body differently?'"
+"Marcus tried a behavior-change app, an in-person trainer at $300/session, a keto coach on Twitter. Each worked 3-5 weeks and collapsed during the first startup emergency. Breaking point: March 14, hotel bathroom in San Francisco, 9:42 PM, accepting a design award the next morning. Shirt didn't button. Texted his wife: 'I don't know what to do.' His CTO, who'd lost 30 pounds, said: 'You solve complex systems problems every day. Why are you approaching your body differently?'"
 
 Specificity: exact time, exact place, exact text.
 
 ### The Mechanism Reveal (9-13 min) [Beliefs #3, #5]
 
-"Marcus stopped treating fitness as willpower and started treating it as operations. Four elements. One, he delegated decisions. Coach handled weekly programming. Two, he installed metrics. WHOOP. Coach reviewed weekly. Three, he built infrastructure for his worst weeks. Hotel-room version of every protocol. Restaurant-compatible meal plans. Four, he joined other founders doing the same thing. That's the Founder Fitness Operating System, FFOS."
+"Marcus stopped treating fitness as willpower and started treating it as operations. Four elements. One, he delegated decisions. Coach handled weekly programming. Two, he installed metrics. a wearables brand. Coach reviewed weekly. Three, he built infrastructure for his worst weeks. Hotel-room version of every protocol. Restaurant-compatible meal plans. Four, he joined other founders doing the same thing. That's the Founder Fitness Operating System, FFOS."
 
 ### The Evidence Stack (13-18 min) [Beliefs #3, #6, #7, #8]
 
-"Marcus's 90-day WHOOP export: sleep 5.1 hours to 7.2. HRV up 22%. Recovery moved from yellow to green. Weight 207 to 185. Week 6 calendar: three hotel nights, two board meetings, one launch prep. Did he skip workouts? No. Hotel-room version. The program adapted to Wednesday's fire.
+"Marcus's 90-day a wearables brand export: sleep 5.1 hours to 7.2. HRV up 22%. Recovery moved from yellow to green. Weight 207 to 185. Week 6 calendar: three hotel nights, two board meetings, one launch prep. Did he skip workouts? No. Hotel-room version. The program adapted to Wednesday's fire.
 
 He's not unusual. Jason, YC founder, 18 pounds during a Series A close. Priya, fintech CEO, fixed her HRV while her company 3x'd. Same protocol. Same 90 days."
 
 ### Price Reveal (18-22 min) [Beliefs #5, #6]
 
-"Marcus asked: what's the cost of staying at 5 of 10 for another year? Company at $5M ARR, 5% growth-trajectory hit is $250K. Equinox Optimize is $40K/year. Dr. Galpin's Arete is $20K+. Assembled separately, $11,900-$18,500/quarter. **FFOS Group Coaching is $3,997/quarter.** Less than one month of the cognitive performance Marcus was leaving on the table."
+"Marcus asked: what's the cost of staying at 5 of 10 for another year? Company at $5M ARR, 5% growth-trajectory hit is $250K. a premium-gym brand Optimize is $40K/year. a K+ longevity-coach program is $20K+. Assembled separately, $11,900-$18,500/quarter. **FFOS Group Coaching is $3,997/quarter.** Less than one month of the cognitive performance Marcus was leaving on the table."
 
 ### Guarantee (22-24 min) [Beliefs #3, #7]
 
@@ -70,7 +70,7 @@ Not for everyone. Not willing to train 5 days at 30 minutes? Don't apply. Not wi
 ## Source
 
 - `reference/frameworks/vsl-director/15-step-vsl-deep.md` - step framework
-- `reference/frameworks/vsl/pampa-15-step.md` - canonical summary
+- `reference/frameworks/vsl/15-step-vsl.md` - canonical summary
 - `reference/frameworks/vsl-director/hero-story-architecture.md` - specificity rule + phase structure
 - `reference/examples/foundations/offer-document.md` - the offer this VSL sells
 

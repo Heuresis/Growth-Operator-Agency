@@ -206,7 +206,7 @@ This section drives the OFFER design in `/design-offer` — the offer must **rem
 ### Phase 0 — Load
 - Read `output/research/` (latest Market Research Brief)
 - Read `company.yaml` compartments 1 + 2 (populated by /research)
-- Read `reference/canonical/frameworks/classical/schwartz-awareness-spectrum.md`
+- Read `reference/canonical/frameworks/classical/awareness-spectrum-5-levels.md`
 - Read `reference/canonical/frameworks/classical/limiting-belief-triad.md`
 - Read `reference/frameworks/esoteric-marketing/README.md` (the offer architect market psychology)
 - Read `reference/frameworks/primitives/specificity.md`
@@ -494,7 +494,7 @@ After `/build-icp` delivers the ICP Document (Completeness >= 80):
 
 ## References
 
-- `reference/canonical/frameworks/classical/schwartz-awareness-spectrum.md`
+- `reference/canonical/frameworks/classical/awareness-spectrum-5-levels.md`
 - `reference/canonical/frameworks/classical/limiting-belief-triad.md`
 - `reference/canonical/frameworks/classical/market-hierarchy.md`
 - `reference/frameworks/esoteric-marketing/README.md` (the offer architect market psychology)

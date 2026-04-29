@@ -58,7 +58,7 @@ Effect: as authority goes up, belief goes up, resistance goes down.
 
 *The mind needs it. If you look at all successful offers, they have compelling reference and evidence. Then the mind cannot argue with it.*
 
-Types: reference (citing the claim) and evidence (visual proof, Thomas Delauer's ripped body example from source). Hierarchy (from source): Authority (social) → Evidence (visual) → Reference → Repetition.
+Types: reference (citing the claim) and evidence (visual proof, a biohacking-fitness creator's ripped body example from source). Hierarchy (from source): Authority (social) → Evidence (visual) → Reference → Repetition.
 
 **Compensation principle:** if you don't have enough authority, compensate with compelling evidence and reference.
 

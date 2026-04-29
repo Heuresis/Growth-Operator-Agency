@@ -214,7 +214,7 @@ When retention drops unexpectedly, map the drop to the phase the viewer was in:
 - `reference/frameworks/youtube/hook-library-20-formulas.md`
 - `reference/frameworks/youtube/vssl-15-step.md`
 - `reference/frameworks/youtube/length-calibration.md`
-- `reference/canonical/frameworks/classical/eugene-schwartz-awareness-levels.md`
+- `reference/canonical/frameworks/classical/awareness-spectrum-5-levels.md`
 
 ---
 *v1.0 — 2026-04-19 — YouTube framework canonical.*

@@ -32,7 +32,7 @@ Sub-niche matters more than broad vertical. A 45-year-old woman worried about ho
 ### What they already spend on
 
 - Gym memberships ($40-$200/mo)
-- Apps (MyFitnessPal, Strong, etc.)
+- Apps (a calorie-tracking app, Strong, etc.)
 - Supplements ($30-$300/mo)
 - Personal training locally ($75-$200/session)
 - Specialty equipment (home gym builds)

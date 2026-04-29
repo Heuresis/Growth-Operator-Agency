@@ -36,36 +36,36 @@ Market: high-ticket performance fitness coaching for tech founders and startup e
 | SAM (Executive Fitness Coaching) | $500M-$1B annually | Bottom-up: 200K-400K addressable at $2K-$5K/quarter |
 | SOM (Year 1 Target) | $600K-$1.5M | 150-350 clients at $4K/quarter average |
 
-**Market Maturity:** Solution Aware. Founders have tried Noom, Equinox, WHOOP standalone, Dan Go's Lean Body 90. They are comparing vehicles, not discovering the problem.
+**Market Maturity:** Solution Aware. Founders have tried a behavior-change app, a premium-gym brand, a wearables brand standalone, a generic-fitness creator's Lean Body 90. They are comparing vehicles, not discovering the problem.
 
 ### Demand Signals
 
 - **Search volume:** "executive fitness coaching," "fitness for busy professionals" trending up on Google Trends.
-- **Adjacent proof:** Dan Go at ~$1,800/quarter; client roster Meta, Tinder, Shopify. Dr. Galpin's Arete at $20K+. Premium $4K-$10K/quarter band underserved.
-- **Community proof:** Hampton has 900+ paying members at $10K+/year.
+- **Adjacent proof:** a generic-fitness creator at ~$1,800/quarter; client roster Meta, Tinder, Shopify. a K+ longevity-coach program at $20K+. Premium $4K-$10K/quarter band underserved.
+- **Community proof:** a founder peer community has 900+ paying members at $10K+/year.
 - **VOC (Quora):** "I am working 11 hours a day as a software developer. I am 80kgs. I have no time to exercise."
 
 ### Competitor Landscape
 
 | Competitor | Price | Gap |
 |---|---|---|
-| Dan Go (Lean Body 90) | ~$1,800/qtr | Not founder-specific, static |
-| Dr. Galpin (Arete) | $20K+ | Inaccessible |
-| Equinox Optimize | $40K/yr | In-person, slow |
-| Noom | $60/mo | No human coaching |
-| WHOOP | $239/yr | Data without action |
+| a generic-fitness creator (Lean Body 90) | ~$1,800/qtr | Not founder-specific, static |
+| a K+ longevity coach (Arete) | $20K+ | Inaccessible |
+| a premium-gym brand Optimize | $40K/yr | In-person, slow |
+| a behavior-change app | $60/mo | No human coaching |
+| a wearables brand | $239/yr | Data without action |
 | Generic IG coaches | $500-$2K/mo | No wearable integration |
 
 **The gap:** Nothing at the intersection of founder-calibrated programming + wearable integration + founder peer community + $4K-$10K/quarter price band.
 
 ### Core Insight
 
-Tech founders don't fail at fitness from lack of knowledge. They've read the articles, listened to Huberman, tracked macros for a week. They fail because every fitness system was built for someone with a stable schedule, a kitchen, and predictable stress. The category gap isn't another coaching program. It's a fitness system engineered like software: systems, metrics, delegation, infrastructure. Founders who built companies on systems-thinking fail at fitness because they were taught willpower-thinking.
+Tech founders don't fail at fitness from lack of knowledge. They've read the articles, listened to a leading neuroscience podcast, tracked macros for a week. They fail because every fitness system was built for someone with a stable schedule, a kitchen, and predictable stress. The category gap isn't another coaching program. It's a fitness system engineered like software: systems, metrics, delegation, infrastructure. Founders who built companies on systems-thinking fail at fitness because they were taught willpower-thinking.
 
 ### VOC Language Capture (from the sources)
 
-- "I was 18 pounds heavier, constantly tired, and performing at maybe 5 out of 10" (Hampton Blog)
-- "I gained 60 pounds over 6 years" (Leslie Bradshaw, Quartz)
+- "I was 18 pounds heavier, constantly tired, and performing at maybe 5 out of 10" (a founder peer community blog)
+- "I gained 60 pounds over 6 years" (a founder, a business publication)
 - "The characteristics making entrepreneurs successful in business tend to make them unsuccessful at weight maintenance" (Inc.com)
 - "Why don't you treat your health like your business?" (Entrepreneur.com - 10kg/90-day transformation case)
 - "Feel lighter, sleep better, and have the energy to lead" (Entrepreneur.com)
@@ -92,13 +92,13 @@ Tech founders don't fail at fitness from lack of knowledge. They've read the art
 
 - **Limiting-belief diagnosis is the fulcrum.** HELPLESS-dominant + WORTHLESS secondary drives every downstream decision. Change the belief diagnosis and every downstream artifact changes.
 - **VOC quotes are load-bearing.** "Performing at maybe 5 out of 10" goes into the VSL Hook. "I'll do it once I sell my company" becomes the belief-installation target in the positioning. Research-to-copy traceability is continuous.
-- **Competitor landscape names the gap precisely.** The market isn't empty. Dan Go, Dr. Galpin, Equinox, WHOOP all compete adjacent. The gap is the intersection of founder-specificity + data integration + accessible premium price.
+- **Competitor landscape names the gap precisely.** The market isn't empty. a generic-fitness creator, a K+ longevity coach, a premium-gym brand, a wearables brand all compete adjacent. The gap is the intersection of founder-specificity + data integration + accessible premium price.
 
 ## Source
 
 - `reference/examples/foundations/signal-report.md` - full 64,500-word canonical report
 - `reference/examples/foundations/icp-document.md` - downstream ICP document (90/100 completeness)
-- Primary sources: Hampton Blog, Quartz, Entrepreneur.com, Fortune Business Insights, Cerevity, Crunchbase
+- Primary sources: a founder peer community blog, a business publication, Entrepreneur.com, Fortune Business Insights, Cerevity, Crunchbase
 
 ---
 *Encoded 2026-04-19. Content is [VERBATIM] compressed from the canonical Fitness Coaching signal report in the Growth Operating Agency foundations library. All market-size figures (Fortune Business Insights, IBIS World, Cerevity), VOC quotes, and competitor pricing are pulled from primary sources captured in the full report.*

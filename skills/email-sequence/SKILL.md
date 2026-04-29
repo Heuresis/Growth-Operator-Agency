@@ -376,7 +376,7 @@ Index: `variants/_INDEX.md`.
 ## References
 
 - `reference/operators/content-os-director.md` (Nurture Block)
-- `reference/operators/external/alex-hormozi.md` (a lead-generation canon email)
+- `reference/operators/acquisition-economist.md` (a lead-generation canon email)
 - `reference/frameworks/sales/8-required-beliefs.md` (the VSL director — Nurture sequences install these)
 - `reference/operators/growth-strategist.md` (Whisper/Tease/Shout launch cadence)
 - `reference/canonical/spec/INTEGRATIONS.md` (email platforms)

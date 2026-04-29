@@ -16,7 +16,7 @@ workflows/operations/
 ├── finance/            # Revenue tracking + dashboard templates
 │   └── tracker-schema.md
 ├── project-management/ # Tool-specific PM SOPs
-│   └── clickup.md
+│   └── productivity-software.md
 ├── tool-sops/          # Per-tool operating SOPs
 │   ├── ghl.md          # GoHighLevel
 │   ├── loom.md         # Loom

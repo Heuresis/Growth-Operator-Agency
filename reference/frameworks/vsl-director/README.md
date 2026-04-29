@@ -2,7 +2,7 @@
 
 > **Status:** deep-encoded. 6 framework files + cross-references to sales/vsl directories.
 > **Operator:** `../../operators/vsl-director.md`
-> **Source:** the VSL director *8-Figure VSL Blueprint* curriculum (78 files, ~47,386 words) — encoded into this workspace under Heuresis provenance.
+> **Source:** the VSL director *8-Figure VSL a longevity-protocol* curriculum (78 files, ~47,386 words) — encoded into this workspace under Heuresis provenance.
 
 the VSL director is one of the Tier-1 operators in the Growth Operating Agency lineage. He is the operator behind a sales-training academy and the former head of sales at a creator-economy program. The frameworks in this directory encode the VSL + offer + diagnostic IP from his private curriculum. For biography and operator-level thesis, read `../../operators/vsl-director.md` first.
 
@@ -21,12 +21,12 @@ the VSL director is one of the Tier-1 operators in the Growth Operating Agency l
 
 | Topic | File |
 |---|---|
-| 15-step VSL framework (canonical summary) | `../vsl/pampa-15-step.md` |
+| 15-step VSL framework (canonical summary) | `../vsl/15-step-vsl.md` |
 | 8 Required Beliefs (canonical summary + installation map) | `../sales/8-required-beliefs.md` |
 | Crossroads Close (canonical) | `../sales/crossroads-close.md` |
 | Operator playbook + biography | `../../operators/vsl-director.md` |
 | Market sophistication (4-stage, the VSL director interpretation) | `../market-sophistication-overview.md` |
-| Offer architecture influence | `../offer-architecture/hormozi-grand-slam-offer.md` (the acquisition economist-primary, the VSL director cross-referenced) |
+| Offer architecture influence | `../offer-architecture/grand-slam-offer.md` (the acquisition economist-primary, the VSL director cross-referenced) |
 
 ## How These Files Cross-Reference
 
@@ -52,7 +52,7 @@ the VSL director is one of the Tier-1 operators in the Growth Operating Agency l
 
 ## What's NOT In This Directory (by design)
 
-- **15-step summary / skill-binding** lives in `../vsl/pampa-15-step.md` (canonical short-form reference).
+- **15-step summary / skill-binding** lives in `../vsl/15-step-vsl.md` (canonical short-form reference).
 - **8 Required Beliefs canonical entry + asset-type installation map** lives in `../sales/8-required-beliefs.md`.
 - **Crossroads Close canonical entry** lives in `../sales/crossroads-close.md`.
 - **Value stack (the acquisition economist-lineage)** lives in `../sales/value-stack-architecture.md` — the VSL director explicitly rejects this pattern in Section 9. Both are kept for operator-choice.

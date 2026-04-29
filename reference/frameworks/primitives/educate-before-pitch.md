@@ -131,7 +131,7 @@ Educate-before-pitch is applied when:
 - `reference/operators/campaign-director.md`
 - `reference/operators/vsl-copywriter.md`
 - `reference/operators/growth-engineer.md`
-- `reference/operators/external/youtube-native-director.md`
+- `reference/operators/youtube-native-director.md`
 
 ---
 *v1.0 — 2026-04-19. Primitive — trust-building substrate.*
