@@ -36,7 +36,7 @@ Market: high-ticket performance fitness coaching for tech founders and startup e
 | SAM (Executive Fitness Coaching) | $500M-$1B annually | Bottom-up: 200K-400K addressable at $2K-$5K/quarter |
 | SOM (Year 1 Target) | $600K-$1.5M | 150-350 clients at $4K/quarter average |
 
-**Market Maturity:** Solution Aware. Founders have tried Noom, Equinox, WHOOP standalone, the mass-market entrepreneur-fitness 90-day program. They are comparing vehicles, not discovering the problem.
+**Market Maturity:** Solution Aware. Founders have tried a behavior-change app, a premium-gym brand, a wearables brand standalone, the mass-market entrepreneur-fitness 90-day program. They are comparing vehicles, not discovering the problem.
 
 ### Demand Signals
 
@@ -51,9 +51,9 @@ Market: high-ticket performance fitness coaching for tech founders and startup e
 |---|---|---|
 | the mass-market entrepreneur-fitness program (90-day mass program) | ~$1,800/qtr | Not founder-specific, static |
 | the ultra-premium science-based founder-fitness program | $20K+ | Inaccessible |
-| Equinox Optimize | $40K/yr | In-person, slow |
-| Noom | $60/mo | No human coaching |
-| WHOOP | $239/yr | Data without action |
+| a K/yr biomarker-integrated gym program | $40K/yr | In-person, slow |
+| a behavior-change app | $60/mo | No human coaching |
+| a wearables brand | $239/yr | Data without action |
 | Generic IG coaches | $500-$2K/mo | No wearable integration |
 
 **The gap:** Nothing at the intersection of founder-calibrated programming + wearable integration + founder peer community + $4K-$10K/quarter price band.
@@ -92,7 +92,7 @@ Tech founders don't fail at fitness from lack of knowledge. They've read the art
 
 - **Limiting-belief diagnosis is the fulcrum.** HELPLESS-dominant + WORTHLESS secondary drives every downstream decision. Change the belief diagnosis and every downstream artifact changes.
 - **VOC quotes are load-bearing.** "Performing at maybe 5 out of 10" goes into the VSL Hook. "I'll do it once I sell my company" becomes the belief-installation target in the positioning. Research-to-copy traceability is continuous.
-- **Competitor landscape names the gap precisely.** The market isn't empty. the mass-market entrepreneur-fitness program, the ultra-premium science-based founder-fitness program, Equinox, WHOOP all compete adjacent. The gap is the intersection of founder-specificity + data integration + accessible premium price.
+- **Competitor landscape names the gap precisely.** The market isn't empty. the mass-market entrepreneur-fitness program, the ultra-premium science-based founder-fitness program, a premium-gym brand, a wearables brand all compete adjacent. The gap is the intersection of founder-specificity + data integration + accessible premium price.
 
 ## Source
 
