@@ -11,57 +11,87 @@
 
 <h1>Growth Operator Agency</h1>
 
-<p><strong>A team of agents running your creator business.</strong></p>
+<p><strong>Your high-ticket creator business, encoded.</strong></p>
 
 <p>
-  <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/version-1.1.0-09090b?style=flat-square&labelColor=09090b&color=52525b" alt="Version"></a>
+  <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/version-1.0.0-09090b?style=flat-square&labelColor=09090b&color=52525b" alt="Version"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-09090b?style=flat-square&labelColor=09090b&color=52525b" alt="License"></a>
+  <a href="https://heuresis.ai"><img src="https://img.shields.io/badge/a-Heuresis%20workspace-b45309?style=flat-square&labelColor=09090b&color=b45309" alt="Heuresis"></a>
 </p>
 
 </div>
 
 <br/>
 
-<img alt="Growth Operator Agency workspace — live VSL drafting, agent activity, signals" src="docs/assets/hero-workspace.png" width="100%">
+<img alt="Growth Operator Agency workspace — VSL drafting live, agents working, signals routed" src="docs/assets/hero-workspace.png" width="100%">
 
 <p align="center"><em>Your creator business, in one folder.</em></p>
 
 <br/>
 
-> **The agent is thin. The workspace is smart. The workspace IS the product.**
+---
 
-A team of AI agents running every department of your creator business. Each agent carries *your* judgement. Your pricing logic. Your sales scripts. Your quality standards.
+## What is this?
 
-Not workflow automation. Encoded intent. The agents don't just follow rules — they make decisions the way you would, read signals the way you read them, and get sharper every cycle.
+Think of it like this: your business has departments — research, marketing, sales, launch, scale. Each department has a head and a team. Each team follows your playbooks, your scripts, your standards.
 
-You stay in the loop where your judgement counts. The rest runs while you sleep.
+**Growth Operator Agency is that whole org chart, written down as a folder of plain markdown files.**
+
+Open the folder. Hand it to any AI agent — Claude, ChatGPT, Cursor, OpenClaw. The agent reads `SYSTEM.md`, learns who it is, learns your business, and starts working a department.
+
+You stay in the loop on the calls that need your judgement. The rest runs while you sleep.
+
+| Step | What happens |
+|---|---|
+| **01** | Clone the folder |
+| **02** | Fill in `company.yaml` with your business — offer, ICP, voice, pricing |
+| **03** | Hand the folder to any agent. It reads `SYSTEM.md`, becomes a growth operator, and starts shipping |
+
+<br/>
+
+---
+
+## Without this · With this
+
+| Without | With |
+|---|---|
+| You write every VSL, every email, every ad — because no one else can match your voice. | The voice is encoded. Agents draft in your patterns. You approve. |
+| The closer leaves at month 8. The pipeline collapses. | Sales judgement is in `agents/sales/`. The next closer onboards in a day. |
+| The VA copies last quarter's launch and the offer falls flat. | `plan-launch` reads your offer, your audience, your win patterns — and ships a launch built on the work that actually converted. |
+| Quality decays the moment you stop reviewing every asset. | Every output passes the blind output test before it ships. Below 0.8 S/N, it's rejected automatically. |
+| Your business stops when you stop. | Your business runs while you sleep, with receipts. |
+
+<br/>
+
+---
 
 ## Try it
 
-1. Clone:
+```bash
+git clone https://github.com/Heuresis/Growth-Operator-Agency.git your-workspace
+cd your-workspace
+```
 
-   ```bash
-   git clone https://github.com/Heuresis/Growth-Operator-Agency.git
-   ```
+Fill in `company.yaml` with your business context. Then ask for what you need:
 
-2. Fill in `company.yaml` with your business context.
+```
+/research          a market research brief
+/build-icp         a customer profile
+/design-offer      an offer document
+/build-vsl         a video sales letter
+/build-funnel      a 7-layer funnel
+/ad-creative       hundreds of ad variants
+/plan-launch       a launch plan
+/build-sop         a team SOP
+```
 
-3. Ask for what you need:
+Works with Claude, ChatGPT, Cursor, OpenClaw — anything that reads files.
 
-   ```
-   /research          a market research brief
-   /build-icp         a customer profile
-   /design-offer      an offer document
-   /build-landing     a landing page
-   /build-vsl         a video sales letter
-   /launch-funnel     a 7-layer funnel
-   /generate-ads      hundreds of ad variants
-   /plan-launch       a launch plan
-   ```
+Full setup walkthrough: **[Quickstart](docs/QUICKSTART.md)** · 30 minutes.
 
-Works with Claude, ChatGPT, Cursor, or any AI tool that reads files.
+<br/>
 
-Full setup: **[Quickstart](docs/QUICKSTART.md)** · 30 minutes.
+---
 
 ## What's inside the folder
 
@@ -74,7 +104,7 @@ growth-operator-agency/
 ├── ENCODING.md          ←  11-compartment schema
 ├── company.yaml         ←  YOUR business · fill once
 │
-├── agents/              ←  41 AI specialists · an org chart of a real company
+├── agents/              ←  41 specialists · an org chart of a real company
 │      growth-ceo               top orchestrator
 │      7 department heads  ·  33 specialists
 │
@@ -131,9 +161,13 @@ growth-operator-agency/
 
 Each file is plain text. Each folder is owned by you. Nothing is locked behind an app.
 
+<br/>
+
+---
+
 ## Every layer of the funnel. Every angle tested.
 
-<img alt="Growth Operator Agency — landing page, 7 funnel layers, and 8 variants live-tested" src="docs/assets/hero-funnel.png" width="100%">
+<img alt="Growth Operator Agency creative library — 127 live, 34 winning, 4 minutes per creative" src="docs/assets/hero-funnel.png" width="100%">
 
 <p align="center"><em>Launch every angle. Ship the winners.</em></p>
 
@@ -151,6 +185,10 @@ Each offer ships with:
 
 Every action leaves a receipt. Every variant tracks its own conversion. Every winner gets promoted. Every paused variant tells you why.
 
+<br/>
+
+---
+
 ## Runs while you sleep
 
 Wire the workspace into a runtime with **cron, webhook, and event triggers**. The agents keep working without you in the room.
@@ -162,6 +200,10 @@ Wire the workspace into a runtime with **cron, webhook, and event triggers**. Th
 - **Continuous (event)** — retargeting-agent swaps creatives based on CTR
 
 Triggers are declared in [`paperclip.manifest.yaml`](paperclip.manifest.yaml). Wire them to your scheduler and the workspace operates as a 24/7 growth team.
+
+<br/>
+
+---
 
 ## What you get
 
@@ -175,7 +217,11 @@ Triggers are declared in [`paperclip.manifest.yaml`](paperclip.manifest.yaml). W
 - **Scale** — SOPs · team hiring · competitor intel · financial · retention · case studies
 - **Partnerships** — JV webinars · affiliate · referral
 
-Each department is not a set of rules. Each is a full department rebuilt as agent-first — agents that carry your intent, read signals, and make decisions.
+Each department is a full department rebuilt as agent-first — agents that carry your judgement, read signals, and make decisions.
+
+<br/>
+
+---
 
 ## Runs in any compatible agent runtime
 
@@ -189,15 +235,25 @@ The workspace is files. Files run anywhere that reads files.
 
 Runtime-swappable. Your workspace is the asset. The runtime is replaceable.
 
+<br/>
+
+---
+
 ## Why this matters
 
-Every founder-led creator business eventually hits the same wall: the founder IS every department. The firm stops when the founder stops.
+Every founder-led creator business eventually hits the same wall: the founder IS every department.
 
-Encoding changes the shape of the week. Your expertise — pricing logic, qualification instincts, quality standards, the patterns you carry in your head — gets written into agents that run each department on your judgement. The founder stays. The judgement scales. The business compounds.
+The closer leaves at month 8 and the pipeline collapses. The VA copies last quarter's launch and the offer falls flat. The VSL is the only one that books calls because the founder is the only one who can write it — so the calendar bottlenecks on a single human.
 
-Every cycle, each department runs it gets sharper. The gap between your firm and every competitor operating off memory widens.
+Encoding changes the shape of the week. Your judgement — pricing logic, qualification instincts, voice, quality standards, the patterns you carry in your head — gets written into agents that run each department on your behalf. The founder stays. The judgement scales. The business compounds.
 
-This is the first template in the library. More shipping, vertical by vertical. Every outcome claim we publish traces to a real deployment with a real operator. Thesis, method, and source go public on ideas. Receipts wait their turn.
+Every cycle, each department gets sharper. The gap between your firm and every competitor operating off memory widens.
+
+This is one template in the library. More shipping, vertical by vertical. Every outcome claim we publish traces to a real deployment with a real operator. Thesis, method, and source go public on ideas. Receipts wait their turn.
+
+<br/>
+
+---
 
 ## Repository layout
 
@@ -212,6 +268,10 @@ This is the first template in the library. More shipping, vertical by vertical. 
 | [`skills/`](skills/) | 36 skill packages — each with `SKILL.md`, variants, examples, evidence, runtime adapters |
 | [`spec/`](spec/) | Workspace specifications: banned vocabulary, context thresholds, runtime contracts |
 | [`workflows/`](workflows/) | Operational workflows: client onboarding, division pipelines, automations, handoffs, ops cadences |
+
+<br/>
+
+---
 
 ## Documentation
 
