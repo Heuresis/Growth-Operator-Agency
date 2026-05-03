@@ -1,5 +1,14 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/heuresis-logo-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="docs/assets/heuresis-logo-light.png">
+  <img alt="Heuresis" src="docs/assets/heuresis-logo-light.png" width="220">
+</picture>
+
+<br/>
+<br/>
+
 <h1>Growth Operator Agency</h1>
 
 <p><strong>A team of agents running your creator business.</strong></p>
