@@ -25,8 +25,6 @@
 
 <img alt="Growth Operator Agency workspace running live on Canopy — agents drafting a VSL, signals routing in real time" src="docs/assets/canopy-growth-operator-agency.webp" width="100%">
 
-<p align="center"><em>▶ <a href="https://github.com/Heuresis/Growth-Operator-Agency/releases/download/v1.0.0/canopy-growth-operator-agency.mp4">Watch the full video</a></em></p>
-
 <p align="center"><em>Live on <a href="https://github.com/Miosa-osa/canopy">Canopy</a>.</em></p>
 
 <br/>
