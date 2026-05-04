@@ -206,15 +206,7 @@ Each file is plain text. Each folder is owned by you. Nothing is locked behind a
 
 ---
 
-## Every layer of the funnel. Every angle tested.
-
-<img alt="Growth Operator Agency creative library — 127 live, 34 winning, 4 minutes per creative" src="docs/assets/hero-funnel.png" width="100%">
-
-<p align="center"><em>Launch every angle. Ship the winners.</em></p>
-
-<br/>
-
-Each offer ships with:
+## Each offer ships with
 
 - **Landing page** — multiple variants, live A/B tested
 - **Video sales letter** — embedded in the landing page, scripted from your ICP and offer
