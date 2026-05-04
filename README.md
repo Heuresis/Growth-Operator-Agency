@@ -31,12 +31,6 @@
 
 <br/>
 
-<img alt="Growth Operator Agency workspace — VSL drafting live, agents working, signals routed" src="docs/assets/hero-workspace.png" width="100%">
-
-<p align="center"><em>Your creator business, in one folder.</em></p>
-
-<br/>
-
 ---
 
 ## What is this?
@@ -209,6 +203,12 @@ Each file is plain text. Each folder is owned by you. Nothing is locked behind a
 ---
 
 ## Each offer ships with
+
+<img alt="Growth Operator Agency workspace — VSL drafting live, agents working, signals routed" src="docs/assets/hero-workspace.png" width="100%">
+
+<p align="center"><em>Your creator business, in one folder.</em></p>
+
+<br/>
 
 - **Landing page** — multiple variants, live A/B tested
 - **Video sales letter** — embedded in the landing page, scripted from your ICP and offer
