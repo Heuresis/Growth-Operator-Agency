@@ -23,6 +23,12 @@
 
 <br/>
 
+<video src="docs/assets/canopy-growth-operator-agency.mp4" controls muted loop playsinline width="100%"></video>
+
+<p align="center"><em>Live on <a href="https://github.com/Miosa-osa/canopy">Canopy</a>.</em></p>
+
+<br/>
+
 <img alt="Growth Operator Agency workspace — VSL drafting live, agents working, signals routed" src="docs/assets/hero-workspace.png" width="100%">
 
 <p align="center"><em>Your creator business, in one folder.</em></p>
