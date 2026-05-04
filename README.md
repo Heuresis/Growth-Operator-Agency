@@ -76,7 +76,17 @@ You stay in the loop on the calls that need your judgement. The rest runs while 
 ```bash
 git clone https://github.com/Heuresis/Growth-Operator-Agency.git your-workspace
 cd your-workspace
+./boot.sh
 ```
+
+Boot prints the workspace credentials and runtime install options. Then
+install into your runtime of choice:
+
+```bash
+./scripts/install.sh --tool claude-code
+```
+
+Eleven runtimes supported. See [Multi-tool integrations](#multi-tool-integrations).
 
 Fill in `company.yaml` with your business context. Then ask for what you need:
 
@@ -90,8 +100,6 @@ Fill in `company.yaml` with your business context. Then ask for what you need:
 /plan-launch       a launch plan
 /build-sop         a team SOP
 ```
-
-Works with Claude, ChatGPT, Cursor, OpenClaw — anything that reads files.
 
 Full setup walkthrough: **[Quickstart](docs/QUICKSTART.md)** · 30 minutes.
 
@@ -229,15 +237,37 @@ Each department is a full department rebuilt as agent-first — agents that carr
 
 ---
 
-## Runs in any compatible agent runtime
+## Multi-tool integrations
 
-The workspace is files. Files run anywhere that reads files.
+The workspace is files. Files run anywhere that reads files. The Agency
+ships conversion + install scripts so the same agents work across every
+major agentic coding tool — no vendor lock, no rewrite.
 
-- **[Paperclip](https://github.com/paperclip-dev/paperclip)** — open-source agentic runtime with cron, webhook, and event triggers
-- **Claude** · **ChatGPT** · **Cursor** — interactive sessions and slash-command execution
-- **Claude Agent SDK** — API-driven orchestration
-- **BusinessOS** — desktop operating environment for operator teams
-- Any HTTP orchestrator that speaks OpenAPI
+| Tool | Install | Destination |
+|---|---|---|
+| **Claude Code** | `./scripts/install.sh --tool claude-code` | `~/.claude/agents/heuresis-growth-operator-agency/` |
+| **GitHub Copilot** | `./scripts/install.sh --tool copilot` | `~/.github/agents/` + `~/.copilot/agents/` |
+| **Antigravity (Gemini)** | `./scripts/install.sh --tool antigravity` | `~/.gemini/antigravity/skills/` |
+| **Gemini CLI** | `./scripts/install.sh --tool gemini-cli` | `~/.gemini/extensions/heuresis-growth-operator-agency/` |
+| **OpenCode** | `./scripts/install.sh --tool opencode` | `./.opencode/agents/` |
+| **Cursor** | `./scripts/install.sh --tool cursor` | `./.cursor/rules/` |
+| **Aider** | `./scripts/install.sh --tool aider` | `./CONVENTIONS.md` |
+| **Windsurf** | `./scripts/install.sh --tool windsurf` | `./.windsurfrules` |
+| **OpenClaw** | `./scripts/install.sh --tool openclaw` | `~/.openclaw/heuresis-growth-operator-agency/` |
+| **Qwen Code** | `./scripts/install.sh --tool qwen` | `./.qwen/agents/` |
+| **Kimi Code** | `./scripts/install.sh --tool kimi` | `~/.config/kimi/agents/` |
+
+Five tools (Antigravity, Gemini CLI, OpenClaw, Cursor, Kimi) require format
+conversion — the install script handles it transparently. To inspect the
+converted artifacts before deploying:
+
+```bash
+./scripts/convert.sh --tool <tool-name>
+ls build/<tool-name>/
+```
+
+Every tool has its own README with activation patterns, customization notes,
+and uninstall steps. Full list: **[integrations/README.md](integrations/README.md)**.
 
 Runtime-swappable. Your workspace is the asset. The runtime is replaceable.
 
