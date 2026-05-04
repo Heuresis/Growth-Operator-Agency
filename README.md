@@ -23,7 +23,7 @@
 
 <br/>
 
-<video src="docs/assets/canopy-growth-operator-agency.mp4" controls muted loop playsinline width="100%"></video>
+https://github.com/Heuresis/Growth-Operator-Agency/releases/download/v1.0.0/canopy-growth-operator-agency.mp4
 
 <p align="center"><em>Live on <a href="https://github.com/Miosa-osa/canopy">Canopy</a>.</em></p>
 
